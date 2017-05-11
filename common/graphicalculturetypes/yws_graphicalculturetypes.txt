@@ -1,0 +1,10 @@
+# Skin tones are 0 (light), 1 (tan), 2 (dark) and 3 (black)
+
+# Western
+
+gallicgfx = {
+	skin_tone = 0
+}
+britongfx= {
+	skin_tone = 0
+}

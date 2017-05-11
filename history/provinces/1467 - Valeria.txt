@@ -1,0 +1,17 @@
+# 1467 - Valeria
+
+# County Title
+title = c_valeria
+
+# Settlements
+max_settlements = 4
+b_valeria = castle
+b_ercavica = temple
+b_santa_catalina = city
+#b_olmeda = city
+
+# Misc
+culture = catalan
+religion = hellenic_pagan
+
+# History

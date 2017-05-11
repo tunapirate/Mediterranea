@@ -1,0 +1,10 @@
+830.1.1={
+	holder = 534020
+}
+867.1.1={
+	holder = 534021
+	law = succ_primogeniture
+	law = agnatic_succession
+	law = law_voting_power_1
+	law = tax_levy_law_feudal_5
+}

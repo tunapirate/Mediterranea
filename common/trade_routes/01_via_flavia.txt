@@ -1,0 +1,91 @@
+via_flavia = {
+	wealth = 100			# Total base wealth of silk route
+
+	modifier = {			# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.10
+		city_tax_modifier = 0.10
+		temple_tax_modifier = 0.10
+		trade_route_value = 1
+		icon = 4
+	}
+
+	start = {				# Start provinces of trade route
+		182 # Sevilla
+		149 # Bordeaux
+		227 # Lyon
+	}
+	
+	# Iberian Route
+	
+	path = {	# Sevilla - Cartagena
+		182 165 166 954 168 169
+	}
+	path = {	# Cartagena - Valencia
+		169 1020 171
+	}
+	path = {	# Valencia - Tarragona
+		171 1021 173
+	}
+	path = {	# Tarragona - Zaragoza
+		173 174 202
+	}
+	path = {	# Tarragona - Barcelona
+		173 204
+	}
+	path = {	# Barcelona - Narbo (land)
+		204 205 211 212
+	}
+	
+	# Gallic Route
+	path = {	# Bordeaux - Narbo
+		149 215 214 212
+	}
+	path = {	# Narbo - Provence
+		212 1025 221
+	}
+	path = {	# Lyon - Provence
+		227 228 222 221
+	}
+	path = {	# Provence - Genua
+		221 230 233
+	}
+	
+	# African Route
+	path = {	# Cartagena - Caesarea
+		169 1011 831
+	}
+	path = {	# Caesarea - Carthage
+		831 1022 1023 817
+	}
+	path = {	# Carthage - Trapani
+		817 1033 341
+	}
+	
+	# Italian Route
+	path = {	# Genua - Pisa
+		233 1028 327
+	}
+	path = {	# Pisa - Rome (land)
+		327 328 243 333
+	}
+	path = {	# Rome - Ancona
+		333 349 350
+	}
+	path = {	# Ancona - Salona
+		350 1110 467
+	}
+	path = {	# Rome - Naples
+		333 1029 1031 334
+	}
+	path = {	# Trapani - Naples
+		341 340 339 338 1032 334
+	}
+	path = {	# Naples - Dyrrachion
+		334 335 347 346 345 1038 470
+	}
+	
+	# Dalmatian Route
+	path = {	#Salona - Dyrrachion
+		467 1109 470
+	}
+}

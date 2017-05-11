@@ -1,0 +1,4 @@
+867.1.1={
+	holder = 534005
+	liege = "k_syria"
+}

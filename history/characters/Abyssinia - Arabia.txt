@@ -1,0 +1,759 @@
+# Ethiopia - Somalia
+
+514000 = {
+    name="Hasan"
+    dynasty=1042103
+    religion="sunni"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    833.9.28={
+		birth=yes
+    }
+	855.12.1={
+		add_spouse=514001
+	}
+}
+514001 = {
+    name="Fatima"
+    religion="sunni"
+    culture="bedouin_arabic"
+	female=yes
+	 
+	#History
+	 
+    839.6.3={
+		birth=yes
+    }
+	855.12.1={
+		add_spouse=514000
+	}
+}
+514002 = {
+    name="Yacob"
+    dynasty=101790
+    religion="sunni"
+    culture="ethiopian"
+	father=514005
+	 
+	#History
+	 
+    836.11.3={
+		birth=yes
+    }
+}
+514003 = {
+    name="Dawit"
+    dynasty=101790
+    religion="jewish"
+    culture="ethiopian"
+	father=514005
+	 
+	#History
+	 
+    830.3.27={
+		birth=yes
+    }
+}
+514004 = {
+    name="Iskander"
+    dynasty=101790
+    religion="miaphysite"
+    culture="ethiopian"
+	father=514005
+	 
+	#History
+	 
+    838.3.15={
+		birth=yes
+    }
+}
+514005 = {
+    name="Gebereal"
+    dynasty=101790
+    religion="miaphysite"
+    culture="ethiopian"
+	 
+	#History
+	 
+    810.11.3={
+		birth=yes
+    }
+	866.1.1={
+		death=yes
+	}
+}
+514006 = {
+    name="Abram"
+    dynasty=101790
+    religion="miaphysite"
+    culture="ethiopian"
+	 
+	#History
+	 
+    836.11.3={
+		birth=yes
+    }
+	866.1.1={
+		death=yes
+	}
+}
+514007 = {
+    name="Yusuf"
+    dynasty=1022238
+    religion="jewish"
+    culture="somali"
+	 
+	#History
+	 
+    816.1.1={
+		birth=yes
+    }
+}
+514008 = {
+    name="Ibrahim"
+    dynasty=1022238
+    religion="jewish"
+    culture="somali"
+	father=514007
+	 
+	#History
+	 
+    845.5.23={
+		birth=yes
+    }
+}
+514009 = {
+    name="Yusuf"
+    dynasty=1022238
+    religion="jewish"
+    culture="somali"
+	father=514007
+	 
+	#History
+	 
+    841.2.28={
+		birth=yes
+    }
+}
+514010 = {
+    name="Jamal"
+    dynasty=1022238
+    religion="jewish"
+    culture="somali"
+	father=514007
+	 
+	#History
+	 
+    846.12.18={
+		birth=yes
+    }
+}
+514011 = {
+    name="Sahra"
+    dynasty=1022238
+    religion="jewish"
+    culture="somali"
+	father=514007
+	female=yes
+	 
+	#History
+	 
+    849.6.4={
+		birth=yes
+    }
+}
+
+# Arabia
+
+514100 = {
+	name="Isaac"
+    dynasty=56001
+    religion="jewish"
+    culture="bedouin_arabic"
+	father=514104
+	 
+	#History
+	 
+    839.8.12={
+		birth=yes
+    }
+	860.1.1={
+		add_spouse=514101
+	}
+	865.7.17={
+		death=yes
+	}
+}
+514101 = {
+	name="Yasmin"
+    female=yes
+    religion="jewish"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    838.8.12={
+		birth=yes
+    }
+	860.1.1={
+		add_spouse=514100
+	}
+}
+514102 = {
+	name="Hasan"
+    dynasty=56001
+    religion="jewish"
+    culture="bedouin_arabic"
+	add_trait=twin
+	father=514100
+	mother=514101
+	add_claim=c_dhofar
+	 
+	#History
+	 
+    862.4.19={
+		birth=yes
+    }
+}
+514103 = {
+	name="Qamara"
+    dynasty=56001
+    religion="jewish"
+    culture="bedouin_arabic"
+	female=yes
+	add_trait=twin
+	father=514100
+	mother=514101
+	 
+	#History
+	 
+    862.4.19={
+		birth=yes
+    }
+}
+514104 = {
+	name="Musa"
+    dynasty=56001
+    religion="jewish"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    804.8.12={
+		birth=yes
+    }
+	853.3.4={
+		death=yes
+	}
+}
+514105 = {
+	name="David"
+    dynasty=56001
+    religion="jewish"
+    culture="bedouin_arabic"
+	father=514104
+	add_claim=c_dhofar
+	 
+	#History
+	 
+    835.3.26={
+		birth=yes
+    }
+	856.1.1={
+		add_spouse=514106
+	}
+}
+514106 = {
+	name="Samira"
+    female=yes
+    religion="jewish"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    837.10.19={
+		birth=yes
+    }
+	856.1.1={
+		add_spouse=514105
+	}
+}
+514107 = {
+	name="Tha'labah"
+    dynasty=1042155
+    religion="sunni"
+    culture="bedouin_arabic"
+	
+	add_claim=d_sunni
+	 
+	#History
+	 
+    839.3.26={
+		birth=yes
+    }
+	860.1.1={
+		add_spouse=514108
+	}
+	867.1.1 = {
+		# Boost the initial strength of the Magyars
+		effect = {
+			spawn_unit = {
+				province = 719 # Mecca
+				owner = ROOT
+				troops = {
+					light_cavalry = { 500 500 }
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 719 # Mecca
+				owner = ROOT
+				troops = {
+					light_cavalry = { 500 500 }
+					light_infantry = { 1000 1000 }
+				}
+				attrition = 0.5
+			}
+		}
+	}
+}
+514108 = {
+	name="Fatima"
+    dynasty=589
+	female=yes
+    religion="sunni"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    843.9.21={
+		birth=yes
+    }
+	860.1.1={
+		add_spouse=514107
+	}
+}
+514109 = {
+	name="Amr"
+    dynasty=1042117
+    religion="sunni"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    822.5.12={
+		birth=yes
+    }
+}
+514110 = {
+	name="Amr"
+    dynasty=1042117
+    religion="sunni"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    837.12.5={
+		birth=yes
+    }
+}
+514111 = {
+	name="Abdullah"
+    dynasty=7296
+    religion="sunni"
+    culture="bedouin_arabic"
+	
+	add_claim=k_arabia
+	
+	#History
+	 
+    837.12.5={
+		birth=yes
+    }
+}
+
+# Yemen/East Arabia
+
+514200 = {
+	name="Shahram"
+    dynasty=57001
+    religion="zoroastrian"
+    culture="persian"
+	 
+	#History
+	 
+    819.3.25={
+		birth=yes
+    }
+	857.1.1={
+		add_spouse=514201
+	}
+}
+514201 = {
+	name="Bahar"
+    religion="zoroastrian"
+    culture="persian"
+	female=yes
+	 
+	#History
+	 
+    837.11.2={
+		birth=yes
+    }
+	857.1.1={
+		add_spouse=514200
+	}
+}
+514202 = {
+	name="Jabalah"
+    dynasty=12277
+    religion="hindu"
+    culture="bedouin_arabic"
+	 
+	#History
+	 
+    834.5.15={
+		birth=yes
+    }
+	856.1.1={
+		add_spouse=514203
+		add_claim=d_oman
+	}
+}
+514203 = {
+	name="Sheeva"
+    religion="hindu"
+    culture="bedouin_arabic"
+	female=yes
+	 
+	#History
+	 
+    837.8.29={
+		birth=yes
+    }
+	856.1.1={
+		add_spouse=514202
+	}
+}
+514204 = {
+	name="Nizam"
+    dynasty=12277
+    religion="hindu"
+    culture="bedouin_arabic"
+	father=514202
+	mother=514203
+	 
+	#History
+	 
+    859.3.2={
+		birth=yes
+    }
+}
+514205 = {
+	name="Behrouz"
+    dynasty=57003
+    religion="zoroastrian"
+    culture="persian"
+	 
+	#History
+	 
+    825.2.15={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=514206
+	}
+}
+514206 = {
+	name="Noor"
+	dynasty=57001
+    religion="zoroastrian"
+    culture="persian"
+	female=yes
+	 
+	#History
+	 
+    831.5.13={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=514205
+	}
+}
+514207 = {
+	name="Anushirvan"
+    dynasty=57003
+    religion="zoroastrian"
+    culture="persian"
+	father=514205
+	mother=514206
+	 
+	#History
+	 
+    852.7.16={
+		birth=yes
+    }
+}
+514208 = {
+	name="Jamileh"
+    dynasty=57003
+    religion="zoroastrian"
+    culture="persian"
+	father=514205
+	mother=514206
+	female=yes
+	add_trait=twin
+	 
+	#History
+	 
+    855.1.28={
+		birth=yes
+    }
+}
+514209 = {
+	name="Noor"
+    dynasty=57003
+    religion="zoroastrian"
+    culture="persian"
+	father=514205
+	mother=514206
+	female=yes
+	add_trait=twin
+	 
+	#History
+	 
+    855.1.28={
+		birth=yes
+    }
+}
+514210 = {
+	name="Hafiz"
+    dynasty=1042121
+    religion="nestorian"
+    culture="levantine_arabic"
+	 
+	#History
+	 
+    850.3.21={
+		birth=yes
+    }
+}
+514211 = {
+	name="Amr"
+    dynasty=56006
+    religion="orthodox"
+    culture="levantine_arabic"
+	add_trait=strong
+	 
+	#History
+	 
+    832.7.27={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=514212
+		add_claim=k_arabia_petraea
+	}
+}
+514212 = {
+	name="Saaman"
+    religion="orthodox"
+    culture="levantine_arabic"
+	female=yes
+	 
+	#History
+	 
+    835.1.13={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=514211
+	}
+}
+514213 = {
+	name="Zaynab"
+    dynasty=56006
+    religion="orthodox"
+    culture="levantine_arabic"
+	father=514211
+	mother=514212
+	female=yes
+	 
+	#History
+	 
+    854.11.5={
+		birth=yes
+    }
+}
+514214 = {
+	name="Amr"
+    dynasty=56006
+    religion="orthodox"
+    culture="levantine_arabic"
+	father=514211
+	mother=514212
+	 
+	#History
+	 
+    857.3.14={
+		birth=yes
+    }
+}
+514215 = {
+	name="Alim"
+    dynasty=56007
+    religion="orthodox"
+    culture="levantine_arabic"
+	 
+	#History
+	 
+    849.6.10={
+		birth=yes
+    }
+}
+514216 = {
+	name="Ibrahim"
+    dynasty=56008
+    religion="orthodox"
+    culture="levantine_arabic"
+	 
+	#History
+	 
+    813.7.27={
+		birth=yes
+    }
+	832.1.1={
+		add_spouse=514217
+	}
+}
+514217 = {
+	name="Qamara"
+    religion="orthodox"
+    culture="levantine_arabic"
+	female=yes
+	 
+	#History
+	 
+    821.7.27={
+		birth=yes
+    }
+	832.1.1={
+		add_spouse=514216
+	}
+}
+
+# Mesopotamia/Assyria
+
+514300 = {
+	name="Imran"
+    dynasty=56009
+    religion="nestorian"
+    culture="levantine_arabic"
+	 
+	#History
+	 
+    816.2.14={
+		birth=yes
+    }
+	840.1.1={
+		add_spouse=514301
+	}
+}
+514301 = {
+	name="Parween"
+    dynasty=1042121
+    religion="nestorian"
+    culture="levantine_arabic"
+	female=yes
+	 
+	#History
+	 
+    816.2.14={
+		birth=yes
+    }
+	840.1.1={
+		add_spouse=514300
+	}
+}
+514302 = {
+	name="Imran"
+    dynasty=56009
+    religion="nestorian"
+    culture="levantine_arabic"
+	father=514300
+	mother=514301
+	trait=ambitious
+	trait=shrewd
+	
+	#History
+	 
+    841.10.12={
+		birth=yes
+    }
+	867.1.1={
+		add_spouse=524004
+	}
+}
+514303 = {
+	name="A'isha"
+    dynasty=56009
+    religion="nestorian"
+    culture="levantine_arabic"
+	father=514300
+	mother=514301
+	female=yes
+	
+	#History
+	 
+    843.4.26={
+		birth=yes
+    }
+}
+514304 = {
+	name="Umm"
+    dynasty=56009
+    religion="nestorian"
+    culture="levantine_arabic"
+	father=514300
+	mother=514301
+	female=yes
+	
+	#History
+	 
+    845.1.18={
+		birth=yes
+    }
+	865.1.1={
+		add_spouse=514306
+	}
+}
+514305 = {
+	name="Hijr"
+    dynasty=582
+    religion="nestorian"
+    culture="levantine_arabic"
+	
+	#History
+	 
+    836.8.15={
+		birth=yes
+    }
+}
+514306 = {
+	name="Haritha"
+    dynasty=56010
+    religion="nestorian"
+    culture="levantine_arabic"
+	
+	#History
+	 
+    841.3.8={
+		birth=yes
+    }
+	865.1.1={
+		add_spouse=514304
+	}
+}

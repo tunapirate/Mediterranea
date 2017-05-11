@@ -1,0 +1,21 @@
+# 95 - Amiens
+
+# County Title
+title = c_amiens
+
+# Settlements
+max_settlements = 5
+b_peronne = castle
+b_amiens = city
+b_beauvais = temple
+
+#b_soissons = castle
+#b_corbie = castle
+#b_montdidier = city
+#b_noyon = temple
+#b_breteuil = castle
+
+culture = gallic
+religion = hellenic_pagan
+
+# History

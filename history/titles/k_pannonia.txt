@@ -1,0 +1,5 @@
+580.1.1 = {
+	name = k_gothia
+	adjective = k_gothia_adj
+	effect = { set_coa = k_gothia }
+}

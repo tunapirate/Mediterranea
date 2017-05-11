@@ -1,0 +1,17 @@
+# 934 - Lepiel
+
+# County Title
+title = c_lepiel
+
+# Settlements
+max_settlements = 3
+b_lepiel = tribal
+#b_chashniki = city
+
+#b_novolukoml = castle
+
+# Misc
+culture = lithuanian
+religion = baltic_pagan
+
+# History

@@ -1,0 +1,194 @@
+province_event = {
+	#Ash Riots
+	id = YWS.2001
+	title = EVTTITLYWS.2001
+	desc = EVTDESCYWS.2001
+	picture = GFX_evt_peasants
+  
+	trigger = {
+		owner = { has_global_flag = ash_clouds }
+		NOT = { has_province_modifier = ash_riots }
+	}
+	
+	immediate = {
+		set_province_flag = poor_harvest
+	}
+	
+	mean_time_to_happen = {
+		months = 18
+		modifier = {
+			factor = 2
+			any_neighbor_province = { has_province_modifier = ash_riots }
+		}
+	}
+	
+	option = {
+		name = EVTOPTAYWS.2001
+		add_province_modifier = { name = ash_riots duration = -1 }
+	}
+}
+
+province_event = {
+	#Ash Riots Subside
+	id = YWS.2002
+	title = EVTTITLYWS.2002
+	desc = EVTDESCYWS.2002
+	picture = GFX_evt_castle_construction
+  
+	trigger = {
+		owner = { has_global_flag = clouds_receded }
+		has_province_modifier = ash_riots
+	}
+	
+	mean_time_to_happen = {
+		months = 3
+	}
+	
+	option = {
+		name = EVTOPTAYWS.2002
+		remove_province_modifier = ash_riots
+	}
+}
+
+province_event = {
+	#Famine/Population Decline
+	id = YWS.2003
+	title = EVTTITLYWS.2003
+	desc = EVTDESCYWS.2003
+	picture = GFX_evt_pale_rider
+  
+	trigger = {
+		has_province_flag = poor_harvest
+		OR = { 
+			owner = { has_global_flag = ash_clouds }
+			owner = { has_global_flag = clouds_recede }
+		}
+		NOT = { 
+			year = 1150
+			OR = {
+				has_province_modifier = famine
+				has_province_modifier = mild_famine
+				has_province_modifier = severe_famine
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 5
+	}
+	
+	option = {
+		name = EVTOPTAYWS.2003
+		add_province_modifier = { name = mild_famine duration = 120 }
+		owner = { wealth = -400 }
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 50
+				OR = {
+					owner = { trait = charitable }
+					owner = { trait = kind }
+					owner = { trait = gardener }
+				}
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					owner = { trait = greedy }
+					owner = { trait = proud }
+					owner = { trait = cruel }
+				}
+			}
+		}
+	}
+	option = {
+		name = EVTOPTBYWS.2003
+		add_province_modifier = { name = famine duration = -1 }
+		add_province_modifier = { name = grain_shortage duration = 120 }
+		ai_chance = {
+			factor = 20
+			modifier = {
+				factor = 30
+				owner = { trait = cynical }
+			}
+		}
+	}
+	option = {
+		name = EVTOPTCYWS.2003
+		add_province_modifier = { name = severe_famine duration = -1 }
+		add_province_modifier = { name = grain_shortage duration = 60 }
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 0
+				OR = {
+					owner = { trait = charitable }
+					owner = { trait = kind }
+					owner = { trait = gardener }
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	#Population Rebounds (moderate)
+	id = YWS.2004
+	title = EVTTITLYWS.2004
+	desc = EVTDESCYWS.2004
+	picture = GFX_evt_stone_church
+  
+	trigger = {
+		OR = {
+			AND = {
+				has_province_modifier = famine
+				year = 1200
+			}
+			AND = {
+				has_province_modifier = severe_famine
+				year = 1250
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+	}
+	
+	option = {
+		name = EVTOPTAYWS.2004
+		remove_province_modifier = famine
+		remove_province_modifier = severe_famine
+	}
+}
+
+province_event = {
+	#Population Abandons Faith
+	id = YWS.2004
+	title = EVTTITLYWS.2004
+	desc = EVTDESCYWS.2004
+	picture = GFX_evt_stone_church
+  
+	trigger = {
+		OR = {
+			AND = {
+				has_province_modifier = famine
+				year = 1200
+			}
+			AND = {
+				has_province_modifier = severe_famine
+				year = 1250
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+	}
+	
+	option = {
+		name = EVTOPTAYWS.2004
+		remove_province_modifier = famine
+		remove_province_modifier = severe_famine
+	}
+}

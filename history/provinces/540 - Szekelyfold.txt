@@ -1,0 +1,21 @@
+## 540 - Szekelyföld
+
+# County Title
+title = c_szekelyfold
+
+# Settlements
+max_settlements = 3
+b_csik = tribal
+
+#b_aranyos = temple
+#b_maros = castle
+#b_kezdi = castle
+#b_szekelyudvarhely = castle
+#b_sepsiszentgyorgy = castle
+#b_marosvasarhely = castle
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+# History

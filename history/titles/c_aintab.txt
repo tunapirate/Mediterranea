@@ -1,0 +1,4 @@
+867.1.1={
+	holder = 534000
+	liege = "d_edessa"
+}

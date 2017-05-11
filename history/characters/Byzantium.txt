@@ -1,0 +1,1001 @@
+# Byzantine Empire
+
+543500 = {
+    name="Theophylaktos" # Coloneia
+    dynasty=642
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+    835.3.18={
+		birth=yes
+    }
+	858.1.1={
+		add_spouse=543501
+	}
+}
+543501 = {
+    name="Hypatia"
+	dynasty=641
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	father=543502
+	mother=543503
+	
+	add_trait=fair
+	
+	#History
+	 
+    838.9.12={
+		birth=yes
+    }
+	858.1.1={
+		add_spouse=543500
+	}
+}
+543502 = {
+    name="Nikephoros" # Charsianon
+    dynasty=641
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+    812.3.18={
+		birth=yes
+    }
+	834.1.1={
+		add_spouse=543503
+	}
+}
+543503 = {
+    name="Melissa"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+    812.3.18={
+		birth=yes
+    }
+	834.1.1={
+		add_spouse=543502
+	}
+}
+543504 = {
+    name="Ioannes"
+	dynasty=641
+    religion="orthodox"
+    culture="greek"
+	father=543502
+	mother=543503
+	
+	#History
+	 
+    835.12.22={
+		birth=yes
+    }
+}
+543505 = {
+    name="Gabrielia"
+	dynasty=641
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	father=543502
+	mother=543503
+	
+	#History
+	 
+    841.9.12={
+		birth=yes
+    }
+	861.1.1={
+		add_spouse=543511
+	}
+}
+543506 = {
+    name="Symmachos"
+	dynasty=641
+    religion="orthodox"
+    culture="greek"
+	father=543502
+	mother=543503
+	
+	#History
+	 
+    843.4.7={
+		birth=yes
+    }
+}
+543507 = {
+    name="Leontios" # Trebizond
+	dynasty=639
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+    835.7.18={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=543508
+	}
+}
+543508 = {
+    name="Leontios"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+    834.2.28={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=543507
+	}
+}
+543509 = {
+    name="Eustathios"
+	dynasty=639
+    religion="orthodox"
+    culture="greek"
+	father=543507
+	mother=543508
+	
+	add_trait=strong
+	
+	#History
+	 
+    856.3.15={
+		birth=yes
+    }
+}
+543510 = {
+    name="Andronikos" #Armeniac
+	dynasty=633
+    religion="orthodox"
+    culture="greek"
+	
+	add_trait=scholarly_theologian
+	add_trait=zealous
+	
+	#History
+	 
+    849.1.4={
+		birth=yes
+    }
+}
+543511 = {
+    name="Nikephoros" #Paphlagonia
+	dynasty=100753
+    religion="orthodox"
+    culture="greek"
+	father=543512
+	mother=543513
+	
+	add_trait=skilled_tactician
+	
+	#History
+	 
+    838.5.23={
+		birth=yes
+    }
+	861.1.1={
+		add_spouse=543505
+	}
+}
+543512 = {
+    name="Konstantios"
+	dynasty=100753
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+    800.1.1={
+		birth=yes
+    }
+	830.1.1={
+		add_spouse=543513
+	}
+	861.1.1={
+		death=yes
+	}
+}
+543513 = {
+    name="Parthena"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+    800.1.1={
+		birth=yes
+    }
+	830.1.1={
+		add_spouse=543512
+	}
+	861.1.1={
+		death=yes
+	}
+}
+543514 = {
+    name="Eustathios"
+	dynasty=100753
+    religion="orthodox"
+    culture="greek"
+	father=543512
+	mother=543513
+	
+	#History
+	 
+    841.9.26={
+		birth=yes
+    }
+}
+543515 = {
+    name="Eudokimos"
+	dynasty=100753
+    religion="orthodox"
+    culture="greek"
+	father=543514
+	
+	#History
+	 
+    865.11.3={
+		birth=yes
+    }
+}
+543516 = {
+    name="Constantine" #Byzantine Empire
+	dynasty=5551
+    religion="orthodox"
+    culture="greek"
+	
+	add_trait=flamboyant_schemer
+	add_trait=ambitious
+	add_trait=envious
+	add_trait=greedy
+	add_trait=cynical
+	add_trait=chaste
+	add_trait=deceitful
+	add_trait=stressed
+	add_trait=frail
+	
+	#History
+	 
+    809.5.12={
+		birth=yes
+    }
+	840.1.1={
+		add_spouse=543517
+	}
+}
+543517 = {
+    name="Ioustina"
+	dynasty=639
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+    819.8.27={
+		birth=yes
+    }
+	840.1.1={
+		add_spouse=543516
+	}
+	866.2.4={
+		death=yes
+	}
+}
+543518 = {
+    name="Iordanes"
+	dynasty=5551
+    religion="orthodox"
+    culture="greek"
+	father=543516
+	mother=543317
+	
+	add_trait=naive_appeaser
+	add_trait=slow
+	add_trait=fair
+	add_trait=robust
+	add_trait=trusting
+	add_trait=arbitrary
+	add_trait=kind
+	add_trait=hunter
+	
+	#History
+	 
+	845.4.13={
+		birth=yes
+	}
+}
+543519 = {
+    name="Theodore" #Adrianopolis/Macedon
+	dynasty=627
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+	821.8.6={
+		birth=yes
+	}
+	846.1.1={
+		add_spouse=543520
+	}
+}
+543520 = {
+    name="Kyriake"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+	826.4.29={
+		birth=yes
+	}
+	846.1.1={
+		add_spouse=543519
+	}
+}
+543521 = {
+    name="Antonios"
+	dynasty=627
+    religion="orthodox"
+    culture="greek"
+	father=543519
+	mother=543520
+	
+	#History
+	 
+	848.10.3={
+		birth=yes
+	}
+}
+543522 = {
+    name="Niketas"
+	dynasty=627
+    religion="orthodox"
+    culture="greek"
+	father=543519
+	mother=543520
+	
+	#History
+	 
+	850.1.18={
+		birth=yes
+	}
+}
+543523 = {
+    name="Leon" #Scythia Minor
+	dynasty=5556
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+	841.10.23={
+		birth=yes
+	}
+}
+543524 = {
+    name="Petros" #Cherson
+	dynasty=510
+    religion="orthodox"
+    culture="greek"
+	
+	add_trait=strong
+	
+	#History
+	 
+	807.5.10={
+		birth=yes
+	}
+}
+543525 = {
+    name="Gregorios"
+	dynasty=510
+    religion="orthodox"
+    culture="greek"
+	father=543524
+	
+	#History
+	 
+	834.6.7={
+		birth=yes
+	}
+}
+543526 = {
+    name="Ioustinos"
+	dynasty=5553
+    religion="orthodox"
+    culture="greek"
+	
+	add_trait=trusting
+	add_trait=kind
+	add_trait=gregarious
+	add_trait=content
+	add_trait=shrewd
+	
+	#History
+	 
+	824.3.21={
+		birth=yes
+	}
+	847.1.1={
+		add_spouse=543527
+	}
+}
+543527 = {
+    name="Isidora"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	add_trait=strong
+	
+	#History
+	 
+	827.9.4={
+		birth=yes
+	}
+	847.1.1={
+		add_spouse=543526
+	}
+}
+543528 = {
+    name="Adriane"
+	dynasty=5553
+    religion="orthodox"
+    culture="greek"
+	father=543526
+	mother=543527
+	female=yes
+	
+	add_trait=genius
+	add_trait=ambitious
+	add_trait=midas_touched
+	add_trait=paranoid
+	add_trait=honest
+	add_trait=proud
+	add_trait=administrator
+	add_trait=erudite
+	
+	#History
+	 
+	849.5.23={
+		birth=yes
+		claim=d_cyprus
+	}
+	867.1.1={
+		add_matrilineal_spouse=543534
+	}
+}
+543529 = {
+    name="Demetra"
+	dynasty=5553
+    religion="orthodox"
+    culture="greek"
+	father=543526
+	mother=543527
+	female=yes
+	
+	#History
+	 
+	852.2.17={
+		birth=yes
+	}
+}
+543530 = {
+    name="Helias"
+	dynasty=5553
+    religion="orthodox"
+    culture="greek"
+	father=543526
+	mother=543527
+	
+	#History
+	 
+	855.2.17={
+		birth=yes
+	}
+}
+543531 = {
+    name="Theophilos"
+	dynasty=8642
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+	818.1.18={
+		birth=yes
+	}
+	847.1.1={
+		add_spouse=543532
+	}
+}
+543532 = {
+    name="Theodora"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+	822.9.4={
+		birth=yes
+	}
+	842.1.1={
+		add_spouse=543531
+	}
+}
+543533 = {
+    name="Michael"
+	dynasty=8642
+    religion="orthodox"
+    culture="greek"
+	father=543531
+	mother=543532
+	
+	#History
+	 
+	844.7.22={
+		birth=yes
+	}
+}
+543534 = {
+    name="Dionysios"
+	dynasty=8642
+    religion="orthodox"
+    culture="greek"
+	father=543531
+	mother=543532
+	
+	add_trait=fair
+	add_trait=ambitious
+	add_trait=elusive_shadow
+	add_trait=gregarious
+	add_trait=gamer
+	add_trait=patient
+	
+	#History
+	 
+	848.12.18={
+		birth=yes
+	}
+	867.1.1={
+		add_matrilineal_spouse=543528
+		claim=d_anatolia
+	}
+}
+543535 = {
+    name="Theodosius"
+	dynasty=5557
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+	840.11.22={
+		birth=yes
+	}
+}
+543536 = {
+    name="Gregorios"
+	dynasty=5558
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	 
+	843.4.10={
+		birth=yes
+	}
+}
+543537 = {
+    name="Konstantinos"
+	dynasty=1022168
+    religion="orthodox"
+    culture="greek"
+	
+	add_trait=skilled_tactician
+	
+	#History
+	 
+	811.4.10={
+		birth=yes
+	}
+	834.1.1={
+		add_spouse=543538
+	}
+}
+543538 = {
+    name="Sophia"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+	814.7.2={
+		birth=yes
+	}
+	834.1.1={
+		add_spouse=543537
+	}
+}
+543539 = {
+    name="Eirene"
+	dynasty=1022168
+    religion="orthodox"
+    culture="greek"
+	father=543537
+	mother=543538
+	female=yes
+	
+	#History
+	 
+	836.2.24={
+		birth=yes
+	}
+}
+543540 = {
+    name="Bardas"
+	dynasty=1022168
+    religion="orthodox"
+    culture="greek"
+	father=543537
+	mother=543538
+	
+	#History
+	 
+	839.5.4={
+		birth=yes
+	}
+}
+543541 = {
+    name="Ciriacus"
+	dynasty=5575
+    religion="orthodox"
+    culture="romanian"
+	
+	add_trait=skilled_tactician
+	add_trait=one_eyed
+	add_trait=shrewd
+	add_trait=cynical
+	add_trait=unyielding
+	add_trait=skilled_tactician
+	
+	#History
+	 
+	837.10.4={
+		birth=yes
+	}
+}
+543542 = {
+    name="Proclus"
+	dynasty=5552
+    religion="athenaic"
+    culture="greek"
+	
+	#History
+	 
+	800.1.1={
+		birth=yes
+	}
+	834.1.1={
+		add_spouse=543543
+	}
+	865.1.1={
+		death=yes
+	}
+}
+543543 = {
+    name="Aedesia"
+    religion="athenaic"
+    culture="greek"
+	female=yes
+	
+	#History
+	 
+	800.1.1={
+		birth=yes
+	}
+	834.1.1={
+		add_spouse=543542
+	}
+	865.1.1={
+		death=yes
+	}
+}
+543544 = {
+    name="Ammonios"
+	dynasty=5552
+    religion="athenaic"
+    culture="greek"
+	father=543542
+	mother=543543
+	
+	#History
+	
+	836.4.22={
+		birth=yes
+	}
+}
+543545 = {
+    name="Heliodoros"
+	dynasty=5552
+    religion="athenaic"
+    culture="greek"
+	father=543542
+	mother=543543
+	
+	#History
+	
+	838.7.6={
+		birth=yes
+	}
+}
+543546 = {
+    name="Asclepigenia"
+	dynasty=5552
+    religion="athenaic"
+    culture="greek"
+	father=543542
+	mother=543543
+	female=yes
+	
+	#History
+	
+	840.11.22={
+		birth=yes
+	}
+}
+543547 = {
+    name="Niketas"
+	dynasty=1022275
+    religion="athenaic"
+    culture="greek"
+	
+	#History
+	
+	838.7.6={
+		birth=yes
+	}
+}
+543548 = {
+    name="Theoktistos"
+	dynasty=101079
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	
+	814.4.11={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=543549
+	}
+}
+543549 = {
+    name="Aikaterine"
+	dynasty=5559
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	
+	820.2.14={
+		birth=yes
+	}
+	840.1.1={
+		add_spouse=543548
+	}
+}
+543550 = {
+    name="Michael"
+	dynasty=101079
+    religion="orthodox"
+    culture="greek"
+	father=543548
+	mother=543549
+	
+	#History
+	
+	843.10.3={
+		birth=yes
+	}
+}
+543551 = {
+    name="Olivia"
+	dynasty=101079
+    religion="orthodox"
+    culture="greek"
+	father=543548
+	mother=543549
+	female=yes
+	
+	#History
+	
+	845.4.26={
+		birth=yes
+	}
+}
+543552 = {
+    name="Theophilos"
+	dynasty=101079
+    religion="orthodox"
+    culture="greek"
+	father=543548
+	mother=543549
+	
+	#History
+	
+	847.7.14={
+		birth=yes
+	}
+}
+543553 = {
+    name="Hektorios"
+	dynasty=5555
+    religion="athenaic"
+    culture="greek"
+	
+	add_trait=midas_touched
+	add_trait=gregarious
+	add_trait=honest
+	add_trait=greedy
+	add_trait=proud
+	add_trait=socializer
+	add_trait=paranoid
+	
+	#History
+	
+	836.1.21={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=543554
+	}
+}
+543554 = {
+    name="Hypatia"
+    religion="athenaic"
+    culture="greek"
+	female=yes
+	
+	add_trait=erudite
+	
+	#History
+	
+	838.3.29={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=543553
+	}
+}
+543555 = {
+    name="Ioannes"
+	dynasty=5559
+    religion="orthodox"
+    culture="greek"
+	
+	#History
+	
+	832.8.13={
+		birth=yes
+	}
+	852.1.1={
+		add_spouse=543556
+	}
+}
+543556 = {
+    name="Helene"
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	
+	#History
+	
+	832.3.4={
+		birth=yes
+	}
+	852.1.1={
+		add_spouse=543555
+	}
+}
+543557 = {
+    name="Ioustina"
+	dynasty=5559
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	father=543555
+	mother=543556
+	
+	#History
+
+	855.2.28={
+		birth=yes
+	}
+}
+543558 = {
+    name="Romane"
+	dynasty=5559
+    religion="orthodox"
+    culture="greek"
+	female=yes
+	father=543555
+	mother=543556
+	
+	#History
+
+	858.1.15={
+		birth=yes
+	}
+}
+543559 = {
+    name="Alexios"
+	dynasty=5554
+    religion="orthodox"
+    culture="greek"
+	
+	add_trait=brave
+	add_trait=fair
+	add_trait=kind
+	add_trait=gregarious
+	add_trait=trusting
+	
+	#History
+
+	844.7.9={
+		birth=yes
+	}
+}
+543560 = {
+    name="Alexios"
+	dynasty=5555
+    religion="orthodox"
+    culture="greek"
+	father=543553
+	mother=543554
+	
+	#History
+
+	860.5.23={
+		birth=yes
+	}
+}
+543561 = {
+    name="Markos"
+	dynasty=5555
+    religion="orthodox"
+    culture="greek"
+	father=543553
+	mother=543554
+	
+	add_trait=genius
+	
+	#History
+
+	862.8.18={
+		birth=yes
+	}
+}

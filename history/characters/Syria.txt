@@ -1,0 +1,483 @@
+534000 = {
+    name="Yeshua"
+    dynasty=59015
+    religion="orthodox"
+    culture="aramean"
+	
+	#History
+	 
+    834.9.25={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=534001
+	}
+}
+534001 = {
+    name="Zeita"
+    religion="orthodox"
+    culture="aramean"
+	female=yes
+	
+	trait=strong
+	trait=midas_touched
+	
+	#History
+	 
+    831.9.25={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=534000
+	}
+}
+534002 = {
+    name="Marthe"
+    dynasty=59015
+    religion="orthodox"
+    culture="aramean"
+	father=534000
+	mother=534001
+	female=yes
+	
+	#History
+	 
+    855.4.13={
+		birth=yes
+    }
+}
+534003 = {
+    name="Mikha'il"
+    dynasty=59015
+    religion="orthodox"
+    culture="aramean"
+	father=534000
+	mother=534001
+	
+	trait=twin
+	
+	#History
+	 
+    858.2.4={
+		birth=yes
+    }
+}
+534004 = {
+    name="Enosh"
+    dynasty=5901
+    religion="orthodox"
+    culture="aramean"
+	father=534000
+	mother=534001
+	
+	trait=twin
+	
+	#History
+	 
+    858.2.4={
+		birth=yes
+    }
+}
+534005 = {
+    name="Mordechai"
+    dynasty=59016
+    religion="jewish"
+    culture="mizrahi"
+	
+	#History
+	 
+    819.6.17={
+		birth=yes
+    }
+	843.1.1={
+		add_spouse=534006
+	}
+}
+534006 = {
+    name="Saris"
+    religion="jewish"
+    culture="mizrahi"
+	female=yes
+	
+	#History
+	 
+    823.8.25={
+		birth=yes
+    }
+	843.1.1={
+		add_spouse=534005
+	}
+}
+534007 = {
+    name="Yosef"
+    dynasty=59016
+    religion="jewish"
+    culture="mizrahi"
+	father=534005
+	mother=534006
+	
+	#History
+	 
+    846.10.5={
+		birth=yes
+    }
+}
+534008 = {
+    name="Shimon"
+    dynasty=59016
+    religion="jewish"
+    culture="mizrahi"
+	father=534005
+	mother=534006
+	
+	#History
+	 
+    849.12.25={
+		birth=yes
+    }
+}
+534009 = {
+    name="Tiberios"
+    dynasty=59000
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    846.3.13={
+		birth=yes
+    }
+}
+534010 = {
+    name="Isaakios"
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    822.1.1={
+		birth=yes
+    }
+}
+534011 = {
+    name="Shem'on"
+    religion="orthodox"
+    culture="aramean"
+	
+	#History
+	 
+    852.5.12={
+		birth=yes
+    }
+}
+534012 = {
+    name="Adrianos"
+	dynasty=59004
+    religion="orthodox"
+    culture="anatolian"
+	
+	trait=patient
+	trait=brilliant_strategist
+	trait=proud
+	trait=hunter
+	
+	#History
+	 
+    821.8.7={
+		birth=yes
+    }
+	845.1.1={
+		add_spouse=534013
+	}
+}
+534013 = {
+    name="Dionysia"
+	dynasty=59017
+    religion="orthodox"
+    culture="anatolian"
+	father=534020
+	female=yes
+	
+	trait=fair
+	
+	#History
+	 
+    825.2.18={
+		birth=yes
+    }
+	845.1.1={
+		add_spouse=534012
+	}
+}
+534014 = {
+    name="Konstantios"
+	dynasty=59004
+    religion="orthodox"
+    culture="anatolian"
+	father=534012
+	mother=534013
+	
+	trait=dull
+	
+	#History
+	 
+    847.4.21={
+		birth=yes
+    }
+}
+534015 = {
+    name="Alexandra"
+	dynasty=59004
+    religion="orthodox"
+    culture="anatolian"
+	father=534012
+	mother=534013
+	female=yes
+	
+	trait=fair
+	
+	#History
+	 
+    848.12.31={
+		birth=yes
+    }
+}
+534016 = {
+    name="Dionysios"
+	dynasty=59004
+    religion="orthodox"
+    culture="anatolian"
+	father=534012
+	mother=534013
+	
+	trait=erudite
+	trait=shrewd
+	trait=ambitious
+	
+	#History
+	 
+    852.3.13={
+		birth=yes
+    }
+}
+534017 = {
+    name="Nikolaos"
+	dynasty=59002
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    839.8.22={
+		birth=yes
+    }
+	859.1.1={
+		add_spouse=534018
+	}
+}
+534018 = {
+    name="Maria"
+    religion="orthodox"
+    culture="anatolian"
+	female=yes
+	
+	#History
+	 
+    839.5.10={
+		birth=yes
+    }
+	859.1.1={
+		add_spouse=534017
+	}
+}
+534019 = {
+    name="Eirene"
+    religion="orthodox"
+    culture="anatolian"
+	female=yes
+	father=534017
+	mother=534018
+	
+	#History
+
+	862.8.7={
+		birth=yes
+	}
+}
+534020 = {
+    name="Gregorios"
+	dynasty=59017
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    800.1.1={
+		birth=yes
+    }
+	859.1.1={
+		death=yes
+	}
+}
+534021 = {
+    name="Alexandros"
+	dynasty=59001
+    religion="orthodox"
+    culture="anatolian"
+	father=534020
+	
+	trait=ambitious
+	trait=quick
+	trait=gamer
+	trait=charismatic_negotiator
+	
+	#History
+	 
+    838.5.23={
+		birth=yes
+    }
+	859.1.1={
+		add_spouse=534022
+	}
+}
+534022 = {
+    name="Helene"
+	dynasty=59017
+    religion="orthodox"
+    culture="anatolian"
+	female=yes
+	
+	trait=ambitious
+	trait=intricate_webweaver
+	
+	#History
+	 
+    839.10.11={
+		birth=yes
+    }
+	859.1.1={
+		add_spouse=534021
+	}
+}
+534023 = {
+    name="Alexios"
+	dynasty=59001
+    religion="orthodox"
+    culture="anatolian"
+	father=534021
+	mother=534022
+	
+	#History
+	 
+    863.9.24={
+		birth=yes
+    }
+}
+534024 = {
+    name="Prokopios"
+	dynasty=59006
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    848.6.29={
+		birth=yes
+    }
+}
+534025 = {
+    name="Sebastianos"
+	dynasty=59009
+    religion="orthodox"
+    culture="anatolian"
+	
+	trait=ambitious
+	trait=elusive_shadow
+	trait=gregarious
+	
+	add_claim=k_syria
+	
+	#History
+	 
+    815.1.23={
+		birth=yes
+    }
+	835.1.1={
+		add_spouse=534026
+	}
+}
+534026 = {
+    name="Hypatia"
+	dynasty=59009
+    religion="orthodox"
+    culture="anatolian"
+	female=yes
+	
+	#History
+	 
+    817.11.30={
+		birth=yes
+    }
+	835.1.1={
+		add_spouse=534025
+	}
+}
+534027 = {
+    name="Athanasios"
+	dynasty=59009
+    religion="orthodox"
+    culture="anatolian"
+	father=534025
+	mother=534026
+	
+	#History
+	 
+    839.10.31={
+		birth=yes
+    }
+}
+534028 = {
+    name="Antonia"
+	dynasty=59009
+    religion="orthodox"
+    culture="anatolian"
+	father=534025
+	mother=534026
+	female=yes
+	
+	#History
+	 
+    842.3.15={
+		birth=yes
+    }
+	862.1.1={
+		add_spouse=534029
+	}
+}
+534029 = {
+    name="Thomas"
+	dynasty=59008
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    840.8.2={
+		birth=yes
+    }
+	862.1.1={
+		add_spouse=534028
+	}
+}
+534030 = {
+    name="Euphemios"
+	dynasty=59011
+    religion="orthodox"
+    culture="anatolian"
+	
+	#History
+	 
+    857.4.27={
+		birth=yes
+    }
+}

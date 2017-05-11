@@ -1,0 +1,22 @@
+# 351 - Ravenna
+
+# County Title
+title = c_ravenna
+
+# Settlements
+max_settlements = 6
+
+b_cervia = castle
+b_ravenna = temple
+b_cesena = city
+b_russi = city
+b_alfonsine = castle
+#b_cesenatico = castle
+#b_gambettola = castle
+#b_gatteo = castle
+
+# Misc
+culture = apennine
+religion = apollonian
+
+# History

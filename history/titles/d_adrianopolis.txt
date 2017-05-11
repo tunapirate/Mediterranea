@@ -1,0 +1,5 @@
+867.1.1={
+	holder=543519
+	liege=e_byzantium
+	vice_royalty=yes
+}

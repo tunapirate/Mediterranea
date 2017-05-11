@@ -1,0 +1,1184 @@
+#African
+
+5400=
+{
+	name="Alfonsinu"
+	culture="african"
+}
+5401=
+{
+	name="Carsegenu"
+	culture="african"
+}
+5451=
+{
+	name="Reparatu"
+	culture="african"
+}
+5452=
+{
+	name="Clauiu"
+	culture="african"
+}
+5453=
+{
+	name="Sasurninu"
+	culture="african"
+}
+5454=
+{
+	name="Cassiosuru"
+	culture="african"
+}
+5455=
+{
+	name="Reparasu"
+	culture="african"
+}
+5456=
+{
+	name="Agricolu"
+	culture="african"
+}
+5457=
+{
+	name="Reparasu"
+	culture="african"
+}
+5458=
+{
+	name="Liberiu"
+	culture="african"
+}
+5459=
+{
+	name="Tassesu"
+	culture="african"
+}
+5460=
+{
+	name="Daia"
+	culture="african"
+}
+5461=
+{
+	name="Domessiu"
+	culture="african"
+}
+5462=
+{
+	name="Sempreviu"
+	culture="african"
+}
+5463=
+{
+	name="Verinu"
+	culture="african"
+}
+5464=
+{
+	name="Searu"
+	culture="african"
+}
+5465=
+{
+	name="Fossu"
+	culture="african"
+}
+5466=
+{
+	name="Pasernu"
+	culture="african"
+}
+5467=
+{
+	name="Prohianu"
+	culture="african"
+}
+5468=
+{
+	name="Volusianu"
+	culture="african"
+}
+5469=
+{
+	name="Anessiu"
+	culture="african"
+}
+5470=
+{
+	name="Aureliu"
+	culture="african"
+}
+5471=
+{
+	name="Faviu"
+	culture="african"
+}
+5472=
+{
+	name="Jueu"
+	culture="african"
+}
+
+
+
+# Berber
+
+5426=
+{
+	name="Aznag"
+	culture="maghreb_arabic"
+	religion="pagan"
+}
+5427=
+{
+	name="Maures"
+	culture="maghreb_arabic"
+}
+5428=
+{
+	name="Hawwara"
+	culture="maghreb_arabic"
+}
+5429=
+{
+	name="Khemas'a"
+	culture="maghreb_arabic"
+}
+5430=
+{
+	name="Azger"
+	culture="maghreb_arabic"
+}
+5431=
+{
+	name="Mes'ray"
+	culture="maghreb_arabic"
+}
+5432=
+{
+	name="Rghiwa"
+	culture="maghreb_arabic"
+}
+5433=
+{
+	name="Sanhaja"
+	culture="maghreb_arabic"
+}
+5434=
+{
+	name="Ghejrama"
+	culture="maghreb_arabic"
+	religion="west_african_pagan"
+}
+5435=
+{
+	name="Shert'a"
+	culture="maghreb_arabic"
+	religion="west_african_pagan"
+}
+5436=
+{
+	name="Lekhsa"
+	culture="maghreb_arabic"
+}
+5437=
+{
+	name="Ms'ala"
+	culture="maghreb_arabic"
+}
+5438=
+{
+	name="Wergha"
+	culture="maghreb_arabic"
+}
+5439=
+{
+	name="Lewwa"
+	culture="maghreb_arabic"
+}
+5440=
+{
+	name="A'zouza"
+	culture="maghreb_arabic"
+}
+5441=
+{
+	name="Ghessasa"
+	culture="maghreb_arabic"
+}
+5442=
+{
+	name="Wersif"
+	culture="maghreb_arabic"
+}
+5443=
+{
+	name="Qens'ara"
+	culture="maghreb_arabic"
+}
+5444=
+{
+	name="Zwagha"
+	culture="maghreb_arabic"
+}
+5445=
+{
+	name="Tghouret"
+	culture="maghreb_arabic"
+}
+5446=
+{
+	name="Kerkoura"
+	culture="maghreb_arabic"
+}
+
+
+
+#Coptic
+
+5476=
+{
+	name="Šihet"
+	culture="coptic"
+}
+5477=
+{
+	name="Shmounein"
+	culture="coptic"
+}
+5478=
+{
+	name="Antinow"
+	culture="coptic"
+}
+5479=
+{
+	name="Tjenu"
+	culture="coptic"
+}
+5480=
+{
+	name="Ebsay"
+	culture="coptic"
+}
+5481=
+{
+	name="Menf"
+	culture="coptic"
+}
+5482=
+{
+	name="Thabatha"
+	culture="coptic"
+}
+5483=
+{
+	name="Waset"
+	culture="coptic"
+}
+5484=
+{
+	name="Tarnut"
+	culture="coptic"
+}
+5485=
+{
+	name="Scetis"
+	culture="coptic"
+}
+5486=
+{
+	name="Khmin"
+	culture="coptic"
+}
+5487=
+{
+	name="Shenaloletto"
+	culture="coptic"
+}
+5488=
+{
+	name="Terenuthis"
+	culture="coptic"
+}
+5489=
+{
+	name="Melej"
+	culture="coptic"
+}
+5490=
+{
+	name="Meshtol"
+	culture="coptic"
+}
+5491=
+{
+	name="Aputhek"
+	culture="coptic"
+}
+5492=
+{
+	name="Apanub"
+	culture="coptic"
+}
+5493=
+{
+	name="Peremun"
+	culture="coptic"
+}
+5494=
+{
+	name="Shihet"
+	culture="coptic"
+}
+5495=
+{
+	name="Peiom"
+	culture="coptic"
+}
+
+
+
+# Aegyptian
+
+5501=
+{
+	name="Apion"
+	culture="aegyptian"
+}
+5502=
+{
+	name="Kyrenos"
+	culture="aegyptian"
+}
+5503=
+{
+	name="Amunios"
+	culture="aegyptian"
+}
+5504=
+{
+	name="Ksounos"
+	culture="aegyptian"
+}
+5505=
+{
+	name="Antinouos"
+	culture="aegyptian"
+}
+5506=
+{
+	name="Aphroditos"
+	culture="aegyptian"
+}
+
+# Greek
+
+#5550= (replace with #8642)
+#{
+#	name="Amorionos"
+#	culture="greek"
+#}
+5551=
+{
+	name="Herakleidon" #Heraclean dynasty
+	culture="greek"
+	religion="orthodox"
+}
+5552=
+{
+	name="Hermeion" #representative of Neoplatonist Hermeias
+	culture="greek"
+	religion="hellenic_pagan"
+}
+5553=
+{
+	name="Ammianos" #Cyprus -- PLRE Valerius 8
+	culture="appenine"
+	religion="orthodox"
+}
+5554=
+{
+	name="Callinikos" #Crete -- PLRE Callinicus 1
+	culture="greek"
+	religion="orthodox"
+}
+5555=
+{
+	name="Hesychionos" #Achaia -- PLRE Hesychius 9
+	culture="greek"
+	religion="orthodox"
+}
+5556=
+{
+	name="Sarakenopoulos" #Scythia Minor
+	culture="greek"
+	religion="orthodox"
+}
+5557=
+{
+	name="Apsimaros" #Cibyrrheots -- descendants of Tib. III
+	culture="german"
+	religion="orthodox"
+}
+5558=
+{
+	name="Barasbakourios" #Opsikion
+	culture="greek"
+	religion="orthodox"
+}
+5559=
+{
+	name="Echimos" #Dyrrachion
+	culture="greek"
+	religion="orthodox"
+}
+
+# Romanian
+
+5575=
+{
+	name="Atelianescu" # Wallachia
+	culture="romanian"
+	religion="orthodox"
+}
+
+# Arab
+
+56001=
+{
+	name="Qudid"
+	culture="bedouin_arabic"
+	religion="jewish"
+}
+56002=
+{
+	name="Saka'id"
+	culture="bedouin_arabic"
+	religion="jewish"
+}
+56003=
+{
+	name="Anizzahid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56004=
+{
+	name="Bakrid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56005=
+{
+	name="Tamimid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56006=
+{
+	name="Salihid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56007=
+{
+	name="Kalbid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56008=
+{
+	name="Ghassanid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56009=
+{
+	name="Lakhmid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+56010=
+{
+	name="Anizahid"
+	culture="levantine_arabic"
+	religion="nestorian"
+}
+
+# Persian
+
+57001=
+{
+	name="Vahrezid"
+	culture="kurdish"
+	religion="zoroastrian"
+}
+57002=
+{
+	name="Hormuzdid"
+	culture="persian"
+	religion="zoroastrian"
+}
+57003=
+{
+	name="Fasanjus"
+	culture="persian"
+	religion="zoroastrian"
+}
+57004=
+{
+	name="Sassanid"
+	culture="persian"
+	religion="zoroastrian"
+}
+57005=
+{
+	name="Aspahbadid" #Tabarestan
+	culture="persian"
+	religion="zoroastrian"
+}
+57006=
+{
+	name="Varazid" #Khorasan
+	culture="persian"
+	religion="zoroastrian"
+}
+57007=
+{
+	name="Mehranid" #Esfahan
+	culture="persian"
+	religion="zoroastrian"
+}
+57008=
+{
+	name="Spandiyadid" #Hamadan
+	culture="persian"
+	religion="zoroastrian"
+}
+57009=
+{
+	name="Zikid" #Tabriz
+	culture="persian"
+	religion="zoroastrian"
+}
+57010=
+{
+	name="Surenid" #Sistan
+	culture="persian"
+	religion="zoroastrian"
+}
+57011=
+{
+	name="Gushnaspid"
+	culture="persian"
+	religion="zoroastrian"
+}
+57012=
+{
+	name="Rai"
+	culture="sindhi"
+	religion="hindu"
+}
+57013=
+{
+	name="Chachas"
+	culture="sindhi"
+	religion="hindu"
+}
+57014=
+{
+	name="Jadaggow" #Kerman
+	culture="persian"
+	religion="zoroastrian"
+}
+57015=
+{
+	name="Shahragid" #Fars
+	culture="persian"
+	religion="zoroastrian"
+}
+57016=
+{
+	name="Varhranid" #Balochistan
+	culture="persian"
+	religion="zoroastrian"
+}
+57017=
+{
+	name="Xušnawazid" #Dihistan
+	culture="persian"
+	religion="zoroastrian"
+}
+57018=
+{
+	name="Samanid"
+	culture="persian"
+	religion="zoroastrian"
+	coat_of_arms=
+	{
+		data=
+		{
+0 1 0 46 2 1 3 			}
+		religion="sunni"
+	}
+}
+57019=
+{
+	name="Tahirid"
+	culture="persian"
+	religion="zoroastrian"
+	coat_of_arms=
+	{
+		data=
+		{
+0 1 0 13 5 3 1 			}
+		religion="sunni"
+	}
+}
+57020=
+{
+	name="Shahiya"
+	culture="afghan"
+	religion="buddhist"
+}
+57021=
+{
+	name="Gurakhid"
+	culture="persian"
+	religion="manichean"
+}
+57022=
+{
+	name="Tarkhunid"
+	culture="persian"
+	religion="manichean"
+}
+57023=
+{
+	name="An"
+	culture="persian"
+	religion="manichean"
+}
+57024=
+{
+	name="Ma'munid"
+	culture="persian"
+	religion="zoroastrian"
+}
+
+# Caucasian
+
+58000=
+{
+	name="Rštuni"
+	culture="armenian"
+	religion="zoroastrian"
+}
+58001=
+{
+	name="Chosroid"
+	culture="armenian"
+	religion="miaphysite"
+}
+58002=
+{
+	name="Syunid"
+	culture="armenian"
+	religion="zoroastrian"
+}
+58003=
+{
+	name="Ardzruni"
+	culture="armenian"
+	religion="miaphysite"
+}
+58004=
+{
+	name="Guaramiani"
+	culture="georgian"
+	religion="orthodox"
+}
+58005=
+{
+	name="Nersiani"
+	culture="georgian"
+	religion="orthodox"
+}
+
+# Syrian
+
+59000=
+{
+	name="Artakos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59001=
+{
+	name="Kelaenos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59002=
+{
+	name="Berrhoios"
+	culture="anatolian"
+	religion="orthodox"
+}
+59003=
+{
+	name="Kaukos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59004=
+{
+	name="Larissos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59005=
+{
+	name="Loulos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59006=
+{
+	name="Nemaros"
+	culture="anatolian"
+	religion="orthodox"
+}
+59007=
+{
+	name="Phersios"
+	culture="anatolian"
+	religion="orthodox"
+}
+59008=
+{
+	name="Souetios"
+	culture="anatolian"
+	religion="orthodox"
+}
+59009=
+{
+	name="Teloukos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59010=
+{
+	name="Artakos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59011=
+{
+	name="Kermulos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59012=
+{
+	name="Sobilos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59013=
+{
+	name="Nessanos"
+	culture="anatolian"
+	religion="orthodox"
+}
+59014=
+{
+	name="Mansur"
+	culture="anatolian"
+	religion="orthodox"
+}
+59015=
+{
+	name="Bat-Zabbai"
+	culture="aramean"
+	religion="orthodox"
+}
+59016=
+{
+	name="ben Hushiel"
+	culture="mizrahi"
+	religion="jewish"
+}
+59017=
+{
+	name="Trytherios"
+	culture="anatolian"
+	religion="orthodox"
+}
+# Levantine
+
+594500=
+{
+	name="Cassia" #Caesaraugusta
+	culture="levantine"
+	religion="hellenic_pagan"
+}
+
+# Italian
+
+59500=
+{
+	name="Tellaro"
+	culture="apennine"
+	religion="catholic"
+}
+59501=
+{
+	name="Sidonia" # des. Sidonius Apollinaris, Praefectus Urbis Romae
+	culture="gallic"
+	religion="catholic"
+}
+59502=
+{
+	name="Decia"
+	culture="apennine"
+	religion="catholic"
+}
+59502=
+{
+	name="Anicia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59503=
+{
+	name="Aurelia" #representative of the Symmachan branch
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59504=
+{
+	name="Aviena" #Gennadus Avienus
+	culture="apennine"
+	religion="catholic"
+}
+59505=
+{
+	name="Ennodia"
+	culture="apennine"
+	religion="catholic"
+}
+59506=
+{
+	name="Petronia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59507=
+{
+	name="Cornelia" #representive of the Cethegus branch
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59508=
+{
+	name="Mariniana"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+
+# Gallic
+
+59550=
+{
+	name="Ruricia"
+	culture="gallic"
+	religion="catholic"
+}
+59551=
+{
+	name="Leontia"
+	culture="gallic"
+	religion="catholic"
+}
+
+# Aquitanian
+
+59600=
+{
+	name="Astarac"
+	culture="occitan"
+	religion="catholic"
+}
+59601=
+{
+	name="Aureilla"
+	culture="occitan"
+	religion="catholic"
+}
+59602=
+{
+	name="Chanzi"
+	culture="occitan"
+	religion="catholic"
+}
+59603=
+{
+	name="Garlanda"
+	culture="occitan"
+	religion="catholic"
+}
+59604=
+{
+	name="Malaspina"
+	culture="occitan"
+	religion="catholic"
+}
+59605=
+{
+	name="Mataplana"
+	culture="occitan"
+	religion="catholic"
+}
+59606=
+{
+	name="Ospinel"
+	culture="occitan"
+	religion="catholic"
+}
+59607=
+{
+	name="Peralta"
+	culture="occitan"
+	religion="catholic"
+}
+59608=
+{
+	name="Tornel"
+	culture="occitan"
+	religion="catholic"
+}
+59609=
+{
+	name="Valflor"
+	culture="occitan"
+	religion="catholic"
+}
+59610=
+{
+	name="Ferreola"
+	culture="appenine"
+	religion="hellenic_pagan"
+}
+59611=
+{
+	name="Aviti"
+	culture="gallic"
+	religion="catholic"
+}
+
+# Istrian
+
+# Dalmatian
+
+59700=
+{
+	name="Goçe"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59701=
+{
+	name="Bona"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59702=
+{
+	name="Gondola"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59703=
+{
+	name="Sorgo"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59704=
+{
+	name="Georgio"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59705=
+{
+	name="Zrieva"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59706=
+{
+	name="Mençe"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59707=
+{
+	name="Resti"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59708=
+{
+	name="Lucari"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59709=
+{
+	name="Poça"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59710=
+{
+	name="Babalio"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59711=
+{
+	name="Ragnina"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59712=
+{
+	name="Zamagna"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59713=
+{
+	name="Benssa"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59714=
+{
+	name="Caboga"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59715=
+{
+	name="Buchia"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59716=
+{
+	name="Volçe"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59717=
+{
+	name="Saraca"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59718=
+{
+	name="Palmota"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59719=
+{
+	name="Grade"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59720=
+{
+	name="Bonda"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59721=
+{
+	name="Martinussio"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59722=
+{
+	name="Tudisio"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59723=
+{
+	name="Batalo"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59724=
+{
+	name="Proculo"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59725=
+{
+	name="Luca"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59726=
+{
+	name="Binçola"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59727=
+{
+	name="Crosio"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59728=
+{
+	name="Getaldo"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59729=
+{
+	name="Calich"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59730=
+{
+	name="Mlaschagna"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59731=
+{
+	name="Bocinolo"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59732=
+{
+	name="Prodanello"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
