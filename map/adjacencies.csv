@@ -1,4 +1,7 @@
 From;To;Type;Through;-1;-1;-1;-1;Comment
+
+# Straits
+
 5;45;sea;1019;-1;-1;-1;-1;Ulaid-Argyll
 5;50;sea;1019;-1;-1;-1;-1;Ulaid-Galloway
 35;40;sea;992;-1;-1;-1;-1;Western Isles-Moray
@@ -53,11 +56,41 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 345;470;sea;1038;-1;-1;-1;-1;Brindisi-Dyrrhachion
 641;870;sea;1393;-1;-1;-1;-1;Hormuz-Dhu Zabi
 496;741;sea;947;-1;-1;-1;-1;Constantinople-Nikomedia
+
+# Deserts
+
 918;916;sea;909;-1;-1;-1;-1;Sijilmasa-Taghaza
 916;917;sea;909;-1;-1;-1;-1;Taghaza-Araouane
 847;920;sea;909;-1;-1;-1;-1;Tamdoult-Ouadane
 920;921;sea;909;-1;-1;-1;-1;Ouadane-Idjil
 920;912;sea;909;-1;-1;-1;-1;Idjil-Aoudaghost
+712;713;sea;864;-1;-1;-1;-1;Suwaida-Druz
+727;713;sea;864;-1;-1;-1;-1;Suwaida-Druz
+728;726;sea;864;-1;-1;-1;-1;Damascus-Al_Mafraq
+769;726;sea;864;-1;-1;-1;-1;Safed-Al_Mafraq
+713;714;sea;864;-1;-1;-1;-1;Druz-Az_Zarqa
+726;714;sea;864;-1;-1;-1;-1;Al_Mafraq-Az_Zarqa
+714;724;sea;864;-1;-1;-1;-1;Az_Zarqa-Philadelphia
+724;723;sea;864;-1;-1;-1;-1;Philadelphia-Madaba
+714;715;sea;864;-1;-1;-1;-1;Az_Zarqa-Al_Habbariyah
+694;715;sea;864;-1;-1;-1;-1;Karbala-Al_Habbariyah
+692;715;sea;864;-1;-1;-1;-1;Al_Nadjaf-Al_Habbariyah
+691;865;sea;864;-1;-1;-1;-1;Al_Nasiryah-Rafha
+692;865;sea;864;-1;-1;-1;-1;Al_Nadjaf-Rafha
+654;865;sea;864;-1;-1;-1;-1;Rummah-Rafha
+715;865;sea;864;-1;-1;-1;-1;Al_Habbariyah-Rafha
+715;716;sea;864;-1;-1;-1;-1;Al_Habbariyah-Shaka
+716;783;sea;864;-1;-1;-1;-1;Shaka-Maan
+721;783;sea;864;-1;-1;-1;-1;Tabuk-Maan
+722;783;sea;864;-1;-1;-1;-1;Petra-Maan
+778;783;sea;864;-1;-1;-1;-1;Monreal-Maan
+724;783;sea;864;-1;-1;-1;-1;Philadelphia-Maan
+721;717;sea;864;-1;-1;-1;-1;Tabuk-Al_Jawf
+720;717;sea;864;-1;-1;-1;-1;Hijaz-Al_Jawf
+724;783;sea;864;-1;-1;-1;-1;Philadelphia-Maan
+
+# Rivers
+
 259;261;major_river;1046;-1;-1;-1;-1;Celle-Hamburg
 258;261;major_river;1046;-1;-1;-1;-1;Lüneburg-Hamburg
 309;261;major_river;1046;-1;-1;-1;-1;Altmark-Hamburg

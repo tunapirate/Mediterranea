@@ -862,7 +862,7 @@ province;red;green;blue;x;x
 861;168;153;87;Asir;x
 862;0;156;215;Halaban;x
 863;42;159;88;Hajr;x
-864;84;162;216;Hail;x
+864;84;162;216;;x
 865;126;165;89;Rafha;x
 866;168;168;217;Dhofar;x
 867;0;171;90;Duqm;x

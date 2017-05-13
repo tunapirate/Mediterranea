@@ -644,6 +644,20 @@
 		add_spouse=514216
 	}
 }
+514218 = {
+	name="Abdul-Qadir"
+    dynasty=56008
+    religion="orthodox"
+    culture="levantine_arabic"
+	father=514216
+	mother=514217
+	 
+	#History
+	 
+    835.3.13={
+		birth=yes
+    }
+}
 
 # Mesopotamia/Assyria
 

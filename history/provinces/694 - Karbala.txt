@@ -16,7 +16,7 @@ b_karbala = temple
 #b_ukhaidir = castle
 
 #Misc
-culture = levantine_arabic
+culture = assyrian
 religion = nestorian
 
 # History

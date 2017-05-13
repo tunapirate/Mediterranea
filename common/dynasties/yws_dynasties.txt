@@ -444,6 +444,107 @@
 	culture="romanian"
 	religion="orthodox"
 }
+5576=
+{
+	name="Terentianescu" # Dardania
+	culture="romanian"
+	religion="orthodox"
+}
+
+# Baltic
+
+5600=
+{
+	name="Jotvingiai"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+5601=
+{
+	name="Žemaite"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+5602=
+{
+	name="Seli"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+5603=
+{
+	name="Aukštaitija"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+5604=
+{
+	name="Aestui"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+5605=
+{
+	name="Nadruva"
+	culture="prussian"
+	religion="baltic_pagan"
+}
+5606=
+{
+	name="Pagude"
+	culture="prussian"
+	religion="baltic_pagan"
+}
+
+# Polish / Pommeranian
+5615=
+{
+	name="Wislanie"
+	culture="polish"
+	religion="slavic_pagan"
+}
+5616=
+{
+	name="Slezanie"
+	culture="polish"
+	religion="slavic_pagan"
+}
+5617=
+{
+	name="Kaszëbi"
+	culture="pommeranian"
+	religion="slavic_pagan"
+}
+5618=
+{
+	name="Hawelanie"
+	culture="polish"
+	religion="slavic_pagan"
+}
+
+# Czech
+
+5630=
+{
+	name="Pribina"
+	culture="bohemian"
+	religion="slavic_pagan"
+}
+
+# Gothic
+
+5645=
+{
+	name="Totiling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5646=
+{
+	name="Amaling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
 
 # Arab
 

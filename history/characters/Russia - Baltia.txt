@@ -1,0 +1,224 @@
+# Russia
+
+564000 = {
+    name="Boris" # Smolensk
+    dynasty=1029136
+    religion="slavic_pagan"
+    culture="russian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564001 = {
+    name="Rogvolod" # Bryansk
+    dynasty=1029138
+    religion="slavic_pagan"
+    culture="russian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564002 = {
+    name="Sviatoslav" # Chernigov
+    dynasty=1029116
+    religion="slavic_pagan"
+    culture="russian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564003 = {
+    name="Konstantin" # Pereyaslavl
+    dynasty=1029137
+    religion="slavic_pagan"
+    culture="russian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564004 = {
+    name="Yaropolk" # Turov
+    dynasty=1045024
+    religion="slavic_pagan"
+    culture="russian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564005 = {
+    name="Feodor" # Galich
+    dynasty=1029167
+    religion="slavic_pagan"
+    culture="russian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+
+# Lithuania / Balts
+
+564100 = {
+    name="Mindaugas" # Yatvingia
+    dynasty=5600
+    religion="baltic_pagan"
+    culture="lithuanian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564101 = {
+    name="Gerdautas" # East Prussia
+    dynasty=5605
+    religion="baltic_pagan"
+    culture="prussian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564102 = {
+    name="Dagonis" # West Prussia
+    dynasty=5606
+    religion="baltic_pagan"
+    culture="prussian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564103 = {
+    name="Kestutis" # Zemaitjia
+    dynasty=5601
+    religion="baltic_pagan"
+    culture="lithuanian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564104 = {
+    name="Vytautas" # Lithuania proper
+    dynasty=5603
+    religion="baltic_pagan"
+    culture="lithuanian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564105 = {
+    name="Liudas" # Polotsk
+    dynasty=5604
+    religion="baltic_pagan"
+    culture="lithuanian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564106 = {
+    name="Butavas" # Vitebsk
+    dynasty=5602
+    religion="baltic_pagan"
+    culture="lithuanian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+
+# Polans/Pommeranians
+
+564200 = {
+    name="Piast" # Polans
+    dynasty=699
+    religion="slavic_pagan"
+    culture="polish"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564201 = {
+    name="Wladyslaw" # Vistulans
+    dynasty=5615
+    religion="slavic_pagan"
+    culture="polish"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564202 = {
+    name="Mieszko" # Silesians
+    dynasty=5616
+    religion="slavic_pagan"
+    culture="polish"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564203 = {
+    name="Lucjan" # Kashubians
+    dynasty=5617
+    religion="slavic_pagan"
+    culture="pommeranian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+564204 = {
+    name="Casimir" # Hevelli
+    dynasty=5618
+    religion="slavic_pagan"
+    culture="pommeranian"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}

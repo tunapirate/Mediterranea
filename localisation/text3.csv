@@ -472,7 +472,7 @@ alert_noheir_instant;§YNo heir of your dynasty!§!;§YPas héritier de votre dynast
 KICK_PLAYER;Kick Player;Chasser le joueur;Spieler ausschließen;;Expulsar jugador;;;;;;;;;x
 GENDER_LAWS;Gender Laws;Lois basées sur le Genre;Gleichstellungsgesetze;;Leyes de género;;;;;;;;;x
 EVTOPTB5024;I'm having fun with it for now;Pour l’instant, ça m’amuse.;Fürs Erste macht mir das Spaß;;Por ahora me divierto con esto;;;;;;;;;x
-pommeranian;Pomeranian;Poméranien;Pommersch;;Pomeranio;;;;;;;;;x
+pommeranian;Pòmòrzónie;Pòmòrzónie;Pòmòrzónie;;Pòmòrzónie;;;;;;;;;x
 d_pommerania;Pomerania;Poméranie;Pommern;;Pomerania;;;;;;;;;x
 d_pommerania_adj;Pomeranian;Poméranienne;Pommersch;;Pomerana;;;;;;;;;x
 ALREADY_CONTRACTED;They already have a contract with §Y$OWNER$§W.;Ils ont déjà conclu un contrat avec §Y$OWNER$§W.;Sie haben bereits einen Kontrakt mit §Y$OWNER$§W.;;Ya tienen un contrato con §Y$OWNER$§W.;;;;;;;;;x

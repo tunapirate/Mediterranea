@@ -3,3 +3,6 @@
 	adjective = k_gothia_adj
 	effect = { set_coa = k_gothia }
 }
+867.1.1={
+	holder = 574075
+}

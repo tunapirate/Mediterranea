@@ -1180,20 +1180,6 @@
 		birth=yes
     }
 }
-524352 = {
-    name="Nanaizanch"
-	dynasty=57021
-	religion="zoroastrian"
-    culture="sogdian"
-	father=524350
-	mother=524351
-	 
-	#History
-	 
-    852.1.17={
-		birth=yes
-    }
-}
 524353 = {
     name="Tarkhun"
 	dynasty=57022
@@ -1384,4 +1370,18 @@
 	852.6.23={
 		birth=yes
 	}
+}
+524366 = {
+    name="Nanaizanch"
+	dynasty=57021
+	religion="zoroastrian"
+    culture="sogdian"
+	father=524350
+	mother=524351
+	 
+	#History
+	 
+    852.1.17={
+		birth=yes
+    }
 }

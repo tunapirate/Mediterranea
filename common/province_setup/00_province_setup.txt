@@ -4314,7 +4314,6 @@
    terrain=desert
 }
 864 = {
-   title=c_hail
    max_settlements=2
    terrain=desert
 }

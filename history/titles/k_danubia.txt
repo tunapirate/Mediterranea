@@ -3,3 +3,6 @@
 	adjective = AVAR_KHAGANATE_ADJ
 	effect = { set_coa = k_avaria }
 }
+867.1.1={
+	holder = 574028
+}

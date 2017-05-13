@@ -1,0 +1,353 @@
+# Czechia
+
+574000 = {
+    name="Vladislav" # Czechia/Nyitra
+    dynasty=5630
+    religion="slavic_pagan"
+    culture="bohemian"
+	
+	add_trait=zealous
+	add_trait=brawny
+	add_trait=honest
+	
+	#History
+	 
+    826.4.19={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=574001
+	}
+}
+574001 = {
+    name="Kristyna"
+    religion="slavic_pagan"
+    culture="bohemian"
+	female=yes
+	
+	#History
+	 
+    831.2.4={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=574000
+	}
+}
+574002 = {
+    name="Eliska"
+    dynasty=5630
+    religion="slavic_pagan"
+    culture="bohemian"
+	female=yes
+	father=574000
+	mother=574001
+	
+	#History
+	 
+	853.11.19={
+		birth=yes
+	}
+}
+574003 = {
+    name="Viola"
+    dynasty=5630
+    religion="slavic_pagan"
+    culture="bohemian"
+	female=yes
+	father=574000
+	mother=574001
+	
+	#History
+	 
+	857.8.30={
+		birth=yes
+	}
+}
+574004 = {
+    name="Borivoj" # Slovakia
+    dynasty=506
+    religion="slavic_pagan"
+    culture="bohemian"
+	
+	add_trait=shrewd
+	add_trait=cynical
+	
+	#History
+	 
+    838.5.10={
+		birth=yes
+    }
+}
+574005 = {
+    name="Katerina"
+    dynasty=7508
+    religion="slavic_pagan"
+    culture="bohemian"
+	female=yes
+	
+	add_trait=duelist
+	add_trait=homosexual
+	add_trait=tough_soldier
+	add_trait=brawny
+	
+	#History
+	 
+	848.4.26={
+		birth=yes
+	}
+	867.1.1={
+		add_matrilineal_spouse=574006
+	}
+}
+574006 = {
+    name="Jirík"
+    religion="slavic_pagan"
+    culture="bohemian"
+	
+	add_trait=duelist
+	add_trait=fair
+	
+	#History
+	 
+	846.12.4={
+		birth=yes
+	}
+	867.1.1={
+		add_matrilineal_spouse=574005
+	}
+}
+
+# Avaria
+
+574025 = {
+    name="Apskhih" # Pecs
+    dynasty=1022374
+    religion="slavic_pagan"
+    culture="avar"
+	
+	#History
+	 
+    841.1.1={
+		birth=yes
+    }
+}
+574026 = {
+    name="Dizeng" # Temes
+    dynasty=1022368
+    religion="slavic_pagan"
+    culture="avar"
+	
+	#History
+	 
+    841.1.1={
+		birth=yes
+    }
+}
+574027 = {
+    name="Täbär" # Transylvania
+    dynasty=9570
+    religion="tengri_pagan"
+    culture="avar"
+	
+	#History
+	 
+    841.1.1={
+		birth=yes
+    }
+}
+574028 = {
+    name="Kutrigur" # Avaria/Pest
+    dynasty=1022369
+    religion="slavic_pagan"
+    culture="avar"
+	
+	#History
+	 
+    834.9.12={
+		birth=yes
+    }
+	857.1.1={
+		add_spouse=574029
+	}
+}
+574029 = {
+    name="Savilay"
+    religion="slavic_pagan"
+    culture="avar"
+	female=yes
+	
+	#History
+	 
+    837.4.20={
+		birth=yes
+    }
+	857.1.1={
+		add_spouse=574028
+	}
+}
+574030 = {
+    name="Uturgur"
+    dynasty=1022369
+    religion="slavic_pagan"
+    culture="avar"
+	father=574028
+	mother=574029
+	
+	add_trait=strong
+	
+	#History
+	 
+	860.1.1={
+		birth=yes
+	}
+}
+
+# Bulgaria
+
+574050 = {
+    name="Terbelis" # Bulgaria / Ungvar
+    dynasty=1022331
+    religion="slavic_pagan"
+    culture="bulgarian"
+	
+	#History
+	 
+    830.4.12={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=574051
+	}
+}
+574051 = {
+    name="Penka"
+    religion="slavic_pagan"
+    culture="bulgarian"
+	female=yes
+	
+	#History
+	 
+    832.3.1={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=574050
+	}
+}
+574052 = {
+    name="Lidiya"
+    dynasty=1022331
+    religion="slavic_pagan"
+    culture="bulgarian"
+	female=yes
+	father=574050
+	mother=574051
+	
+	#History
+	 
+	851.1.1={
+		birth=yes
+	}
+}
+574053 = {
+    name="Tsvetanka"
+    dynasty=1022331
+    religion="slavic_pagan"
+    culture="bulgarian"
+	female=yes
+	father=574050
+	mother=574051
+	
+	#History
+	 
+	853.1.1={
+		birth=yes
+	}
+}
+
+# Gothia
+
+574075 = {
+    name="Thorismund" # Gothia Crownlands
+    dynasty=5645
+    religion="germanic_rite"
+    culture="ostrogothic"
+	
+	#History
+	 
+    830.4.12={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=574056
+	}
+}
+574076 = {
+    name="Sibilia"
+    religion="germanic_rite"
+    culture="ostrogothic"
+	female=yes
+	
+	#History
+	 
+    831.6.2={
+		birth=yes
+    }
+	851.1.1={
+		add_spouse=574055
+	}
+}
+574077 = {
+    name="Amalaric"
+    dynasty=5645
+    religion="germanic_rite"
+    culture="ostrogothic"
+	father=574075
+	mother=574076
+	
+	#History
+	
+	851.1.1={
+		birth=yes
+	}
+}
+574078 = {
+    name="Valamir" # Gothia Southlands
+    dynasty=5646
+    religion="germanic_rite"
+    culture="ostrogothic"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+574079 = {
+    name="Chasprot" # Osterreich
+    dynasty=1044116
+    religion="germanic_rite"
+    culture="rhaetic"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+
+# Moesia
+
+574100 = {
+    name="Radovan" # Dardania
+    dynasty=5576
+    religion="orthodox"
+    culture="romanian"
+	
+	#History
+	 
+    837.8.2={
+		birth=yes
+    }
+}

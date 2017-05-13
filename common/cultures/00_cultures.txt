@@ -2854,10 +2854,11 @@ west_slavic = {
 		color = { 0.4 0.6 0.5 }
 		
 		male_names = {
-			Albert_Albert Albrecht_Albert Ales_Alexander Arnost_Ernest Bavor Bedrich_Frederick Benes_Benedict Bocek Bohuslav_Boguslaw Boleslav_Boleslav Bores Borijov_Borijov Bretislav_Bretislaus Budivoj Castolov Cenek_Vincent Chval Ctirad Diepold
-			Detrich_Thierry Drslav Gerhard Hanus_John Havel_Gallus Heralt Herman_Herman Hrabis Hynek_Henry Jan_John Jaromír_Jaromir Jaroslav_Jaroslav Jesek Jindrich_Henry Jirík_George Karel_Charles Kojata Konrád_Konrad Kuník Litold
-			Markvart Matous_Matthew Mikulás_Nicholas Milic Mojmír Ojír Oldrich_Ulrich Ondrej_Andrew Ota_Otto Otakar Pelhrim Petr_Peter Premysl_Premysl Prokop_Procopius Rajmund_Raymond Rostislav Sezima Slavibor
-			Slavomír Smil Sobieslav_Sobeslaus Spytihnev Strachkvas Svatobor Svatopluk_Svatopluk Tobiás Václav_Vaclav Viktorín Vítek_Guy Vanek Vilém_William Vladimír_Vladimir Vladislav_Vladislav Vojtech_Albert
+			Albert_Albert Albrecht_Albert Ales_Alexander Arnost_Ernest Bavor Bedrich_Frederick Benes_Benedict Bocek Bohuslav_Boguslaw Boleslav_Boleslav Bores Borijov_Borijov 
+			Bretislav_Bretislaus Budivoj Castolov Cenek_Vincent Chval Ctirad Diepold Detrich_Thierry Drslav Gerhard Hanus_John Havel_Gallus Heralt Herman_Herman Hrabis Hynek_Henry Jan_John 
+			Jaromír_Jaromir Jaroslav_Jaroslav Jesek Jindrich_Henry Jirík_George Karel_Charles Kojata Konrád_Konrad Kuník Litold Markvart Matous_Matthew Mikulás_Nicholas Milic Mojmír Ojír 
+			Oldrich_Ulrich Ondrej_Andrew Ota_Otto Otakar Pelhrim Petr_Peter Premysl_Premysl Prokop_Procopius Rajmund_Raymond Rostislav Sezima Slavibor Slavomír Smil Sobieslav_Sobeslaus 
+			Spytihnev Strachkvas Svatobor Svatopluk_Svatopluk Tobiás Václav_Vaclav Viktorín Vítek_Guy Vanek Vilém_William Vladimír_Vladimir Vladislav_Vladislav Vojtech_Albert 
 			Vratislav_Vratislav Vsebor_Vsebor Závis Zbynek_Zbynek Zdík Zdirad Zikmund_Sigmund 
 		}
 		female_names = {
@@ -2877,14 +2878,14 @@ west_slavic = {
 		color = { 0.4 0.6 0.55 }
 
 		male_names = {
-			Aleksander_Alexander Andrzej_Andrew Bartosz_Bartolomeus Bezprym Boguchwal Bogumil Boleslaw_Boleslav Boncza_Bonifacius Borzyslaw Bozydar_Theodat Borzywoj_Borijov Budziwuj Czcibor_Ctibor Czyrzniech
-			Dalimir Daniel_Daniel Dobieslaw Dobrogost Dobromir Doman Domawuj Dytryk_Thierry Eustachy_Eustace Gaudenty Gierolt_Gerald Gniewomir Gniewosz Gosciwuj Goszczon Henryk_Henry Imram
-			Izbor Józef_Joseph Jacek_Hyacinth Jaksa_Jacob Jakub_Jacob Jakusz Jan_John Janislaw_John Janko_John Janusz_John Jaroslaw_Jaroslav Jerzy_George Karol_Charles Kazimierz Konrad_Konrad Krystyn_Christian Krzeslaw Lambert_Lambert Leszek
-			Maciej_Matthew Macko_Matthew Malowuj Marcin_Martin Maslaw Mateusz_Matthew Mieszko Mikolaj_Nicholas Milobrat Milosz_Milosz Miroslaw_Miroslav Msciwoj Mszczuj Nadbor Niezamysl Odon_Otto Pawel_Paul Pelka
-			Piotr_Peter Piskla Prendota Przemyslaw_Premysl Przybor Sambor Sedziej Sedzimir Sieciech Siemomysl Siemowit Skarbimir Snowid Spytko Stanislaw_Stanislav
-			Stefan_Stephen Stoigniew Strasz Sulislaw Sulistryj Swietopelk_Svatopluk Swietoslaw_Sviatoslav Szczesny_Felix Tomasz_Thomas Trojden Twardomir Usciech Waclaw_Vaclav Wanko_Vaclav Wawrzyniec_Laurence
-			Wielislaw Wieslaw Wincenty_Vincent Wit_Guy Witosz Wladyslaw_Vladislav Wojciech_Albert Wojuta Wszebor_Vsebor Zbigniew_Zbynek Zbyszko_Zbynek Zegota_Ignatius Zelibrat
-			Zygmunt_Sigmund
+			Aleksander_Alexander Andrzej_Andrew Bartosz_Bartolomeus Bezprym Boguchwal Bogumil Boleslaw_Boleslav Boncza_Bonifacius Borzyslaw Bozydar_Theodat Borzywoj_Borijov Budziwuj 
+			Czcibor_Ctibor Czyrzniech Dalimir Daniel_Daniel Dobieslaw Dobrogost Dobromir Doman Domawuj Dytryk_Thierry Eustachy_Eustace Gaudenty Gierolt_Gerald Gniewomir Gniewosz Gosciwuj 
+			Goszczon Henryk_Henry Imram Izbor Józef_Joseph Jacek_Hyacinth Jaksa_Jacob Jakub_Jacob Jakusz Jan_John Janislaw_John Janko_John Janusz_John Jaroslaw_Jaroslav Jerzy_George 
+			Karol_Charles Kazimierz Konrad_Konrad Krystyn_Christian Krzeslaw Lambert_Lambert Leszek Maciej_Matthew Macko_Matthew Malowuj Marcin_Martin Maslaw Mateusz_Matthew Mieszko 
+			Mikolaj_Nicholas Milobrat Milosz_Milosz Miroslaw_Miroslav Msciwoj Mszczuj Nadbor Niezamysl Odon_Otto Pawel_Paul Pelka Piotr_Peter Piskla Prendota Przemyslaw_Premysl Przybor 
+			Sambor Sedziej Sedzimir Sieciech Siemomysl Siemowit Skarbimir Snowid Spytko Stanislaw_Stanislav Stefan_Stephen Stoigniew Strasz Sulislaw Sulistryj Swietopelk_Svatopluk 
+			Swietoslaw_Sviatoslav Szczesny_Felix Tomasz_Thomas Trojden Twardomir Usciech Waclaw_Vaclav Wanko_Vaclav Wawrzyniec_Laurence Wielislaw Wieslaw Wincenty_Vincent Wit_Guy Witosz 
+			Wladyslaw_Vladislav Wojciech_Albert Wojuta Wszebor_Vsebor Zbigniew_Zbynek Zbyszko_Zbynek Zegota_Ignatius Zelibrat Zygmunt_Sigmund
 		}
 		female_names = {
 			Adelajda Adleta Agnieszka_Agnes Aldona Anastazja_Anastasia Anna_Anna Beata Bozena Danuta Dobrawa Dobronega Elzbieta_Elisabeth Eufemia_Euphemia Eufrozyna Gertruda_Gertrude Grzymislawa

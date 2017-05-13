@@ -7490,6 +7490,7 @@ e_roman_empire = {
 		color2={ 255 255 255 }
 		
 		capital = 817 # Tunis
+		dignity = 10 # Counted as having this many more counties than it does
 		
 		culture = maghreb_arabic
 		
@@ -11796,7 +11797,7 @@ e_byzantium = {
 		}
 	}
 	k_bulgaria = {
-		color={ 113 88 101 }
+		color={ 104 100 44 }
 		color2={ 255 255 255 }
 		
 		culture = bulgarian
@@ -11821,7 +11822,7 @@ e_byzantium = {
 	}
 		
 	k_croatia = {
-		color={ 122 46 58 }
+		color={ 110 65 110 }
 		color2={ 200 0 0 }
 		
 		culture = croatian
@@ -20004,10 +20005,10 @@ e_tartaria = {
 		}
 	}
 	k_magyar = {
-		color={ 187 70 70 }
+		color={ 187 70 122 }
 		culture = hungarian
 
-		capital = 522 # Pest
+		capital = 512 # Belgorod
 	
 		allow = {
 			culture = hungarian
@@ -24473,39 +24474,12 @@ e_carpathia = {
                 }
             }
         }
-		d_nyitra = {
+		d_slovakia = {
 			color={ 131 158 57 }
 			color2={ 255 255 255 }
 			
-			capital = 443 # Nitra
-
-			german = Neutra
-			bohemian = Nitra
+			capital = 442 # Trencin
 			
-			c_nitra = {
-				color={ 194 25 25 }
-				color2={ 255 255 255 }
-
-				german = Neutra
-				bohemian = Nitra
-				
-				b_nyitra = {
-				}
-				b_nagytapolcsany = {
-				}
-				b_stbenedek = {
-				}
-				b_nagysurany = {
-				}
-				b_galgoc = {
-				}
-				b_zabokreky = {
-				}
-				b_postyen = {
-				}
-				b_preuigan = {
-				}
-			}
 			c_trencin = {
 				color={ 198 29 29 }
 				color2={ 255 255 255 }
@@ -24575,16 +24549,39 @@ e_carpathia = {
 				}
 			}
 		}
-		d_esztergom = {
+		d_nyitra = {
 			color={ 166 182 60 }
 			color2={ 255 255 255 }
 			
-			capital = 444 # Esztergom
+			capital = 443 # Nitra
 
-			german = Gran
-			bohemian = Ostrihom
-			croatian = Ostrogon
+			german = Neutra
+			bohemian = Nitra
 			
+			c_nitra = {
+				color={ 194 25 25 }
+				color2={ 255 255 255 }
+
+				german = Neutra
+				bohemian = Nitra
+				
+				b_nyitra = {
+				}
+				b_nagytapolcsany = {
+				}
+				b_stbenedek = {
+				}
+				b_nagysurany = {
+				}
+				b_galgoc = {
+				}
+				b_zabokreky = {
+				}
+				b_postyen = {
+				}
+				b_preuigan = {
+				}
+			}
 			c_esztergom = {
 				color={ 214 66 66 }
 				color2={ 255 255 255 }
@@ -27414,27 +27411,6 @@ e_arabia = {
 				b_uwayqilah = {
 				}
 				b_ashshir = {
-				}
-			}
-			c_hail = {
-				color={ 178 253 71 }
-				color2={ 255 255 255 }
-			
-				b_hail = {
-				}
-				b_asshinan = {
-				}
-				b_alghazalah = {
-				}
-				b_baqa = {
-				}
-				b_iqdah = {
-				}
-				b_mawqaq = {
-				}
-				b_murayfiq = {
-				}
-				b_saban = {
 				}
 			}
 			c_hajr = {
@@ -31581,9 +31557,6 @@ d_shiraz = {
 }
 d_sinope = {
 	color = { 255 6 172 }
-}
-d_slovakia = {
-	color = { 209 61 61 }
 }
 d_sweden = {
 	color={ 55 112 170 }

@@ -1,0 +1,15 @@
+554000 = {
+    name="Yeshua"
+    dynasty=59015
+    religion="catholic"
+    culture="apennine"
+	
+	#History
+	 
+    834.9.25={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=534001
+	}
+}

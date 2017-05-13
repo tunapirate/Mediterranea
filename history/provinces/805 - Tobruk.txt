@@ -17,7 +17,7 @@ b_sollum = temple
 #b_rukbah = castle
 
 # Misc
-culture = maghreb_arabic
+culture = aegyptian
 religion = miaphysite
 
 # History
