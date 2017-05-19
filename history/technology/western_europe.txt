@@ -1,0 +1,244 @@
+#AFRICA
+
+technology = {
+	titles = {
+	#k_africa
+		d_tunis
+	#k_mauretania
+		d_tangiers
+	#k_numidia
+		d_aghlan
+		d_atlas_mtn
+		d_caesariense
+		d_kabylia
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+#BRITANNIA
+
+technology = {
+	titles = {
+	#k_cumbria
+		d_cornovia
+		d_deifr
+		d_galloway
+		d_lothian
+		d_rheged
+		d_the_isles
+	#k_england
+		d_canterbury
+		d_norfolk
+	#k_ireland
+		d_connacht
+		d_leinster
+		d_meath
+		d_munster
+		d_ulster
+	#k_lloegyr
+		d_bedford
+		d_cornwall
+		d_gloucester
+		d_hereford
+		d_somerset
+	#k_scotland
+		d_albany
+		d_moray
+		d_western_isles
+	#k_wales
+		d_deheubarth
+		d_gwynedd
+		d_powys
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+#GALLIA
+
+technology = {
+	titles = {
+	#k_aquitaine
+		d_aquitaine
+		d_auvergne
+		d_bourbon
+		d_gascogne
+		d_poitou
+		d_provence
+		d_toulouse
+	#k_gallia
+		d_anjou
+		d_berry
+		d_brittany
+		d_helvetia
+		d_lyon
+		d_normandy
+		d_orleans
+		d_saoconna
+		d_savoie
+		d_syagria
+		d_upper_lorraine
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+#GERMANIA
+
+technology = {
+	titles = {
+	#k_bavaria
+		d_bavaria
+		d_osterreich
+	#k_france
+		d_brabant
+		d_flanders
+		d_luxembourg
+	#k_frisia
+		d_holland
+		d_gelre
+	#k_gothia
+		d_gothia
+	#k_raetia
+		d_noricum
+		d_raetia
+	#k_swabia
+		d_alsace
+		d_koln
+		d_lower_lorraine
+		d_mainz
+		d_swabia
+		d_thuringia
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+#HISPANIA
+
+technology = {
+	titles = {
+	#k_bardulia
+		d_salamanca
+		d_toledo
+		d_vacaya
+	#k_betica
+		d_bastetania
+		d_cordoba
+		d_sevilla
+	#k_cartagena
+		d_cartagena
+		d_mallorca
+		d_valencia
+	#k_galicia
+		d_asturias
+		d_galicia
+	#k_lusitania
+		d_beja
+		d_merida
+		d_olisipo
+	#k_tarraconense
+		d_barcelona
+		d_bilbilis
+		d_navarra
+		d_tarragona
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+#ITALIA
+
+technology = {
+	titles = {
+	#k_illyria
+		d_dalmatia
+		d_dioclea
+		d_liburnia
+		d_savia
+	#k_italy
+		d_ancona
+		d_apulia
+		d_benevento
+		d_capua
+		d_latium
+		d_lucania
+		d_sardinia
+		d_sicily
+		d_spoleto
+		d_toscana
+	#k_moesia
+		d_dardania
+		d_upper_moesia
+	#k_padania
+		d_carinthia
+		d_liguria
+		d_milan
+		d_padua
+		d_ravenna
+		d_venice
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,80 @@
+
+#EASTERN EUROPE
+
+technology = {
+	titles = {
+	#k_bohemia
+		d_bohemia
+		d_meissen
+	#k_czechia
+		d_moravia
+		d_nyitra
+		d_slovakia
+	#k_dacia
+		d_moldau
+	#k_danubia
+		d_pecs
+		d_pest
+		d_temes
+		d_transylvania
+		d_ungvar
+	#k_poland
+		d_greater_poland
+		d_kuyavia
+		d_lesser_poland
+		d_mazovia
+		d_pommerania
+		d_pomeralia
+		d_silesia
+	#k_lithuania
+		d_courland
+		d_lithuanians
+		d_polotsk
+		d_prussia
+		d_samogitia
+		d_vitebsk
+		d_yatviags
+	#k_ruthenia
+		d_chernigov
+		d_galich
+		d_kiev
+		d_moskva
+		d_novgorod_seversk
+		d_pereyaslavl
+		d_smolensk
+		d_turov
+		d_tver
+		d_volhynia
+	#k_saxony
+		d_brunswick
+		d_holstein
+		d_mecklemburg
+		d_saxony
+	#k_vepsia
+		d_esthonia
+		d_livonia
+		d_novgorod
+		d_pskov
+		d_rostov
+		d_yaroslavl
+	#k_volga
+		d_maris
+		d_mordvins
+		d_ryazan
+		d_vladimir
+	}
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}
+
+

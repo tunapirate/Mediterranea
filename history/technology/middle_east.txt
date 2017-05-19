@@ -1,0 +1,48 @@
+#MIDDLE EAST
+
+technology = {
+	titles = {
+	#k_afghanistan
+		d_kabul
+		d_zabulistan
+	#k_arabia
+		d_amman
+		d_medina
+		d_nefoud
+		d_oman
+	#k_arabia_petraea
+		d_arabia_petrae
+		d_syrian_desert
+	#k_armenia
+		d_armenia
+	#k_baluchistan
+		d_baluchistan
+		d_sistan
+	#k_georgia
+		d_abkhazia
+		d_caucasian_albania
+		d_kartli
+	#k_persia
+		d_esfahan
+		d_fars
+		d_hamadan
+		d_kerman
+		d_kermanshah
+		d_khorasan
+		d_mazandaran
+		d_tabriz
+	}
+	
+	769 = {
+		military = 0.5
+		economy = 1.1
+		culture = 1.1
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+

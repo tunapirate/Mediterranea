@@ -1,0 +1,122 @@
+bm_the_old_gods = {
+	name = "BM_MED_THE_ORIENT"
+	desc = "BM_MED_THE_ORIENT_INFO"
+	date = 867.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+
+	selectable_character = {
+		id = 543516 # Basileus Constantine
+		age = 57
+		name = ERA_CHAR_NAME
+		title = e_byzantium
+		title_name = 
+		
+		character = {
+			religion="orthodox"
+			culture="greek"
+			government = feudal_government
+			dynasty=5551
+		}
+	}
+
+	selectable_character = {
+		id = 40605 # Rurik
+		age = 37
+		name = ERA_CHAR_NAME_40605
+		title = k_asia
+		title_name = ERA_HOLMGARDR
+		
+		character = {
+			dna = tczeyfghtom
+			properties = th0ebd000000
+			religion="norse_pagan"
+			culture="norse"
+			government = tribal_government
+			dynasty=705
+		}
+	}
+
+	selectable_character = {
+		id = 90104 # Charles the Bald
+		age = 43
+		name = ERA_CHAR_NAME_90104
+		title = k_syria
+		title_name = WEST_FRANCIA
+		
+		character = {
+			dna = cjlcjygaaar
+			properties = an0abb000000
+			religion="catholic"
+			culture="frankish"
+			government = feudal_government
+			dynasty=25061
+		}
+	}
+
+	selectable_character = {
+		id = 90107 # Ludwig the German
+		age = 61
+		name = ERA_CHAR_NAME_90107
+		title = k_germany
+		title_name = EAST_FRANCIA
+		
+		character = {
+			dna = bagmeomdaai
+			properties = aj0abb000000
+			religion="catholic"
+			culture="german"
+			government = feudal_government
+			dynasty=25061
+		}
+	}
+
+	selectable_character = {
+		id = 1700 # Basil I
+		age = 30
+		name = ERA_CHAR_NAME_1700
+		title = e_byzantium
+		title_name = e_byzantium
+		
+		character = {
+			dna = dageigbabbe
+			properties = am0aj0000000
+			religion="orthodox"
+			culture="greek"
+			government = feudal_government
+			dynasty=644
+		}
+	}
+
+	selectable_character = {
+		id = 34014 # Al-Mu'tazz
+		age = 20
+		name = ERA_CHAR_NAME_34014
+		title = e_arabia
+		title_name = d_abbasid
+		
+		character = {
+			dna = csdeypeevjm
+			properties = eo0bb0000000
+			religion="sunni"
+			culture="bedouin_arabic"
+			government = muslim_government
+			dynasty=101727
+		}
+	}
+
+	### These are not shown unless the player is viewing custom bookmarks
+
+	selectable_character = {
+		id = 33358 # Æthelred
+	}
+
+	selectable_character = {
+		id = 163111 # Ivar the Boneless	
+	}
+
+	selectable_character = {
+		id = 45107 # Vandad I
+	}
+}2
