@@ -6,8 +6,8 @@ title = c_znojmo
 # Settlements
 max_settlements = 4
 
-b_znojmo = castle
-b_mikulov = city
+b_znojmo = tribal
+#b_mikulov = city
 b_trebic = temple
 
 #b_trebic = temple

@@ -8,8 +8,8 @@ max_settlements = 3
 
 b_souzopolis = castle
 b_aezani = city
+b_synnada = temple
 
-#b_synnada = temple
 #b_cadi = castle
 #b_polidorion = castle
 #b_kelainai = castle

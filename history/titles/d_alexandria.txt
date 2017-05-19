@@ -1,4 +1,7 @@
 867.1.1={
 	holder = 504320
 	liege = "k_egypt"
+	law = succ_primogeniture
+	law = law_voting_power_1
+	law = revoke_title_law_0
 }

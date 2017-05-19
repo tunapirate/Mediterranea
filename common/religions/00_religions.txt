@@ -240,7 +240,7 @@ christian = {
 		icon = 1
 		heresy_icon = 6
 		
-		color = { 1.00 0.56 0.39 }
+		color = { 0.77 0.45 0.24 }
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
@@ -339,7 +339,7 @@ christian = {
 		icon = 2
 		heresy_icon = 7
 		
-		color = { 0.57 0.34 0.93 }
+		color = { 0.45 0.21 0.58 }
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
@@ -374,7 +374,7 @@ christian = {
 		icon = 11
 		heresy_icon = 13
 		
-		color = { 0.7 0.7 0.1 }
+		color = { 0.60 0.26 0.33 }
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
@@ -473,7 +473,7 @@ christian = {
 		icon = 2
 		heresy_icon = 7
 		
-		color = { 0.42 0.20 0.51 }
+		color = { 0.34 0.11 0.45 }
 		parent = orthodox
 		
 		crusade_name = CRUSADE
@@ -611,7 +611,7 @@ muslim = {
 		icon = 3
 		heresy_icon = 8
 		
-		color = { 0 0.6 0 }
+		color = { 0.24 0.55 0.24 }
 		
 		crusade_name = JIHAD
 		scripture_name = THE_KORAN
@@ -637,6 +637,7 @@ muslim = {
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = yes
 		uses_jizya_tax = yes
+		hard_to_convert = yes
 	}
 	zikri = {
 		graphical_culture = muslimgfx
@@ -777,6 +778,7 @@ muslim = {
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = yes
 		uses_jizya_tax = yes
+		hard_to_convert = yes
 	}
 	druze = {
 		graphical_culture = muslimgfx
@@ -1039,7 +1041,7 @@ pagan_group = {
 		icon = 28
 		heresy_icon = 30
 		
-		color = { 0.0 0.2 0.8 }
+		color = { 0.47 0.51 0.29 }
 		
 		high_god_name = GOD_TENGRI
 		
@@ -1147,7 +1149,7 @@ pagan_group = {
 		icon = 31
 		heresy_icon = 33
 		
-		color = { 0.6 0.4 0.3 }
+		color = { 0.06 0.52 0.29 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = VOLHV
@@ -1267,7 +1269,7 @@ pagan_group = {
 		icon = 25
 		heresy_icon = 27
 		
-		color = { 0.5 0.5 0.0 }
+		color = { 0.08 0.37 0.17 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = SHAMAN
@@ -1471,7 +1473,7 @@ pagan_group = {
 		icon = 22
 		heresy_icon = 24
 		
-		color = { 0.7 0.6 0.3 }
+		color = { 0.33 0.47 0.21 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = VOLHV
@@ -1594,7 +1596,7 @@ pagan_group = {
 		icon = 34
 		heresy_icon = 35
 		
-		color = { 0.8 0.35 0.0 }
+		color = { 0.26 0.34 0.22i }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
 		priest_title = SHAMAN
@@ -1699,7 +1701,7 @@ pagan_group = {
 		icon = 48
 		heresy_icon = 50
 		
-		color = { 0.9 1.0 0.0 }
+		color = { 0.21 0.53 0.81 }
 		
 		high_god_name = GOD_ZUN
 		
@@ -1760,7 +1762,7 @@ zoroastrian_group = {
 		icon = 10
 		heresy_icon = 12
 		
-		color = { 0.5 0.7 0.2 }
+		color = { 0.37 0.69 0.80 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_GATHAS
 		priest_title = HERBAD
@@ -1799,7 +1801,7 @@ zoroastrian_group = {
 		icon = 10
 		heresy_icon = 12
 		
-		color = { 0.3 0.65 0.25 }
+		color = { 0.52 0.76 0.78 }
 		
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_GREAT_SECRET
@@ -1833,7 +1835,7 @@ zoroastrian_group = {
 		icon = 10
 		heresy_icon = 12
 		
-		color = { 0.7 0.7 0.4 }
+		color = { 0.32 0.78 0.70 }
 		crusade_name = GREAT_HOLY_WAR
 		
 		high_god_name = GOD_ZURVAN
@@ -1880,7 +1882,7 @@ jewish_group = {
 		icon = 38
 		heresy_icon = 39
 		
-		color = { 0.1 0.7 1.0 }
+		color = { 0.28 0.36 0.62 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_TORAH
 		priest_title = RABBI
@@ -1978,7 +1980,7 @@ indian_group = {
 		icon = 44
 		heresy_icon = 45
 		
-		color = { 1.0 0.0 0.0 }
+		color = { 0.80 0.76 0.09 }
 		
 		high_god_name = GOD_BRAHMA
 		
@@ -2022,7 +2024,7 @@ indian_group = {
 		icon = 40
 		heresy_icon = 41
 		
-		color = { 0.8 0.4 0.0 }
+		color = { 0.80 0.26 0.00 }
 		
 		high_god_name = GOD_BRAHMA
 		
@@ -2068,7 +2070,7 @@ indian_group = {
 		icon = 42
 		heresy_icon = 43
 		
-		color = { 1.0 1.0 0.4 }
+		color = { 0.68 0.09 0.09 }
 		
 		high_god_name = GOD_THE_TIRTHANKARAS
 		
@@ -2146,7 +2148,7 @@ greco-italic = {
 	mercurial = {
 		graphical_culture = westerngfx
 
-		icon = 53
+		icon = 63
 		
 		color = { 1.00 0.98 0.31 }
 		
@@ -2174,9 +2176,9 @@ greco-italic = {
 	apollonian = {
 		graphical_culture = westerngfx
 		
-		icon = 54
+		icon = 53
 		
-		color = { 1.00 0.56 0.39 }
+		color = { 1.00 0.38 0.45 }
 		
 		high_god_name = APOLLO
 		

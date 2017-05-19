@@ -1,15 +1,231 @@
-554000 = {
-    name="Yeshua"
-    dynasty=59015
-    religion="catholic"
-    culture="apennine"
+# Dalmatia
+
+554000 = { # Dioclea/Prevalitana
+    name="Benedetto"
+    dynasty=59733
+    religion="apollonian"
+    culture="dalmatian"
 	
 	#History
 	 
-    834.9.25={
+    835.3.12={
 		birth=yes
     }
-	854.1.1={
-		add_spouse=534001
+	858.1.1={
+		add_spouse=554001
 	}
+}
+554001 = {
+    name="Lucija"
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	
+	#History
+	 
+    838.10.28={
+		birth=yes
+    }
+	858.1.1={
+		add_spouse=554000
+	}
+}
+554002 = {
+    name="Uršula"
+    dynasty=59733
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	father=554000
+	mother=554001
+	
+	#History
+
+	860.1.17={
+		birth=yes
+	}
+}
+554003 = {
+    name="Troian"
+    dynasty=59733
+    religion="apollonian"
+    culture="dalmatian"
+	father=554000
+	mother=554001
+	
+	#History
+
+	863.3.22={
+		birth=yes
+	}
+}
+554004 = {
+    name="Antonia"
+    dynasty=59733
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	father=554000
+	mother=554001
+	
+	#History
+
+	865.7.6={
+		birth=yes
+	}
+}
+554005 = {
+    name="Marcellinus" # Upper Moesia 
+    dynasty=59734
+    religion="apollonian"
+    culture="dalmatian"
+	
+	#History
+	 
+    824.4.29={
+		birth=yes
+    }
+	847.1.1={
+		add_spouse=554006
+	}
+}
+554006 = {
+    name="Antulina"
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	
+	#History
+	 
+    827.12.5={
+		birth=yes
+    }
+	847.1.1={
+		add_spouse=554005
+	}
+}
+554007 = {
+    name="Magdalena"
+    dynasty=59734
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	father=554005
+	mother=554006
+	
+	#History
+
+	848.5.3={
+		birth=yes
+	}
+}
+554008 = {
+    name="Lucas"
+    dynasty=59734
+    religion="apollonian"
+    culture="dalmatian"
+	father=554005
+	mother=554006
+	
+	#History
+
+	851.2.14={
+		birth=yes
+	}
+}
+554009 = {
+    name="Petrus" # Dalmatia
+    dynasty=59718
+    religion="apollonian"
+    culture="dalmatian"
+	
+	#History
+	 
+    836.8.18={
+		birth=yes
+    }
+	859.1.1={
+		add_spouse=554010
+	}
+}
+554010 = {
+    name="Auguste"
+    dynasty=59718
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	
+	#History
+	 
+    839.3.11={
+		birth=yes
+    }
+	859.1.1={
+		add_spouse=554009
+	}
+}
+554011 = {
+    name="Petrus"
+    dynasty=59718
+    religion="apollonian"
+    culture="dalmatian"
+	father=554009
+	mother=554010
+	
+	#History
+
+	861.3.21={
+		birth=yes
+	}
+}
+554012 = {
+    name="Helizabeth"
+    dynasty=59718
+    religion="apollonian"
+    culture="dalmatian"
+	female=yes
+	father=554009
+	mother=554010
+	
+	#History
+
+	861.3.21={
+		birth=yes
+	}
+}
+554013 = {
+    name="Victor"
+    dynasty=59712
+    religion="apollonian"
+    culture="dalmatian"
+	
+	#History
+
+	842.12.4={
+		birth=yes
+	}
+}
+
+# Pannonia
+
+554050 = {
+	name="Paulus" # Aquileia
+	dynasty=59514
+	religion="apollonian"
+	culture="italian"
+	
+	#History
+	
+	867.1.1={
+		birth=yes
+	}
+}
+
+# Italia
+
+554100 = {
+	name="Cosimo"
+	dynasty=######
+	religion="apollonian"
+	culture="apennine"
 }

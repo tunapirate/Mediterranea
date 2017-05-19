@@ -122,7 +122,7 @@
 
 574025 = {
     name="Apskhih" # Pecs
-    dynasty=1022374
+    dynasty=5675
     religion="slavic_pagan"
     culture="avar"
 	

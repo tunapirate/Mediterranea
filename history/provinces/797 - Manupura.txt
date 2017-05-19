@@ -17,7 +17,7 @@ b_zagazig = castle
 
 # Misc
 culture = aegyptian
-religion = miaphysite
+religion = orthodox
 
 # History
 

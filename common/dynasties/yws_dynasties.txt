@@ -545,6 +545,98 @@
 	culture="ostrogothic"
 	religion="germanic_rite"
 }
+5647=
+{
+	name="Wulfiling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5648=
+{
+	name="Radaguisling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5649=
+{
+	name="Guating"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5650=
+{
+	name="Gisling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5651=
+{
+	name="Hlöðing"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5652=
+{
+	name="Heiðrekring"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5653=
+{
+	name="Terving"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5654=
+{
+	name="Balting"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5655=
+{
+	name="Gisling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5656=
+{
+	name="Agiling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5657=
+{
+	name="Suintiling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5658=
+{
+	name="Gisling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5659=
+{
+	name="Triarius"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+5660=
+{
+	name="Heruling"
+	culture="ostrogothic"
+	religion="germanic_rite"
+}
+
+# Avar
+5675=
+{
+	name="Iazyges"
+	culture="avar"
+	religion="zoroastrian"
+}
 
 # Arab
 
@@ -924,7 +1016,13 @@
 594500=
 {
 	name="Cassia" #Caesaraugusta
-	culture="levantine"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+594501=
+{
+	name="Comentiolus" #Baetica
+	culture="catalan"
 	religion="hellenic_pagan"
 }
 
@@ -987,6 +1085,48 @@
 59508=
 {
 	name="Mariniana"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59509=
+{
+	name="Arminica"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59510=
+{
+	name="Eleutheria"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59511=
+{
+	name="Ducas"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59512=
+{
+	name="Comes"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59513=
+{
+	name="Senatoris"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59514=
+{
+	name="Scaptia" # Aquileia
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59515=
+{
+	name="Albinus"
 	culture="apennine"
 	religion="hellenic_pagan"
 }
@@ -1280,6 +1420,18 @@
 59732=
 {
 	name="Prodanello"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59733=
+{
+	name="Nepotes"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59734=
+{
+	name="Comes"
 	culture="dalmatian"
 	religion="hellenic_pagan"
 }

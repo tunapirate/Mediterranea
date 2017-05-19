@@ -1,4 +1,5 @@
 867.1.1={
 	holder = 504204
 	liege = "k_numidia"
+	law = succ_primogeniture
 }

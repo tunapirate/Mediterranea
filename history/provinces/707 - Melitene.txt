@@ -20,10 +20,3 @@ religion = orthodox
 terrain = mountain
 
 # History
-#930.1.1 = { religion = orthodox }
-
-1121.1.1 = { 
-	culture = kurdish
-	religion = sunni
-}
-1200.1.1 = { culture = turkish }

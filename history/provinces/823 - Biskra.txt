@@ -8,7 +8,7 @@ max_settlements = 3
 
 b_biskra = castle
 b_batna = city
-#b_khenchela = temple
+b_khenchela = temple
 
 #b_sidiokba = castle
 #b_nebka = castle

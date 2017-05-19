@@ -251,28 +251,24 @@ central_germanic = {
 		color = { 0.6 0.6 0.8 }
 
 		male_names = {
-			Adalgis Adaloald Adhemar_Adhemar Ado Agelmund Agilof_Agilulf Agilulf_Agilulf Agiprand Ago Ahthari Aimeric_Aymeric
-			Aistulf Aiulf_Aiulf Ajo_Aiulf Alahis Alboin_Alwin Aldihoc Alo_Adolf Altpert_Albert Amefrith Anselm_Anselm Ansfrid Ansfrith
-			Ansprand Ardoin Arechis Ariald_Harold Aribert_Herbert Arichis Aripert_Herbert Ariulf Arnefrith Arnifrid Artavasdas Atenulf
-			Atto Audelahis Audoin_Alwin Aunepert Ausfrid Authari_Ottar Berin_Berin Bernard_Bernard Birinus_Berin Cleph Corvulus
-			Daufer Desiderius Donnolo Erchempert Erchinoald Erlembald Ewin Fara Faroald Ferdulf Gacco Garibald_Gerald Gisulf Godehoc
-			Godepert Godescalc_Gottschalk Grasulf Grimoald Guaifer_Guaifer Guaimar_Guaimar Gumpert Gundo_Gundoald Gundoald_Gundoald
-			Hermenfred Hildeprand_Hildebrand Hilderic Hildigis Hilmagis Hrodgaud_Rodgand Hucpert_Hugh Ibor_Ivar Ildiches Indulf_Adolf
-			Ingoald Ioann_John Irnerius_Werner Kakko Kunibert Laiamicho Laidulf Lambert_Lambert Landari Landenulf Lando_Lando
-			Landulf_Landolf Lantpert Laudari Liutbald_Leopold Liutbrand Liutpert_Lutbert Liutprand Liutward Lupus_Lupo Maginulf Manso Munichis
-			Nordepert_Norbert Odilo Odoaker Odoin_Otwin Orson Pandenulf Pandulf_Randolph Pemmo Penno Perctarit_Berthold Petrus_Peter
-			Poppo Radelchis Radelgar Radgis_Radgis Radwald Raginpert Ratchis_Radgis Reccared_Richard Risiulf Rochus Rodgand_Rodgand
-			Rodoald_Rodwald Rodolf_Ralph Rodwald_Rodwald Romuald Rothari Saxo Sico_Sicco Siconulf Sigibuld Sigisbert_Sigisbert Sigisbrand Sikard_Sigurd
-			Sinibald_Sinibald Taino Taso Theodelap Theoderich_Theoderic Theodicius Theodo_Dieter Theodorich_Thierry Theotpert Theudoald Thrasimund
-			Unichis Unigild Unulf Ursus_Ursus Vacho Waifar_Guaifer Waimar_Guaimar Waldchis Waldipert Walthari_Walter Wechthari Wido_Guy Zotto Zuchilo
+			Adalgis Adaloald Adhemar_Adhemar Ado Agelmund Agilof_Agilulf Agilulf_Agilulf Agiprand Ago Authari Aimeric_Aymeric Aistulf Aiulf_Aiulf Ajo_Aiulf Alahis Alboin_Alwin Aldihoc 
+			Alo_Adolf Altpert_Albert Amefrith Anselm_Anselm Ansfrid Ansfrith Ansprand Ardoin Arechis Arioald_Harold Aribert_Herbert Arichis Aripert_Herbert Ariulf Arnefrith Arnifrid 
+			Artavasdas Atenulf Atto Audelahis Audoin_Alwin Aunepert Ausfrid Authari_Ottar Berin_Berin Bernard_Bernard Birinus_Berin Cacco Claffo Cleph Corvulus Daufer Desiderius Donnolo 
+			Erchempert Erchinoald Erlembald Ewin Fara Faroald Ferdulf Gacco Garibald_Gerald Gisulf Godehoc Godepert Godescalcus_Gottschalk Grasulfus Grimoald Guaifer_Guaifer Guaimar_Guaimar 
+			Gumpert Gundo_Gundoald Gundoald_Gundoald Hermenfred Hildeprand_Hildebrand Hilderic Hildigis Hilmagis Hrodgaud_Rodgand Hucpert_Hugh Ibor_Ivar Ildiches Ildigisal Indulf_Adolf 
+			Ingoald Ioann_John Irnerius_Werner Kakko Kunibert Laiamicho Laidulf Lambert_Lambert Landari Landenulf Lando_Lando Landulf_Landolf Lantpert Laudari Liutbald_Leopold Liutbrand 
+			Liutpert_Lutbert Liutprand Liutward Lupus_Lupo Maginulf Manso Munichis Nordepert_Norbert Odilo Odoaker Odoin_Otwin Orson Pandenulf Pandulf_Randolph Pemmo Penno Perctarit_Berthold 
+			Petrus_Peter Poppo Radelchis Radelgar Radgis_Radgis Radwald Raginpert Ratchis_Radgis Reccared_Richard Risiulf Rochus Rodgand_Rodgand Rodoald_Rodwald Rodolf_Ralph Rodwald_Rodwald 
+			Romuald Rothari Saxo Sico_Sicco Siconulf Sigibuld Sigisbert_Sigisbert Sigisbrand Sikard_Sigurd Sinibald_Sinibald Taino Taso Theodelap Theoderich_Theoderic Theodicius Theodo_Dieter
+			Theodorich_Thierry Theotpert Theudoald Thrasimund Unichis Unigild Unulf Ursus_Ursus Vacho Waifar_Guaifer Waimar_Guaimar Waldchis Waldipert Walthari_Walter Wechthari Wido_Guy 
+			Zotto Zuchilo
 		}
 		female_names = {
-			Adelberga Adelchisa Adelgrima Adelperga Altruda_Adeltrudis Amalasuintha Amalberga Amalfrida Ansa_Ansa Anselberga Anselperga Ansia
-			Appa Areagne Aurona Chlotsuintha Cotani Cunigunda_Kunigunde Desiderata Ereleuva Erelieva Gaatha Gaila Gaitelgrima Gambara Geila
-			Gemma Geretrudis_Gertrude Gerperga_Gerberga Giseltrude_Gisela Giso Glismoda Gudeliva Gundeperga Guntrud_Gudrun Helchen Hermelinda_Herlinda
-			Hunila Imma_Emma Kriemhild Liutberga Liutperga Liutpirc Maria_Maria Marozia Matasuntha Menia Pilitrud Rodelinda Rosamund Rotrude Rumetruda
-			Serenahilt_Serhilda Sichelgaita Sunigilda Sunilda Swanahild_Swanahild Theodarada Theodelinda Theodorada Theodota Theuderada Thiudigotho Uta_Ute
-			Vadamerca Valdamerca Walderada Wilgefortis Wisigarda
+			Adelberga Adelchisa Adelgrima Adelperga Altruda_Adeltrudis Amalasuintha Amalberga Amalfrida Ansa_Ansa Anselberga Anselperga Ansia Appa Areagne Aurona Austrigusa Chlodosinda 
+			Chlotsuintha Cotani Cunigunda_Kunigunde Desiderata Ereleuva Erelieva Gaatha Gaila Gaitelgrima Gambara Geila Gemma Geretrudis_Gertrude Gerperga_Gerberga Giseltrude_Gisela Giso 
+			Glismoda Gudeliva Gundeperga Guntrud_Gudrun Helchen Hermelinda_Herlinda Hunila Imma_Emma Kriemhild Liutberga Liutperga Liutpirc Maria_Maria Marozia Matasuntha Menia Pilitrud 
+			Ranisunda  Rodelinda Rosamund Rotrude Rumetruda Salinga Serenahilt_Serhilda Sichelgaita Sunigilda Sunilda Swanahild_Swanahild Theodarada Theodelinda Theodorada Theodota 
+			Theuderada Thiudigotho Uta_Ute Vadamerca Valdamerca Walderada Wilgefortis Wisigarda
 		}
 
 		from_dynasty_prefix = "de "
@@ -296,32 +292,27 @@ central_germanic = {
 		color = { 0.3 0.3 0.5 }
 
 		male_names = {
-			Abrahil Abram Adalbald Adalbert_Albert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn
-			Andica Ansovald Arcambald Aregisel Arnegisel Arnulf_Arnulf Ascaric Audovald Austregisel Autbert Autgari Autgeri
-			Avremar Badegisel Balduin_Baldwin Barnard Berald Bernard_Bernard Berneri Bero Berold Berthefried Bertlin Bertram
-			Bertrand Burchard_Bouchard Karloman_Carloman Ceslin Chararic Charibert Childebert Childeric Chilperic
-			Chlodomer Chlothar_Lothair Chramnesind Clodio Clodion Clovis Creat Dagaric Dagobert Drogo_Drogo Eberulf Ebregisel Engilbert
-			Euric Everard_Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari Fulcrad
-			Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert
-			Gerhard Gerold Gislari Gislevert Gocelm Godalbert Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad
-			Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert Hugbert_Hubert Imnachar Ingalbert_Engelbrecht
-			Ingomer Karl_Charles Lambert_Lambert Lantbert Leudast Lothar_Lothair Magnachar Magneric Mainard Mallobaudes Marachar Marcomer
-			Marell Martin_Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond_Faramond
-			Pippin Radulf_Ralph Ragambald Ragena Ragenard Raginari Ragnachar Ragnald_Ragnvald Ragno Raimbold Rainald_Reginald Ramnulf Rathar
-			Raynold_Reinhold Reginari Ricchar Rignomer Roland_Roland Robert_Robert Rotbert Segoin Seguin Sicbald Sichar Sicland Sicleard Siclevold
-			Sigebald Sigebert Sigeric Sigismund_Sigmund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald Teutbert
-			Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn_Wolfram Vulvari
-			Waltgaud Werinbert Wilbert Willichar Wolfari
+			Abrahil Abram Adalbald Adalbert_Albert Adalgari Adalgrim Aegidius Ageric Agilbert Agiulf Ailbert Albric Aldedramn Andica Ansovald Arcambald Aregisel Arnegisel Arnulf_Arnulf 
+			Ascaric Audovald Austregisel Autbert Autgari Autgeri Avremar Badegisel Balduin_Baldwin Barnard Berald Bernard_Bernard Berneri Bero Berold Berthefried Bertlin Bertram Bertrand 
+			Burchard_Bouchard Karloman_Carloman Ceslin Chararic Charibert Childebert Childeric Chilperic Chlodomer Chlothovald Chlothar_Lothair Clothocharius Chramnesind Clodio Clodion Clovis
+			Creat Dagaric Dagobert Drogo_Drogo Eberulf Ebregisel Engilbert Euric Everard_Everard Faroard Faroin Feremund Feroard Foroen Frobert Frotari Frothard Frothari Frotlaic Fulcari 
+			Fulcrad Galteri Gararic Garivald Gaucelm Gaudulf Gaujoin Gausbert Gausbold Gautmar Gauzbert Gedalbert Gedalca Genobaud Gerbert Gerhard Gerold Gislari Gislevert Gocelm Godalbert 
+			Godomar Gozhelm Grimald Guadulf Gualtari Gualter Guillabert Guitard Gundobad Gunthar Guntram Haldemar Hartmut Hildebald Hildebold Hildegaud Hildevold Hildoin Hucbert 
+			Hugbert_Hubert Imnachar Ingalbert_Engelbrecht Ingomer Karl_Charles Lambert_Lambert Lantbert Leudast Lothar_Lothair Magnachar Magneric Mainard Mallobaudes Marachar Marcomer Marell 
+			Martin_Martin Maurifi Meginhard Merogais Merovech Munderic Niebelung Odelric Odolric Otbert Otgeri Otker Pepin Pharamond_Faramond Pippin Radulf_Ralph Ragambald Ragena Ragenard 
+			Raginari Ragnachar Ragnald_Ragnvald Ragno Raimbold Rainald_Reginald Ramnulf Rathar Raynold_Reinhold Reginari Ricchar Rignomer Rigunthis Roland_Roland Robert_Robert Rotbert Segoin 
+			Seguin Sicbald Sichar Sicland Sicleard Siclevold Sigebald Sigebert Sigeric Sigismund_Sigmund Sigobert Sinop Sunnegisil Sunno Tancrad Tancred Tassilo Teotbert Tetbert Teutbald 
+			Teutbert Theoderic Theoric Theudebald Theudemeres Theuderic Theudoald Theutbald Trutgaud Vuitard Vulfari Vulframn_Wolfram Vulvari Waltgaud Werinbert Wilbert Willichar Wiolicus 
+			Wolfari
 		}
 		female_names = {
-			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis
-			Anstrude Arsindis Audofleda Audovera Austreberta Austrechild Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried
-			Berthegund Berthildis Bertilla Bertrada Bladovildis Brunhild Burgundofara Celsa Celsovildis Cesaria Chlodosind Chlothsinda Clotild Creada
-			Dagena Eldesendis Ermengardis Ermengildis Ermensindis Eustadiola Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga
-			Frotlildis Frotlina Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind Goiswinth Gotberga Gundrada Halderudis
-			Harildis Hildegarde Hildegardis Hildesendis Hiltrude Illegardis Ingitrude Ingohildis Ingunde Itta Landina Lanthechilde Lantsida Leubast Leubovera
-			Leutberga Leutgardis Liutgarde Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga Radegund Rictrude Rigunth
-			Rosamund Rothaide Rotrude Ruothilde Rusticula Sadalberga Siclehildis Sigalsis Theodelinda Theoderada Ultrogotha Vuldretrada Waltrude
+			Adalgardis Adallinda Adaltrude Adaluildis Adelaidis Airsenda Albofleda Albrada Alda Aldegonde Aliberta Alitrudis Ansegudis Ansegundis Anstrude Arsindis Audofleda Audovera 
+			Auregundis Austreberta Austrechild Balthild Begga Beretrude Bernegildis Bertenildis Berthefled Berthefried Berthegund Berthildis Bertilla Bertrada Bilichildis Bladovildis 
+			Brunhild Burgundofara Celsa Celsovildis Cesaria Chalda Chlodosind Chlothsinda Chunsena Clotild Creada Chrochildis Dagena Deoteria Eldesendis Ermengardis Ermengildis Ermensindis 
+			Eustadiola Faileuba Faregildis Fastrada Framberta Fredegunde Frolaica Frotberga Frotlildis Frotlina Galswinth Gaudildis Gautlindis Genovefa Gersvinda Gertrude Gisela Glodesind 
+			Goiswinth Gotberga Gundrada Guntheuca Halderudis Harildis Hildegarde Hildegardis Hildesendis Hiltrude Illegardis Ingitrude Ingohildis Ingunde Ingundis Itta Landina Lanthechilde 
+			Lantsida Leubast Leubovera Leutberga Leutgardis Liutgarde Madelgarde Magnatrude Marcatrude Marcovefa Martinga Monegund Morberga Radegund Rictrude Rigunth Rosamund Rothaide 
+			Rotrude Ruothilde Rusticula Sadalberga Siclehildis Sigalsis Suavegotha Theodelinda Theoderada Theodila Ultrogotha Veneranda Vuldretrada Waltrude
 		}
 
 		from_dynasty_prefix = "de "
@@ -620,24 +611,24 @@ latin = {
 		color = { 0.91 0.59 0.48 }
 
 		male_names = {
-			Abbondanzio Abbondio Abelardo Abelino Achille Adalberto_Albert Adelfo Adelmio Adelmo Adone Adriano Agapito Agostino Aimone Alamanno Alarico
-			Albano Alberico Alberto_Albert Albino Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio Alighiero Alvise Ambrogio Amedeo Anastasio  Andrea_Andrew Angelo_Angel Annibale Anselmo Antonino_Antoninus Antonio_Antoninus Antoniotto Arcibaldo Arderico Armando Arnolfo  Arrigo Arsenio Artemio Ascanio Astorre
-			Atenolfo Attilio Augusto Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso
-			Battista Beltrano Benedetto_Benedict Benvenuto Berardo Bernabò_Bernard Bernardo_Bernard Berto Bertoldo Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte
-			Buoso Callisto Camillo_Camillus Candido Cangrande Carlo Cassio Castore Cataldo Catone Cecco Cesare Chiaffredo Chiano Ciro Ciuccio Claudio Clemente_Clement
-			Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic
-			Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole Eriprando Ermenegildo Ettore Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick
-			Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele Gabrino Gaetano Galasso Galeazzo
-			Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano Gerolamo Gherardo Giacinto Giacomo Gian Gianfranco Gianleone Giano
-			Giberto Gilberto_Gilbert Giolio Giordano Giorgio_George Giovanni Giulio Giuseppe Goffredo_Godfrey Gregorio_Gregory Gualtiero Guarnito Guerrino Guglielmo Guido_Guy Guidone_Guy
-			Guigliadore Iacopo Igino Innocenzo Ippolito Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo Landone Lanfranco Lattanzio Lazzarino Lazzaro
-			Lealdo Leonardo Leone_Leo Leonello Leopoldo Libero Lionello Livio Lodovico Lorenzo Luca Luchino Lucio_Lucius Luigi Malacresta Manfredo Manuele_Manuel
-			Marco_Marcus Mariano_Marius Marino Mario_Marius Marsiglio Martino_Martin Massimo Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò Nicola
-			Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano Pancrazio Pandolfo Paolo Pasquale_Pascal
-			Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello Radul Raimondo_Raymond Rainero Raineri Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo Rolando
-			Rosso Ruggiero Salinguerra Salvatore Salvestro Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino Sergio Sesto Settimio Severino Severo
-			Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro Tibaldo_Theobald Tiziano Tommaso
-			Torgodorio Torquato Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano Valentino_Valentin Valerio Vincentello Vincenzo_Vincent Virginio Vitale Vittore Vittorio Zaccaria
+			Abbondanzio Abbondio Abelardo Abelino Achille Adalberto_Albert Adelfo Adelmio Adelmo Adone Adriano Agapito Agostino Aimone Alamanno Alarico Albano Alberico Alberto_Albert Albino 
+			Alboino Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio Alighiero Alvise Ambrogio Amedeo Anastasio  Andrea_Andrew Angelo_Angel Annibale Anselmo Antonino_Antoninus 
+			Antonio_Antoninus Antoniotto Arcibaldo Arderico Armando Arnolfo  Arrigo Arsenio Artemio Ascanio Astorre Atenolfo Attilio Augusto Aurelio_Aurelius Ausilio Ausonio Averado Azzo 
+			Azzone Baldassarre Baldovino_Baldwin Barnaba Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano Benedetto_Benedict Benvenuto Berardo Bernabò_Bernard 
+			Bernardo_Bernard Berto Bertoldo Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno Bruto Buonconte Buoso Callisto Camillo_Camillus Candido Cangrande Carlo Cassio Castore Cataldo 
+			Catone Cecco Cesare Chiaffredo Chiano Ciro Ciuccio Claudio Clemente_Clement Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma Costante Costantino Costanzo 
+			Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo 
+			Ercole Eriprando Ermenegildo Ettore Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Federigo_Frederick Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio 
+			Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele Gabrino Gaetano Galasso Galeazzo Galeotto Gaspare Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard 
+			Germano Gerolamo Gherardo Giacinto Giacomo Gian Gianfranco Gianleone Giano Giberto Gilberto_Gilbert Giolio Giordano Giorgio_George Giovanni Giulio Giuseppe Goffredo_Godfrey 
+			Gregorio_Gregory Gualtiero Guarnito Guerrino Guglielmo Guido_Guy Guidone_Guy Guigliadore Iacopo Igino Innocenzo Ippolito Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo Landone 
+			Lanfranco Lattanzio Lazzarino Lazzaro Lealdo Leonardo Leone_Leo Leonello Leopoldo Libero Lionello Livio Lodovico Lorenzo Luca Luchino Lucio_Lucius Luigi Malacresta Manfredo 
+			Manuele_Manuel Marco_Marcus Mariano_Marius Marino Mario_Marius Marsiglio Martino_Martin Massimo Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno 
+			Nestore Niccolò Nicola Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio Ottobono Ottone_Otto Pagano Pancrazio Pandolfo Paolo Pasquale_Pascal
+			Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello Radul Raimondo_Raymond Rainero Raineri Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo 
+			Rolando Rosso Ruggiero Salinguerra Salvatore Salvestro Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino Sergio Sesto Settimio Severino Severo Silvano 
+			Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro Tibaldo_Theobald Tiziano Tommaso Torgodorio Torquato 
+			Ubaldo Uberto Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano Valentino_Valentin Valerio Vincentello Vincenzo_Vincent Virginio Vitale Vittore Vittorio Zaccaria
 		}
 		female_names = {
 			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia
@@ -752,12 +743,13 @@ latin = {
 			Toumas_Thomas Ulpiani_Ulpian Vézian Vicenç_Vincent Vieills Quinç_Quintus    
 		}
 		female_names = {
-			Agata_Agatha Aïna_Emma Ainès_Agnes Alaïs_Alice Alienòr_Eleanor Aliç_Alice Alpaïs Ana_Anna Arsenda_Arsenda Assalhida Azalaïs Azelma Bòna_Bonne Beatritz_Beatrice 
-			Blanca_Blanche Blancaflor Brandimena Camilla Carlòta Caterina_Catherine Cecilia_Cecilia Ceclina Clemència_Clementia Constància_Constance Dolça_Douce Eisabèu_Elisabeth 
-			Elena_Helen Elisa_Elisabeth Elisabèta_Elisabeth Emilla Enida Estefania_Stephania Eufèmia Eufrosina_Euphrosyne Falcona Filipa_Philippa Filomena Flòra_Flora Garcenda 
-			Geneviva Guigone Heloise_Eloise Ioulanda_Yolanda Isabèu_Elisabeth Isabèla_Elisabeth Iseut Joana_Joan Juliana_Juliana Julia Lúcia_Lucia Laura_Laura Margarida_Margaret 
-			Maria_Maria Marquisa Marta_Martha Mascaròsa_Mascarosa Melisènda_Melisende Navar Patricia_Patricia Peironèla_Peronella Petronilha_Petronilla Puelle Quitera Rosèla Rosa 
-			Sança_Sancha Selvaggia Sebeli Sibilla_Sibylla Saurina Terèsa_Teresa Tiborg_Tiburge Tomazina Verounica Vierna Violent_Yolanda
+			Aemiliana Agata_Agatha Aïna_Emma Ainès_Agnes Alaïs_Alice Alienòr_Eleanor Aliç_Alice Alpaïs Ana_Anna Armentaria Arsenda_Arsenda Artemia Assalhida Azalaïs Azelma Bòna_Bonne
+			Beatritz_Beatrice Blanca_Blanche Blancaflor Brandimena Camilla Carlòta Caterina_Catherine Cecilia_Cecilia Ceclina Clemència_Clementia Constància_Constance Dolça_Douce 
+			Eisabèu_Elisabeth Elena_Helen Elisa_Elisabeth Elisabèta_Elisabeth Emilla Enida Estefania_Stephania Eufèmia Eufrosina_Euphrosyne Eusthenia Falcona Filipa_Philippa Filomena 
+			Flòra_Flora Garcenda Geneviva Gordiana Guigone Heloise_Eloise Ioulanda_Yolanda Isabèu_Elisabeth Isabèla_Elisabeth Iseut Joana_Joan Juliana_Juliana Julia Leucadia Lúcia_Lucia 
+			Laura_Laura Margarida_Margaret Maria_Maria Marquisa Marta_Martha Mascaròsa_Mascarosa Melisènda_Melisende Navar Pateria Patricia_Patricia Paula Peironèla_Peronella 
+			Petronilha_Petronilla Puelle Quitera Rosèla Rosa Sança_Sancha Selvaggia Sebeli Sibilla_Sibylla Silvia Saurina Tarsilla Terèsa_Teresa Tiborg_Tiburge Tomazina Verounica Vierna 
+			Violent_Yolanda
 		}
 		from_dynasty_prefix = "de "
 		grammar_transform = french
@@ -2499,9 +2491,9 @@ arabic = {
 		color = { 0.1 0.75 0.1 }
 
 		male_names = {
-			Abu-Bakr_Abu-Bakr Abu-Kirab Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul_Abdul Abdullah_Abdullah Abu-Said Adi Adiy Afsa Aghlab Akin Ali_Ali Alim 
-			Al-Harit Al-Mundhir Al-Nu'man Amr Aram Asad Azam Bahir Bariq Burhanaddin Fadil Fadl Faruk Furhud Ghalib Ghassan Hafiz Halil Haritha Hasan_Hasan Hijr Hisham Husam 
-			Hussayn_Hussayn Ibrahim_Abraham Idris Imru' Imran Is'mail_Ismail Isa Jabalah Jabir Jafnah Jalil Jibril Ka'ab Khaireddin Khalil Khuza'a Lahi Mahdi Mahmud_Mahmud 
+			Abu-Bakr_Abu-Bakr Abu-Kirab Aarif Abdul-Gafur Abdul-Jaleel Abdul-Kylab Abdul-Qadir Abdul-Wahab Abdul_Abdul Abdullah_Abdullah Abu-Said Adi Adiy Afsa Aghlab Akin Ali_Ali Alim 
+			Al-Harit Al-Mundhir Al-Nu'man Alqamah Amr Aram Asad Azam Bahir Bariq Burhanaddin Fadil Fadl Faruk Furhud Ghalib Ghassan Hafiz Halil Haritha Hasan_Hasan Hijr Hisham Husam 
+			Hussayn_Hussayn Ibrahim_Abraham Idris Imru' Imran Is'mail_Ismail Isa Iyad Jabalah Jabir Jafnah Jalil Jibril Ka'ab Khaireddin Khalil Khuza'a Lahi Mahdi Mahmud_Mahmud 
 			Malik Mansur Mazin Mirza Mubarak Muhammad_Muhammad Mukhtar Murad Musa_Moses Muslihiddin Muzaffaraddin Najib Nasr Nizam Qabus Qawurd Ramadan Sa'daddin Sadiq Sami 
 			Samir Sayf Shaiban Shamir Shanvah Shujah Sulayman_Solomon Talib Tha'labah Ubayd Uday Usma Uways Yahya_Yahya Ya'qub_Jacob Youkhanna_John Yusuf_Joseph Zeyd      
 		}
@@ -3039,16 +3031,16 @@ iranian = {
 		color = { 0.8 0.8 0.4 }
 
 		male_names = {
-			Adurgundbad Afshar_Afshar Amin Anushirvan_Anushirvan Aram Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Aurang Ayeshah Babak_Babak 
-			Bahman Bahram_Bahram Bakhtiar_Bakhtiar Balash Behrad Behrouz Bozorg Danush_Danush Darab Dariush_Darius Djamasp Ehsan Esfandiar_Esfandiar Eskander_Alexander 
-			Faramarz_Faramarz Faraz_Faraz Fareed_Farid Farhad_Farhad Fariborz_Fariborz Farroukh_Farroukh Farrukhzad_Farrukhzad Farzad_Farzad Fath Ferdows_Ferdows 
-			Fereedun_Feridun Ghobad Gholam Godarz Goshtasb_Goshtasb Hazarasp_Hazarasp Hedayat Hooshyar_Hooshyar Hormazd_Hormazd Hormoz Hossein_Hossein Humayun 
+			Adurgundbad Afshar_Afshar Amin Anushirvan_Anushirvan Aram Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Aspebedes Aurang Ayeshah Azarethes Babak_Babak 
+			Bahman Bahram_Bahram Bakhtiar_Bakhtiar Baresmanas Balash Behrad Behrouz Bozorg Cardarigan Cavades Chorianes Danush_Danush Darab Dariush_Darius Djamasp Ehsan Esfandiar_Esfandiar 
+			Eskander_Alexander Faramarz_Faramarz Faraz_Faraz Fareed_Farid Farhad_Farhad Fariborz_Fariborz Farroukh_Farroukh Farrukhzad_Farrukhzad Farzad_Farzad Fath Ferdows_Ferdows 
+			Fereedun_Feridun Ghobad Gholam Godarz Goshtasb_Goshtasb Hazarasp_Hazarasp Hedayat Hooshyar_Hooshyar Hormazd_Hormazd Hormoz Hossein_Hossein Humayun Isdigerdes
 			Jahandar_Jahandar Jahangir_Jahangir Jahanshah_Jahanshah Jamshid_Jamshid Javeed_Javeed Kambiz Kamran Kanadbak Kardarigan Kavoos_Kavoos Keyghobad Keykhosrau_Keykhosrau 
 			Kharmandar_Kharmandar Khashayar_Khashayar Kavadh Khodadad_Khodadad Khosrau_Khosrau Khudayar_Khudayar Khurshid_Khurshid Kurush_Cyrus Manuchihr_Manuchihr 
-			Manushihr_Manushihr Marzuban_Marzuban Mashad_Mashad Mazyar Mehrab Mehrzad Morad_Morad Morteza Mozaffar Nard Naveed Nawid Nezam Parviz Pashang_Pashang Peroz_Peroz 
-			Pujman Reza Rostam_Rostam Ruhollah Sadri Salman Sassan Shahab_Shahab Shahbaz_Shahbaz Shahin_Shahin Shahram_Shahram Shahrokh_Sharokh Shahruz_Shahruz Shahryar_Shahryar 
-			Shapur_Shapur Shayan_Shayan Sina Tahmasb_Tahmasb Vahhab_Vahhab Vahid Vahuman Valash Vali Vandad Varshasb_Varshasb Vishtasb_Vishtasb Yazdegerd Zahak Zakaria Zand 
-			Zartosht_Zartosht Zia
+			Manushihr_Manushihr Marzuban_Marzuban Mashad_Mashad Mazyar Mehrab Mehrzad Mermeroes Mirzhanes Morad_Morad Morteza Mozaffar Nard Nashoragan aveed Nawid Nezam Parviz 
+			Pashang_Pashang Peroz_Peroz Perozes Phabrizus Pityaxes Pujman Reza Rostam_Rostam Ruhollah Sadri Salman Sassan Shahab_Shahab Shahbaz_Shahbaz Shahin_Shahin Shahram_Shahram 
+			Shahrokh_Sharokh Shahruz_Shahruz Shahryar_Shahryar Shapur_Shapur Shayan_Shayan Sina Tahmasb_Tahmasb Vahhab_Vahhab Vahid Vahuman Valash Vali Vandad Varshasb_Varshasb Vinganes 
+			Vishtasb_Vishtasb Yazdegerd Zahak Zakaria Zand Zartosht_Zartosht Zia
 		}
 		female_names = {
 			Afsaneh Ahu Arghavan Azarmidokht Asa Azadeh Bahar Banafsheh Behnaz Burandokht Darya Delaram Delbar Dinah Donya Elham Elnaz Farah Fareedeh Farnaz Farrin Farva
@@ -3152,14 +3144,28 @@ iranian = {
 		
 		male_names = {
 			#Tocharian B
-			Airawanta Ajatasatru Ajite Alp_Alp Ambare_Ambara Amprätasarme Amrätaraksite Amrätodane Anande Anathapindike Aniruddhe Andhave Anktsas Arjune_Arjuna Aranemi Arnyartate Arslam_Arslan Arthadarsi Aryamarg Aryaske Aryatewe Aryawarme Aryottame Asokamitre Asokaraksite Asoke_Ashoka Asärte Astawi Atakke Atidivakare Atyuccagami Atraikatte Bimbasare Caitike Caiytiska Cakravar Cakule Candramukhe Candravasu Candre Caracate Cina Cinatyuti Citre Cittaraksite Cowaske Dandakamal Devarakste Dhanike Dharma_Dharma Dharmacandre Dharmadase Dharmakame Dharmakamiske Dharmaraksite Dharmasome Dharmatrate Dharmawarme Dipankar Dirghanakhe Dravyasvare Durmukhe Ekasrinke Erkätsole Esmiñe Etrise Gayakasyape Gayasirs Gaye_Gaya Gunacamdre Gunasampade Hariscandre Hastake Hetubalike Indradhvaje Indratewe Indre_Indra Indriske Issapake Jatisrone Jetavam Jñanacamndre Jñanaghose Jñanakame Jñanakupte Jñanamokse Jñanasene Jñanasome Jñanasthite Jñanawirye Kadike Kalodaye Kalyanamokse Kalyanavraddhi Kalyanawartane Kanake_Kanaka Kanaske Kanthäke Kapilavarne Kapilavastu Kas Kasyap Katakarni Kaundinye
-			Kauravye Kausal Kemarcune Kentarske Kercampey Kercapiske Kerdipole Kereptaññe Kimñe Klenkarako Klpapatre Klyotiska Kotile Koysam Ksemankare Ksmarjune Ksmawarme Ksmate Ksmateworsa Ksmika Kulkera Kumarapunye Kumpante Kunacamttrakau Kunacamttre Kwirapabhadra_Virabhadra Lariska Mahasammate Mahisvare Manisvare Mitrakseme Mitraske Mitre Moksasene Moksasome Moksawarme Molyoke Mukalanti Munkhare Murdhagate Nandabala Nandake Nande_Nanda Nandipale Nasme Ñatte Naradeve Ñirot Nupura Nyagrodhe Padmakesar Padmottare Pakacandre Pañcasikhi Pawaske Pesane Prabhankare Prabhase Pranada Prasamnake
-			Pravare_Pravara Priyadeve Ptompile Puñaiyse Puñakame Puñaraksite Puñicamndre Punyamitre Purtas Rahule_Rahula Raktadewe Ratnacuda Ratnasikhi Rsivadam Rudramukhe Rudrasarme Sagare Samantatir Samcite Samghatrate Sanavasi Sanghasarme Sankene Sanum Saputanase Sarasike Sarmacamdre Sarsire Satuma Satyake Satyaraksite Siddharthe_Siddhartha Sidhasamgha Siladewe Silamitre Silarakite Silaraksi Silasoma Silavande Silawarne Silayase Silopake Simpraye Siñcake Sinke Sinku Skanatatte Skwarle Slacamndre Solarke Some Srestake Sudarse Sudas Suddhodane Sujate Sukase Suklodane Sunaksatre Sunetre Sutasome Sutate Swarnabuspe Swarnatepe Tarmacandre Tarmaraksite Tenare Tohkem Tonke Tukik Tunka_Tunka Tusi Udanalankar Udayi Ulkamukhe Uluke Upage Upagupte Upanande
-			Uposathe Urbilvakasyape Uttaraphalguni Uttare Vaisravane Vaitike Varddhane Vidusake Vimalapuspe Vinaise Visale Wamsok Warwattaske Wäryaruci Wäryasene Wasampile Wasave Wiryadewe Wiryamitre Wiryasanti Wiryasiñi Wisikke Wrauske Yanayase Yarpaläske Yasa Yasawine Yase Yasonaka Yastare Yiswe_Jesus Yonge Yonu Ype Yudhisthire Yugaraje
+			Airawanta Ajatasatru Ajite Alp_Alp Ambare_Ambara Amprätasarme Amrätaraksite Amrätodane Anande Anathapindike Aniruddhe Andhave Anktsas Arjune_Arjuna Aranemi Arnyartate 
+			Arslam_Arslan Arthadarsi Aryamarg Aryaske Aryatewe Aryawarme Aryottame Asokamitre Asokaraksite Asoke_Ashoka Asärte Astawi Atakke Atidivakare Atyuccagami Atraikatte Bimbasare 
+			Caitike Caiytiska Cakravar Cakule Candramukhe Candravasu Candre Caracate Cina Cinatyuti Citre Cittaraksite Cowaske Dandakamal Devarakste Dhanike Dharma_Dharma Dharmacandre 
+			Dharmadase Dharmakame Dharmakamiske Dharmaraksite Dharmasome Dharmatrate Dharmawarme Dipankar Dirghanakhe Dravyasvare Durmukhe Ekasrinke Erkätsole Esmiñe Etrise Gayakasyape 
+			Gayasirs Gaye_Gaya Gunacamdre Gunasampade Hariscandre Hastake Hetubalike Indradhvaje Indratewe Indre_Indra Indriske Issapake Jatisrone Jetavam Jñanacamndre Jñanaghose Jñanakame 
+			Jñanakupte Jñanamokse Jñanasene Jñanasome Jñanasthite Jñanawirye Kadike Kalodaye Kalyanamokse Kalyanavraddhi Kalyanawartane Kanake_Kanaka Kanaske Kanthäke Kapilavarne Kapilavastu
+			Kas Kasyap Katakarni Kaundinye Kauravye Kausal Kemarcune Kentarske Kercampey Kercapiske Kerdipole Kereptaññe Kimñe Klenkarako Klpapatre Klyotiska Kotile Koysam Ksemankare 
+			Ksmarjune Ksmawarme Ksmate Ksmateworsa Ksmika Kulkera Kumarapunye Kumpante Kunacamttrakau Kunacamttre Kwirapabhadra_Virabhadra Lariska Mahasammate Mahisvare Manisvare Mitrakseme 
+			Mitraske Mitre Moksasene Moksasome Moksawarme Molyoke Mukalanti Munkhare Murdhagate Nandabala Nandake Nande_Nanda Nandipale Nasme Ñatte Naradeve Ñirot Nupura Nyagrodhe Padmakesar
+			Padmottare Pakacandre Pañcasikhi Pawaske Pesane Prabhankare Prabhase Pranada Prasamnake Pravare_Pravara Priyadeve Ptompile Puñaiyse Puñakame Puñaraksite Puñicamndre Punyamitre 
+			Purtas Rahule_Rahula Raktadewe Ratnacuda Ratnasikhi Rsivadam Rudramukhe Rudrasarme Sagare Samantatir Samcite Samghatrate Sanavasi Sanghasarme Sankene Sanum Saputanase Sarasike 
+			Sarmacamdre Sarsire Satuma Satyake Satyaraksite Siddharthe_Siddhartha Sidhasamgha Siladewe Silamitre Silarakite Silaraksi Silasoma Silavande Silawarne Silayase Silopake Simpraye 
+			Siñcake Sinke Sinku Skanatatte Skwarle Slacamndre Solarke Some Srestake Sudarse Sudas Suddhodane Sujate Sukase Suklodane Sunaksatre Sunetre Sutasome Sutate Swarnabuspe 
+			Swarnatepe Tarmacandre Tarmaraksite Tenare Tohkem Tonke Tukik Tunka_Tunka Tusi Udanalankar Udayi Ulkamukhe Uluke Upage Upagupte Upanande Uposathe Urbilvakasyape Uttaraphalguni 
+			Uttare Vaisravane Vaitike Varddhane Vidusake Vimalapuspe Vinaise Visale Wamsok Warwattaske Wäryaruci Wäryasene Wasampile Wasave Wiryadewe Wiryamitre Wiryasanti Wiryasiñi Wisikke 
+			Wrauske Yanayase Yarpaläske Yasa Yasawine Yase Yasonaka Yastare Yiswe_Jesus Yonge Yonu Ype Yudhisthire Yugaraje
 		}
 		female_names = {
 			#Tocharian B
-			Amprätasene Amrätasene Arjuna Arunavati Aryakose Aryaraksite Ayardhyame Bhadra Cañca Dhrtirastre Jñati Kolite Kosthile Malika_Malika Maya_Maya Nagasene Priyasarini Punyasene Purike Purnaya Purohite Putere Räknaska Revati Roce Saci Santa Santisene Sari Sthulananda Sudarsane Sumagati Sumaise Sumati Sundari Suwarte Tarma_Dharma Tarmawirñe Tärtvisara Tati_Tati Tisye Upatisye Uppal Uppalavarna Vajrapani_Vajrapani Vasisthe Vitasake Yasaraksite Yasodhara
+			Amprätasene Amrätasene Arjuna Arunavati Aryakose Aryaraksite Ayardhyame Bhadra Cañca Dhrtirastre Jñati Kolite Kosthile Malika_Malika Maya_Maya Nagasene Priyasarini Punyasene 
+			Purike Purnaya Purohite Putere Räknaska Revati Roce Saci Santa Santisene Sari Sthulananda Sudarsane Sumagati Sumaise Sumati Sundari Suwarte Tarma_Dharma Tarmawirñe Tärtvisara 
+			Tati_Tati Tisye Upatisye Uppal Uppalavarna Vajrapani_Vajrapani Vasisthe Vitasake Yasaraksite Yasodhara
 		}
 		
 		dukes_called_kings = yes

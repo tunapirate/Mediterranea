@@ -1,4 +1,5 @@
 867.1.1={
 	holder = 543536
 	liege = "k_asia"
+	law = succ_primogeniture
 }

@@ -47,6 +47,8 @@ d_hellespont;Hellespontus;Hellespontus;Hellespontus;;Hellespontus;;;;;;;;;x
 d_hellespont_adj;Hellespontic;Hellespontic;Hellespontic;;Hellespontic;;;;;;;;;x
 d_helvetia;Helvetia;Helvetia;Helvetia;;Helvetia;;;;;;;;;x
 d_helvetia_adj;Helvetic;Helvetic;Helvetic;;Helvetic;;;;;;;;;x
+d_kemet;Kumat;Kumat;Kumat;;Kumat;;;;;;;;;x
+d_kemet_adj;Kumati;Kumati;Kumati;;Kumati;;;;;;;;;x
 d_korchev;Korchev;Korchev;Korchev;;Korchev;;;;;;;;;x
 d_liburnia;Liburnia;Liburnia;Liburnia;;Liburnia;;;;;;;;;x
 d_liburnia_adj;Liburnian;Liburnian;Liburnian;;Liburnian;;;;;;;;;x
@@ -126,6 +128,8 @@ k_czechia;Czechia;Czechia;Czechia;;Czechia;;;;;;;;;x
 k_czechia_adj;Czech;Czech;Czech;;Czech;;;;;;;;;x
 k_danubia;Danubia;Danubia;Danubia;;Danubia;;;;;;;;;x
 k_danubia_adj;Danubia;Danubia;Danubia;;Danubia;;;;;;;;;x
+k_galicia;Galicia;Galicia;Galicia;;Galicia;;;;;;;;;x
+k_galicia_adj;Galician;Galician;Galician;;Galician;;;;;;;;;x
 k_gallia;Gallia;Gallia;Gallia;;Gallia;;;;;;;;;x
 k_gallia_adj;Gallic;Gallic;Gallic;;Gallic;;;;;;;;;x
 k_gothia;Gothia;Gothia;Gothia;;Gothia;;;;;;;;;x
