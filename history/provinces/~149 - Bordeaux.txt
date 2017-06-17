@@ -16,7 +16,7 @@ b_blaye = city
 #b_libourne = city
 
 #Misc
-religion = hellenic_pagan
-culture = occitan
+religion = dianic
+culture = visigothic
 
 # History

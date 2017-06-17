@@ -7,11 +7,11 @@ title = c_baghdad
 max_settlements = 7
 
 b_baqubah = castle
-b_iskandariya = castle
+b_iskandariya = city
 b_bagdad = temple # holy_site = sunni, nestorian
 b_hillah = city
 b_taji = city
-b_latifiya = castle
+b_latifiya = city
 b_madain = castle
 
 #b_babel = city

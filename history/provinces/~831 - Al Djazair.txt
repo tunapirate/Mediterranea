@@ -10,7 +10,8 @@ b_algiers = castle
 b_tipasa = city
 b_chiffa = temple
 b_sidiakacha = castle
-#b_rhedadoua = castle
+b_rhedadoua = city
+
 #b_elachour = castle
 #b_tirourda = castle
 #b_elRdair = castle

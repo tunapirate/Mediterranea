@@ -16,7 +16,7 @@ b_chuartan = city
 #b_kifri = castle
 
 #Misc
-culture = assyrian
+culture = persian
 religion = zoroastrian
 
 # History

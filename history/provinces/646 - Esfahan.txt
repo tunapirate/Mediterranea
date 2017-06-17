@@ -10,7 +10,8 @@ b_kashan = castle
 b_zarrinshahr = city
 b_khansar = temple
 b_sedeh = city
-#b_qomsheh = castle
+b_qomsheh = castle
+
 #b_ardestan = temple
 #b_abyaneh = city
 

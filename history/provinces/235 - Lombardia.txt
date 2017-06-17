@@ -4,12 +4,13 @@
 title = c_lombardia
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_milano = castle
 b_como = city
 b_monza = temple
 b_lodi = castle
-#b_vigevano = castle
+
+#b_vigevano = city
 #b_maggiore = castle
 #b_legnano = castle
 #b_chiavenna = castle

@@ -93,6 +93,8 @@ d_scythia_minor;Scythia Minor;Scythia Minor;Scythia Minor;;Scythia Minor;;;;;;;;
 d_scythia_minor_adj;Scythian;Scythian;Scythian;;Scythian;;;;;;;;;x
 d_slovakia;Slovakia;Slovakia;Slovakia;;Slovakia;;;;;;;;;x
 d_slovakia_adj;Slovakian;Slovakian;Slovakian;;Slovakian;;;;;;;;;x
+d_spqr;Roman Senate;Roman Senate;Roman Senate;;Roman Senate;;;;;;;;;x
+d_spqr_adj;Senatorial;Senatorial;Senatorial;;Senatorial;;;;;;;;;x
 d_syagria;Syagria;Syagria;Syagria;;Syagria;;;;;;;;;x
 d_syagria_adj;Syagrian;Syagrian;Syagrian;;Syagrian;;;;;;;;;x
 d_syrian_desert;Syrian Desert;Syrian Desert;Syrian Desert;;Syrian Desert;;;;;;;;;x
@@ -164,4 +166,9 @@ k_thrace_adj;Thracian;Thracian;Thracian;;Thracian;;;;;;;;;x
 
 e_caucasia;Caucasia;Caucasia;Caucasia;;Caucasia;;;;;;;;;x
 e_caucasia_adj;Caucasian;Caucasian;Caucasian;;Caucasian;;;;;;;;;x
+e_florence;Florentine Empire;Florentine Empire;Florentine Empire;;Florentine Empire;;;;;;;;;x
+e_florence_adj;Florentine;Florentine;Florentine;;Florentine;;;;;;;;;x
 e_oriens;Oriens;Oriens;Oriens;;Oriens;;;;;;;;;x
+e_oriens_adj;Oriental;Oriental;Oriental;;Oriental;;;;;;;;;x
+e_ravenna;Ravennan Empire;Ravennan Empire;Ravennan Empire;;Ravennan Empire;;;;;;;;;x
+e_ravenna_adj;Ravennan;Ravennan;Ravennan;;Ravennan;;;;;;;;;x

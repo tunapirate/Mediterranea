@@ -8,7 +8,8 @@ max_settlements = 4
 b_valladolid = castle
 b_tordesillas = city
 b_segovia = temple
-#b_medinadelcampo = castle
+b_medinadelcampo = castle
+
 #b_simancas = castle
 #b_penafiel = castle
 #b_avila = castle

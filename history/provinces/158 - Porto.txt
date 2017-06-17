@@ -9,6 +9,7 @@ b_porto = castle
 b_vianadocastelo = castle
 b_braga = temple
 b_guimaraes = city
+
 #b_pontedelima = city
 #b_barcelos = castle
 #b_arcosdevaldevez = castle

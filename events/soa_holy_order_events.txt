@@ -4072,7 +4072,7 @@ narrative_event = {
 					NOT = { owner = { religion_group = christian } }
 				}
 			}
-		}
+		
 		is_heretic = no
 			
 		NOT = {

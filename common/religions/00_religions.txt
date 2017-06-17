@@ -2172,6 +2172,11 @@ greco-italic = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
+		
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = athenaic
+		intermarry = dianic
 	}
 	apollonian = {
 		graphical_culture = westerngfx
@@ -2198,6 +2203,11 @@ greco-italic = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = neptunal
+		intermarry = athenaic
+		intermarry = dianic
 	}
 	neptunal = {
 		graphical_culture = westerngfx
@@ -2225,6 +2235,11 @@ greco-italic = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = athenaic
+		intermarry = dianic
 	}
 	athenaic = {
 		graphical_culture = westerngfx
@@ -2254,6 +2269,11 @@ greco-italic = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = dianic
 	}
 	dianic = {
 		graphical_culture = westerngfx
@@ -2281,5 +2301,10 @@ greco-italic = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = athenaic
 	}
 }

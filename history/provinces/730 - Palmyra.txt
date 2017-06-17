@@ -4,13 +4,13 @@
 title = c_palmyra
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_arak = castle
 b_palmyra = city
 b_arraml = temple
+b_alqasr = castle
 
-#b_alqasr = castle
 #b_jihar = castle
 #b_alhuwaysis = castle
 #b_tiace = city 

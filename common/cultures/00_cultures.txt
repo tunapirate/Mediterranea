@@ -659,30 +659,31 @@ latin = {
 		color = { 0.92 0.37 0.40 }
 
 		male_names = {
-			Albano Alboino Alcide Aleardo Aleramo Alessandro_Alexander Alessio Alvise Ambrogio Amedeo Anastasio  Andrea_Andrew Angelo_Angel Antoniotto Arrigo Arsenio Artemio 
-			Ascanio Astorre Augusto Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Barnaba Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Annibale Anselmo 
-			Antonino_Antoninus Antonio_Antoninus Battista Beltrano Benedetto_Benedict Benvenuto Biagio Bonaventura Bonifacio_Bonifacius Borso Bruto Buonconte Guigliadore Iacopo 
-			Igino Innocenzo Buoso Callisto Camillo_Camillus Candido Cangrande Carlo Cassio Castore Cataldo Catone Cecco Cesare Chiano Ciro Ciuccio Clemente_Clement Comita Conone 
-			Cornelio_Cornelius Corradino Cosimo Cosma Costante Costantino Costanzo Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus 
-			Doménico_Dominic Durante Elio Emmanuele_Manuel Ennio Enzio Enzo Ercole Ettore Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto Galeotto Gaspare Gelasio Gentile Gherardo 
-			Giacinto Giacomo Gian Gianfranco Gianleone Giano Felice_Felix Ferruccio Filippo_Philip Fiorello Flavio Fortunato Fosco Fresco Gabriele Gaetano Galasso Galeazzo Pericle 
-			Pietro_Peter Pio Prospero Rafaello Rizzardo Giolio Giordano Giorgio_George Giovanni Giulio Giuseppe Gregorio_Gregory Gualtiero Guarnito Guerrino Guglielmo Ippolito 
-			Isnardo Jacopo_Jacob Landone Lanfranco Lattanzio Lazzarino Lazzaro Lealdo Leonello Libero Lionello Livio Lorenzo Luca Luchino Lucio_Lucius Luigi Malacresta 
-			Manuele_Manuel Achille Adone Adriano Agapito Agostino Aimone Marco_Marcus Mariano_Marius Marino Mario_Marius Marsiglio Martino_Martin Massimo Mastino Matteo_Matthew 
-			Merigo Michelangelo Michele_Michael Napoleone Nazareno Nestore Niccolò Nicola Nino Obizzino Obizzo Omero Onorio Oreste Ottavio Pagano Pancrazio Paolo Pasquale_Pascal 
-			Patrizio_Patrick Pellegrino Rosso Ruggiero Salinguerra Salvatore Salvestro Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino Sergio Sesto Settimio 
-			Severino Severo Silvano Silvestro Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro Tibaldo_Theobald 
-			Tiziano Tommaso Torgodorio Torquato Urbano Valentino_Valentin Valerio Vincentello Vincenzo_Vincent Virginio Vitale Vittore Vittorio Zaccaria
+			Aëtius Agricola Agrippinus Albano Albinus Alboino Alcide Aleramo Alessandro_Alexander Alessio Alvise Ambrosius Amedeo Anastasio Andrea_Andrew Anicius Angelo_Angel Anastasius 
+			Anicetus Antonino_Antoninus Antoniotto Appalius Arcadius Arrigo Arsenio Artemio Ascanio Asterius Astorre Augusto Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Barnaba 
+			Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso Battista Beltrano Benedetto_Benedict Benvenuto Biagio Bonaventura Bonifacio_Bonifacius Borso Bruto Buonconte Guigliadore Iacopo			
+			Igino Innocenzo Baduarius Buoso Caecilianus Caius Callinicus Callisto Camillo_Camillus Candido Cangrande Capreolus Carlo Carpophorus Cassio Castore Cataldo Catone Cecco Cesare 
+			Chiano Ciro Ciuccio Clemente_Clement Comita Conone Cornelius_Cornelius Corradino Cosimo Cosma Costante Costantino Costanzo Crescens Cristoforo_Christopher Damasus Damiano_Damian 
+			Davide_David Demetrius Dionysius Doménico_Dominic Donatus Durante Elio Emmanuele_Manuel Ennio Enzio Enzo Epenatus Ercole Ettore Eugenio_Eugene Eusebius Ezio Ezzelino Fabrizio 
+			Fausto Festus Gabrieluis Galeotto Gaspare Gelasio Gentile Giacinto Giacomo Gian Gianfranco Gianleone Giano Glycerius Hadrianus Fabianus Faustus Felix Ferruccio Filippo_Philip 
+			Fiorello Flavius Fortunato Fosco Fravitus Fresco Gabriele Gaetano Galasso Galeazzo Pericle Pietro_Peter Pio Prospero Rafaello Rizzardo Gelasius Giolio Giordano Giorgio_George 
+			Giovanni Giulio Giuseppe Gregorio_Gregory Gualtiero Guarnito Guerrino Guglielmo Hilarius Hyginus Ippolito Isnardo Jacopo_Jacob Jordanes Julius Landone Lanfranco Lattanzio 
+			Lazzarino Lazzaro Lealdo Leonello Liberius Libius Lionello Livio Longinus Lorenzo Luca Luchino Lucius Luigi Majorianus Malacresta Manuele_Manuel Marcellinus Marcianus Marcus 
+			Mariano_Marius Marino Mario_Marius Marsiglio Martino_Martin Massimo Mastino Matteo_Matthew Mensurius Merigo Michelangelo Michele_Michael Napoleone Nazareno Nestore Niccolò Nicola 
+			Nino Obizzino Obizzo Olybrius Omero Onorio Optatus Oreste Ottavio Pagano Pancrazio Paolo Parmenianus Patricius Pelagius Pellegrino Petrus Pius Placidus Pompeius Pontianus 
+			Primianus Probianus Reparatus Romanus Rosso Ruggiero Rumoridus Sabinianus Salinguerra Salvatore Salvestro Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Senator 
+			Serafino Sergio Sesto Settimio Severinus Severo Silvano Silverius Silvester Simone_Simon Simonetto Simplicius Sinibaldo Sinucello Siricius Sividius Smaragdus Soterius Sozzo 
+			Spinetto Stefano_Stephen Stephanus_Stephen Stentore Symmachus Tedice Telesphorus Theodorus Tibaldo_Theobald Tiziano Tommaso Torgodorio Torquato Urbanus Valentino_Valentin 
+			Valerio Victor Vigilius Vincentello Vincenzo_Vincent Virginio Vitalianus Vittore Vittorio Vivianus Xystus Zaccaria
 		}
 		female_names = {
-			Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Aloisia
-			Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Argentina Augusta Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta
-			Bianca_Blanche Bona_Bonne Camilla Candida Caracosa Caterina_Catherine Cecilia_Cecilia Claudia 
-			Constanza_Constance Cornelia Dora Elena_Helen Eleonora_Eleanor Elisa_Elisabeth Elisabetta_Elisabeth Eudossia Eugenia
-			Fausta Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Giacinta Ginevra Giovanna Giuditta Giulia_Juliana 
-			Giuseppa Ippolita Isabella_Elisabeth Laura_Laura Lavinia Leonide Letizia Lidia Livia Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella 
-			Margherita_Margaret Maria_Maria Mariana Marietta Martina Micaela Nunzia Olivia Paola_Paula Patrizia_Patricia Renata Silvana
-			Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia
+			Adriana Aelia Agalina Agnese_Agnes Agostina Annia Albina Alda Alessandra Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Aquilia Arabia Argentina 
+			Augusta Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Bianca_Blanche Bona_Bonne Caecilia Camilla Candida Caracosa Caterina_Catherine Cecilia_Cecilia Claudia 
+			Constantina_Constance Cornelia Dora Helena_Helen Eleonora_Eleanor Elisa_Elisabeth Elisabetta_Elisabeth Eudossia Eugenia Fausta Felicia Felicita Filippa_Philippa Filomena Flavia 
+			Flora_Flora Fortunata Fosca Fulvia Gaia Galeria Giacinta Ginevra Giovanna Giuditta Giulia_Juliana Giuseppa Ippolita Isabella_Elisabeth Julia Justina Laura_Laura Lavinia Leonide 
+			Letizia Licinia Lidia Livia Lucia_Lucia Lucinetta Lucrezia Magdalena_Magdalena Magnia Marcella Marcia Margherita_Margaret Maria_Maria Mariana Marietta Martina Micaela Minervina 
+			Nunzia Olivia Paola_Paula Patrizia_Patricia Prisca Pulcheria Renata Silvana Sofia_Sophia Stefania_Stephania Thermantia Tiziana Tomasina Tranquilia Ulpia Valentina Valeria 
+			Violante_Yolanda Virginia Zenonis
 		}
 		from_dynasty_prefix = "di "
 

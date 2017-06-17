@@ -6,11 +6,11 @@ title = c_dailam
 # Settlements
 max_settlements = 5
 b_dailam = castle
-#b_alamut = temple
+b_alamut = temple
 b_soltaniyeh = city
 
 #b_gheydar = castle
-b_zanjan = city
+#b_zanjan = city
 #b_tarom = castle
 #b_abhar = castle
 #b_mahneshan = castle

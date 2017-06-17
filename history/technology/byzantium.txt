@@ -42,7 +42,6 @@ technology = {
 	#k_pontus
 		d_armeniacon
 		d_charsianon
-		d_coloneia
 		d_nikaea
 		d_paphlagonia
 		d_trebizond

@@ -8,8 +8,8 @@ max_settlements = 4
 b_gallipoli = castle
 b_heraclea = temple
 b_madyta = city
+b_rhaidestos = castle
 
-#b_rhaidestos = castle
 #b_panidos = castle
 #b_selymbria = castle
 #b_lysimachia = castle

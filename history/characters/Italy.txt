@@ -216,16 +216,660 @@
 	
 	#History
 	
-	867.1.1={
+	822.7.17={
 		birth=yes
+	}
+	842.1.1={
+		add_spouse=554051
+	}
+}
+554051 = {
+	name="Filippa"
+	religion="apollonian"
+	culture="italian"
+	female=yes
+	
+	#History
+	
+	822.2.27={
+		birth=yes
+	}
+	842.1.1={
+		add_spouse=554050
+	}
+}
+554052 = {
+	name="Caterina"
+	dynasty=59514
+	religion="apollonian"
+	culture="italian"
+	female=yes
+	father=554050
+	mother=554051
+	
+	#History
+	
+	843.11.22={
+		birth=yes
+	}
+}
+554053 = {
+	name="Marino"
+	dynasty=59514
+	religion="apollonian"
+	culture="italian"
+	father=554050
+	mother=554051
+	
+	#History
+	
+	845.7.1={
+		birth=yes
+	}
+}
+554054 = {
+	name="Valentina"
+	dynasty=59514
+	religion="apollonian"
+	culture="italian"
+	female=yes
+	father=554050
+	mother=554051
+	
+	#History
+	
+	847.3.14={
+		birth=yes
+	}
+}
+554055 = {
+	name="Agostino" # Styria
+	dynasty=59505
+	religion="apollonian"
+	culture="italian"
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=554056
+	}
+}
+554056 = {
+	name="Argentina"
+	religion="apollonian"
+	culture="italian"
+	female=yes
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=554055
 	}
 }
 
 # Italia
 
 554100 = {
-	name="Cosimo"
-	dynasty=######
+	name="Liberius"
+	dynasty=59516
 	religion="apollonian"
 	culture="apennine"
+	
+	#History
+	
+	824.1.1={
+		birth=yes
+	}
+	846.1.1={
+		add_spouse=554101
+	}
+	865.1.1={
+		death=yes
+	}
+}
+554101 = {
+	name="Honoria"
+	dynasty=59502
+	religion="apollonian"
+	culture="apennine"
+	female=yes
+	
+	#History
+	
+	826.1.1={
+		birth=yes
+	}
+	846.1.={
+		add_spouse=554101
+	}
+}
+554102 = {
+	name="Aurelian" # Ravenna
+	dynasty=59516
+	religion="apollonian"
+	culture="apennine"
+	father=554100
+	mother=554101
+	
+	add_trait = skilled_tactician
+	add_trait = proud
+	add_trait = ambitious
+	add_trait = arbitrary
+	add_trait = wroth
+	add_trait = fair
+	add_trait = generous
+	add_claim = e_florence
+	
+	#History
+	
+	850.7.15={
+		birth=yes
+	}
+}
+554103 = {
+	name="Lucius" # Florence
+	dynasty=59516
+	religion="apollonian"
+	culture="apennine"
+	father=554100
+	mother=554101
+	
+	add_trait = proud
+	add_trait = ambitious
+	add_trait = shrewd
+	add_trait = patient
+	add_trait = just
+	add_trait = slothful
+	add_trait = envious
+	add_claim = e_ravenna
+	
+	#History
+	
+	852.5.23={
+		birth=yes
+	}
+}
+554104 = {
+	name="Cornelius"
+	dynasty=59516
+	religion="apollonian"
+	culture="apennine"
+	father=554100
+	mother=554101
+	
+	add_trait = kind
+	add_trait = twin
+	
+	#History
+	
+	855.5.23={
+		birth=yes
+	}
+}
+554105 = {
+	name="Lavinia"
+	dynasty=59516
+	religion="apollonian"
+	culture="apennine"
+	father=554100
+	mother=554101
+	female=yes
+	
+	add_trait = genius
+	add_trait = twin
+	
+	#History
+	
+	855.5.23={
+		birth=yes
+	}
+}
+554106 = {
+	name="Lupus" # Verona
+	dynasty=59517
+	religion="apollonian"
+	culture="italian"
+	
+	#History
+	
+	805.2.27={
+		birth=yes
+	}
+	829.1.1={
+		add_spouse=554107
+	}
+}
+554107 = {
+	name="Aelia"
+	religion="apollonian"
+	culture="italian"
+	female=yes
+	
+	#History
+	
+	809.10.3={
+		birth=yes
+	}
+	829.1.1={
+		add_spouse=554106
+	}
+}
+554108 = {
+	name="Boetius"
+	dynasty=59517
+	religion="apollonian"
+	culture="italian"
+	father=554106
+	mother=554107
+	
+	#History
+	
+	833.6.10={
+		birth=yes
+	}
+	852.1.1={
+		add_spouse=554109
+	}
+}
+554109 = {
+	name="Isabella"
+	religion="apollonian"
+	culture="italian"
+	female=yes
+	
+	#History
+	
+	832.1.17={
+		birth=yes
+	}
+	852.1.1={
+		add_spouse=554108
+	}
+}
+554110 = {
+	name="Severinus" # SPQR
+	dynasty=59520
+	religion="apollonian"
+	culture="apennine"
+	
+	#History
+	
+	829.1.17={
+		birth=yes
+	}
+	851.1.1={
+		add_spouse=554111
+	}
+}
+554111 = {
+	name="Anastasia"
+	religion="apollonian"
+	culture="apennine"
+	female=yes
+	
+	#History
+	
+	831.1.17={
+		birth=yes
+	}
+	851.1.1={
+		add_spouse=554110
+	}
+}
+554112 = {
+	name="Titus" # Ancona
+	dynasty=59528
+	religion="apollonian"
+	culture="apennine"
+	
+	add_trait=brawny
+	add_trait=dull
+	
+	#History
+	
+	826.1.17={
+		birth=yes
+	}
+	849.1.1={
+		add_spouse=554113
+	}
+}
+554113 = {
+	name="Julia"
+	religion="apollonian"
+	culture="apennine"
+	female=yes
+	
+	add_trait=fair
+	add_trait=ambitious
+	
+	#History
+	
+	829.3.8={
+		birth=yes
+	}
+	849.1.1={
+		add_spouse=554112
+	}
+}
+554114 = {
+	name="Octavius"
+	dynasty=59528
+	religion="apollonian"
+	culture="apennine"
+	father=554112
+	mother=554113
+	
+	add_trait=genius
+	
+	#History
+	
+	852.1.16={
+		birth=yes
+	}
+}
+554115 = {
+	name="Aelia" # Apulia
+	dynasty=59502
+	religion="apollonian"
+	culture="apennine"
+	female=yes
+	
+	add_trait=shrewd
+	add_trait=midas_touched
+	
+	#History
+	
+	842.11.8={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=554116
+	}
+}
+554116 = {
+	name="Symmachus"
+	religion="apollonian"
+	culture="apennine"
+	
+	#History
+	
+	840.8.21={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=554115
+	}
+}
+554117 = {
+	name="Maria"
+	dynasty=59502
+	religion="apollonian"
+	culture="apennine"
+	female=yes
+	mother=554115
+	father=554116
+	
+	#History
+	
+	864.4.19={
+		birth=yes
+	}
+}
+554118 = {
+	name="Romanus" # Benevento
+	dynasty=59530
+	religion="apollonian"
+	culture="apennine"
+	
+	#History
+	
+	834.6.15={
+		birth=yes
+	}
+	856.1.1={
+		add_spouse=554119
+	}
+}
+554119 = {
+	name="Marciana"
+	religion="apollonian"
+	culture="apennine"
+	female=yes
+	
+	#History
+	
+	836.12.4={
+		birth=yes
+	}
+	856.1.1={
+		add_spouse=554118
+	}
+}
+554120 = {
+	name="Docibilis" # Capua
+	dynasty=59518
+	religion="mercurial"
+	culture="apennine"
+	
+	#History
+	
+	821.4.4={
+		birth=yes
+	}
+	844.1.1={
+		add_spouse=554121
+	}
+}
+554121 = {
+	name="Prisca"
+	religion="mercurial"
+	culture="apennine"
+	female=yes
+	
+	#History
+	
+	824.7.22={
+		birth=yes
+	}
+	844.1.1={
+		add_spouse=554120
+	}
+}
+554122 = {
+	name="Marina"
+	dynasty=59518
+	religion="mercurial"
+	culture="apennine"
+	father=554120
+	mother=554121
+	female=yes
+	
+	#History
+	
+	846.2.12={
+		birth=yes
+	}
+}
+554123 = {
+	name="Ioannes"
+	dynasty=59518
+	religion="mercurial"
+	culture="apennine"
+	father=554120
+	mother=554121
+	
+	#History
+	
+	848.5.29={
+		birth=yes
+	}
+}
+554124 = {
+	name="Leo"
+	dynasty=59518
+	religion="mercurial"
+	culture="apennine"
+	father=554120
+	mother=554121
+	
+	#History
+	
+	850.4.15={
+		birth=yes
+	}
+}
+554125 = {
+	name="Anna"
+	dynasty=59518
+	religion="mercurial"
+	culture="apennine"
+	father=554120
+	mother=554121
+	female=yes
+	
+	#History
+	
+	853.10.2={
+		birth=yes
+	}
+}
+554126 = {
+	name="Avitus" # Lucania/Italy
+	dynasty=59501
+	religion="mercurial"
+	culture="apennine"
+	
+	#History
+	
+	830.12.3={
+		birth=yes
+	}
+	854.1.1={
+		add_spouse=554127
+	}
+}
+554127 = {
+	name="Magdalena"
+	religion="mercurial"
+	culture="apennine"
+	female=yes
+	
+	#History
+	
+	834.4.30={
+		birth=yes
+	}
+	854.1.1={
+		add_spouse=554126
+	}
+}
+554128 = {
+	name="Apollinaris"
+	dynasty=59501
+	religion="mercurial"
+	culture="apennine"
+	father=554126
+	mother=554127
+	
+	#History
+	
+	856.8.16={
+		birth=yes
+	}
+}
+554129 = {
+	name="Severina"
+	dynasty=59501
+	religion="mercurial"
+	culture="apennine"
+	father=554126
+	mother=554127
+	female=yes
+	
+	#History
+	
+	858.3.27={
+		birth=yes
+	}
+}
+554130 = {
+	name="Roscia"
+	dynasty=59501
+	religion="mercurial"
+	culture="apennine"
+	father=554126
+	mother=554127
+	female=yes
+	
+	#History
+	
+	860.2.8={
+		birth=yes
+	}
+}
+554131 = {
+	name="Flavianus" # Sicily
+	dynasty=59531
+	religion="mercurial"
+	culture="apennine"
+	
+	#History
+	
+	835.5.23={
+		birth=yes
+	}
+	854.1.1={
+		add_spouse=554132
+	}
+}
+554132 = {
+	name="Galla"
+	religion="mercurial"
+	culture="apennine"
+	female=yes
+	
+	#History
+	
+	835.5.23={
+		birth=yes
+	}
+	854.1.1={
+		add_spouse=554131
+	}
+}
+554133 = {
+	name="Virius"
+	dynasty=59531
+	religion="mercurial"
+	culture="apennine"
+	father=554131
+	mother=554132
+	
+	#History
+	
+	857.4.30={
+		birth=yes
+	}
+}
+554134 = {
+	name="Eugenia"
+	dynasty=59531
+	religion="mercurial"
+	culture="apennine"
+	father=554131
+	mother=554132
+	female=yes
+	
+	#History
+	
+	860.7.9={
+		birth=yes
+	}
 }

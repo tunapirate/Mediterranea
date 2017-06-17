@@ -16,6 +16,6 @@ b_montevarchi = castle
 
 # Misc
 culture = apennine
-religion = roman_rite
+religion = apollonian
 
 # History

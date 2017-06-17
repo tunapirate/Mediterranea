@@ -4,14 +4,14 @@
 title = c_tangiers
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 
 b_tangiers = castle
 b_laraiche = city
 b_mulaybuselham = temple
 b_alcazarquivir = city
-b_ainbenamar = castle
 
+#b_ainbenamar = castle
 #b_charkia = castle
 #b_asilah = castle
 #b_barrha = castle

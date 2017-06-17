@@ -8,8 +8,8 @@ max_settlements = 6
 b_taif = castle
 b_jeddah = city
 b_mecca = temple
+b_al_johfa = castle
 
-#b_al_johfa = castle
 #b_turubah = city
 #b_al_lith = castle
 #b_jmumum = castle

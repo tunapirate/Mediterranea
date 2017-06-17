@@ -8,8 +8,8 @@ max_settlements = 6
 b_bordeaux = castle
 b_lasauve = temple
 b_blaye = city
+b_castillon = castle
 
-#b_castillon = castle	
 #b_stemilion = temple
 #b_bourg = castle
 #b_lareole = city

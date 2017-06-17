@@ -16,6 +16,6 @@ b_alcobaca = temple
 
 # Misc
 culture = lusitanian
-religion = hellenic_pagan
+religion = neptunal
 
 # History

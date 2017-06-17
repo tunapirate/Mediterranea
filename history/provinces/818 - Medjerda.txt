@@ -9,7 +9,7 @@ max_settlements = 5
 b_medjerda = castle
 b_lekef = city
 b_siliana = temple
-b_kasserine = city
+b_kasserine = castle
 
 #b_sidimubarak = castle
 #b_qaafur = castle

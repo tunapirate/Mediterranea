@@ -4,15 +4,14 @@
 title = c_narbonne
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_narbonne = castle
 b_beziers = city
 b_albi = temple
-
+b_castres = city
 
 #b_stponsdethomieres = temple
 #b_puisserguier = castle
-#b_castres = city
 #b_queribus = castle
 #b_agde = city
 

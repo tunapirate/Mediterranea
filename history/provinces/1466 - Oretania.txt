@@ -8,7 +8,7 @@ max_settlements = 4
 b_linares = castle
 b_oringis = city
 b_castulo = temple
-#b_illiturgis = city
+b_illiturgis = city
 
 # Misc
 culture = catalan

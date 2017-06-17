@@ -8,7 +8,7 @@ max_settlements = 4
 b_valeria = castle
 b_ercavica = temple
 b_santa_catalina = city
-#b_olmeda = city
+b_olmeda = castle
 
 # Misc
 culture = catalan

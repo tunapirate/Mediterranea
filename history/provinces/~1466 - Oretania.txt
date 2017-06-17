@@ -12,6 +12,6 @@ b_castulo = temple
 
 # Misc
 culture = catalan
-religion = hellenic_pagan
+religion = hispanic_rite
 
 # History

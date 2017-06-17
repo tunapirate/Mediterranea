@@ -16,7 +16,7 @@ b_karkuh = castle
 #b_agar = castle
 
 # Misc
-culture = sogdian
+culture = persian
 religion = zoroastrian
 terrain = steppe
 

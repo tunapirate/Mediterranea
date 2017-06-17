@@ -15,7 +15,7 @@ b_dora = castle
 #b_shadegan = castle
 #b_khorramshahr = castle
 
-culture = persian
+culture = assyrian
 religion = mazdaki
 
 # History

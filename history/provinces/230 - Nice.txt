@@ -5,9 +5,10 @@ title = c_nice
 
 # Settlements
 max_settlements = 4
-b_nizza = temple
-b_mentone = city
-b_monaco = castle
+
+b_nizza = castle
+b_monaco = city
+b_mentone = temple
 
 #b_antibes = castle
 #b_sanremo = castle

@@ -8,8 +8,8 @@ max_settlements = 5
 b_scandalon = castle
 b_sarafand = city
 b_tyrus = temple
+b_syrmontfort = castle
 
-#b_syrmontfort = castle
 #b_casalimbert = castle
 #b_megedel = castle
 #b_hunin = castle

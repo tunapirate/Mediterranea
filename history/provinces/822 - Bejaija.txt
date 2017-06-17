@@ -9,8 +9,8 @@ max_settlements = 4
 b_bejaija = castle
 b_setif = city
 b_mila = temple
+b_elbekara = city
 
-#b_elbekara = castle
 #b_eldjabia = castle
 #b_boudaoud = castle
 #b_gantas = castle

@@ -7253,8 +7253,8 @@ b_bergenopzoom;Bergenopzoom;Bergen Op Zoom;Bergenopzoom;;Bergenopzoom;;;;;;;;;x
 b_cuijck;Cuijck;Cuijck;Cuijck;;Cuijck;;;;;;;;;x
 b_ravenstein;Ravenstein;Ravenstein;Ravenstein;;Ravenstein;;;;;;;;;x
 b_horn;Horn;Horn;Horn;;Horn;;;;;;;;;x
-d_luxembourg;Luxembourg;Luxembourg;Luxemburg;;Luxemburgo;;;;;;;;;x
-d_luxembourg_adj;Luxembourgian;Luxembourgeoise;Luxemburgischer;;Luxemburguesa;;;;;;;;;x
+d_luxembourg;Arduenna;Arduenna;Arduenna;;Arduenna;;;;;;;;;x
+d_luxembourg_adj;Arduennan;Arduennan;Arduennan;;Arduennan;;;;;;;;;x
 c_luxembourg_adj;Luxembourgian;Luxembourgeoise;Luxemburgischer;;Luxemburgués;;;;;;;;;x
 b_luxembourg;Luxembourg;Luxembourg;Luxemburg;;Luxemburgo;;;;;;;;;x
 b_bouillon;Bouillon;Bouillon;Bouillon;;Bouillon;;;;;;;;;x
@@ -7282,8 +7282,8 @@ b_laroche;Laroche;Laroche;Laroche;;Laroche;;;;;;;;;x
 b_cine;Cînè;Cînè;Cînè;;Cînè;;;;;;;;;x
 b_salm;Salm;Salm;Salm;;Salm;;;;;;;;;x
 b_stavelot;Stavelot;Stavelot;Stavelot;;Stavelot;;;;;;;;;x
-d_lower_lorraine;Lower Lorraine;Lotharingie;Niederlothringen;;Baja Lorena;;;;;;;;;x
-d_lower_lorraine_adj;Lower Lorrainian;Lotharingienne;Oberlothringischer;;Bajolorenesa;;;;;;;;;x
+d_lower_lorraine;Moselle;Moselle;Moselle;;Moselle;;;;;;;;;x
+d_lower_lorraine_adj;Mosellan;Mosellan;Mosellan;;Mosellan;;;;;;;;;x
 c_koln_adj;Kölnian;Colonaise;Kölner;;Coloniense;;;;;;;;;x
 b_koln;Köln;Cologne;Köln;;Colonia;;;;;;;;;x
 b_berg;Berg;Berg;Berg;;Berg;;;;;;;;;x
@@ -7358,8 +7358,8 @@ b_colmberg;Colmberg;Colmberg;Colmberg;;Colmberg;;;;;;;;;x
 b_roth;Roth;Roth;Roth;;Roth;;;;;;;;;x
 b_uffenheim;Uffenheim;Uffenheim;Uffenheim;;Uffenheim;;;;;;;;;x
 b_crailsheim;Crailsheim;Crailsheim;Crailsheim;;Crailsheim;;;;;;;;;x
-d_upper_lorraine;Upper Lorraine;Lorraine;Oberlothringen;;Alta Lorena;;;;;;;;;x
-d_upper_lorraine_adj;Upper Lorrainian;Lorrainne;Oberlothringischer;;Altolorenesa;;;;;;;;;x
+d_upper_lorraine;Belgica;Belgica;Belgica;;Belgica;;;;;;;;;x
+d_upper_lorraine_adj;Belgican;Belgican;Belgican;;Belgican;;;;;;;;;x
 c_pfalz_adj;Pfalzian;Palatine;Pfälzischer;;Palatinado;;;;;;;;;x
 b_kaiserslautern;Kaiserslautern;Kaiserslautern;Kaiserslautern;;Kaiserslautern;;;;;;;;;x
 b_worms;Worms;Worms;Worms;;Worms;;;;;;;;;x
@@ -11169,8 +11169,8 @@ b_carbonia;Carbonia;Carbonia;Carbonia;;Carbonia;;;;;;;;;x
 b_capoterra;Capoterra;Capoterra;Capoterra;;Capoterra;;;;;;;;;x
 k_sicily;Sicily;Sicile;Sizilien;;Sicilia;;;;;;;;;x
 k_sicily_adj;Sicilian;Sicilienne;Sizilianischer;;Siciliana;;;;;;;;;x
-d_benevento;Benevento;Bénévent;Benevento;;Benevento;;;;;;;;;x
-d_benevento_adj;Benevenetian;Bénéventine;Benevenetischer;;Beneventana;;;;;;;;;x
+d_benevento;Samnium;Samnium;Samnium;;Samnium;;;;;;;;;x
+d_benevento_adj;Samnite;Samnite;Samnite;;Samnite;;;;;;;;;x
 c_benevento_adj;Benevenetian;Bénéventine;Benevenetischer;;Beneventano;;;;;;;;;x
 b_benevento;Benevento;Bénévent;Benevento;;Benevento;;;;;;;;;x
 b_avellino;Avellino;Avellino;Avellino;;Avellino;;;;;;;;;x
@@ -15301,19 +15301,6 @@ LEDGER_WARS_WARSCORE;Warscore;Score de guerre;Kriegspunktestand;;Punt. de guerra
 LEDGER_WARS_STARTDATE;Start Date;Date de début;Startdatum;;Fecha de inicio;;;;;;;;;x
 LEDGER_WARS_ATTACKER;Attacker;Attaquant;Angreifer;;Atacante;;;;;;;;;x
 LEDGER_WARS_DEFENDER;Defender;Défenseur;Verteidiger;;Defensor;;;;;;;;;x
-LOADING_TIP_0;Byzantine control of the Euxine Sea is tenuous at best and dependent upon a web of alliances with less-than-reliable tribes. The Pax Euxina is likely coming to an end.;Byzantine control of the Euxine Sea is tenuous at best and dependent upon a web of alliances with less-than-reliable tribes. The Pax Euxina is likely coming to an end.;Byzantine control of the Euxine Sea is tenuous at best and dependent upon a web of alliances with less-than-reliable tribes. The Pax Euxina is likely coming to an end.;;Byzantine control of the Euxine Sea is tenuous at best and dependent upon a web of alliances with less-than-reliable tribes. The Pax Euxina is likely coming to an end.;;;;;;;;;x
-LOADING_TIP_1;The restoration of the Western Roman Empire as a pagan state shattered the Western Chalcedonian Church.;The restoration of the Western Roman Empire as a pagan state shattered the Western Chalcedonian Church.;The restoration of the Western Roman Empire as a pagan state shattered the Western Chalcedonian Church.;;The restoration of the Western Roman Empire as a pagan state shattered the Western Chalcedonian Church.;;;;;;;;;x
-LOADING_TIP_2;The anarchy that ensued following the Revolt of the Mehranids scattered the House of Sasan to the four corners of the globe. The steppe is laden with rumors of Sassanid claimants plotting their return.;The anarchy that ensued following the Revolt of the Mehranids scattered the House of Sasan to the four corners of the globe. The steppe is laden with rumors of Sassanid claimants plotting their return.;The anarchy that ensued following the Revolt of the Mehranids scattered the House of Sasan to the four corners of the globe. The steppe is laden with rumors of Sassanid claimants plotting their return.;;The anarchy that ensued following the Revolt of the Mehranids scattered the House of Sasan to the four corners of the globe. The steppe is laden with rumors of Sassanid claimants plotting their return.;;;;;;;;;x
-LOADING_TIP_3;Neither the Emperor in Florence nor the Emperor in Ravenna will accept the Senate in Rome as legitimate.;Neither the Emperor in Florence nor the Emperor in Ravenna will accept the Senate in Rome as legitimate.;Neither the Emperor in Florence nor the Emperor in Ravenna will accept the Senate in Rome as legitimate.;;Neither the Emperor in Florence nor the Emperor in Ravenna will accept the Senate in Rome as legitimate.;;;;;;;;;x
-LOADING_TIP_4;Aside from the Sibling Emperors, the Flavian dynasty's greatest legacy is the trade route running from Gibraltar to the Balkans that bears its name.;Aside from the Sibling Emperors, the Flavian dynasty's greatest legacy is the trade route running from Gibraltar to the Balkans that bears its name.;Aside from the Sibling Emperors, the Flavian dynasty's greatest legacy is the trade route running from Gibraltar to the Balkans that bears its name.;;Aside from the Sibling Emperors, the Flavian dynasty's greatest legacy is the trade route running from Gibraltar to the Balkans that bears its name.;;;;;;;;;x
-LOADING_TIP_5;Islam failed to expand far beyond the Arabian Peninsula, but both the Caliph and the Sultan of Arabia are ambitious men with dreams of conquest.;Islam failed to expand far beyond the Arabian Peninsula, but both the Caliph and the Sultan of Arabia are ambitious men with dreams of conquest.;Islam failed to expand far beyond the Arabian Peninsula, but both the Caliph and the Sultan of Arabia are ambitious men with dreams of conquest.;;Islam failed to expand far beyond the Arabian Peninsula, but both the Caliph and the Sultan of Arabia are ambitious men with dreams of conquest.;;;;;;;;;x
-LOADING_TIP_6;The Berbers of Tripolitania are the vestiges of the once-great kingdom of the Garamantes.;The Berbers of Tripolitania are the vestiges of the once-great kingdom of the Garamantes.;The Berbers of Tripolitania are the vestiges of the once-great kingdom of the Garamantes.;;The Berbers of Tripolitania are the vestiges of the once-great kingdom of the Garamantes.;;;;;;;;;x
-LOADING_TIP_7;The rise of Christianity has left an indelible mark upon Greco-Italic paganism, as people seek a more personal relationship with the divine.;The rise of Christianity has left an indelible mark upon Greco-Italic paganism, as people seek a more personal relationship with the divine.;The rise of Christianity has left an indelible mark upon Greco-Italic paganism, as people seek a more personal relationship with the divine.;;The rise of Christianity has left an indelible mark upon Greco-Italic paganism, as people seek a more personal relationship with the divine.;;;;;;;;;x
-LOADING_TIP_8;There can never be enough Romes.;There can never be enough Romes.;There can never be enough Romes.;;There can never be enough Romes.;;;;;;;;;x
-LOADING_TIP_9;Africa is divided between Christians and Hellenes, and religious tolerance is not a common policy.;Africa is divided between Christians and Hellenes, and religious tolerance is not a common policy.;Africa is divided between Christians and Hellenes, and religious tolerance is not a common policy.;;Africa is divided between Christians and Hellenes, and religious tolerance is not a common policy.;;;;;;;;;x
-LOADING_TIP_10;The Bishop of Rome fled to the Alps to avoid persecution by the Flavian emperors. The Holy See, in Helvetia, has become the Bastion of Christendom.;The Bishop of Rome fled to the Alps to avoid persecution by the Flavian emperors. The Holy See, in Helvetia, has become the Bastion of Christendom.;The Bishop of Rome fled to the Alps to avoid persecution by the Flavian emperors. The Holy See, in Helvetia, has become the Bastion of Christendom.;;The Bishop of Rome fled to the Alps to avoid persecution by the Flavian emperors. The Holy See, in Helvetia, has become the Bastion of Christendom.;;;;;;;;;x
-LOADING_TIP_11;The Avar Khaganate could be toppled with little more than a well-placed arrow.;The Avar Khaganate could be toppled with little more than a well-placed arrow.;The Avar Khaganate could be toppled with little more than a well-placed arrow.;The Avar Khaganate could be toppled with little more than a well-placed arrow.;;The Avar Khaganate could be toppled with little more than a well-placed arrow.;;;;;;;;;x
-LOADING_TIP_12;The Mehranid Empire is great in size and greater in its number of problems. Without meaningful reform, it is unlikely that the Persian Empire will survive.;The Mehranid Empire is great in size and greater in its number of problems. Without meaningful reform, it is unlikely that the Persian Empire will survive.;The Mehranid Empire is great in size and greater in its number of problems. Without meaningful reform, it is unlikely that the Persian Empire will survive.;;The Mehranid Empire is great in size and greater in its number of problems. Without meaningful reform, it is unlikely that the Persian Empire will survive.;;;;;;;;;x
 MESSAGE_IS_LOG;This messagetype currently $TRUTH$ displayed in the log.;Ce type de message $TRUTH$ s'affiche dans le rapport.;Dieser Nachrichtentyp wird momentan $TRUTH$ im Log angezeigt.;Ten rodzaj wiadomoœci aktualnie $TRUTH$ wyœwietlany w dzienniku gry.;Actualmente, este tipo de mensaje $TRUTH$ muestra en el registro.;Questo tipo di messaggio al momento $TRUTH$ visualizzato nella cronologia.;Az üzenettípus látható az üzenetnaplóban: ;Tato zpráva se právì $TRUTH$ zobrazila v protokolu.;;;;;;x
 MESSAGE_IS_POPUP;This messagetype currently $TRUTH$ displayed as a popup.;Ce type de message $TRUTH$ s'affiche automatiquement.;Dieser Nachrichtentyp wird momentan $TRUTH$ als Popup angezeigt.;Ten rodzaj wiadomoœci aktualnie $TRUTH$ wyœwietlany w oknie.;Actualmente, este tipo de mensaje $TRUTH$ muestra en una ventana emergente.;Questo tipo di messaggio al momento $TRUTH$ visualizzato come popup.;Az üzenettípus megjelenik elõugró ablakként:;Tato zpráva se právì $TRUTH$ zobrazila v rozevíracím oknì.;;;;;;x
 MESSAGE_IS_ONMAP;This messagetype currently $TRUTH$ displayed on the map (if applicable).;Ce type de message $TRUTH$ s'affiche sur la carte (le cas échéant).;Dieser Nachrichtentyp wird momentan $TRUTH$ auf der Karte angezeigt (falls möglich).;Ten rodzaj wiadomoœci aktualnie $TRUTH$ wyœwietlany na mapie (w stosownych przypadkach).;Actualmente, este tipo de mensaje $TRUTH$ muestra en el mapa (si corresponde).;Questo tipo di messaggio al momento $TRUTH$ visualizzato sulla mappa (se appropriato).;Az üzenettípus látható a térképen: ;Tato zpráva se právì $TRUTH$ zobrazila na mapì (je-li k dispozici).;;;;;;x

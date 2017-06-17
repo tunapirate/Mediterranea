@@ -7,7 +7,7 @@ title = c_severin
 max_settlements = 5
 
 b_severin = castle
-#b_tirgujiu = castle
+b_tirgujiu = castle
 
 b_craiova = city
 b_ursova = temple
@@ -23,9 +23,6 @@ culture = romanian
 religion = orthodox
 
 # History
-870.1.1 = {
-	religion = orthodox
-}
 
 
 

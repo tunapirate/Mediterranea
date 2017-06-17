@@ -1,4 +1,4 @@
-bm_the_old_gods = {
+bm_the_orient = {
 	name = "BM_MED_THE_ORIENT"
 	desc = "BM_MED_THE_ORIENT_INFO"
 	date = 867.1.1
@@ -9,9 +9,7 @@ bm_the_old_gods = {
 	selectable_character = {
 		id = 543516 # Basileus Constantine
 		age = 57
-		name = ERA_CHAR_NAME
 		title = e_byzantium
-		title_name = 
 		
 		character = {
 			religion="orthodox"
@@ -20,103 +18,80 @@ bm_the_old_gods = {
 			dynasty=5551
 		}
 	}
+	
+	selectable_character = {
+		id = 504314 # King Alexandros
+		age = 57
+		title = k_egypt
+		
+		character = {
+			religion="orthodox"
+			culture="aegyptian"
+			government = feudal_government
+			dynasty=5504
+		}
+	}
 
 	selectable_character = {
-		id = 40605 # Rurik
-		age = 37
-		name = ERA_CHAR_NAME_40605
+		id = 543537 # Despot Constantinos
+		age = 55
 		title = k_asia
-		title_name = ERA_HOLMGARDR
 		
 		character = {
-			dna = tczeyfghtom
-			properties = th0ebd000000
-			religion="norse_pagan"
-			culture="norse"
-			government = tribal_government
-			dynasty=705
-		}
-	}
-
-	selectable_character = {
-		id = 90104 # Charles the Bald
-		age = 43
-		name = ERA_CHAR_NAME_90104
-		title = k_syria
-		title_name = WEST_FRANCIA
-		
-		character = {
-			dna = cjlcjygaaar
-			properties = an0abb000000
-			religion="catholic"
-			culture="frankish"
-			government = feudal_government
-			dynasty=25061
-		}
-	}
-
-	selectable_character = {
-		id = 90107 # Ludwig the German
-		age = 61
-		name = ERA_CHAR_NAME_90107
-		title = k_germany
-		title_name = EAST_FRANCIA
-		
-		character = {
-			dna = bagmeomdaai
-			properties = aj0abb000000
-			religion="catholic"
-			culture="german"
-			government = feudal_government
-			dynasty=25061
-		}
-	}
-
-	selectable_character = {
-		id = 1700 # Basil I
-		age = 30
-		name = ERA_CHAR_NAME_1700
-		title = e_byzantium
-		title_name = e_byzantium
-		
-		character = {
-			dna = dageigbabbe
-			properties = am0aj0000000
 			religion="orthodox"
 			culture="greek"
 			government = feudal_government
-			dynasty=644
+			dynasty=1022168
 		}
 	}
 
 	selectable_character = {
-		id = 34014 # Al-Mu'tazz
-		age = 20
-		name = ERA_CHAR_NAME_34014
-		title = e_arabia
-		title_name = d_abbasid
+		id = 534021 # King Alexandros
+		age = 28
+		title = k_syria
 		
 		character = {
-			dna = csdeypeevjm
-			properties = eo0bb0000000
-			religion="sunni"
-			culture="bedouin_arabic"
-			government = muslim_government
-			dynasty=101727
+			religion="orthodox"
+			culture="anatolian"
+			government = feudal_government
+			dynasty=59001
 		}
 	}
 
-	### These are not shown unless the player is viewing custom bookmarks
-
 	selectable_character = {
-		id = 33358 # Æthelred
+		id = 543548 # Despot Theoktistos
+		age = 52
+		title = k_byzantium
+		
+		character = {
+			religion="orthodox"
+			culture="greek"
+			government = feudal_government
+			dynasty=101079
+		}
 	}
-
-	selectable_character = {
-		id = 163111 # Ivar the Boneless	
-	}
-
-	selectable_character = {
-		id = 45107 # Vandad I
-	}
-}2
+}
+bm_the_hellenes = {
+	name = "BM_MED_THE_HELLENES"
+	desc = "BM_MED_THE_HELLENES_INFO"
+	date = 867.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+}
+bm_the_christian_west = {
+	name = "BM_MED_THE_CHRISTIANS"
+	desc = "BM_MED_THE_CHRISTIANS_INFO"
+	date = 867.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+}
+bm_the_true_east = {
+	name = "BM_MED_THE_EASTERNERS"
+	desc = "BM_MED_THE_EASTERNERS_INFO"
+	date = 867.1.1
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_2
+}

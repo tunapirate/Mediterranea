@@ -18,6 +18,6 @@ b_Xauen = temple
 
 # Misc
 culture = tangieran
-religion = hellenic_pagan
+religion = mercurial
 
 # History

@@ -5748,7 +5748,7 @@ e_roman_empire = {
 			}
 		}
 		d_sicily = {
-			color={ 231 51 37f }
+			color={ 231 51 37 }
 			color2={ 255 255 255 }
 			
 			capital = 340 # Palermo
@@ -5904,7 +5904,20 @@ e_roman_empire = {
 				b_alcarno = {
 				}
 			}
-		}		
+		}
+		d_spqr = {
+			color={ 231 51 37 }
+			color2={ 255 255 255 }
+			
+			capital = 333 # Rome
+			
+			title = "PRINCEPS"
+			short_name = yes
+			location_ruler_title = yes
+			landless = yes
+			primary = yes
+			dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+		}
 	}
 	k_illyria = {
 		color = { 220 31 40 }
@@ -7451,7 +7464,7 @@ e_roman_empire = {
 		color2={ 255 255 255 }
 		
 		capital = 817 # Tunis
-		dignity = 10 # Counted as having this many more counties than it does
+		dignity = 200 # Counted as having this many more counties than it does
 		
 		culture = maghreb_arabic
 		
@@ -10227,6 +10240,40 @@ e_roman_empire = {
 	}
 }
 
+e_florence = {
+	color = { 205 44 67 }
+	color2={ 255 255 20 }
+	
+	capital = 328 # Florence
+	
+	dignity = 200
+	location_ruler_title = yes
+	duchy_revokation = yes
+	title = "IMPERATOR"
+	
+	allow = {
+			always = no # Only created through special event
+	}
+}
+
+e_ravenna = {
+	color={ 173 27 34 }
+	color2={ 255 255 20 }
+	
+	capital = 351 # Ravenna
+
+	dignity = 200
+	location_ruler_title = yes
+	duchy_revokation = yes
+	title = "IMPERATOR"
+	
+	
+	allow = {
+			always = no # Only created through special event
+	}
+	
+}
+
 e_byzantium = {
 	color={ 111 56 148 }
 	color2={ 255 255 20 }
@@ -10467,6 +10514,51 @@ e_byzantium = {
 				b_faustinopolis = {
 				}
 			}
+			c_lykandos = {
+				color={ 214 140 195 }
+				color2={ 255 255 255 }
+				
+				turkish = "Elbistan"
+	
+				b_lykandos = {
+					turkish = "Elbistan"
+				}
+				b_tzamandos = {
+				}
+				b_comanagene = {
+				}
+				b_symposion = {
+				}
+				b_papurius = {
+				}
+				b_cocussus = {
+				}
+				b_germanikeia = {
+				}
+				b_arabissus = {
+				}
+			}
+			c_koloneia = {
+				color={ 195 120 50 }
+				color2={ 255 255 255 }
+				
+				b_koloneia = {
+				}
+				b_anatolnikopolis = {
+				}
+				b_tephrice = {
+				}
+				b_mazaka = {
+				}
+				b_celtzene = {
+				}
+				b_gamakh = {
+				}
+				b_akn = {
+				}
+				b_gerjanis = {
+				}
+			}
 		}
 		d_armeniacon = {
 			color={ 255 0 167 }
@@ -10595,55 +10687,6 @@ e_byzantium = {
 				b_nakoleia = {
 				}
 				b_haymana = {
-				}
-			}
-		}
-		d_coloneia = {
-			color={ 136 14 79 }
-			color2={ 255 255 255 }
-			
-			capital = 706 # Koloneia
-			
-			c_koloneia = {
-				color={ 195 120 50 }
-				color2={ 255 255 255 }
-				
-				b_koloneia = {
-				}
-				b_anatolnikopolis = {
-				}
-				b_tephrice = {
-				}
-				b_mazaka = {
-				}
-				b_celtzene = {
-				}
-				b_gamakh = {
-				}
-				b_akn = {
-				}
-				b_gerjanis = {
-				}
-			}
-			c_melitene = {
-				color={ 175 110 40 }
-				color2={ 255 255 255 }
-				
-				b_melitene = {
-				}
-				b_arca = {
-				}
-				b_samosata = {
-				}
-				b_corduene = {
-				}
-				b_seneqerim = {
-				}
-				b_arguvan = {
-				}
-				b_kigi = {
-				}
-				b_yedisu = {
 				}
 			}
 		}
@@ -12770,30 +12813,6 @@ e_oriens = {
 			
 			armenian = "Armenia Minor"
 	
-			c_lykandos = {
-				color={ 214 140 195 }
-				color2={ 255 255 255 }
-				
-				turkish = "Elbistan"
-	
-				b_lykandos = {
-					turkish = "Elbistan"
-				}
-				b_tzamandos = {
-				}
-				b_comanagene = {
-				}
-				b_symposion = {
-				}
-				b_papurius = {
-				}
-				b_cocussus = {
-				}
-				b_germanikeia = {
-				}
-				b_arabissus = {
-				}
-			}
 			c_tarsos = {
 				color={ 194 140 175 }
 				color2={ 255 255 255 }
@@ -21493,7 +21512,7 @@ e_tartaria = {
 }
 
 e_caucasia = {
-	color={ 11 22 170 }
+	color={ 49 27 146 }
 	color2={ 255 255 255 }
 	
 	capital = 681 #	Ani
@@ -21790,6 +21809,27 @@ e_caucasia = {
 				b_raban = {
 				}
 				b_amanus = {
+				}
+			}
+			c_melitene = {
+				color={ 175 110 40 }
+				color2={ 255 255 255 }
+				
+				b_melitene = {
+				}
+				b_arca = {
+				}
+				b_samosata = {
+				}
+				b_corduene = {
+				}
+				b_seneqerim = {
+				}
+				b_arguvan = {
+				}
+				b_kigi = {
+				}
+				b_yedisu = {
 				}
 			}
 		}
@@ -22476,7 +22516,6 @@ e_persia = {
 				b_abeshkan = {
 				}
 			}
-			
 			c_hormuz = {
 				color={ 106 126 71 }
 				color2={ 255 255 255 }
@@ -22496,27 +22535,6 @@ e_persia = {
 				b_bam = {
 				}
 				b_fin = {
-				}
-			}
-			c_ladistan = {
-				color={ 114 134 79 }
-				color2={ 255 255 255 }
-				
-				b_lad = {
-				}
-				b_khonj = {
-				}
-				b_evaz = {
-				}
-				b_jask = {
-				}
-				b_bastak = {
-				}
-				b_morbagh = {
-				}
-				b_forg = {
-				}
-				b_bandarkhamir = {
 				}
 			}
 			c_sirjan = {
@@ -22681,25 +22699,25 @@ e_persia = {
 				b_jayzan = {
 				}
 			}
-			c_khozistan = {
-				color={ 95 134 28 }
+			c_ladistan = {
+				color={ 114 134 79 }
 				color2={ 255 255 255 }
 				
-				b_abadan = {
+				b_lad = {
 				}
-				b_izaj = {
+				b_khonj = {
 				}
-				b_hoveizeh = {
+				b_evaz = {
 				}
-				b_ahvaz = {
+				b_jask = {
 				}
-				b_dora = {
+				b_bastak = {
 				}
-				b_fao = {
+				b_morbagh = {
 				}
-				b_khorramshahr = {
+				b_forg = {
 				}
-				b_shadegan = {
+				b_bandarkhamir = {
 				}
 			}
 		}
@@ -23830,6 +23848,27 @@ e_persia = {
 				b_kalaatderat = {
 				}
 				b_qurna = {
+				}
+			}
+			c_khozistan = {
+				color={ 95 134 28 }
+				color2={ 255 255 255 }
+				
+				b_abadan = {
+				}
+				b_izaj = {
+				}
+				b_hoveizeh = {
+				}
+				b_ahvaz = {
+				}
+				b_dora = {
+				}
+				b_fao = {
+				}
+				b_khorramshahr = {
+				}
+				b_shadegan = {
 				}
 			}
 		}

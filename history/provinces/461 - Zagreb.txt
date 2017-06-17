@@ -8,7 +8,7 @@ max_settlements = 4
 b_zagreb = castle
 b_karlovac = city
 b_sisak = temple
-#b_cetin = city
+b_cetin = castle
 
 #b_zrin = castle
 #b_dreznik = castle

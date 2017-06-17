@@ -5189,6 +5189,7 @@ narrative_event = {
 			NOT = { owner = { religion_group = christian } }
 		}
 		
+		has_global_flag = council_of_curia
 		NOT = { has_global_flag = christian_crusades_unlocked }
 	}
 	
@@ -5236,6 +5237,7 @@ narrative_event = {
 	trigger = {
 		year = 900
 		controls_religion = yes
+		has_global_flag = council_of_curia
 		NOT = { has_global_flag = christian_crusades_unlocked }
 		
 		OR = {
@@ -5249,70 +5251,6 @@ narrative_event = {
 			}
 			753 = { # Ancyra
 				NOT = { owner = { religion_group = christian } }
-			}
-			AND = {
-				482 = { # Athens
-					NOT = { owner = { religion_group = christian } }
-				}
-				481 = { # Corinth
-					NOT = { owner = { religion_group = christian } }
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		months = 3
-	}
-	
-	immediate = {
-		set_global_flag = christian_crusades_unlocked
-	}
-	
-	option = {
-		name = EVTOPTA39660
-		trigger = {
-			religion_group = christian
-		}
-	}
-	
-	option = {
-		name = EVTOPTB39660
-		trigger = {
-			NOT = { religion_group = christian }
-		}
-	}
-}
-
-# THE START OF THE CHRISTIAN CRUSADES - ROME HAS FALLEN
-narrative_event = {
-	id = 39662
-	title = EVTNAME39660
-	desc = EVTDESC39662
-	picture = GFX_evt_pope
-	border = GFX_event_narrative_frame_religion
-	
-	major = yes
-	
-	show_ROOT = yes
-	hide_new = yes
-	
-	only_playable = yes
-	min_age = 16
-	only_men = yes
-	religion = catholic
-	
-	trigger = {
-		year = 900
-		controls_religion = yes
-		NOT = { has_global_flag = christian_crusades_unlocked }
-		
-		333 = { # Rome
-			owner = {
-				OR = {
-					NOT = { religion_group = christian }
-					is_heretic = yes
-				}
 			}
 		}
 	}
@@ -5361,18 +5299,10 @@ narrative_event = {
 	trigger = {
 		year = 900
 		controls_religion = yes
+		has_global_flag = council_of_curia
 		NOT = { has_global_flag = christian_crusades_unlocked }
 		
 		OR = {
-			221 = { # Provence
-				NOT = { owner = { religion_group = christian } }
-			}
-			214 = { # Toulouse
-				NOT = { owner = { religion_group = christian } }
-			}
-			112 = { # Paris
-				NOT = { owner = { religion_group = christian } }
-			}
 			119 = { # Cologne
 				religion_group = christian
 				NOT = { owner = { religion_group = christian } }
@@ -5427,7 +5357,6 @@ narrative_event = {
 	trigger = {
 		controls_religion = yes
 		year = 1187
-		
 		NOT = { has_global_flag = muslim_jihads_unlocked }
 	}
 	

@@ -8,8 +8,8 @@ max_settlements = 3
 
 b_mytilene = castle
 b_mithymna = temple
+b_plomari = city
 
-#b_plomari = city
 #b_agiasos = castle
 #b_eresos = castle
 #b_kalloni = castle

@@ -18,10 +18,13 @@ via_flavia = {
 	# Iberian Route
 	
 	path = {	# Sevilla - Cartagena
-		182 165 166 954 168 169
+		182 165 166 954 169
 	}
-	path = {	# Cartagena - Valencia
-		169 1020 171
+	path = {	# Cartagena - Western Med.
+		169 1020
+	}
+	path = {	# Western Med. - Valencia
+		1020 171
 	}
 	path = {	# Valencia - Tarragona
 		171 1021 173
@@ -52,10 +55,16 @@ via_flavia = {
 	
 	# African Route
 	path = {	# Cartagena - Caesarea
-		169 1011 831
+		1020 1011 831
 	}
-	path = {	# Caesarea - Carthage
-		831 1022 1023 817
+	path = {	# Caesarea - Numidian Sea
+		831 1022 1023
+	}
+	path = {	# Numidian Sea - Carthage
+		1023 817
+	}
+	path = {	# Numidian Sea - Rome
+		1023 326 1030 1029 333
 	}
 	path = {	# Carthage - Trapani
 		817 1033 341
@@ -69,23 +78,21 @@ via_flavia = {
 		327 328 243 333
 	}
 	path = {	# Rome - Ancona
-		333 349 350
+		333 349 350 1110
 	}
 	path = {	# Ancona - Salona
-		350 1110 467
+		1110 467
+	}
+	path = {	# Ancona - Aquileia
+		1110 458 358
 	}
 	path = {	# Rome - Naples
-		333 1029 1031 334
+		333 851 334
 	}
 	path = {	# Trapani - Naples
-		341 340 339 338 1032 334
+		341 340 339 338 1032 1031 334
 	}
 	path = {	# Naples - Dyrrachion
 		334 335 347 346 345 1038 470
-	}
-	
-	# Dalmatian Route
-	path = {	#Salona - Dyrrachion
-		467 1109 470
 	}
 }

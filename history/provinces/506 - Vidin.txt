@@ -4,13 +4,13 @@
 title = c_vidin
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_vidin = castle
 b_viseslav = temple
 b_kula = city
+b_pirot = castle
 
-#b_pirot = castle
 #b_srvljig = castle
 #b_zajecar = castle
 #b_bolvan = castle

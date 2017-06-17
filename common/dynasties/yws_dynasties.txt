@@ -1042,12 +1042,6 @@
 }
 59502=
 {
-	name="Decia"
-	culture="apennine"
-	religion="catholic"
-}
-59502=
-{
 	name="Anicia"
 	culture="apennine"
 	religion="hellenic_pagan"
@@ -1066,7 +1060,7 @@
 }
 59505=
 {
-	name="Ennodia"
+	name="Ennodia" # Styria
 	culture="apennine"
 	religion="catholic"
 }
@@ -1114,7 +1108,7 @@
 }
 59513=
 {
-	name="Senatoris"
+	name="Senatore"
 	culture="apennine"
 	religion="hellenic_pagan"
 }
@@ -1126,7 +1120,109 @@
 }
 59515=
 {
-	name="Albinus"
+	name="Albina"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59516=
+{
+	name="Flavia" # Florence/Ravenna
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59517=
+{
+	name="Pacifica" # Padua, ref. Pacificus of Verona
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59518=
+{
+	name="Caetani" # Capua, ref. family of same name
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59519=
+{
+	name="Ambrosius" # Liguria, ref. Saint Ambrose
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59520=
+{
+	name="Decia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59521=
+{
+	name="Caecina"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59522=
+{
+	name="Rufia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59523=
+{
+	name="Messia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59524=
+{
+	name="Petronia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59525=
+{
+	name="Hypatia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59526=
+{
+	name="Venantia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59527=
+{
+	name="Venantia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59528=
+{
+	name="Attia" # Ancona
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59529=
+{
+	name="Romilia"
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59530=
+{
+	name="Caudina" # Benevento/Samnium
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59531=
+{
+	name="Nicomachus" # Sicily
+	culture="apennine"
+	religion="hellenic_pagan"
+}
+59532=
+{
+	name="Symmachus"
 	culture="apennine"
 	religion="hellenic_pagan"
 }

@@ -4,11 +4,12 @@
 title = c_albarracin
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_albarracin = castle
 b_teruel = city
 b_hijar = temple
-#b_utrillas = castle
+b_utrillas = castle
+
 #b_calanda = city
 #b_montalban = castle
 #b_calamocha = castle

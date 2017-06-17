@@ -17,7 +17,7 @@ b_luzech = castle
 #b_penne = castle
 
 #Misc
-culture = occitan
+culture = visigothic
 religion = hellenic_pagan
 
 # History

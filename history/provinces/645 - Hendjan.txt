@@ -7,9 +7,9 @@ title = c_hendjan
 max_settlements = 4
 b_bandaremashoor = castle
 b_susa = temple
-
 b_argan = city
-#b_ramhormoz = castle
+b_ramhormoz = castle
+
 #b_bandarshahpur = castle
 #b_omidiyeh = castle
 #b_behbahan = castle

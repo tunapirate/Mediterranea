@@ -9,7 +9,7 @@ max_settlements = 4
 b_dorylaion = castle
 b_pessinus = city
 b_kotiaion = temple
-b_iustinianopolis = city
+b_iustinianopolis = castle
 
 #b_orkistos = castle
 #b_polybotos = castle
