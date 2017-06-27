@@ -7473,7 +7473,7 @@ e_roman_empire = {
 		west_african_pagan_reformed = 50
 		zoroastrian_group = 50 # Crusade target weight
 		
-		d_tunis = {
+		d_africa = {
 			color={ 255 109 0 }
 			color2={ 255 255 255 }
 			
@@ -7592,27 +7592,6 @@ e_roman_empire = {
 				b_lacroix = {
 				}
 			}
-			c_gabes = {
-				color={ 38 250 113 }
-				color2={ 255 255 255 }
-			
-				b_gabes = {
-				}
-				b_kebili = {
-				}
-				b_medenine = {
-				}
-				b_tataouine = {
-				}
-				b_aljanain = {
-				}
-				b_haddej = {
-				}
-				b_steftimi = {
-				}
-				b_alqalah = {
-				}
-			}
 		}
 		d_tripolitania = {
 			color={ 255 110 64 }
@@ -7662,6 +7641,27 @@ e_roman_empire = {
 				b_cedriane = {
 				}
 				b_taguermess = {
+				}
+			}
+			c_gabes = {
+				color={ 38 250 113 }
+				color2={ 255 255 255 }
+			
+				b_gabes = {
+				}
+				b_kebili = {
+				}
+				b_medenine = {
+				}
+				b_tataouine = {
+				}
+				b_aljanain = {
+				}
+				b_haddej = {
+				}
+				b_steftimi = {
+				}
+				b_alqalah = {
 				}
 			}
 			c_leptis_magna = {
@@ -9225,6 +9225,12 @@ e_roman_empire = {
 				b_alquezar = {
 				}
 			}
+		}
+		d_zaragoza = {
+			color = { 220 226 27 }
+			color2={ 255 255 255 }
+			
+			capital = 202 # Zaragoza
 		}
 	}
 	

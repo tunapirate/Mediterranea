@@ -10,112 +10,112 @@
 	name="Carsegenu"
 	culture="african"
 }
-5451=
+5402=
 {
 	name="Reparatu"
 	culture="african"
 }
-5452=
+5403=
 {
 	name="Clauiu"
 	culture="african"
 }
-5453=
+5404=
 {
 	name="Sasurninu"
 	culture="african"
 }
-5454=
+5405=
 {
 	name="Cassiosuru"
 	culture="african"
 }
-5455=
+5406=
 {
 	name="Reparasu"
 	culture="african"
 }
-5456=
+5407=
 {
 	name="Agricolu"
 	culture="african"
 }
-5457=
+5408=
 {
 	name="Reparasu"
 	culture="african"
 }
-5458=
+5409=
 {
 	name="Liberiu"
 	culture="african"
 }
-5459=
+5410=
 {
 	name="Tassesu"
 	culture="african"
 }
-5460=
+5411=
 {
 	name="Daia"
 	culture="african"
 }
-5461=
+5412=
 {
 	name="Domessiu"
 	culture="african"
 }
-5462=
+5413=
 {
 	name="Sempreviu"
 	culture="african"
 }
-5463=
+5414=
 {
 	name="Verinu"
 	culture="african"
 }
-5464=
+5415=
 {
 	name="Searu"
 	culture="african"
 }
-5465=
+5416=
 {
 	name="Fossu"
 	culture="african"
 }
-5466=
+5417=
 {
 	name="Pasernu"
 	culture="african"
 }
-5467=
+5418=
 {
 	name="Prohianu"
 	culture="african"
 }
-5468=
+5419=
 {
 	name="Volusianu"
 	culture="african"
 }
-5469=
+5420=
 {
 	name="Anessiu"
 	culture="african"
 }
-5470=
+5421=
 {
 	name="Aureliu"
 	culture="african"
 }
-5471=
+5422=
 {
 	name="Faviu"
 	culture="african"
 }
-5472=
+5423=
 {
 	name="Jueu"
 	culture="african"
@@ -234,7 +234,112 @@
 	culture="maghreb_arabic"
 }
 
-
+# Tingitanan
+5450=
+{
+	name="Sebassenu"
+	culture="tangieran"
+}
+5451=
+{
+	name="Nahellu"
+	culture="tangieran"
+}
+5452=
+{
+	name="Herenniu"
+	culture="tangieran"
+}
+5453=
+{
+	name="Masseleu"
+	culture="tangieran"
+}
+5454=
+{
+	name="Janueu"
+	culture="tangieran"
+}
+5455=
+{
+	name="Massimeu"
+	culture="tangieran"
+}
+5456=
+{
+	name="Inhenuneu"
+	culture="tangieran"
+}
+5457=
+{
+	name="Viçueneu"
+	culture="tangieran"
+}
+5458=
+{
+	name="Besinueu"
+	culture="tangieran"
+}
+5459=
+{
+	name="Redisu"
+	culture="tangieran"
+}
+5460=
+{
+	name="Pacasianu"
+	culture="tangieran"
+}
+5461=
+{
+	name="Ignosu"
+	culture="tangieran"
+}
+5462=
+{
+	name="Cesilianu"
+	culture="tangieran"
+}
+5463=
+{
+	name="Avesu"
+	culture="tangieran"
+}
+5464=
+{
+	name="Nemesianu"
+	culture="tangieran"
+}
+5465=
+{
+	name="Agreanu"
+	culture="tangieran"
+}
+5466=
+{
+	name="Baienu"
+	culture="tangieran"
+}
+5467=
+{
+	name="Massimeu"
+	culture="tangieran"
+}
+5468=
+{
+	name="Niher"
+	culture="tangieran"
+}
+5469=
+{
+	name="Lasianu"
+	culture="tangieran"
+}
+5470=
+{
+	name="Diadumeianu"
+	culture="tangieran"
+}
 
 #Coptic
 
@@ -1011,6 +1116,51 @@
 	culture="anatolian"
 	religion="orthodox"
 }
+
+# Mizrahi
+59050=
+{
+	name="Bashyazi"
+	culture="mizrahi"
+	religion="jewish"
+}
+59051=
+{
+	name="Hadassi"
+	culture="mizrahi"
+	religion="jewish"
+}
+59052=
+{
+	name="ha-Yavani"
+	culture="mizrahi"
+	religion="jewish"
+}
+59053=
+{
+	name="ha-Levi"
+	culture="mizrahi"
+	religion="jewish"
+}
+59054=
+{
+	name="Issachar"
+	culture="mizrahi"
+	religion="jewish"
+}
+59055=
+{
+	name="Bostanai"
+	culture="mizrahi"
+	religion="jewish"
+}
+59056=
+{
+	name="Hananiah"
+	culture="mizrahi"
+	religion="jewish"
+}
+
 # Levantine
 
 594500=
@@ -1021,7 +1171,31 @@
 }
 594501=
 {
-	name="Comentiolus" #Baetica
+	name="Comentiolus" # ref. Comentiolus, Mag. Mili. of Spania
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+594502=
+{
+	name="Paulus"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+594503=
+{
+	name="Polliena"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+594504=
+{
+	name="Severiana"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+594505=
+{
+	name="Ulpia"
 	culture="catalan"
 	religion="hellenic_pagan"
 }

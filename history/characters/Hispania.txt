@@ -1,0 +1,282 @@
+# Carthaginense
+
+584000 = { # Pyrenees
+    name="Flavius"
+    dynasty=594502
+    religion="mercurial"
+    culture="catalan"
+	
+	add_trait = ambitious
+	add_trait = brilliant_strategist
+	
+	#History
+	 
+    835.3.12={
+		birth=yes
+    }
+	858.1.1={
+		add_spouse=584001
+	}
+}
+584001 = {
+    name="Isabel"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	 
+    835.3.12={
+		birth=yes
+    }
+	858.1.1={
+		add_spouse=584000
+	}
+}
+584002 = { # Barcelona
+    name="Olybrius"
+    dynasty=59502
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	 
+    846.9.23={
+		birth=yes
+    }
+	867.1.1={
+		add_spouse=584003
+	}
+}
+584003 = {
+    name="Aelia"
+	dynasty=594502
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	 
+    845.10.4={
+		birth=yes
+    }
+	867.1.1={
+		add_spouse=584002
+	}
+}
+584004 = { # Caesaraugusta
+    name="Spurius"
+    dynasty=594500
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	 
+    829.4.12={
+		birth=yes
+    }
+	853.1.1={
+		add_spouse=584005
+	}
+}
+584005 = {
+    name="Teresa"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	 
+    833.2.9={
+		birth=yes
+    }
+	853.1.1={
+		add_spouse=584004
+	}
+}
+584006 = {
+    name="Lucius"
+    dynasty=594500
+    religion="mercurial"
+    culture="catalan"
+	father=584004
+	mother=584005
+	
+	#History
+
+	854.12.15={
+		birth=yes
+	}
+}
+584007 = {
+    name="Fulvia"
+    dynasty=594500
+    religion="mercurial"
+    culture="catalan"
+	father=584004
+	mother=584005
+	female=yes
+	
+	#History
+
+	856.7.22={
+		birth=yes
+	}
+}
+584008 = { # Tarraco
+    name="Tiberius"
+    dynasty=594503
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	833.4.28={
+		birth=yes
+	}
+	856.1.1={
+		add_spouse=584009
+	}
+}
+584009 = {
+    name="Helena"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+
+	833.4.28={
+		birth=yes
+	}
+	856.1.1={
+		add_spouse=584008
+	}
+}
+584010 = {
+    name="Eleonora"
+    dynasty=594503
+    religion="mercurial"
+    culture="catalan"
+	father=584008
+	mother=584009
+	female=yes
+	
+	#History
+	
+	857.4.3={
+		birth=yes
+	}
+}
+584011 = {
+    name="Beatrice"
+    dynasty=594503
+    religion="mercurial"
+    culture="catalan"
+	father=584008
+	mother=584009
+	female=yes
+	
+	#History
+	
+	859.2.14={
+		birth=yes
+	}
+}
+584012 = {
+    name="Quiricus"
+    dynasty=594503
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	862.4.29={
+		birth=yes
+	}
+}
+584013 = { # Carthago Nova
+    name="Leander"
+    dynasty=594504
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	819.3.13={
+		birth=yes
+	}
+	841.1.1={
+		add_spouse=584014
+	}
+}
+584014 = {
+    name="Theodora"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	
+	821.10.22={
+		birth=yes
+	}
+	841.1.1={
+		add_spouse=584013
+	}
+}
+584015 = {
+    name="Isidorus"
+    dynasty=594504
+    religion="mercurial"
+    culture="catalan"
+	father=584013
+	mother=584014
+	
+	#History
+	
+	843.4.4={
+		birth=yes
+	}
+}
+584016 = {
+    name="Fulgentius"
+    dynasty=594504
+    religion="mercurial"
+    culture="catalan"
+	father=584013
+	mother=584014
+	
+	#History
+	
+	845.1.14={
+		birth=yes
+	}
+}
+584017 = {
+    name="Florentina"
+    dynasty=594504
+    religion="mercurial"
+    culture="catalan"
+	father=584013
+	mother=584014
+	female=yes
+	
+	#History
+	
+	846.6.20={
+		birth=yes
+	}
+}
+584018 = {
+    name="Laelianus"
+    dynasty=594505
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	835.2.25={
+		birth=yes
+	}
+}

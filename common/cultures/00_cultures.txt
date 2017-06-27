@@ -1192,9 +1192,13 @@ iberian = {
 			Vincentus Vivianus
 		}
 		female_names = {
-			Adelaida_Adelaide Agnès_Agnes Alamanda Arsenda_Arsenda Beatriu_Beatrice Blanca_Blanche Brunisenda Constança_Constance Dolça_Douce Elionor_Eleanor
-			Elisenda Ermessenda_Ermesinda Estefania_Stephania Gueraua Guillelma Guisla_Gisela Isabel_Elisabeth Margarida_Margaret Maria_Maria Marquesa_Marquise
-			Sança_Sancha Sibila_Sibylla Teresa_Teresa Toda_Toda Violant_Yolanda
+			Adriana Aelia Agalina Agnese_Agnes Agostina Annia Albina Alda Alessandra Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Aquilia Arabia Argentina 
+			Augusta Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Bianca_Blanche Bona_Bonne Caecilia Camilla Candida Caracosa Caterina_Catherine Cecilia_Cecilia Claudia 
+			Constantina_Constance Cornelia Dora Helena_Helen Eleonora_Eleanor Elisa_Elisabeth Elisabetta_Elisabeth Eudossia Eugenia Fausta Felicia Felicita Filippa_Philippa Filomena Flavia 
+			Flora_Flora Fortunata Fosca Fulvia Gaia Galeria Giacinta Ginevra Giovanna Giuditta Giulia_Juliana Giuseppa Ippolita Isabella_Elisabeth Julia Justina Laura_Laura Lavinia Leonide 
+			Letizia Licinia Lidia Livia Lucia_Lucia Lucinetta Lucrezia Magdalena_Magdalena Magnia Marcella Marcia Margherita_Margaret Maria_Maria Mariana Marietta Martina Micaela Minervina 
+			Nunzia Olivia Paola_Paula Patrizia_Patricia Prisca Pulcheria Renata Silvana Sofia_Sophia Stefania_Stephania Thermantia Tiziana Tomasina Tranquilia Ulpia Valentina Valeria 
+			Violante_Yolanda Virginia Zenonis
         }
 		from_dynasty_prefix = "de "
 		grammar_transform = french
