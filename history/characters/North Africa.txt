@@ -344,7 +344,7 @@
 }
 504022 = {
 	name="Justini"
-	dynasty=5460
+	dynasty=5411
 	religion="mercurial"
 	culture="tangieran"
 	
@@ -356,7 +356,7 @@
 }
 504023 = {
 	name="Luci"
-	dynasty=5460
+	dynasty=5411
 	religion="african_rite"
 	culture="tangieran"
 	

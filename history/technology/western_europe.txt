@@ -3,7 +3,7 @@
 technology = {
 	titles = {
 	#k_africa
-		d_tunis
+		d_africa
 	#k_mauretania
 		d_tangiers
 	#k_numidia

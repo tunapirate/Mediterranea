@@ -1163,42 +1163,199 @@
 
 # Levantine
 
-594500=
+59100=
 {
 	name="Cassia" #Caesaraugusta
 	culture="catalan"
 	religion="hellenic_pagan"
 }
-594501=
+59101=
 {
 	name="Comentiolus" # ref. Comentiolus, Mag. Mili. of Spania
 	culture="catalan"
 	religion="hellenic_pagan"
 }
-594502=
+59102=
 {
 	name="Paulus"
 	culture="catalan"
 	religion="hellenic_pagan"
 }
-594503=
+59103=
 {
 	name="Polliena"
 	culture="catalan"
 	religion="hellenic_pagan"
 }
-594504=
+59104=
 {
 	name="Severiana"
 	culture="catalan"
 	religion="hellenic_pagan"
 }
-594505=
+59105=
 {
 	name="Ulpia"
 	culture="catalan"
 	religion="hellenic_pagan"
 }
+59106=
+{
+	name="Calleta"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59107=
+{
+	name="Asida"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59108=
+{
+	name="Isturgia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59109=
+{
+	name="Osseta"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59110=
+{
+	name="Sacilia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59111=
+{
+	name="Segida"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59112=
+{
+	name="Ulgia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59113=
+{
+	name="Artigia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59114=
+{
+	name="Iliturgia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59115=
+{
+	name="Lacimurga"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59116=
+{
+	name="Nertobriga"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59117=
+{
+	name="Ugultunia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59118=
+{
+	name="Urgao"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59119=
+{
+	name="Seria"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59120=
+{
+	name="Lucurgenta"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59121=
+{
+	name="Ituccia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59122=
+{
+	name="Urgo"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59123=
+{
+	name="Italica"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59124=
+{
+	name="Salpensa"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59125=
+{
+	name="Abdera"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59126=
+{
+	name="Olaura"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59127=
+{
+	name="Orippa"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59128=
+{
+	name="Irnia"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59129=
+{
+	name="Traducta"
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59130=
+{
+	name="Cynegius" # Corduba
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+59131=
+{
+	name="Ossia" # ref. Hosius of Corduba
+	culture="catalan"
+	religion="hellenic_pagan"
+}
+
 
 # Italian
 

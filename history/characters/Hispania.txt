@@ -2,7 +2,7 @@
 
 584000 = { # Pyrenees
     name="Flavius"
-    dynasty=594502
+    dynasty=59102
     religion="mercurial"
     culture="catalan"
 	
@@ -50,7 +50,7 @@
 }
 584003 = {
     name="Aelia"
-	dynasty=594502
+	dynasty=59102
     religion="mercurial"
     culture="catalan"
 	female=yes
@@ -66,7 +66,7 @@
 }
 584004 = { # Caesaraugusta
     name="Spurius"
-    dynasty=594500
+    dynasty=59100
     religion="mercurial"
     culture="catalan"
 	
@@ -96,7 +96,7 @@
 }
 584006 = {
     name="Lucius"
-    dynasty=594500
+    dynasty=59100
     religion="mercurial"
     culture="catalan"
 	father=584004
@@ -110,7 +110,7 @@
 }
 584007 = {
     name="Fulvia"
-    dynasty=594500
+    dynasty=59100
     religion="mercurial"
     culture="catalan"
 	father=584004
@@ -125,7 +125,7 @@
 }
 584008 = { # Tarraco
     name="Tiberius"
-    dynasty=594503
+    dynasty=59103
     religion="mercurial"
     culture="catalan"
 	
@@ -155,7 +155,7 @@
 }
 584010 = {
     name="Eleonora"
-    dynasty=594503
+    dynasty=59103
     religion="mercurial"
     culture="catalan"
 	father=584008
@@ -170,7 +170,7 @@
 }
 584011 = {
     name="Beatrice"
-    dynasty=594503
+    dynasty=59103
     religion="mercurial"
     culture="catalan"
 	father=584008
@@ -185,7 +185,7 @@
 }
 584012 = {
     name="Quiricus"
-    dynasty=594503
+    dynasty=59103
     religion="mercurial"
     culture="catalan"
 	
@@ -197,7 +197,7 @@
 }
 584013 = { # Carthago Nova
     name="Leander"
-    dynasty=594504
+    dynasty=59104
     religion="mercurial"
     culture="catalan"
 	
@@ -227,7 +227,7 @@
 }
 584015 = {
     name="Isidorus"
-    dynasty=594504
+    dynasty=59104
     religion="mercurial"
     culture="catalan"
 	father=584013
@@ -241,7 +241,7 @@
 }
 584016 = {
     name="Fulgentius"
-    dynasty=594504
+    dynasty=59104
     religion="mercurial"
     culture="catalan"
 	father=584013
@@ -255,7 +255,7 @@
 }
 584017 = {
     name="Florentina"
-    dynasty=594504
+    dynasty=59104
     religion="mercurial"
     culture="catalan"
 	father=584013
@@ -268,9 +268,9 @@
 		birth=yes
 	}
 }
-584018 = {
+584018 = { # Valentia
     name="Laelianus"
-    dynasty=594505
+    dynasty=59105
     religion="mercurial"
     culture="catalan"
 	
@@ -278,5 +278,153 @@
 	
 	835.2.25={
 		birth=yes
+	}
+}
+584019 = { # Granada
+    name="Felix"
+    dynasty=59131
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	817.7.17={
+		birth=yes
+	}
+	819.1.1={
+		add_spouse=584020
+	}
+}
+584020 = {
+    name="Ausonia"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	
+	819.9.19={
+		birth=yes
+	}
+	839.1.1={
+		add_spouse=584019
+	}
+}
+584021 = {
+    name="Felix"
+    dynasty=59131
+    religion="mercurial"
+    culture="catalan"
+	father=584019
+	mother=584020
+	
+	#History
+
+	841.1.1={
+		birth=yes
+	}
+}
+584022 = {
+    name="Aelia"
+    dynasty=59131
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	father=584019
+	mother=584020
+	
+	#History
+
+	843.4.19={
+		birth=yes
+	}
+}
+584023 = { # Corduba
+    name="Maternus"
+    dynasty=59130
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	824.3.12={
+		birth=yes
+	}
+	843.1.1={
+		add_spouse=584024
+	}
+}
+584024 = {
+    name="Achantia"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	
+	823.9.4={
+		birth=yes
+	}
+	843.1.1={
+		add_spouse=584023
+	}
+}
+584025 = {
+    name="Antonius"
+    dynasty=59130
+    religion="mercurial"
+    culture="catalan"
+	father=584023
+	mother=584024
+	
+	#History
+	
+	845.1.14={
+		birth=yes
+	}
+}
+584026 = {
+    name="Cassia"
+    dynasty=59130
+    religion="mercurial"
+    culture="catalan"
+	father=584023
+	mother=584024
+	female=yes
+	
+	#History
+	
+	847.8.1={
+		birth=yes
+	}
+}
+584027 = { # Baetica
+    name="Mauricius"
+    dynasty=59101
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	832.10.27={
+		birth=yes
+	}
+	855.1.1={
+		add_spouse=584028
+	}
+}
+584028 = {
+    name="Constantina"
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	#History
+	
+	835.5.29={
+		birth=yes
+	}
+	855.1.1={
+		add_spouse=584027
 	}
 }
