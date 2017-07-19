@@ -1,0 +1,19 @@
+name = "Khitan Invasion of Persia"
+
+casus_belli = {
+	actor = 524238
+	recipient = 524230
+	casus_belli=claim
+	landed_title=e_persia
+	date=867.1.1
+}
+
+867.1.1 = {
+	add_attacker = 524238
+	add_defender = 524230
+}
+
+868.1.1 = {
+	rem_attacker = 524238
+	rem_defender = 524230
+}

@@ -4086,6 +4086,7 @@ narrative_event = {
 	
 	immediate = {
 		activate_title = { title = d_holy_sepulchre status = yes }
+		set_global_flag = orthodox_crusades_unlocked
 		create_character = {
 			random_traits = no
 			dynasty = random

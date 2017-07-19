@@ -85,9 +85,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 722;783;sea;864;-1;-1;-1;-1;Petra-Maan
 778;783;sea;864;-1;-1;-1;-1;Monreal-Maan
 724;783;sea;864;-1;-1;-1;-1;Philadelphia-Maan
-721;717;sea;864;-1;-1;-1;-1;Tabuk-Al_Jawf
-720;717;sea;864;-1;-1;-1;-1;Hijaz-Al_Jawf
 724;783;sea;864;-1;-1;-1;-1;Philadelphia-Maan
+721;717;sea;1468;-1;-1;-1;-1;Tabuk-Al_Jawf
+720;717;sea;1468;-1;-1;-1;-1;Hijaz-Al_Jawf
 
 # Rivers
 

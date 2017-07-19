@@ -15,7 +15,7 @@ b_guadalupe = temple
 #b_alcuescar = castle
 
 # Misc
-culture = castillan
+culture = lusitanian
 religion = hellenic_pagan
 
 # History

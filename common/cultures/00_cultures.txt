@@ -1120,8 +1120,6 @@ iberian = {
 			Eneko_Inigo Erramun_Raymond Fernando_Ferdinand Fortun Galindo_Galindo Gartzia_Garcia Gilen_William Gontzal_Gonzalo Herramel Joanes_John
 			Ladron Lope_Lupo Luis_Louis Manrike_Amalric Martín_Martin Munio_Munio Nuño_Nuno Obeko_Obeko Ordoño_Ordono Pelaio_Pelagius Piarres_Peter
 			Ramiro_Ramiro Rodrigo_Roderick Vela_Vela Ximeno_Simon Zentulo_Centule
-
-#			Abdala Isa Ismail Mohamed Motarrif Muza Saad Salama Taur Yahya Yunus Zahir
 		}
 		female_names = {
 			Aines_Agnes Aldontza_Aldonza Andregoto Antsa_Sancha Belaskita Berengaria_Berengaria Blanka_Blanche Elbira_Elvira Eliza Emili_Emily
@@ -1186,10 +1184,10 @@ iberian = {
 
 		male_names = {
 			Ambrosius Argimundus Artemius Ascanius Asterius Athalocus Augerius Aurelius Braulius Cassiodorus Castus Claudius Consentius Constantinus Cosmas Crispinus Cristoforus 
-			Dalmatius Dominicus Dracontius Epictetus Epiphianus Eugenius Eulogius Eutropius Faustinus Felix Flavius Floresindus Fortunatus Fructuosus Fulgentius Helladius Hilarius 
-			Himerius Hospitalius Hydatius Isidorus Iohannes Jovinianus Julianus Justinanus Leander Licinianus Lupus Masona Marcellus Marinus Maximus Olegarius Oroncius Orosius 
-			Paternus Pelegrinus Pontius Potamius Protasius Prudentius Quiricus Renovatus Sagittius Salustius Savinus Sergius Seguinus Severianus Severus Stephanus Taius Valerius 
-			Vincentus Vivianus
+			Dalmatius Decentius Dominicus Dracontius Epictetus Epiphianus Eugenius Eulogius Eutropius Faustinus Felix Flavius Floresindus Fortunatus Fructuosus Fulgentius Helladius 
+			Hilarius Himerius Hospitalius Hydatius Isidorus Iohannes Jovinianus Julianus Justinanus Leander Licinianus Lupus Magnentius Masona Maternus Marcellus Marinus Maximus Nummius 
+			Olegarius Oroncius Orosius Pacianus Paternus Pelegrinus Pontius Potamius Priscillianus Protasius Prudentius Quiricus Renovatus Sagittius Salustius Savinus Sergius Seguinus 
+			Severianus Severus Stephanus Taius Valerius Vincentus Vivianus
 		}
 		female_names = {
 			Adriana Aelia Agalina Agnese_Agnes Agostina Annia Albina Alda Alessandra Aloisia Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia Aquilia Arabia Argentina 

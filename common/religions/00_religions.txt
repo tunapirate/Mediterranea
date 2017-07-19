@@ -359,7 +359,7 @@ christian = {
 		can_excommunicate = yes
 		can_grant_divorce = yes
 		can_grant_invasion_cb = invasion
-		can_call_crusade = no
+		can_call_crusade = yes
 		priests_can_inherit = no
 		
 		can_retire_to_monastery = yes
@@ -826,7 +826,7 @@ muslim = {
 }
 
 pagan_group = {
-	has_coa_on_barony_only = yes
+	has_coa_on_barony_only = no
 	graphical_culture = westerngfx
 	playable = yes
 	hostile_within_group = yes

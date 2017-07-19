@@ -11,7 +11,7 @@ b_castulo = temple
 b_illiturgis = city
 
 # Misc
-culture = catalan
+culture = castillan
 religion = hispanic_rite
 
 # History

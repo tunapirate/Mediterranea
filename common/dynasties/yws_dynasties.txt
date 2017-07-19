@@ -129,12 +129,13 @@
 {
 	name="Aznag"
 	culture="maghreb_arabic"
-	religion="pagan"
+	religion="west_african_pagan"
 }
 5427=
 {
 	name="Maures"
 	culture="maghreb_arabic"
+	religion="west_african_pagan"
 }
 5428=
 {
@@ -232,6 +233,12 @@
 {
 	name="Kerkoura"
 	culture="maghreb_arabic"
+}
+5447=
+{
+	name="Shlhi"
+	culture="maghreb_arabic"
+	religion="west_african_pagan"
 }
 
 # Tingitanan
@@ -1165,7 +1172,7 @@
 
 59100=
 {
-	name="Cassia" #Caesaraugusta
+	name="Cassia" # Caesaraugusta/Olissipo
 	culture="catalan"
 	religion="hellenic_pagan"
 }
@@ -1355,7 +1362,168 @@
 	culture="catalan"
 	religion="hellenic_pagan"
 }
+59132=
+{
+	name="Eulogia" # ref. Eulogius of Toledo
+	culture="catalan"
+	religion="catholic"
+}
+59133=
+{
+	name="Alvarus" # ref. Paulus Alvarus
+	culture="catalan"
+	religion="catholic"
+}
+59134=
+{
+	name="Paganus"
+	culture="catalan"
+	religion="catholic"
+}
 
+# Lusitanian/Gallaecian
+
+59250=
+{
+	name="Orósio" # ref. Paulus Orosius
+	culture="portuguese"
+	religion="catholic"
+}
+59251=
+{
+	name="Gerontia" # ref. Roman general Gerontius
+	culture="brittonic"
+	religion="catholic"
+}
+59252=
+{
+	name="Asterio" # ref. comes Hisp. Asterius
+	culture="portuguese"
+	religion="catholic"
+}
+59253=
+{
+	name="Galeria" # ref. gens Galeria of Pax Iulia colonists
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59254=
+{
+	name="Sertoria"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59255=
+{
+	name="Perpenna"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59256=
+{
+	name="Januaria"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59257=
+{
+	name="Neobridia"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59258=
+{
+	name="Azulana"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59259=
+{
+	name="Ovidia"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59260=
+{
+	name="Policarpo"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59261=
+{
+	name="Serfriana"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59262=
+{
+	name="Caledoniana"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59263=
+{
+	name="Profutura"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59264=
+{
+	name="Eleuteria"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59265=
+{
+	name="Apolonia"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59266=
+{
+	name="Narcisa"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59267=
+{
+	name="Valeria"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59268=
+{
+	name="Castina"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59269=
+{
+	name="Potamia"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+59270=
+{
+	name="Fructuosa"
+	culture="lusitanian"
+	religion="hellenic_pagan"
+}
+
+# Bardulian
+
+59300=
+{
+	name="Priscillianus"
+	culture="castillan"
+	religion="catholic"
+}
+59301=
+{
+	name="Ordonia"
+	culture="castillan"
+	religion="catholic"
+}
 
 # Italian
 

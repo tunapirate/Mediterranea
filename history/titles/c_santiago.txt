@@ -1,0 +1,4 @@
+867.1.1={
+	holder = 584091
+	liege = d_galicia
+}

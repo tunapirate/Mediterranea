@@ -1171,6 +1171,33 @@ d_zun_warriors = {
 
 # MERCS
 
+d_khitan_band = {
+	color = { 63 81 181 }
+	color2 = { 255 255 255 }
+	
+	capital = 1185 # Kabul
+	
+	religion = buddhist
+	culture = khitan
+	
+	mercenary = yes
+	
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.00
+	
+	mercenary_type = sky_lords_composition
+}
 d_sunni_turkic_company = {
 	color = { 130 173 70 }
 	color2 = { 255 255 255 }
@@ -5052,7 +5079,8 @@ e_roman_empire = {
 		
 		# Creation/usurpation trigger
 		
-		christian = 10000 # Crusade target weight
+		catholic = 10000
+		orthodox = 200
 			
 		d_toscana = {
 			color = { 205 44 67 }
@@ -5292,7 +5320,6 @@ e_roman_empire = {
 				holy_site = apollonian
 				holy_site = dianic
 				holy_site = athenaic
-				holy_site = neptunal
 				holy_site = roman_rite
 				
 				b_roma = {
@@ -5931,6 +5958,7 @@ e_roman_empire = {
 		
 		culture = dalmatian
 		catholic = 500
+		orthodox = 100
 		
 		d_dioclea = {
 			color={ 216 25 25 }
@@ -6240,6 +6268,8 @@ e_roman_empire = {
 	
 		culture = dalmatian
 		catholic = 500
+		
+		orthodox = 200
 		
 		d_upper_moesia = {
 			color={ 206 68 97 }
@@ -7468,7 +7498,7 @@ e_roman_empire = {
 		
 		culture = maghreb_arabic
 		
-		orthodox = 10 # Crusade target weight
+		orthodox = 100 # Crusade target weight
 		muslim = 200 # Crusade target weight
 		west_african_pagan_reformed = 50
 		zoroastrian_group = 50 # Crusade target weight
@@ -8618,6 +8648,8 @@ e_roman_empire = {
 				egyptian_arabic = "Tulaytulah"
 				andalusian_arabic = "Tulaytulah"
 				
+				holy_site = hispanic_rite
+				
 				b_madrid = {
 				}
 				b_toledo = {
@@ -8628,7 +8660,6 @@ e_roman_empire = {
 					andalusian_arabic = "Tulaytulah"
 				}
 				b_orgaz = {
-					holy_site = hispanic_rite
 				}
 				b_tolemora = {
 				}
@@ -8718,79 +8749,7 @@ e_roman_empire = {
 				}
 			}
 		}
-		d_salamanca = {
-			color = { 216 211 52 }
-			color2={ 255 255 255 }
-			
-			capital = 192 # Salamanca
-			
-			c_plasencia = {
-				color = { 228 230 23 }
-				color2={ 255 255 255 }
-				
-				b_hervas = {
-				}
-				b_plasencia = {
-				}
-				b_jaraiz = {
-				}
-				b_lazarza = {
-				}
-				b_montehermoso = {
-				}
-				b_ventadelmoral = {
-				}
-				b_jarandilla = {
-				}
-				b_talayuela = {
-				}
-			}
-			c_zamora = {
-				color = { 253 138 51 }
-				color2={ 255 255 255 }
-				
-				b_zamora = {
-				}
-				b_benavente = {
-				}
-				b_fermoselle = {
-				}
-				b_toro = {
-				}
-				b_sanabria = {
-				}
-				b_corrales = {
-				}
-				b_fuentesauco = {
-				}
-				b_polvorosa = {
-				}
-			}
-			c_salamanca = {
-				color = { 253 128 31 }
-				color2={ 255 255 255 }
-				
-				b_salbejar = {
-				}
-				b_salamanca = {
-				holy_site = hispanic_rite
-				}
-				b_ciudadrodrigo = {
-				}
-				b_bracamonte = {
-				}
-				b_albadetormes = {
-				}
-				b_terradillos = {
-				}
-				b_carbajosadelasagrada = {
-				}
-				b_lumbrales = {
-				}
-			}
-		}
 	}
-	
 	k_tarraconense = {
 		color = { 249 241 0 }
 		color2={ 230 0 0 }
@@ -9109,6 +9068,8 @@ e_roman_empire = {
 				egyptian_arabic = "Saraqusta"
 				andalusian_arabic = "Saraqusta"
 				
+				holy_site = hispanic_rite
+				
 				b_alagon = {
 				}
 				b_zaragoza = {
@@ -9121,7 +9082,6 @@ e_roman_empire = {
 				b_veruela = {
 				}
 				b_caspe = {
-					holy_site = hispanic_rite
 				}
 				b_borja = {
 				}
@@ -9233,7 +9193,6 @@ e_roman_empire = {
 			capital = 202 # Zaragoza
 		}
 	}
-	
 	k_navarra = {
 		color = { 150 120 5 }
 		capital = 152 # Navarra
@@ -9255,7 +9214,7 @@ e_roman_empire = {
 	}
 	k_galicia = {
 		color={ 190 167 13 }
-		capital = 188 # Braganca
+		capital = 158 # Porto/Braga
 		
 		culture = portuguese
 		
@@ -9276,7 +9235,7 @@ e_roman_empire = {
 			color={ 202 180 35 }
 			color2={ 255 255 255 }
 			
-			capital = 188 # Braganca
+			capital = 158 # Porto/Braga
 			
 			c_coruna = {
 				color = { 183 118 51 }
@@ -9435,9 +9394,29 @@ e_roman_empire = {
 				b_cistierna = {
 				}
 			}
+			c_zamora = {
+				color = { 253 138 51 }
+				color2={ 255 255 255 }
+				
+				b_zamora = {
+				}
+				b_benavente = {
+				}
+				b_fermoselle = {
+				}
+				b_toro = {
+				}
+				b_sanabria = {
+				}
+				b_corrales = {
+				}
+				b_fuentesauco = {
+				}
+				b_polvorosa = {
+				}
+			}
 		}
 	}
-	
 	k_lusitania = {
 		color={ 252 251 94 }
 		color2={ 255 255 255 }
@@ -9534,27 +9513,6 @@ e_roman_empire = {
 				b_sines = {
 				}
 				b_grandola = {
-				}
-			}
-			c_castelo_branco = {
-				color = { 182 78 5 }
-				color2={ 255 255 255 }
-				
-				b_castelobranco = {
-				}
-				b_guarda = {
-				}
-				b_covilha = {
-				}
-				b_acores = {
-				}
-				b_trancoso = {
-				}
-				b_sabugal = {
-				}
-				b_pinhel = {
-				}
-				b_almeida = {
 				}
 			}
 			c_coimbra = {
@@ -9688,27 +9646,6 @@ e_roman_empire = {
 			
 			capital = 184 # Badajoz
 			
-			c_alcantara = {
-				color = { 230 232 25 }
-				color2={ 255 255 255 }
-				
-				b_alcantara = {
-				}
-				b_coria = {
-				}
-				b_moraleja = {
-				}
-				b_brozas = {
-				}
-				b_lamata = {
-				}
-				b_racharachel = {
-				}
-				b_lasnavasdelmadrono = {
-				}
-				b_ceclavin = {
-				}
-			}
 			c_caceres = {
 				color = { 232 234 27 }
 				color2={ 255 255 255 }
@@ -9749,6 +9686,99 @@ e_roman_empire = {
 				b_guarena = {
 				}
 				b_fuentedelmaestre = {
+				}
+			}
+			c_plasencia = {
+				color = { 228 230 23 }
+				color2={ 255 255 255 }
+				
+				b_hervas = {
+				}
+				b_plasencia = {
+				}
+				b_jaraiz = {
+				}
+				b_lazarza = {
+				}
+				b_montehermoso = {
+				}
+				b_ventadelmoral = {
+				}
+				b_jarandilla = {
+				}
+				b_talayuela = {
+				}
+			}
+		}
+		d_salamanca = {
+			color = { 216 211 52 }
+			color2={ 255 255 255 }
+			
+			capital = 192 # Salamanca
+			
+			c_alcantara = {
+				color = { 230 232 25 }
+				color2={ 255 255 255 }
+				
+				b_alcantara = {
+				}
+				b_coria = {
+				}
+				b_moraleja = {
+				}
+				b_brozas = {
+				}
+				b_lamata = {
+				}
+				b_racharachel = {
+				}
+				b_lasnavasdelmadrono = {
+				}
+				b_ceclavin = {
+				}
+			}
+			c_castelo_branco = {
+				color = { 182 78 5 }
+				color2={ 255 255 255 }
+				
+				b_castelobranco = {
+				}
+				b_guarda = {
+				}
+				b_covilha = {
+				}
+				b_acores = {
+				}
+				b_trancoso = {
+				}
+				b_sabugal = {
+				}
+				b_pinhel = {
+				}
+				b_almeida = {
+				}
+			}
+			c_salamanca = {
+				color = { 253 128 31 }
+				color2={ 255 255 255 }
+				
+				holy_site = hispanic_rite
+				
+				b_salbejar = {
+				}
+				b_salamanca = {
+				}
+				b_ciudadrodrigo = {
+				}
+				b_bracamonte = {
+				}
+				b_albadetormes = {
+				}
+				b_terradillos = {
+				}
+				b_carbajosadelasagrada = {
+				}
+				b_lumbrales = {
 				}
 			}
 		}
@@ -9987,8 +10017,7 @@ e_roman_empire = {
 				}
 			}
 		}
-	}
-		
+	}	
 	k_betica = {
 		color = { 255 218 43 }
 		color2={ 255 255 255 }
@@ -10089,10 +10118,10 @@ e_roman_empire = {
 				
 				holy_site = mercurial
 				holy_site = neptunal
+				holy_site = hispanic_rite
 				
 				b_carmona = {
 					pentarchy = mercurial
-					holy_site = hispanic_rite
 				}
 				b_sevilla = {
 				}
@@ -10310,6 +10339,8 @@ e_byzantium = {
 		color={ 129 69 230 }
 		capital = 741 # Nikomedeia
 		culture = greek
+		
+		orthodox = 300
 	
 		d_nikaea = {
 			color={ 202 101 167 }
@@ -10864,7 +10895,7 @@ e_byzantium = {
 			}
 		}
 		
-		orthodox = 5000 # Crusade target weight
+		orthodox = 300 # Crusade target weight
 		catholic = 2000 # Crusade target weight
 		zoroastrian_group = 100 # Crusade target weight
 		
@@ -11796,7 +11827,6 @@ e_byzantium = {
 		
 		capital = 499 # Tyrnovo
 		
-		orthodox = 300 # Crusade target weight
 		catholic = 100 # Crusade target weight
 		slavic_pagan_reformed = 50 # Crusade target weight
 		tengri_pagan_reformed = 50
@@ -11809,7 +11839,6 @@ e_byzantium = {
 		
 		capital = 502 # Rashka
 		
-		orthodox = 300 # Crusade target weight
 		catholic = 100 # Crusade target weight
 	}	
 	k_croatia = {
@@ -11820,7 +11849,6 @@ e_byzantium = {
 		
 		capital = 465 # Zadar
 		
-		orthodox = 300 # Crusade target weight
 		catholic = 1000 # Crusade target weight
 	}
 	k_venice = {
@@ -12240,7 +12268,7 @@ e_oriens = {
 		
 		culture = egyptian_arabic
 		
-		orthodox = 20 # Crusade target weight
+		orthodox = 250 # Crusade target weight
 		muslim = 400 # Crusade target weight
 		zoroastrian_group = 150 # Crusade target weight
 		zun_pagan_reformed = 100 # Crusade target weight
@@ -12597,7 +12625,7 @@ e_oriens = {
 		
 		capital = 764 # Antioch
 		
-		orthodox = 200 # Crusade target weight
+		orthodox = 250 # Crusade target weight
 		muslim = 200 # Crusade target weight
 		zoroastrian_group = 250 # Crusade target weight
 		
@@ -21543,7 +21571,7 @@ e_caucasia = {
 		
 		culture = armenian
 		
-		orthodox = 300 # Crusade target weight
+		orthodox = 100 # Crusade target weight
 		muslim = 100 # Crusade target weight
 		zoroastrian_group = 200 # Crusade target weight
 		
@@ -21848,7 +21876,7 @@ e_caucasia = {
 		
 		culture = georgian
 		
-		orthodox = 200 # Crusade target weight
+		orthodox = 100 # Crusade target weight
 		tengri_pagan_reformed = 50
 		zoroastrian_group = 50 # Crusade target weight
 		
@@ -23627,6 +23655,7 @@ e_persia = {
 		
 		culture = levantine_arabic
 		
+		orthodox = 100
 		muslim = 400 # Crusade target weight
 		zoroastrian_group = 500 # Crusade target weight
 		zun_pagan_reformed = 300 # Crusade target weight
@@ -23885,7 +23914,7 @@ e_persia = {
 			capital = 695 # Deir
 			
 			bedouin_arabic = "Bajarmi"
-			levantine_arbaic = "Bajarmi"
+			levantine_arabic = "Bajarmi"
 			aramean = "Beth Garmai"
 			
 			zun_pagan_reformed = 200 # Crusade target weight
@@ -24149,6 +24178,8 @@ e_carpathia = {
 	k_dacia = {
 		color={ 215 77 171 }
 		color2={ 255 255 255 }
+		
+		orthodox = 100
 		
 		culture = romanian
 		

@@ -1,4 +1,4 @@
-# Carthaginense
+# Carthaginense / Baetica
 
 584000 = { # Pyrenees
     name="Flavius"
@@ -426,5 +426,571 @@
 	}
 	855.1.1={
 		add_spouse=584027
+	}
+}
+584029 = { # Bilbilis
+    name="Marcia"
+	dynasty=59134
+    religion="mercurial"
+    culture="catalan"
+	female=yes
+	
+	add_trait=grey_eminence
+	add_trait=shrewd
+	add_trait=gregarious
+	add_trait=ambitious
+	
+	#History
+	
+	843.3.02={
+		birth=yes
+	}
+	863.1.1={
+		add_matrilineal_spouse=584030
+	}
+}
+584030 = {
+    name="Quintus"
+    religion="mercurial"
+    culture="catalan"
+	
+	#History
+	
+	843.3.02={
+		birth=yes
+	}
+	863.1.1={
+		add_matrilineal_spouse=584029
+	}
+}
+
+# Bardulia
+
+584075 = {
+    name="Eulogius" # Toledo
+	dynasty=59132
+    religion="hispanic_rite"
+    culture="castillan"
+	
+	#History
+	
+	828.3.04={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=584076
+	}
+}
+584076 = {
+    name="Isabel"
+    religion="hispanic_rite"
+    culture="castillan"
+	female=yes
+	
+	#History
+	
+	830.3.11={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=584075
+	}
+}
+584077 = {
+    name="Alvarus"
+	dynasty=59132
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584075
+	mother=584076
+	
+	#History
+	
+	851.5.23={
+		birth=yes
+	}
+}
+584078 = {
+    name="Niola"
+	dynasty=59132
+    religion="hispanic_rite"
+    culture="castillan"
+	female=yes
+	father=584075
+	mother=584076
+	
+	#History
+	
+	852.12.4={
+		birth=yes
+	}
+}
+584079 = {
+    name="Anulona"
+	dynasty=59132
+    religion="hispanic_rite"
+    culture="castillan"
+	female=yes
+	father=584075
+	mother=584076
+	
+	#History
+	
+	855.2.17={
+		birth=yes
+	}
+}
+584080 = {
+    name="Isidorus"
+	dynasty=59132
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584075
+	mother=584076
+	
+	#History
+	
+	857.7.14={
+		birth=yes
+	}
+}
+584081 = {
+    name="Paulus" # Toledo
+	dynasty=59133
+    religion="hispanic_rite"
+    culture="castillan"
+	
+	#History
+	
+	837.8.16={
+		birth=yes
+	}
+}
+584082 = {
+    name="Pelagius" # Leon / Bardulia
+	dynasty=59300
+    religion="hispanic_rite"
+    culture="castillan"
+	
+	add_trait=cynical
+	
+	#History
+	
+	840.8.5={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=584083
+	}
+}
+584083 = {
+    name="Isabel"
+    religion="hispanic_rite"
+    culture="castillan"
+	female=yes
+	
+	#History
+	
+	841.10.12={
+		birth=yes
+	}
+	861.1.1={
+		add_spouse=584082
+	}
+}
+584084 = {
+    name="Lucius"
+	dynasty=59300
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584082
+	mother=584083
+	
+	#History
+	
+	863.1.1={
+		birth=yes
+	}
+}
+584085 = {
+    name="Vorenus"
+	dynasty=59300
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584082
+	mother=584083
+	
+	#History
+	
+	865.8.17={
+		birth=yes
+	}
+}
+584086 = {
+    name="Gartzia" # Valladolid
+	dynasty=59251
+    religion="hispanic_rite"
+    culture="castillan"
+	
+	#History
+	
+	826.4.11={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=584087
+	}
+}
+584087 = {
+    name="Eleonor"
+    religion="hispanic_rite"
+    culture="castillan"
+	female=yes
+	
+	#History
+	
+	830.2.23={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=584086
+	}
+}
+584088 = {
+    name="Albina"
+	dynasty=59251
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584086
+	mother=584087
+	female=yes
+	
+	add_trait=twin
+	
+	#History
+	
+	852.3.4={
+		birth=yes
+	}
+}
+584089 = {
+    name="Nicolas"
+	dynasty=59251
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584086
+	mother=584087
+	
+	add_trait=twin
+	
+	#History
+	
+	852.3.4={
+		birth=yes
+	}
+}
+584090 = {
+    name="Magdalena"
+	dynasty=59251
+    religion="hispanic_rite"
+    culture="castillan"
+	father=584086
+	mother=584087
+	female=yes
+	
+	#History
+	
+	855.10.27={
+		birth=yes
+	}
+}
+584091 = {
+    name="Honoratus" # Iria
+	dynasty=59301
+    religion="hispanic_rite"
+    culture="portuguese"
+	
+	#History
+	
+	843.8.19={
+		birth=yes
+	}
+}
+584092 = {
+    name="Agostinho" # Porto / Galicia
+	dynasty=59250
+    religion="hispanic_rite"
+    culture="portuguese"
+	
+	#History
+	
+	831.3.15={
+		birth=yes
+	}
+	853.1.1={
+		add_spouse=584093
+	}
+}
+584093 = {
+    name="Constança"
+    religion="hispanic_rite"
+    culture="portuguese"
+	female=yes
+	
+	#History
+	
+	833.8.2={
+		birth=yes
+	}
+	853.1.1={
+		add_spouse=584092
+	}
+}
+584094 = {
+    name="Álvaro"
+	dynasty=59250
+    religion="hispanic_rite"
+    culture="portuguese"
+	father=584092
+	mother=584093
+	
+	#History
+	
+	855.3.28={
+		birth=yes
+	}
+}
+584095 = {
+    name="Inês"
+	dynasty=59250
+    religion="hispanic_rite"
+    culture="portuguese"
+	father=584092
+	mother=584093
+	female=yes
+	
+	#History
+	
+	857.5.23={
+		birth=yes
+	}
+}
+584096 = {
+    name="Branca"
+	dynasty=59250
+    religion="hispanic_rite"
+    culture="portuguese"
+	father=584092
+	mother=584093
+	female=yes
+	
+	#History
+	
+	860.3.18={
+		birth=yes
+	}
+}
+584097 = {
+    name="Constantio" # Asturias
+	dynasty=59252
+    religion="hispanic_rite"
+    culture="portuguese"
+	
+	#History
+	
+	827.3.15={
+		birth=yes
+	}
+	849.1.1={
+		add_spouse=584098
+	}
+}
+584098 = {
+    name="Marinha"
+    religion="hispanic_rite"
+    culture="portuguese"
+	female=yes
+	
+	#History
+	
+	827.3.15={
+		birth=yes
+	}
+	849.1.1={
+		add_spouse=584097
+	}
+}
+584099 = {
+    name="Massimo"
+	dynasty=59252
+    religion="hispanic_rite"
+    culture="portuguese"
+	father=584097
+	mother=584098
+	
+	#History
+	
+	851.4.26={
+		birth=yes
+	}
+}
+584100 = {
+    name="Raimundo"
+	dynasty=59252
+    religion="hispanic_rite"
+    culture="portuguese"
+	father=584097
+	mother=584098
+	
+	#History
+	
+	855.7.14={
+		birth=yes
+	}
+}
+
+# Lusitania
+
+584125 = {
+    name="Gaius" # Pacensis
+	dynasty=59253
+    religion="neptunal"
+    culture="lusitanian"
+	
+	#History
+	
+	836.3.11={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=584126
+	}
+}
+584126 = {
+    name="Annia"
+    religion="neptunal"
+    culture="lusitanian"
+	female=yes
+	
+	#History
+	
+	838.6.8={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=584125
+	}
+}
+584127 = { # Aracena
+    name="Marcellus"
+	dynasty=59105
+    religion="neptunal"
+    culture="lusitanian"
+	
+	#History
+	
+	851.7.2={
+		birth=yes
+	}
+}
+584128 = {
+    name="Egidius" # Emerita
+	dynasty=59254
+    religion="neptunal"
+    culture="lusitanian"
+	
+	#History
+	
+	831.1.23={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=584129
+	}
+}
+584129 = {
+    name="Aelia"
+    religion="neptunal"
+    culture="lusitanian"
+	female=yes
+	
+	#History
+	
+	834.4.29={
+		birth=yes
+	}
+	854.1.1={
+		add_spouse=584128
+	}
+}
+584130 = {
+    name="Maria"
+	dynasty=59254
+    religion="neptunal"
+    culture="lusitanian"
+	father=584128
+	mother=584129
+	female=yes
+	
+	#History
+	
+	859.8.14={
+		birth=yes
+	}
+}
+584131 = {
+    name="Syagrius"
+	dynasty=59254
+    religion="neptunal"
+    culture="lusitanian"
+	father=584128
+	mother=584129
+	
+	#History
+	
+	862.1.11={
+		birth=yes
+	}
+}
+584132 = {
+    name="Marcus" # Plasencia
+	dynasty=59255
+    religion="neptunal"
+    culture="lusitanian"
+	
+	#History
+	
+	846.10.3={
+		birth=yes
+	}
+}
+584133 = {
+    name="Julius" # Olisipo
+	dynasty=59100
+    religion="neptunal"
+    culture="lusitanian"
+	
+	#History
+	
+	840.5.12={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584134
+	}
+}
+584134 = {
+    name="Inês"
+    religion="neptunal"
+    culture="lusitanian"
+	female=yes
+	
+	#History
+	
+	842.9.21={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584133
 	}
 }

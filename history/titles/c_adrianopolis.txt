@@ -1,4 +1,4 @@
 867.1.1={
-	holder=543519
-	liege=d_adrianopolis
+	holder = 543519
+	liege = d_adrianopolis
 }

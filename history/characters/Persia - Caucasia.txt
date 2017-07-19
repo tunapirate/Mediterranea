@@ -1064,6 +1064,25 @@
 		birth=yes
 	}
 }
+524238 = {
+    name="Peroz"
+	dynasty=57004
+	religion="buddhist"
+    culture="persian"
+	father=524236
+	mother=524231
+	
+	add_claim = e_persia
+	add_trait = brilliant_strategist
+	add_trait = brawny
+	add_trait = ambitious
+
+	#History
+	 
+	839.6.30={
+		birth=yes
+	}
+}
 
 # Afghanistan
 

@@ -18,7 +18,7 @@ replace_path="events/religious_events.txt"
 replace_path="events/soa_holy_order_events.txt"
 
 #gfx
-replace_path="gfx/flags"
+#replace_path="gfx/flags"
 replace_path="gfx/interface/religion_icon_strip.dds"
 replace_path="gfx/loadingscreens"
 
@@ -55,3 +55,4 @@ replace_path="map/definition.csv"
 replace_path="map/default.map"
 replace_path="common/province_setup/00_province_setup.txt"
 replace_path="map/positions.txt"
+replace_path="map/world_normal_height.bmp"

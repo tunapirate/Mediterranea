@@ -2885,6 +2885,7 @@ crusade = {
 				}
 				AND = { 
 					religion_group = christian
+					NOT = { religion = orthodox }
 					custom_tooltip = {
 						text = CTT_CHRISTIAN_CRUSADES_UNLOCKED
 						has_global_flag = christian_crusades_unlocked
@@ -2896,6 +2897,14 @@ crusade = {
 						text = CTT_MUSLIM_JIHADS_UNLOCKED
 						has_global_flag = muslim_jihads_unlocked
 					}
+				}
+				AND = {
+					religion = orthodox
+					custom_tooltip = {
+						text = CTT_ORTHODOX_CRUSADES_UNLOCKED
+						has_global_flag = orthodox_crusades_unlocked
+					}
+				
 				}
 			}
 			mercenary = no
@@ -3376,6 +3385,7 @@ religious = {
 			NOT = { religion_group = pagan_group }
 			NOT = { pacifist = yes }
 			NOT = { religion = buddhist }
+			NOT = { religion = hellenic_pagan }
 			OR = {
 				NOT = { religion = hindu }
 				FROM = { NOT = { religion_group = indian_group } }
@@ -3474,7 +3484,6 @@ religious = {
 								is_land = no
 								OR = {
 									ROOT = { religion_group = muslim }
-									FROM = { religion_group = muslim }
 									AND = {
 										ROOT = { religion_group = pagan_group }
 										has_global_flag = pagan_ghws_unlocked
@@ -8705,8 +8714,10 @@ pagan_county_conquest = {
 			}
 			AND = {
 				ROOT = {
-					religion_group = pagan_group
-					religion = hellenic_pagan
+					OR = {
+						religion_group = pagan_group
+						religion = hellenic_pagan
+					}
 					NOT = { same_realm = FROM }
 				}
 				FROM = {
