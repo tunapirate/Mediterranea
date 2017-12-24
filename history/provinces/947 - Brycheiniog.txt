@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 947 - Brycheiniog
+
+# County Title
+title = c_brycheiniog
+
+# Settlements
+max_settlements = 3
+b_aberhonddu = tribal
+#b_crug_hywel = city
+#b_talgarth = temple
+
+
+# Misc
+culture = welsh
+religion = celtic_rite
+terrain = hills
+
+# History
+
+1197.4.28={
+	b_aberhonddu = castle
+}

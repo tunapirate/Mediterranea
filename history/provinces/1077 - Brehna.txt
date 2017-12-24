@@ -1,0 +1,29 @@
+# -*- ck2.history.provinces -*-
+
+# 1077 - Brehna
+
+# County Title
+
+title = c_brehna
+
+# Settlements
+max_settlements = 3
+
+
+b_wettin = tribal
+#b_brehna = city
+#b_torgau = city
+
+
+# Misc
+culture = thuringian
+religion = norse_pagan
+
+# History
+937.1.1 = { religion = catholic }
+937.1.1 = { 
+b_wettin = castle
+b_brehna = city }
+1100.1.1 = { culture = thuringian } 
+1150.1.1= { b_torgau = city } 
+1170.1.1 = { culture = german } 

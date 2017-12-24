@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 252 - Ulm
 
 # County Title
@@ -5,19 +7,18 @@ title = c_ulm
 
 # Settlements
 max_settlements = 4
-b_teck = castle
-b_ulm = city
-b_zwiefalten = temple
 
-#b_biberach = castle
-#b_memmingen = castle
-#b_isny = castle
-#b_goppingen = castle
+b_katzenstein = castle
+b_ulm = city
+b_leipheim = city
+#b_zwiefalten = temple
+#b_memmingen = city
 #b_erbach = castle
 
 # Misc
-culture = german
+culture = swabian
 religion = germanic_rite
 
 # History
+1170.1.1 = { culture = german }
 

@@ -1,71 +1,65 @@
+# -*- ck2.history.titles -*-
+
 20.1.1 = {
 	historical_nomad = yes
 }
-716.1.1={
-	liege=d_itil
-	holder=74009
+768.1.1 = {
+	holder = 188789
 }
-749.1.1={
-	holder=74012
+790.1.1 = {
+	holder = 188790
 }
-#767.1.1={
-#	holder=146186
-#}
-802.1.1={
-	holder=74022
+810.1.1 = {
+	holder = 160167
 }
-822.1.1={
-	liege=d_itil
-	holder=0
+846.1.1 = {
+	holder = 160142
 }
-860.1.1=
-{
-#	holder=180240
-	holder = 180236
+865.1.2 = {
+	liege = d_bulgar
+	holder = 6858
 }
-1060.1.1=
-{
-holder=806
+995.1.1 = {
+	holder = 1233351
 }
-1066.1.1=
-{
-#liege="d_itil"
-liege = k_cuman
+1032.1.1 = {
+	holder = 1233352
 }
-1110.1.1=
-{
-holder=90143
+1063.1.1 = {
+	holder = 20923
 }
-1120.1.1=
-{
-holder=125401
+1120.1.1 = {
+	holder = 125605
 }
-1146.1.1=
-{
-holder=125402
+1135.1.2 = {
+	holder = 125606
 }
-1183.1.1=
-{
-holder=228030
+1164.1.2 = {
+	holder = 125607
 }
-1190.1.1=
-{
-holder=34958
+1185.1.2 = {
+	holder = 125608
 }
-1227.1.1=
-{
-holder=34959
-liege=e_golden_horde
+1187.1.1 = {
+	holder = 228042
 }
-1255.1.1=
-{
-holder=34960
+1200.1.1 = {
+	holder = 125608
 }
-1290.1.1=
-{
-holder=34961
+1236.9.1 = {
+	liege = k_turkestan_west
+	holder = 125503
 }
-1320.1.1=
-{
-holder=34962
+1241.12.11 = {
+	liege = d_yaik
+	holder = 34911
+}
+1260.1.1 = {
+	holder = 34904
+}
+1285.1.1 = {
+	holder = 125548
+}
+1310.1.1 = {
+	holder = 125549
 }

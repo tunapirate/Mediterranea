@@ -1,0 +1,82 @@
+# -*- ck2.history.titles -*-
+
+786.1.1 = {
+        liege=d_coledizi
+	holder = 1227118 # Miliduch
+}
+806.1.1 = {
+	holder = 1227119 # Tunglo
+}
+830.1.1 = {
+	holder = 1227120 # Czimislav
+}
+840.1.1 = {
+	holder = 1227121 # Chestibor
+}
+859.1.1 = {
+	holder = 1227105
+}
+889.1.1 = {
+	holder = 1227106
+}
+# Geronen
+936.1.1 = {
+	liege = 0
+	holder = 168562
+}
+965.5.20 = {
+	holder = 168568
+}
+979.8.3 = {
+	holder = 168573
+}
+981.1.1 = {
+	liege = d_meissen
+	holder = 33459
+}
+985.1.1 = {
+	holder = 33460
+}
+1002.4.30 = {
+	holder = 33461
+}
+1009.1.1 = {
+	holder = 33463
+}
+1038.1.1 = {
+	holder = 33462
+}
+1046.1.24 = {
+	holder = 33464
+}
+1062.1.1 = {
+	holder = 7060
+}
+1066.1.1 = {
+	holder = 20266
+}
+1080.1.1 = {
+	holder = 20270
+}
+1123.9.2 = {
+	holder = 212908
+}
+1142.1.1 = {
+	holder = 212600
+}
+1180.9.16 = {
+	liege = d_saxony
+	holder = 212905
+}
+1212.2.2 = {
+	holder = 462114
+}
+1260.10.7 = {
+	holder = 462101
+}
+1296.1.1 = {
+	liege = d_saxewittenberg
+}
+1298.5.24 = {
+	holder = 462100
+}

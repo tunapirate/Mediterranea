@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 247 - Chur
 
 # County Title
@@ -17,7 +19,8 @@ b_glurns = castle
 #b_zuoz = castle
 
 # Misc
-culture = rhaetic
-religion = roman_rite
+culture = rhaetic #Romansch
+religion = catholic
 
 # History
+1170.1.1 = { culture = german }

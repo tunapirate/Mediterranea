@@ -1,0 +1,27 @@
+# -*- ck2.history.titles -*-
+
+1137.1.1 = {
+	liege = k_turkestan_east
+	holder = 144115
+}
+1156.1.1 = {
+	holder = 188855
+}
+1188.1.1 = {
+	holder = 188856
+}
+1205.1.1 = {
+	holder = 188857
+}
+1210.1.1 = {
+	liege = 0
+}
+1211.1.1 = {
+	liege = e_khitan
+	holder = 1231514
+}
+# Mongol conquest
+1218.1.1 = {
+	liege = 0
+	holder = 0
+}

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 216 - Perigord
 
 # County Title
@@ -21,3 +23,4 @@ religion = hellenic_pagan
 culture = occitan
 
 # History
+1240.1.1   = { b_perigueux = city }

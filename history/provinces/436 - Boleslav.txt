@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 436 - Boleslav
 
 # County Title
@@ -6,16 +8,22 @@ title = c_boleslav
 # Settlements
 max_settlements = 4
 b_glatz = tribal
-
 #b_jicin = city
 #b_nachod = castle
 #b_kamieniec = castle
-#b_trutnov = castle
-#b_jaromer = castle
 #b_turnov = castle
+#b_neurodekladsko = city
+#b_wunschelburgkladsko = city
+#b_broumovkladsko = temple
+
 
 # Misc
 culture = lombard
 religion = norse_pagan
+terrain = hills
 
 # History
+
+883.1.1 = { religion = catholic }
+#german colonists invited
+1254.1.1 = { culture = german }

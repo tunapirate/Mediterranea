@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 710 - Al Bichri
 
 # County Title
@@ -16,7 +18,10 @@ b_osrhoene = temple
 #b_sirhi = castle
 
 #Misc
-culture = aramean
+culture = assyrian
 religion = nestorian
 
 # History
+
+1183.1.1 = { remove_settlement = b_osrhoene } #Tribalisation/Nomadization of Rahba
+1183.1.1 = { b_bichri = tribal } #Tribalisation/Nomadization of Rahba

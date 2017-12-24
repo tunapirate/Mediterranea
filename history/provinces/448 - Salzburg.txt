@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 448 - Salzburg
 
 # County Title
@@ -16,7 +18,8 @@ b_waging = castle
 #b_gastein = castle
 
 # Misc
-culture = german
+culture = bavarian
 religion = germanic_rite
 
 # History
+1170.1.1 = { culture = german }

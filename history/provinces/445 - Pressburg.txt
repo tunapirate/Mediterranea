@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 445 - Pressburg
 
 # County Title
@@ -6,17 +8,16 @@ title = c_pressburg
 # Settlements
 max_settlements = 5
 b_pressburg = tribal
-b_nagyszombat = temple
-
-#b_bazin = city
+b_mariavolgy = city
+#b_nagyszombat = temple
 #b_modor = castle
-#b_szentgyorgy = castle
-#b_dunaszerdahely = city
-#b_galanta = castle
-#b_somorja = castle
+#b_feherko = castle
+#b_szakolca = city
+#b_deveny = castle
+#b_bazin= castle
 
 # Misc
-culture = bohemian
+culture = moravian
 religion = slavic_pagan
 
 # History

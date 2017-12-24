@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 872 - Berbera
 
 # County Title
@@ -7,8 +9,8 @@ title = c_berbera
 max_settlements = 4
 
 b_berbera = castle
-
 b_maydh = city
+b_amud = temple
 #b_gabiley = castle
 #b_mandera = castle
 #b_daarbuduq = castle
@@ -20,3 +22,5 @@ culture = somali
 religion = jewish
 
 # History
+
+1187.1.1={ b_maydh = city } 

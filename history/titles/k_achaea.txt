@@ -1,0 +1,24 @@
+# -*- ck2.history.titles -*-
+
+100.1.1 = {
+	pentarch = b_hagiosdemetrios
+}
+1205.3.1 = {
+	liege = e_latin_empire
+	holder = 31334 # Guillaume I
+}
+1210.1.1 = {
+	holder = 31336 # Geoffory I
+}
+1218.9.1 = {
+	holder = 31337 # Geoffory II
+}
+1246.5.6 = {
+	holder = 31338 # Guillaume II
+}
+1261.7.25 = {
+	liege = 0
+}
+1278.1.4 = {
+	holder = 0
+}

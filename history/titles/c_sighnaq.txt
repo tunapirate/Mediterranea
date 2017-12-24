@@ -1,0 +1,94 @@
+# -*- ck2.history.titles -*-
+
+800.1.1 = {
+	liege = d_oghuz
+	holder = 1230100
+}
+838.1.1 = {
+	holder = 1230101
+}
+863.1.1 = {
+	holder = 1230104
+}
+873.1.1 = {
+	holder = 1230106
+}
+891.1.1 = {
+	holder = 1230121
+}
+920.1.1 = {
+	holder = 1231985
+}
+951.1.1 = {
+	holder = 1230147 # Daquq - Seljuk's father
+}
+983.1.1 = {
+	liege = d_jand
+	holder = 3030 # Seljuk
+}
+1021.1.1 = {
+	holder = 3032 # Arslan b.Seljuk
+}
+1032.1.2 = {
+	liege = d_oghuz
+	holder = 1230137
+}
+1042.1.1 = {
+	liege = d_enchogli
+	holder = 1233112
+}
+1060.1.1 = {
+	liege = d_qipchaq
+	holder = 1229726
+}
+1092.1.1 = {
+	holder = 1229727
+}
+1122.1.1 = {
+	holder = 1229728
+}
+1148.1.1 = {
+	holder = 1229729
+}
+1177.1.1 = {
+	holder = 1229730
+}
+#1195: a Kipchak ruler by the name of Kayir Toku Khan
+1205.1.1 = { #approximate
+	liege = k_khwarezmia
+	holder = 93052
+}
+1215.1.1 = {
+	liege = d_nishapur
+	holder = 1230173
+}
+# Mongol conquest
+1220.1.1 = {
+	liege = e_mongol_empire
+	holder = 125501
+}
+1227.12.2 = {
+	holder = 172005
+}
+1241.12.11 = {
+	liege = d_dasht-i-qipchaq
+	holder = 34912
+}
+1251.1.1 = {
+	holder = 34919
+}
+1280.1.1 = {
+	holder = 34913
+}
+1301.1.1 = {
+	holder = 34914
+}
+1309.1.1 = {
+	holder = 34915
+}
+1315.1.1 = {
+	holder = 34916
+}
+1320.1.1 = {
+	holder = 34917
+}

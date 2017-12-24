@@ -1,22 +1,25 @@
-# 326 - Cagliari
+# -*- ck2.history.provinces -*-
+
+# 326 - Cagliari/Santa Igia
 
 # County Title
 title = c_cagliari
 
 # Settlements
-max_settlements = 4
-b_cagliari = castle
-b_ogliastra = city
-b_assemini = temple
-#b_sanluri = castle
-#b_carbonia = castle
-#b_muravera = castle
-#b_Dolianova = castle
-#b_capoterra = castle
+max_settlements = 5
+
+b_cagliari = castle 
+b_carbonara = city
+b_tortoli = castle # capitol of Ogliastra and Quirra
+b_dolinova = city
+b_sulci = temple # see of Sulci based on Sant'Antioco(aka Sulci) until 1218, based on Tratalias after.
+#b_villasor = castle 
 
 # Misc
-culture = apennine
+culture = sardinian
 religion = hellenic_pagan
-terrain = hills
+terrain = plains
 
 # History
+1005.1.1 = { trade_post = b_caetani }
+1285.1.1 = { trade_post = b_grimaldi }

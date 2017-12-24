@@ -1,32 +1,32 @@
+# -*- ck2.history.provinces -*-
+
 # 410 - Toropets
 
 # County Title
 title = c_toropets
 
 # Settlements
-max_settlements = 4
-b_staryarussa = tribal
+max_settlements = 5
 
-#b_toropets = city
-#b_valday = temple
+b_toropets = tribal
+#b_klichen = temple
+#b_molodytud = city
 
-#b_demyansk = castle
-#b_shimsk = castle
-#b_dno = castle
-#b_lychkovo = castle
-#b_kresttsy = castle
+#b_kynya = city
+#b_zhizhtsa = city
+#b_volok = city
+#b_selizharovo = castle
+#b_ostashkov = city
+#b_zamoshe = city
+#b_stolobny = temple
 
 # Misc
-culture = ilmenian
-religion = slavic_pagan
+culture = vepsian
+religion = finnish_pagan
 
 # History
-867.1.1 = {
-	culture = russian
-}
-988.1.1 = { religion = orthodox }
-1100.1.1 = {
-	b_staryarussa = castle
-	b_toropets = city
-}
-1168.1.1 = { b_demyansk = castle } #Toropets principality
+995.1.1 = {religion = orthodox }
+995.1.1 = {
+b_toropets = castle
+b_klichen = temple
+b_molodytud = city}

@@ -1,0 +1,28 @@
+# -*- ck2.history.titles -*-
+
+# Ulasgoli
+1060.1.1 = {
+	liege = k_cuman
+	holder = 1233138
+}
+1080.1.1 = {
+	holder = 1233140 # Kochi
+}
+1103.4.1 = {
+	holder = 1233142
+}
+1153.1.1 = {
+	holder = 1233144
+}
+1180.1.1 = {
+	holder = 1233146 # Vlur
+}
+1216.1.1 = {
+	holder = 1233148
+}
+1233.1.1 = {
+	holder = 1233150
+}
+1238.1.1 = {
+	holder = 0 # migrating to Hungary after defeat
+}

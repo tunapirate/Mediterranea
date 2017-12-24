@@ -1,4 +1,6 @@
-867.1.1={
-	holder = 159137
-	liege = "k_magyar"
+# -*- ck2.history.titles -*-
+
+867.1.1 = {
+	liege = d_tivertsi
+	holder = 159718
 }

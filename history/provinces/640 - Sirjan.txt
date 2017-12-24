@@ -1,21 +1,22 @@
-# 640 - Sirjan
+# -*- ck2.history.provinces -*-
+
+# 640 - Sírján
 
 # County Title
 title = c_sirjan
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_sirjan = castle
-b_faragheh = city
-b_borougheeyeh = temple
+b_bimand = temple
+b_mashiz = city
 
-#b_shahrbabak = castle
-#b_abarkuh = castle
-#b_dehbid = castle
-#b_mehrabad = castle
+#b_khir = castle
+#b_baft = castle
+
 
 # Misc
-culture = persian
+culture = pahlavi
 religion = zoroastrian
 
 # History

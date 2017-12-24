@@ -1,4 +1,6 @@
-# 929 - Aprutium
+# -*- ck2.history.provinces -*-
+
+# 929 - Aprutium # Aprutio
 
 # County Title
 title = c_aprutium
@@ -6,17 +8,19 @@ title = c_aprutium
 # Settlements
 max_settlements = 4
 
-b_avezzano = castle
-b_pescara = city
-b_chieti = temple
-#b_teramo
-#b_atri
-#b_aprutium_penne
-#b_paganica
-#b_aquila
+b_atri = city
+b_montorio = castle
+b_teramo = temple
+#b_ascoli = castle
+#b_penne_aprutio = city
+#b_san_valentino = castle
+
 
 # Misc
-culture = apennine
+culture = roman
 religion = hellenic_pagan
-
+terrain = hills
 # History
+
+1014.1.1 = { b_atri = castle }
+1014.1.1 = { b_penne_aprutio = city }

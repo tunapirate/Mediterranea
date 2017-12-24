@@ -1,10 +1,12 @@
+# -*- ck2.history.provinces -*-
+
 # 104 - Cornouaille
 
 # County Title
 title = c_cornouaille
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_quimper = castle
 
 b_carhaix = city

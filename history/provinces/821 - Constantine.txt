@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 821 - Constantine
 
 # County Title
@@ -7,17 +9,18 @@ title = c_constantine
 max_settlements = 4
 
 b_constantine = castle
-b_tebessa = temple
-b_guelma = city
-b_elkhroub = castle
+b_elkhroub = temple
+b_guerrah = city
+b_guelma = castle
 
 #b_oumelbouaghi = castle
 #b_tadjenanet = castle
-#b_guerrah = castle
 #b_mechtakebira = castle
 
 # Misc
-culture = maghreb_arabic
-religion = hellenic_pagan
+culture = african
+religion = african_rite
 
 # History
+1054.1.1 = { b_constantine = tribal }
+1152.1.1 = { b_constantine = castle }

@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1501 - Aydhab
+
+# County Title
+title = c_aydhab
+
+# Settlements
+max_settlements = 3
+
+b_halaib = tribal
+#b_aydhab = city
+
+#b_birshalatayn = temple
+
+# Misc
+culture = beja
+religion = sunni
+
+# History
+950.1.1 = { b_aydhab = city }
+1050.1.1 = { religion = sunni }

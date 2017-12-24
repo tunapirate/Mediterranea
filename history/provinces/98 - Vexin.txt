@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 98 - Vexin
 
 # County Title
@@ -6,17 +8,16 @@ title = c_vexin
 # Settlements
 max_settlements = 4
 b_gisors = castle
-b_pontoise = city
+b_andely = city
 b_abbayedemortemer = temple
+#b_chateaugaillard = castle
+#b_neauflessaintmartin = castle
+#b_chateausurepte = castle
+#b_vandrimare = city
 
-#b_mantes = castle
-#b_gisors = city
-#b_harcourt = castle
-#b_ivry = castle
-#b_larocheguyon = castle
-#b_louviers = temple
 
-culture = gallic
+culture = frankish
 religion = hellenic_pagan
 
 # History
+

@@ -1,10 +1,10 @@
 # Czechia
 
 574000 = {
-    name="Vladislav" # Czechia/Nyitra
+    name="Vladislav" # Moravia/Nyitra
     dynasty=5630
     religion="slavic_pagan"
-    culture="bohemian"
+    culture="moravian"
 	
 	add_trait=zealous
 	add_trait=brawny
@@ -22,7 +22,7 @@
 574001 = {
     name="Kristyna"
     religion="slavic_pagan"
-    culture="bohemian"
+    culture="moravian"
 	female=yes
 	
 	#History
@@ -38,7 +38,7 @@
     name="Eliska"
     dynasty=5630
     religion="slavic_pagan"
-    culture="bohemian"
+    culture="moravian"
 	female=yes
 	father=574000
 	mother=574001
@@ -53,7 +53,7 @@
     name="Viola"
     dynasty=5630
     religion="slavic_pagan"
-    culture="bohemian"
+    culture="moravian"
 	female=yes
 	father=574000
 	mother=574001
@@ -68,7 +68,7 @@
     name="Borivoj" # Slovakia
     dynasty=506
     religion="slavic_pagan"
-    culture="bohemian"
+    culture="moravian"
 	
 	add_trait=shrewd
 	add_trait=cynical
@@ -79,7 +79,7 @@
 		birth=yes
     }
 }
-574005 = {
+574005 = { # Czechia
     name="Katerina"
     dynasty=7508
     religion="slavic_pagan"
@@ -271,8 +271,8 @@
 574075 = {
     name="Thorismund" # Gothia Crownlands
     dynasty=5645
-    religion="germanic_rite"
-    culture="ostrogothic"
+    religion="orthodox"
+    culture="east_gothic"
 	
 	#History
 	 
@@ -280,13 +280,13 @@
 		birth=yes
     }
 	851.1.1={
-		add_spouse=574056
+		add_spouse=574076
 	}
 }
 574076 = {
     name="Sibilia"
-    religion="germanic_rite"
-    culture="ostrogothic"
+    religion="orthodox"
+    culture="east_gothic"
 	female=yes
 	
 	#History
@@ -295,14 +295,14 @@
 		birth=yes
     }
 	851.1.1={
-		add_spouse=574055
+		add_spouse=574075
 	}
 }
 574077 = {
     name="Amalaric"
     dynasty=5645
-    religion="germanic_rite"
-    culture="ostrogothic"
+    religion="orthodox"
+    culture="east_gothic"
 	father=574075
 	mother=574076
 	
@@ -315,8 +315,8 @@
 574078 = {
     name="Valamir" # Gothia Southlands
     dynasty=5646
-    religion="germanic_rite"
-    culture="ostrogothic"
+    religion="orthodox"
+    culture="east_gothic"
 	
 	#History
 	 
@@ -327,7 +327,7 @@
 574079 = {
     name="Chasprot" # Osterreich
     dynasty=1044116
-    religion="germanic_rite"
+    religion="orthodox"
     culture="rhaetic"
 	
 	#History
@@ -350,4 +350,80 @@
     837.8.2={
 		birth=yes
     }
+}
+574101 = {
+    name="Varonianu" # Syrmia
+    dynasty=5577
+    religion="orthodox"
+    culture="romanian"
+	
+	#History
+	 
+    825.8.4={
+		birth=yes
+    }
+	848.1.1={
+		add_spouse=574101
+	}
+}
+574102 = {
+    name="Carmen"
+    religion="orthodox"
+    culture="romanian"
+	female=yes
+	
+	#History
+	 
+    828.3.28={
+		birth=yes
+    }
+	848.1.1={
+		add_spouse=574101
+	}
+}
+574103 = {
+    name="Cristina"
+    dynasty=5577
+    religion="orthodox"
+    culture="romanian"
+	father=574101
+	mother=574102
+	female=yes
+	
+	#History
+	 
+	850.10.21={
+		birth=yes
+		add_trait = twin
+	}
+}
+574104 = {
+    name="Olimpia"
+    dynasty=5577
+    religion="orthodox"
+    culture="romanian"
+	father=574101
+	mother=574102
+	female=yes
+	
+	#History
+	 
+	850.10.21={
+		birth=yes
+		add_trait = twin
+	}
+}
+574105 = {
+    name="Decebalus"
+    dynasty=5577
+    religion="orthodox"
+    culture="romanian"
+	father=574101
+	mother=574102
+	
+	#History
+	 
+	853.12.25={
+		birth=yes
+	}
 }

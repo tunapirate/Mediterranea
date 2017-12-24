@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 1345 - Ajadabiya
+
+# County Title
+title = c_ajadabiya
+
+# Settlements
+max_settlements = 2
+b_ajdabiya = tribal
+#b_alaghaila = city
+
+# Misc
+culture = zanata
+religion = miaphysite
+
+# History
+

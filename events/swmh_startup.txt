@@ -1,0 +1,42 @@
+# -*- ck2.events -*-
+
+
+namespace = swmh
+
+# swmh.100-499 are reserved for ziji
+
+# Name Arabia Petraea correctly, since title history won't do it if
+# there are dynamic names
+character_event = {
+    id = swmh.500
+
+    is_triggered_only = yes
+    hide_window = yes
+
+    only_playable = yes
+
+    trigger = {
+        has_landed_title = k_papal_state
+	    NOT = { had_global_flag = { flag = SWMH days = 1 } }
+    }
+
+    immediate = {
+    	if = {
+    		limit = { NOT = { year = 895 } }
+	        k_arabia_petrae = {
+	            set_name = ARABIA_PETRAE
+	            adjective = ARABIA_PETRAE_ADJ
+	        }
+			k_pannonia = {
+				set_name = k_gothia
+				adjective = k_gothia_adj
+				set_coa = k_gothia
+			}
+			k_hungary = {
+				set_name = AVAR_KHAGANATE
+				adjective = AVAR_KHAGANATE_ADJ
+				set_coa = k_avaria
+			}
+	    }
+    }
+}

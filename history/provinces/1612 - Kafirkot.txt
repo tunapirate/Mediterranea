@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1612 - Kafirkot
+
+# County Title
+title = c_kafirkot
+
+# Settlements
+max_settlements = 3
+b_kafirkot = castle
+b_malot = temple
+#b_bilot = castle
+#b_maniot = castle
+#b_dera_ghazi_khan = city
+
+# Misc
+culture = panjabi
+religion = buddhist
+
+# History
+950.1.1 = {	religion = sunni }
+980.1.1 = { religion = ismaili }
+1040.1.1 = { religion = sunni }

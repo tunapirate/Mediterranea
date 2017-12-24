@@ -1,35 +1,32 @@
+# -*- ck2.history.provinces -*-
+
 # 575 - Moskva
 
 # County Title
 title = c_moskva
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 b_moskva = tribal
+#b_kasira = city
+#b_peremyslmoskv = city
+#b_lopasnja = city
+#b_danilovmonestary = temple
 
-#b_kaluga = city
-#b_rogozhi = temple
 
-#b_serpukhov = castle
-#b_belyov = castle
-#b_mozhaysk = castle
-#b_rzhev = city
-#b_klin = castle
-
-culture = mordvin
+# Misc
+culture = mari
 religion = finnish_pagan
 
 # History
-988.1.1 = {
+1015.1.1 = {
 	culture = russian
-	religion = orthodox
+	religion = slavic_pagan	
 }
-1000.1.1 = { b_rogozhi = temple }
-1156.1.1 = {
-	b_moskva = castle   #Moscow city founded
-	b_kaluga = city
-	b_rzhev = city
+1025.1.1 = { religion = orthodox }
+1025.1.1 = {
+b_moskva = castle
+b_kasira = city
 }
-#1325.1.1 = { b_rogozhi = temple } #Metropolitan moves to Moscow
-1337.1.1 = { b_serpukhov = castle }
-#1337.1.1 = { b_kaluga = city }
+#1325.1.1 = { b_danilovmonestary = temple } #Metropolitan moves to Moscow
+#1337.1.1 = { b_peremyslmoskv = city }

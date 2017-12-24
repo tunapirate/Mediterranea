@@ -1,22 +1,27 @@
-# 664 - Qazwin
+# -*- ck2.history.provinces -*-
+
+# 664 - Qazwin # Kazvín
 
 # County Title
 title = c_qazwin
 
 # Settlements
-max_settlements =5
-b_lambsar = castle
-b_qazwin = city
-b_ahmadabad = temple
+max_settlements =3
+b_kazvin = castle
+b_lambassar = city
+b_alamut = castle
 
-#b_takestan = city
-#b_avaj = castle
-#b_abeyek = castle
-#b_alvand = castle
-#b_buinzahra = castle
 
 #Misc
-culture = persian
+culture = daylamite
 religion = zoroastrian
 
 # History
+
+1090.1.1 = {
+	capital = b_alamut
+}
+1256.1.1 = {
+	capital = b_kazvin
+	remove_settlement = b_alamut
+}

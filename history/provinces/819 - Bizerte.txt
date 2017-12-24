@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 819 - Bizerte
 
 # County Title
@@ -8,9 +10,11 @@ max_settlements = 5
 
 b_bizerte = castle
 b_tunbeja = temple
-b_jendouba = city
-b_ghezala = castle
+b_tabarqa = city
+b_marsaalkharaz = castle #Marsa al-Kharaz
 
+#b_jendouba = city
+#b_ghezala = castle
 #b_almatin = castle
 #b_manziljamal = castle
 #b_tamra = castle
@@ -21,3 +25,8 @@ culture = african
 religion = hellenic_pagan
 
 # History
+
+1054.1.1 = { b_bizerte = tribal }
+1159.7.1 = { b_bizerte = castle }
+1187.1.1 = { b_marsaalkharaz = castle }
+

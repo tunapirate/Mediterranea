@@ -1,26 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 115 - Luxembourg
 
 # County Title
 title = c_luxembourg
 
 # Settlements
-max_settlements = 4
-b_bouillon = castle
-b_luxembourg = city
-b_saintvith = temple
+max_settlements = 5
+b_luxembourg = castle
+b_echternach = city
+b_thionville = temple
 
-#b_arlon = castle
-#b_neufchateau = castle
-#b_longwy = castle
-#b_differdange = castle
-#b_ettelbruck = castle
+#b_ansembourg = castle
+#b_bradenbourg = castle
+#b_bourscheid = castle
+#b_beauforten = castle
+#b_grevenmarcher = city
+#b_ettelbruck = city
 
 # Misc
-culture = old_frankish
-religion = gallic_rite
+culture = frankish
+religion = germanic_rite
 
 # History
-790.1.1 = { culture = frankish }
-1000.1.1 = {
-	culture = german
-}
+1170.1.1 = { culture = german }
+
+
+

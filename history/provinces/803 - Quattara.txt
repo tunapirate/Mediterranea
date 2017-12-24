@@ -1,13 +1,15 @@
+# -*- ck2.history.provinces -*-
+
 # 803 - Quattara
 
 # County Title
 title = c_quattara
 
 # Settlements
-max_settlements = 2
-b_caraoasis = castle
-b_siwa = temple
-#b_quattara = city
+max_settlements = 3
+b_siwa = tribal
+#b_santariya = city
+#b_quattara = temple
 
 #b_qaretagnes = castle
 #b_abdannabi = castle
@@ -16,7 +18,9 @@ b_siwa = temple
 #b_ziwaelbahari = castle
 
 # Misc
-culture = coptic
-religion = miaphysite
+culture = tuareg
+religion = west_african_pagan
 
 # History
+1052.1.1 = { culture = bedouin_arabic }
+

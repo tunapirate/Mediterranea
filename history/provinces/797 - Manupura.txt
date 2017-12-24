@@ -1,37 +1,37 @@
-# 797 - Manupura
+# -*- ck2.history.provinces -*-
+
+# 797 - Manupura    #Bahnasa
 
 # County Title
-title = c_manupura
+title = c_manupura  #Bahnasa
 
 # Settlements
 max_settlements = 6
-b_manusura = castle
-b_athribis = castle
-b_almahallah = city
-b_bilbays = temple
-b_zagazig = castle
+b_manuf = castle
+b_quwaysina = city
+b_ibyar = temple
 
+#b_saa = temple
+#b_shatanul = city
+#b_almahallah = city
+
+#b_athribis = castle
+#b_zagazig = castle
 #b_bubastis = city
 #b_qantir = castle
 #b_busiris = castle
 
 # Misc
-culture = aegyptian
-religion = orthodox
+culture = coptic
+religion = miaphysite
 
 # History
 
-867.1.1 = { 
-	b_manusura = ca_keep_1
-	b_manusura = ca_training_grounds_1
-	b_manusura = ca_stable_1
-	b_manusura = ca_wall_1
-	b_manusura = ca_wall_2
-	b_manusura = ca_militia_barracks_1
-	b_athribis = ca_keep_1
-	b_athribis = ca_training_grounds_1
-	b_athribis = ca_stable_1
-	b_athribis = ca_wall_1
-	b_athribis = ca_wall_2
-	b_athribis = ca_militia_barracks_1
+1066.1.1 = { 
+	b_manuf = ca_keep_1
+	b_manuf = ca_training_grounds_1
+	b_manuf = ca_stable_1
+	b_manuf = ca_wall_1
+	b_manuf = ca_wall_2
+	b_manuf = ca_militia_barracks_1
 }

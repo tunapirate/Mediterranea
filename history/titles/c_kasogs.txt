@@ -1,5 +1,4 @@
-687.1.1=
-{
-holder=167856
-liege="k_croatia"
+867.1.1 = {
+	holder = 167856
+	liege = "k_croatia"
 }

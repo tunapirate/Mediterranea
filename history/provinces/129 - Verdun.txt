@@ -1,20 +1,21 @@
+# -*- ck2.history.provinces -*-
+
 # 129 - Verdun
 
 # County Title
 title = c_verdun
 
 # Settlements
-max_settlements = 5
-b_longuyon = castle # Longuyon
-b_verdun = temple # Verdun
-b_etain = city # Étain
+max_settlements = 3
+b_verdun = castle
+b_saintmihel = city
 
-#b_grandpre = temple # Grandpré
-#b_stenay = city # Stenay
-#b_doaumont = castle # Douaumont
+#b_longuyon = castle
+#b_doaumont = castle
 
 # Misc
-culture = gallic
+culture = frankish
 religion = gallic_rite
 
 # History
+

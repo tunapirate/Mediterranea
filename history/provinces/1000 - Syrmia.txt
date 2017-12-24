@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 1000 - Syrmia
+
+# County Title
+
+title = c_syrmia
+
+# Settlements
+
+max_settlements = 5
+
+b_slankamen = castle
+b_sremska_mitrovica = city
+b_morovic = temple
+b_fossae = castle
+#b_budalia = city
+
+# Misc
+
+culture = romanian
+religion = orthodox
+
+# History
+
+988.1.1 = { religion = catholic }
+1000.1.1 = { b_slankamen = castle }
+1150.1.1 = { culture = hungarian }
+1282.1.1 = { culture = serbian }
+1282.1.1 = { religion = orthodox }
+

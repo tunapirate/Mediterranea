@@ -1,23 +1,32 @@
+# -*- ck2.history.provinces -*-
+
 # 48 - Lothian
 
 # County Title
 title = c_lothian
 
 # Settlements
-max_settlements = 4
-b_stirling = tribal
+max_settlements = 6
+b_dunbar = tribal
+b_edinburgh = city
+#b_abercorn = temple
+#b_whitekirk = temple
+#b_thilerstane = castle
+#b_leith = city
 
-#b_edinburgh = city
-
-#b_stow_of_wedale = castle
-#b_linlithgow = castle
-#b_falkirk = castle
-b_abercorn = temple
-#b_leith = castle
-#b_torphichen = castle
 
 # Misc
-culture = welsh
+culture = cumbric
 religion = celtic_rite
 
 # History
+1066.1.1 = { 
+	b_dunbar = ca_keep_1
+	b_dunbar = ca_training_grounds_1
+	b_dunbar = ca_stable_1
+	b_dunbar = ca_stable_2
+	b_dunbar = ca_wall_1
+	b_dunbar = ca_wall_2
+}
+1100.11.11 = { culture = english }
+

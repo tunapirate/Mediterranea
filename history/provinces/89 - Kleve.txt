@@ -1,26 +1,31 @@
+# -*- ck2.history.provinces -*-
+
 # 89 - Kleve
 
 # County Title
 title = c_kleve
 
 # Settlements
-max_settlements = 4
-b_kleve = castle
-b_goch = city
-b_rees = temple
+max_settlements = 5
 
-#b_anholt = castle
-#b_Xanten = city
+b_schwanenburg = castle
+b_kleve = city
+b_moers = city
+#b_duisburg = city
 #b_wesel = castle
+#b_krinvelde = castle
+#b_anholt = castle
+#b_xanten = city
 #b_isselburg = castle
 #b_emmerich = castle
+#b_goch = city
+#b_rees = temple
 
 # Misc
-culture = german
+culture = franconian
 religion = germanic_rite
 
 # History
-
-1187.1.1 = { b_wesel = city } 
+1150.1.1 = { culture = dutch }
 
 

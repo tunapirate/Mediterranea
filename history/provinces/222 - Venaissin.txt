@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 222 - Venaissin
 
 # County Title
@@ -7,18 +9,17 @@ title = c_venaissin
 max_settlements = 5
 b_orange = castle
 b_avignon = temple
-b_carpentras = city
+#b_carpentras = city
+b_venasque = castle
 
-#b_cavaillon = city
-#b_avignon = temple
-#b_venasque = castle
-
-#b_chateauneufdupape = castle
 #b_stpaul = temple
-#b_mondragon = castle
+
 
 # Misc
-culture = occitan
+culture = visigothic
 religion = hellenic_pagan
 
 # History
+867.1.1 = { culture = occitan }
+1274.1.1 = { capital = b_avignon }
+1274.1.1 = { b_carpentras = city }

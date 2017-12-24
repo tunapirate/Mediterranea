@@ -1,0 +1,25 @@
+# -*- ck2.history.titles -*-
+
+850.1.1 = {
+	holder = 161301 # Eystein Glumra king or jarl of Oppland
+}
+872.1.1 = {
+	holder = 0
+}
+1017.1.1 = {
+	liege = k_norway
+	holder = 1228061
+}
+1027.1.1 = {
+	holder = 0
+}
+1037.1.1 = {
+	liege = k_norway
+	holder = 102547
+}
+1054.1.1 = {
+	holder = 1228062
+}
+1064.1.1 = {
+	holder = 0
+}

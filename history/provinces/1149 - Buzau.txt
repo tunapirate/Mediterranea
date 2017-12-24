@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1149 - Buzau
+
+# County Title
+title = c_buzau
+
+# Settlements
+max_settlements = 2
+
+b_parscov = castle
+b_buzau = castle
+
+
+
+# Misc
+culture = avar
+religion = tengri_pagan
+
+
+# History
+1299.1.2 = { b_parscov = castle
+b_buzau = city }
+
+
+

@@ -1,0 +1,139 @@
+# -*- ck2.history.titles -*-
+
+800.1.1 = {
+	liege = k_pechenegs
+	holder = 1231704
+}
+810.1.1 = {
+	liege = 0
+	holder = 0
+}
+850.1.1 = {
+	liege = d_oghuz
+	holder = 1230101
+}
+863.1.1 = {
+	holder = 1230105
+}
+886.1.1 = {
+	holder = 1230113
+}
+#918.1.1 = {
+#	holder = 1230121
+#}
+#920.1.1 = {
+#	holder = 1231985
+#}
+#929.1.1 = {
+#	liege = d_qipchaq
+#	holder = 1230121
+#}
+#930.1.1 = {
+#	holder = 1229722
+#}
+#960.1.1 = {
+#	holder = 1229723
+#}
+#990.1.1 = {
+#	holder = 1229724
+#}
+# Cumans consolidation complete, push westwards intensifies.
+# Terteroba
+1030.1.1 = {
+	liege = d_terteroba
+	holder = 1233087 # Sokal
+}
+1060.1.1 = {
+	liege = d_qipchaq
+	holder = 1229726
+}
+1092.1.1 = {
+	holder = 1229727
+}
+1122.1.1 = {
+	holder = 1229728
+}
+1148.1.1 = {
+	holder = 1229729
+}
+1177.1.1 = {
+	holder = 1229730
+}
+1212.1.1 = {
+	holder = 1229731
+}
+# Mongol conquest
+1223.1.1 = {
+	liege = e_mongol_empire
+	holder = 125501
+}
+1227.12.2 = {
+	holder = 172005
+}
+1241.12.11 = {
+	liege = k_turkestan_east
+	holder = 93062
+}
+1242.1.1 = {
+	holder = 93064
+}
+1246.1.1 = {
+	holder = 93065
+}
+1248.1.1 = {
+	liege = e_chagatai
+}
+1252.1.1 = {
+	holder = 93064
+}
+1253.1.1 = {
+	holder = 93066
+}
+1260.1.1 = {
+	holder = 93068
+}
+1266.1.1 = {
+	holder = 93066
+}
+1266.9.1 = {
+	holder = 93070
+}
+1271.1.1 = {
+	holder = 93072
+}
+1272.1.1 = {
+	holder = 93074
+}
+1282.1.1 = {
+	holder = 93075
+}
+1307.1.1 = {
+	holder = 93076
+}
+1308.1.1 = {
+	holder = 93078
+}
+1309.1.1 = {
+	holder = 93079
+}
+1310.1.1 = {
+	holder = 93080
+}
+1318.1.1 = {
+	holder = 93079
+}
+1326.1.1 = {
+	holder = 93081
+}
+1329.1.1 = {
+	holder = 93082
+}
+1330.1.1 = {
+	holder = 93083
+}
+1334.1.1 = {
+	holder = 93084
+}
+1335.1.1 = {
+	holder = 93086
+}

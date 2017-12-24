@@ -1,22 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 259 - Celle
 
 # County Title
 title = c_celle
 
 # Settlements
-max_settlements = 4
-b_celle = tribal
+max_settlements = 5
 
-#b_herford = temple
-#b_hermannsburg = castle
-#b_ravensberg = castle
-#b_nienburg = castle
-#b_wittingen = castle
-#b_wedemark = castle
+b_wevelsburg = tribal
+b_paderborn = temple
+#b_lippe = city
+#b_detmold = city
+#b_blomberg = city
+#b_stenberg = temple
+
+
 
 # Misc
-culture = old_saxon
+culture = low_saxon
 religion = norse_pagan
 
 # History
+1100.1.1 = { culture = low_german }
+
+
 

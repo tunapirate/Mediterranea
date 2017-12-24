@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1569 - Kucha
+
+# County Title
+title = c_kucha
+
+# Settlements
+max_settlements = 5
+b_kucha = castle
+b_kush-tura = temple
+b_kizil = castle
+#b_tarim = city
+b_bal = city
+
+#b_kukuchi = castle
+
+# Misc
+culture = saka
+religion = buddhist
+
+# History
+915.1.1 = {	culture = uyghur }
+1200.1.1 = { religion = sunni }
+1250.1.1 = { culture = karluk }

@@ -1,18 +1,26 @@
+# -*- ck2.history.provinces -*-
+
 # 831 - Al Djazair
 
 # County Title
 title = c_al_djazair
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 
 b_algiers = castle
-b_tipasa = city
-b_chiffa = temple
-b_sidiakacha = castle
+b_mattija = city
+b_miliyana = temple
+b_sharashal = city
 
-#b_rhedadoua = city
 #b_elachour = castle
+#b_aintorki = castle
+#b_blida = castle
+
+#b_aindefla = temple
+#b_tipasa = city
+#b_chiffa = temple
+#b_rhedadoua = castle
 #b_tirourda = castle
 #b_elRdair = castle
 
@@ -21,3 +29,6 @@ culture = african
 religion = african_rite
 
 # History
+
+1187.1.1 = { b_elachour = castle }
+

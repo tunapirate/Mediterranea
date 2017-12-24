@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 1010 - Sunmore
+
+# County Title
+title = c_sunmore
+
+# Settlements
+max_settlements = 3
+
+b_blindheim = tribal # Blindheimr
+#b_giske = tribal # Gizki
+#b_aspa = castle # Aspaey
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1000.1.1 = { b_blindheim = city}
+1000.1.1 = { b_giske = tribal}
+1000.1.1 = { capital = b_giske }
+1015.1.1 = { b_blindheim = castle
+b_giske = castle }#fat Olav
+1024.1.1 = { religion = catholic }
+1035.1.1 = { culture = norwegian } 
+
+

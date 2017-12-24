@@ -1,0 +1,11 @@
+# -*- ck2.history.titles -*-
+
+600.1.1 = {
+	liege = d_brittany
+}
+989.1.1 = {
+	liege = d_normandy
+}
+1204.1.1 = {
+	liege = k_england
+}

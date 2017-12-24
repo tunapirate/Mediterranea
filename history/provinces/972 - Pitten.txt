@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 972 - Pitten
+
+# County Title
+title = c_pitten
+
+# Settlements
+max_settlements = 3
+
+b_pitten = castle
+#b_neunkirchen = city
+#b_wienerneustadt = city
+#b_gloggnitz = temple
+#b_pottschach = castle
+#b_seebenstein = castle
+
+# Misc
+culture = east_gothic
+religion = orthodox
+
+# History
+955.1.1 = { culture = bavarian }
+1170.1.1 = { culture = german }
+1194.1.1 = { b_wienerneustadt = city }
+

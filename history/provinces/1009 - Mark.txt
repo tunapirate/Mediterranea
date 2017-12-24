@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 1009 - Mark
+# County Title
+title = c_mark
+
+# Settlements
+max_settlements = 4
+
+
+
+b_altena = castle
+#b_hamm = city
+#b_essen = temple
+#b_gevelsberg = city
+#b_nienbrugge = castle
+#b_hovel = castle
+
+
+
+
+# Misc
+culture = franconian
+religion = germanic_rite
+
+# History
+1100.1.1 = { culture = low_german }

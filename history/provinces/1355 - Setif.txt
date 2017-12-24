@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1355 - Setif
+
+# County Title
+title = c_setif
+
+# Settlements
+max_settlements = 5
+
+b_qalatbhammad = castle #Qal'at Bannu Hammad
+b_setif = city
+b_boudaoud = temple
+
+# Misc
+culture = african
+religion = african_rite
+
+# History

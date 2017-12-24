@@ -1,0 +1,13 @@
+# -*- ck2.history.titles -*-
+
+1296.1.1 = {
+	liege = e_hre
+	holder = 33343
+}
+1308.1.1 = {
+	liege = c_lauenburg
+	holder = 33344
+}
+1322.4.22 = {
+	holder = 33346
+}

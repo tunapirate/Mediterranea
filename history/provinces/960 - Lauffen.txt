@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 960 - Lauffen
+
+# County Title
+title = c_lauffen
+
+# Settlements
+max_settlements = 4
+
+b_lauffen = castle
+#b_eberbach = castle
+b_mosbach = temple
+b_darmstadt = city
+#b_marksburg = castle
+
+
+# Misc
+culture = swabian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }

@@ -1,22 +1,24 @@
+# -*- ck2.history.provinces -*-
+
 # 638 - Yazd
 
 # County Title
 title = c_yazd
 
 # Settlements
-max_settlements = 4
-b_meybod = castle
-b_chak_chak = city
-b_yazd = temple
+max_settlements = 6
+b_fahradj = castle
+b_yazd = city
+b_andjira = temple
+b_unas = city
 
-#b_dar_anjir = castle
-#b_ardakan = temple
-#b_zarch = castle
-#b_taft = castle
-#b_nir = castle
+#b_abarquh = castle
+#b_maybudh = temple
+#b_bafq = castle
 
 # Misc
-culture = persian
+culture = pahlavi
 religion = zoroastrian
 
 # History
+1000.1.1 = { b_abarquh = castle }

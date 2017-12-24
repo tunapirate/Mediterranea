@@ -1,0 +1,41 @@
+# -*- ck2.history.technology -*-
+
+technology = {
+	titles = {
+	# Vepsia
+		d_novgorod
+		d_russa
+		d_pskov
+		d_beloozero
+	# Bjarmia
+		d_bjarmia
+		d_onega
+		d_pechora
+	# Vladimir
+		d_vladimir
+		d_nizhny_novgorod
+		d_ustyg
+		d_tver
+		d_rostov
+		d_ryazan
+		d_murom
+	# Perm
+		d_perm
+		d_vyatka
+		d_pelym
+		d_perm_vychegda
+	}
+
+	769 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+	}
+	
+	1337 = {
+		military = 3.5
+		economy = 3.5
+		culture = 3.5
+	}
+}

@@ -1,11 +1,21 @@
 867.1.1={
 	holder = 543516
-	law = crown_authority_2
+	
+	effect = {
+		set_variable = { which = "imperial_decay" value = 25 }
+	}
+	
+	law = crown_authority_3
 	law = succ_primogeniture
+	law = agnatic_succession
 	law = centralization_3
-	law = imperial_administration
+	law = administration_2
+	law = feudal_slider_2
+	law = feudal_obligations_2
+	law = revokation_2
 	law = ze_administration_laws_2
 	law = vice_royalty_2
 	law = revoke_title_law_1
+	
 	pentarch = b_hagiasophia
 }

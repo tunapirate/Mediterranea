@@ -1,20 +1,30 @@
+# -*- ck2.history.provinces -*-
+
 # 181 - Cordoba
 
 # County Title
 title = c_cordoba
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
+b_cordoba = castle
 b_alcolea = castle
-b_cordoba = temple
-b_lucena = city
 b_cabra = temple
-b_andujar = castle
-#b_martos = temple
+b_lucena = city
+b_baena = city
+#b_montilla = city
+#b_iznajar = castle
+#b_guadalcazar = castle
+#b_adamuz = city
+
+
 #b_belalcazar = castle
 #b_canetedelastorres = castle
 
-culture = catalan
-religion = hellenic_pagan
+# Misc
+culture = hispanic
+religion = mercurial
 
 # History
+1251.1.1 = { culture = castillan }
+1251.1.1 = { religion = catholic }

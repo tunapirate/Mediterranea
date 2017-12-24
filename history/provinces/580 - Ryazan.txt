@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 580 - Ryazan
 
 # County Title
@@ -6,29 +8,25 @@ title = c_ryazan
 # Settlements
 max_settlements = 5
 b_ryazan = tribal
-b_solotcha = temple
+#b_perejaslavl_rjazanskij = city
+b_grodets = temple
 
-#b_grodets = city
-
+#b_shilovo = castle
+#b_olgov = city
+#b_borisgolebov = city
+#b_izeslavl = temple
 #b_spassk = castle
-#b_korablino = castle
 #b_rybnino = city
-#b_sasovo = castle
-#b_klepiki = castle
+#b_mikhaylov = castle
 
 culture = mordvin
 religion = finnish_pagan
-terrain = plains
 
 # History
-988.1.1 = {
-	culture = russian
-	religion = orthodox
-}
-
-1187.1.1 = {
-	b_ryazan = castle
-	b_grodets = city
-	b_rybnino = city
-}
-1237.1.1 = { remove_settlement = b_rybnino } #Mongol invasion
+1020.1.1 = { b_ryazan = castle
+b_perejaslavl_rjazanskij = city
+b_grodets = temple }
+1110.1.1 = { religion = orthodox }
+1120.1.1 = { culture = russian }
+1187.1.1 = { b_shilovo = castle }
+1237.1.1 = { remove_settlement = b_shilovo } #Mongol invasion

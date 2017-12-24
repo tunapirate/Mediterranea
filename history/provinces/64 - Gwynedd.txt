@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 64 - Gwynedd
 
 # County Title
@@ -5,15 +7,12 @@ title = c_gwynedd
 
 # Settlements
 max_settlements = 5
-b_aberffraw = castle
-b_bangor_fawr = temple
+b_caernarfon = tribal
+b_bangor_wales = city
+#b_aberconwy = temple
+#b_dolgellau = castle
+#b_aberdaron = castle
 
-#b_degannwy = castle
-b_caernarfon = city
-#b_harlech = castle
-#b_cardigan = castle
-#b_llanbadarn = castle
-#b_conwy = castle
 
 # Misc
 culture = welsh
@@ -21,6 +20,14 @@ religion = celtic_rite
 terrain = hills
 
 # History
-1159.1.1 = { b_conwy = castle }
-1215.1.1 = { b_harlech = castle }
-1286.1.1 = { b_degannwy = castle }
+
+1066.1.1 = { 
+	b_caernarfon = tb_hillfort_1
+	b_caernarfon = tb_training_grounds_1
+	b_caernarfon = tb_war_camp_1
+}
+1283.9.29={
+	b_caernarfon = castle
+	#b_bangor_wales = city
+	b_aberconwy = temple
+}

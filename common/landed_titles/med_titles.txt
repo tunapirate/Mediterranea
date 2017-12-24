@@ -1,0 +1,25 @@
+k_mercurial = {
+
+	color = { 255 250 79 }
+	color2={ 255 255 255 }
+	
+	capital = 169 # Cartagena
+	
+	title = "FLAMEN"
+	title_female = "FLAMINA"
+	foa = "FLAMEN_FOA"
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = mercurial
+	
+	religion = mercurial
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}

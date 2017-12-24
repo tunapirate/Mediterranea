@@ -1,28 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 119 - Köln
 
 # County Title
 title = c_koln
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_koln = temple
 b_dietz = city
-b_berg = castle
-b_brauweiler = temple
-
-#b_bonn = castle
-#b_saffenburg = castle
-#b_mark = castle
-#b_hochstaden = castle
-
+b_bonn = city
+#b_brauweiler = temple
+b_hochstaden = castle
+b_rolandseck = castle
+#b_godesburg = castle
+#b_wolkenburg = castle
+#b_drachenfels = castle
+#b_konigswinter = city
 
 # Misc
-culture = german
+culture = franconian
 religion = germanic_rite
 
 # History
-
-1161.1.1= { b_mark = castle } 
+1170.1.1 = { culture = german }
 
 
 

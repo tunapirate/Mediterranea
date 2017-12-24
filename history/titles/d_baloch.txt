@@ -1,0 +1,54 @@
+# -*- ck2.history.titles -*-
+
+846.1.1 = {
+	#historical_nomad = yes
+	holder = 1230957
+	set_tribute_suzerain = {
+		who = k_khorasan
+		percentage = 0.4
+	}
+}
+863.1.1 = {
+	holder = 1230958
+}
+894.1.1 = {
+	holder = 1230959
+}
+910.1.1 = {
+	holder = 1230961
+}
+919.1.1 = {
+	holder = 1230962
+}
+943.1.1 = {
+	holder = 1230966
+}
+966.1.1 = {
+	holder = 1230967
+}
+973.1.1 = {
+	clear_tribute_suzerain = k_khorasan
+	set_tribute_suzerain = {
+		who = k_kafarestan
+		percentage = 0.4
+	}
+}
+1002.1.1 = {
+	holder = 1230968
+}
+1035.1.1 = {
+	holder = 1230969
+}
+1040.5.5 = {
+	clear_tribute_suzerain = k_kafarestan
+}
+1040.5.5 = {
+	set_tribute_suzerain = {
+		who = k_khorasan
+		percentage = 0.4
+	}
+}
+1051.1.1 = {
+	holder = 0
+	clear_tribute_suzerain = k_khorasan
+}

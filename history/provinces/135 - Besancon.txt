@@ -1,22 +1,19 @@
+# -*- ck2.history.provinces -*-
+
 # 135 - Besancon
 
 # County Title
 title = c_besancon
 
 # Settlements
-max_settlements = 6
-b_besancon = castle
-b_vesoul = city
-b_belfort = temple
-b_montbeliard = castle
-
-#b_beaucourt = castle
-#b_valdahon = castle
-#b_maiche = castle
-#b_morteau = castle
+max_settlements = 2
+b_stferjeux = castle
+b_besancon = city
 
 # Misc
-culture = gallic
-religion = hellenic_pagan
+culture = frankish
+religion = saturnal
 
 # History
+
+1290.1.1 = { capital = b_besancon }

@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1032 - Oettingen
+
+# County Title
+title = c_oettingen
+
+# Settlements
+max_settlements = 3
+
+b_oettingen = castle
+b_pappenheim = castle
+
+#b_wallerstein = temple
+#b_baldern = city
+#b_spielberg = castle
+
+
+# Misc
+culture = swabian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }
+

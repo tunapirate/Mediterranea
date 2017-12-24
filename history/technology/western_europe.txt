@@ -1,73 +1,59 @@
-#AFRICA
+# -*- ck2.history.technology -*-
+
+#WESTERN EUROPE
 
 technology = {
 	titles = {
-	#k_africa
-		d_africa
-	#k_mauretania
-		d_tangiers
-	#k_numidia
-		d_aghlan
-		d_atlas_mtn
-		d_caesariense
-		d_kabylia
-	}
-
-	769 = {
-		military = 1.2
-		economy = 1.5
-		culture = 1.5
-	}
-		
-	1337 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
-}
-
-#BRITANNIA
-
-technology = {
-	titles = {
-	#k_cumbria
-		d_cornovia
-		d_deifr
-		d_galloway
-		d_lothian
-		d_rheged
-		d_the_isles
-	#k_england
-		d_canterbury
-		d_norfolk
-	#k_ireland
-		d_connacht
-		d_leinster
-		d_meath
-		d_munster
-		d_ulster
-	#k_lloegyr
-		d_bedford
-		d_cornwall
-		d_gloucester
-		d_hereford
-		d_somerset
-	#k_scotland
-		d_albany
-		d_moray
-		d_western_isles
-	#k_wales
-		d_deheubarth
-		d_gwynedd
-		d_powys
-	}
-
+	# Burgundy
+		d_savoie
+		d_dauphine
+	# Gallia
+		d_burgundy
+		d_anjou
+		d_normandy
+		d_alencon
+		d_orleans
+		d_nevers
+		d_archreims
+		d_champagne
+		d_valois
+		d_brittany
+		d_lowerbrittany
+		d_lyon
+		d_upper_burgundy
+		d_upper_lorraine
+	# Francia
+		d_flanders
+		d_artois
+		d_brabant
+		d_liege
+		d_hainaut
+		d_limburg
+		d_luxembourg
+	# Lowlands
+		d_berg
+		d_gelre
+	# Swabia
+		d_pfalz
+		d_rheinfranken
+		d_baden
+		d_alsace
+		d_teck
+		d_burgau
+	# Bavaria
+		d_niederbayern
+		d_oberbayern
+	# Rhaetia
+		d_chur
+		d_zahringen
+	}  
+    
 	769 = {
 		military = 0.5
 		economy = 1.0
 		culture = 1.0
-	}
-		
+	}  
+		  
 	1337 = {
 		military = 5.0
 		economy = 5.0
@@ -75,32 +61,64 @@ technology = {
 	}
 }
 
-#GALLIA
+
+
+#ITALY
 
 technology = {
 	titles = {
-	#k_aquitaine
+	# Suburbicaria
+		d_latium
+		d_spoleto
+		d_urbino
+		d_ancona
+		d_amalfi
+		d_benevento
+		d_napoli
+		d_capua
+		d_apulia
+		d_venosa
+		d_salerno
+		d_atri
+		d_calabria
+		d_sicily
+		d_toscana
+		d_siena
+		d_pisa
+	# Annonaria
+		d_ravenna
+		d_verona
+		d_ivrea
+		d_saluzzo
+		d_genoa
+		d_modena
+		d_mantua
+		d_istria
+		d_aquileia
+	# Sardinia
+		d_corsica
+		d_sardinia
+	# Dalmatia
+		d_dalmatia
+		d_liburnia
+		d_dalmatian_islands
+		d_iapodia
+		d_bosnia
+		d_pirustae
+		d_dioclea
+	# Noricum
+		d_carinthia
+		d_salzburg
+	# Aquitaine
+		d_toulouse
+		d_septimania
+		d_provence
+		d_gascogne
 		d_aquitaine
 		d_auvergne
-		d_bourbon
-		d_gascogne
 		d_poitou
-		d_provence
-		d_toulouse
-	#k_gallia
-		d_anjou
 		d_berry
-		d_brittany
-		d_helvetia
-		d_lyon
-		d_normandy
-		d_orleans
-		d_saoconna
-		d_savoie
-		d_syagria
-		d_upper_lorraine
-	}
-
+	}  
 	769 = {
 		military = 1.2
 		economy = 1.5
@@ -108,38 +126,50 @@ technology = {
 	}
 		
 	1337 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
 	}
 }
 
-#GERMANIA
+
+
+#BRITISH ISLES
 
 technology = {
 	titles = {
-	#k_bavaria
-		d_bavaria
-		d_osterreich
-	#k_france
-		d_brabant
-		d_flanders
-		d_luxembourg
-	#k_frisia
-		d_holland
-		d_gelre
-	#k_gothia
-		d_gothia
-	#k_raetia
-		d_noricum
-		d_raetia
-	#k_swabia
-		d_alsace
-		d_koln
-		d_lower_lorraine
-		d_mainz
-		d_swabia
-		d_thuringia
+		d_northumberland
+		d_lancaster
+		d_york
+		d_norfolk
+		d_bedford
+		d_hereford
+		d_canterbury
+		d_somerset
+		d_gwynedd
+		d_powys
+		d_cornovia
+		d_deheubarth
+		d_cornwall
+		d_galloway
+		d_western_isles
+		d_albany
+		d_moray
+		d_ulster
+		d_connacht
+		d_meath
+		d_leinster
+		d_munster
+		d_lothian
+		d_essex          
+		d_fivebouroughs  
+		d_channel_islands
+		d_morgannwg           
+		d_aberdeen       
+		d_sutherland     
+		d_strathclyde    
+		d_ellan_vannin   
+		d_hebrides       
 	}
 
 	769 = {
@@ -155,40 +185,27 @@ technology = {
 	}
 }
 
-#HISPANIA
+
+
+#NORTHERN IBERIA
 
 technology = {
 	titles = {
-	#k_bardulia
-		d_salamanca
-		d_toledo
-		d_vacaya
-	#k_betica
-		d_bastetania
-		d_cordoba
-		d_sevilla
-	#k_cartagena
-		d_cartagena
-		d_mallorca
-		d_valencia
-	#k_galicia
-		d_asturias
+	# Galicia
+		d_porto
 		d_galicia
-	#k_lusitania
-		d_beja
-		d_merida
-		d_olisipo
-	#k_tarraconense
-		d_barcelona
-		d_bilbilis
-		d_navarra
-		d_tarragona
+		d_leon
+		d_salamanca
+	# Castilla
+		d_toledo
+		d_castilla
+		d_segovia
 	}
 
 	769 = {
-		military = 1.2
-		economy = 1.5
-		culture = 1.5
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
 	}
 		
 	1337 = {
@@ -198,36 +215,35 @@ technology = {
 	}
 }
 
-#ITALIA
+
+
+#SOUTHERN IBERIA
 
 technology = {
 	titles = {
-	#k_illyria
-		d_dalmatia
-		d_dioclea
-		d_liburnia
-		d_savia
-	#k_italy
-		d_ancona
-		d_apulia
-		d_benevento
-		d_capua
-		d_latium
-		d_lucania
-		d_sardinia
-		d_sicily
-		d_spoleto
-		d_toscana
-	#k_moesia
-		d_dardania
-		d_upper_moesia
-	#k_padania
-		d_carinthia
-		d_liguria
-		d_milan
-		d_padua
-		d_ravenna
-		d_venice
+	# Lusitania
+		d_ribatejo
+		d_beira
+		d_alentejo
+		d_beja
+		d_badajoz
+	# Baetica
+		d_cordoba
+		d_gades
+		d_sevilla
+		d_tangiers
+	# Carthaginensis
+		d_la_mancha
+		d_murcia
+		d_mallorca
+	# Tarraconensis
+		d_aragon
+		d_zaragoza
+		d_barcelona
+		d_catalunya_nova
+		d_valencia
+		d_navarra
+		d_najera
 	}
 
 	769 = {
@@ -237,8 +253,10 @@ technology = {
 	}
 		
 	1337 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
 	}
 }
+
+

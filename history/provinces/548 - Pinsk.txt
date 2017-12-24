@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 548 - Pinsk
 
 # County Title
@@ -5,19 +7,25 @@ title = c_pinsk
 
 # Settlements
 max_settlements = 5
+
 b_pinsk = tribal
+#b_dubrovytsya = castle
+#b_luninets = city
+#b_vysotsk = city
+#b_lyubeshiv = temple
 
-#b_porkhovo = city
-#b_lutsk = temple
+#b_motal = city
 
-#b_biaroza = castle
-#b_stepan = castle
-#b_kosava = castle
-#b_luninets = castle
-#b_dabuchin = castle
 
 # Misc
-culture = lithuanian
-religion = baltic_pagan
+culture = russian
+religion = slavic_pagan
 
 # History
+995.1.1 = {religion = orthodox }
+995.1.1 = {
+	b_pinsk = castle
+	b_dubrovytsya = castle
+	b_luninets = city
+	b_lyubeshiv = temple }
+

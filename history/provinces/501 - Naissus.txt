@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 501 - Naissus
 
 # County Title
@@ -6,15 +8,13 @@ title = c_naissus
 # Settlements
 max_settlements = 4
 
-b_koprijan = castle
-b_kumanovo = city
-b_nish = temple
-
-#b_brdo = castle
-#b_vranje = castle
-#b_lesnovo = castle
-#b_kambelevac = castle
-#b_knjazevac = castle
+b_pirot = castle
+b_nish = city
+#b_prokuplje = city
+#b_koprijan = castle
+#b_novobrdo = castle
+#b_vranje = city
+#b_gracanica = temple
 
 # Misc
 culture = romanian
@@ -22,7 +22,8 @@ religion = orthodox
 
 # History
 
-892.1.1 = { culture = serbian }
+892.1.1 = { culture = bulgarian }
+900.1.1 = { religion = orthodox }
 
 
  

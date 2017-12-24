@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 158 - Porto
 
 # County Title
@@ -6,32 +8,22 @@ title = c_porto
 # Settlements
 max_settlements = 5
 b_porto = castle
-b_vianadocastelo = castle
-b_braga = temple
-b_guimaraes = city
-
-#b_pontedelima = city
-#b_barcelos = castle
-#b_arcosdevaldevez = castle
-#b_moncao = castle
+b_amarante = temple
+b_gondomar = city
+b_povoa_de_varzim = temple
+#b_vilanova_de_gaia = city
 
 # Misc
-culture = portuguese
-religion = hispanic_rite
+culture = galician
+religion = neptunal
 
 # History
 
-867.1.1 = {
+1066.1.1 = {
 	b_porto = ca_town_1
 	b_porto = ca_keep_1
 	b_porto = ca_stable_1
 	b_porto = ca_militia_barracks_1
 	b_porto = ca_wall_1
 	b_porto = ca_wall_2
-	b_vianadocastelo = ca_town_1
-	b_vianadocastelo = ca_keep_1
-	b_vianadocastelo = ca_stable_1
-	b_vianadocastelo = ca_militia_barracks_1
-	b_vianadocastelo = ca_wall_1
-	b_vianadocastelo = ca_wall_2
 }

@@ -1,0 +1,43 @@
+# -*- ck2.history.titles -*-
+
+## Frangipane
+1001.1.1 = {
+	holder = 1062445 # Leone
+}
+1035.1.1 = {
+	holder = 1062446 # Pietro
+}
+1055.1.1 = {
+	holder = 1062450 # Cencio
+}
+1103.1.1 = {
+	holder = 1062451# Giovanni II
+}
+# de Gradellis branch
+1120.1.1 = {
+	holder = 1062454 # Roberto
+}
+1131.1.1 = {
+	holder = 1062455 # Raimone
+}
+1155.1.1 = {
+	holder = 1062456 # Obicione
+}
+1174.1.1 = {
+	holder = 1062457 # Grazione
+}
+1226.1.1 = {
+	holder = 1062461 #  Giovanni
+}
+1248.1.1 = {
+	holder = 1062462 #  Giovanni I
+}
+1273.1.1 = {
+	holder = 1062468 #  Paulillo
+}
+1319.1.1 = {
+	holder = 1062469 #  Petruccio
+}
+1350.1.1 = {
+	holder = 1062470 #  Valeriano
+}

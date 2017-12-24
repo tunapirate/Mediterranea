@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 946 - Ystrad Tywi
+
+# County Title
+title = c_ystrad_tywi
+
+# Settlements
+max_settlements = 3
+b_dinefwr = tribal
+#b_caerfyrddin = city
+#b_talyllychau = temple
+
+
+# Misc
+culture = welsh
+religion = celtic_rite
+terrain = hills
+
+# History
+
+1197.4.28={
+	b_dinefwr = castle
+}

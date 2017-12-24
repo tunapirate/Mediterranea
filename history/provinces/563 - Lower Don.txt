@@ -1,4 +1,6 @@
-# 563 - Lower Don
+# -*- ck2.history.provinces -*-
+
+# 563 - Lower Don # Orel
 
 # County Title
 title = c_lower_don
@@ -6,19 +8,17 @@ title = c_lower_don
 # Settlements
 max_settlements = 3
 
-b_taganrog = tribal
+b_poltava = tribal
+#b_omel_niki = city
+#b_zmiiv = castle
 
-#b_skorokhod = city
-#b_matveevkurgan = temple
-
-#b_latonovo = castle
-#b_vesely = castle
-#b_marfinka = castle
-#b_ryasnoye = castle
-#b_novoazovsk = castle
 
 # Misc
-culture = serbian
+culture = russian
 religion = slavic_pagan
 
 # History
+893.1.1 = { culture = pecheneg }
+1044.1.1 = { culture = oghuz }
+1227.1.1 = { religion = sunni } 
+1238.1.1 = { culture = mongol } 

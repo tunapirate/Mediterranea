@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 225 - Macon
 
 # County Title
@@ -16,7 +18,8 @@ b_beaujeu = city
 #b_berze = temple
 
 # Misc
-culture = gallic
+culture = old_frankish
 religion = hellenic_pagan
 
 # History
+790.1.1 = { culture = frankish }

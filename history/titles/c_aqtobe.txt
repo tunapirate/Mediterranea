@@ -1,65 +1,72 @@
-# c_aqtobe
-762.1.1={
-	liege=d_turkestan
-	#holder=188824
-	holder=188767
-}
+# -*- ck2.history.titles -*-
 
-850.1.1={
-	liege="k_cuman"
-	holder=180262
+825.1.1 = {
+	liege = k_pechenegs
+	holder = 1231704
 }
-
-1066.1.1={
-	liege=d_yaik
+830.1.1 = {
+	holder = 1231706
 }
-1066.1.1=
-{
-holder=34963
+# Qabuqsin-Yula
+864.1.1 = {
+	liege = d_qabuqsin_yula
+	holder = 1231740 # Qorqutay, cheif of Qabuqsin-Yula at the time of expulsion from Yaik.
 }
-1095.1.1=
-{
-holder=34964
+# Pechengs expulsed by Oghuz and Khazars.
+# Uzlar
+893.1.1 = {
+	liege = d_tekule
+	holder = 1231945
 }
-1130.1.1=
-{
-holder=34965
+959.1.1 = {
+	holder = 1231947
 }
-1160.1.1=
-{
-holder=34966
+989.1.1 = {
+	holder = 1231949
 }
-1190.1.1=
-{
-holder=34967
+1024.1.1 = {
+	holder = 1231951
 }
-1220.1.1 = {
-	holder = 125403
+# Cumans arrive
+# Toqsoba
+1030.1.1 = {
+	liege = d_toqsoba
+	holder = 1229732
 }
-1221.1.1=
-{
-holder=34852
+# Dörüt
+1060.1.1 = {
+	liege = d_dorut
+	holder = 1233034
 }
-1225.1.1=
-{
-holder=125502
+1098.1.1 = {
+	holder = 1233036
 }
-1227.1.2=
-{
-holder=34911
+1130.1.1 = {
+	holder = 1233038
 }
-1260.1.1=
-{
-holder=34905
+1163.1.1 = {
+	holder = 1233040
 }
-1300.1.1=
-{
-holder=34968
+1199.1.1 = {
+	holder = 1233042
 }
-1320.1.1=
-{
-holder=34969
+1215.1.1 = {
+	holder = 1233044
 }
-
-
-
+1236.9.1 = {
+	liege = k_turkestan_west
+	holder = 125503
+}
+1241.12.11 = {
+	liege = d_yaik
+	holder = 34911
+}
+1260.1.1 = {
+	holder = 34904
+}
+1285.1.1 = {
+	holder = 125548
+}
+1310.1.1 = {
+	holder = 125549
+}

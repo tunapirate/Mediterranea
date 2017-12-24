@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 1029 - Teck
+
+# County Title
+title = c_teck
+
+# Settlements
+max_settlements = 4
+
+b_hohenstauffen = castle
+b_teck = castle
+#b_owen = temple
+#b_rottenburg = city
+#b_kirchheim = city
+#b_goppingen = city
+#b_nurtingen = city
+
+
+# Misc
+culture = swabian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }
+
+
+

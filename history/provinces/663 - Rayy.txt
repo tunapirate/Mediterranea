@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 663 - Rayy
 
 # County Title
@@ -7,17 +9,20 @@ title = c_rayy
 max_settlements = 7
 
 b_rayy = castle
+b_varamin = temple # holy_site = nestorian
+b_sava = castle
 b_tehran = city
-b_roudehen = temple # holy_site = nestorian
 
-#b_hashtgerd = castle
-#b_shahriar = castle
-#b_eslamshahr = castle
-#b_karaj = castle
-#b_pakdasht = castle
+#b_mazdakan = temple
+#b_damavand = city
+#b_khuvar = castle
 
 # Misc
 culture = persian
 religion = zoroastrian
 
 # History
+1066.1.1 = { 
+	b_damavand = city
+	b_mazdakan = temple
+}

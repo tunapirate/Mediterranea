@@ -1,28 +1,27 @@
+# -*- ck2.history.provinces -*-
+
 # 435 - Upper Silesia
 
-# County Title
-title = c_upper_silesia
+title = c_lower_silesia
 
 # Settlements
-max_settlements = 5
-b_wroclaw = tribal
-#b_zmigrod = city
-b_brzeg = temple
+max_settlements = 4
 
-#b_milicz = castle
-#b_olesnica = castle
-#b_nysa = city
-#b_niemcza = castle
-#b_henrykow = castle
+b_glogow = tribal
+#b_krosno = castle
+#b_lubiaz = temple
+#b_zagan = castle
+#b_scinawa = city
 
 # Misc
 culture = polish
 religion = slavic_pagan
 
 # History
-990.1.1 = {
-	religion = catholic
-	b_wroclaw = castle
-	b_zmigrod = city
+990.1.1 = { religion = catholic 
+b_glogow = castle
+b_krosno = castle
+b_lubiaz = temple
 }
 1250.1.1 = { culture = german }
+

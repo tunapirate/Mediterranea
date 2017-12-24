@@ -1,22 +1,31 @@
+# -*- ck2.history.provinces -*-
+
 # 438 - Hradec
 
 # County Title
 title = c_hradec
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_hradeckralove = tribal
 #b_chrudim = city
-b_litomysl = temple
-
-#b_zamberk = castle
+#b_opatovice = temple
+#b_caslav = castle
+#b_trutnov = castle
 #b_policka = castle
-#b_jihlava = city
-#b_pelhrimov = castle
-#b_pardubice = castle
+#b_jaromer = city
+#b_zeliv = temple
+#b_zleb = temple
 
 # Misc
-culture = german
+culture = lombard
 religion = norse_pagan
 
 # History
+
+883.1.1 = { religion = catholic }
+
+1130.1.1 = { b_caslav = castle }
+
+
+1240.1.1 = { b_jaromer = city }

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 456 - Kärnten
 
 # County Title
@@ -5,18 +7,27 @@ title = c_karnten
 
 # Settlements
 max_settlements = 5
-b_villach = castle
-b_klagenfurt = city
-b_ossiach = temple
 
-#b_laibach = city
-#b_treffen = castle
-#b_sann = castle
-#b_wolfsberg = castle 
-#b_pettau = castle
+b_sanktveit = castle
+b_klagenfurt = city
+b_karnburg = temple
+b_gurk = temple
+#b_ossiach = temple
+#b_eberndorf = temple
+#b_millstatt = temple
+#b_friesach = city
+#b_volkermarkt = city #Völkermarkt
+#b_gmund = city #Gmünd
+#b_villach = city
+#b_haimburg = castle
+#b_trixen = castle
+
 
 # Misc
-culture = italian
+culture = venetian # Bavarian & Frankish settlement started before 867
+#culture = bavarian 
 religion = hellenic_pagan
 
 # History
+1100.1.1 = { culture = bavarian } # less densely populated mountainous regions remained mostly Slavic till 1300 
+1170.1.1 = { culture = german } # as a majority the population stayed mixed

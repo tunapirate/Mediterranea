@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 955 - Augsburg
+
+# County Title
+title = c_augsburg
+
+# Settlements
+max_settlements = 3
+
+b_augsburg = castle
+#b_donauworth = city
+b_benediktbeuern = temple
+
+#b_kaufbeuren = castle
+#b_hochstadt = castle
+#b_rain = castle
+#b_ottobeuren = temple
+
+# Misc
+culture = bavarian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }
+1193.1.1 = { b_donauworth = city }

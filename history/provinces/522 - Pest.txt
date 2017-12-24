@@ -1,23 +1,26 @@
-# 522 - Pest
+# -*- ck2.history.provinces -*-
+
+# 522 - Pest # Veszprém
 
 # County Title
 title = c_pest
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_pest = tribal
-b_vac = temple
-
-#b_kiskunhalas = castle
-#b_szentendre = castle
-#b_cegled = city
-#b_abrahamtelke = castle
-#b_kiskoros = castle
+b_veszpramvar = tribal
+#b_zirc = city
+#b_bakonybel = temple
+#b_ugodvar = castle
+#b_csesznek = castle
+#b_dobronte = city
+#b_vazsonyko = castle
+#b_somlovar = castle
+#b_belhungary = temple
 
 # Misc
 culture = avar
 religion = tengri_pagan
 
 # History
-
+950.1.1 = { culture = hungarian }

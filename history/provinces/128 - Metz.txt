@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 128 - Metz
 
 # County Title
@@ -5,18 +7,24 @@ title = c_metz
 
 # Settlements
 max_settlements = 4
-b_thionville = castle
+
+b_rixingen = castle
 b_metz = temple
-b_briey = city
+b_hingsingen = castle
 
 #b_saintjulien = temple
-#b_marslatour = castle
+#b_remilly = castle
+#b_ramersvillers = castle
+#b_baccarat = castle
 #b_bouzonville = city
-#b_joudreville = castle
-#b_audunleroman = castle
 
 # Misc
 culture = frankish
 religion = gallic_rite
 
 # History
+
+1171.1.2= { capital = b_metz } 
+
+1187.1.1= { b_saintjulien = temple }
+

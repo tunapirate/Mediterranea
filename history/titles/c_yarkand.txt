@@ -1,210 +1,123 @@
-#Khotan Kings
-100.1.1 = {
-	liege = d_khotan
-	holder = 166632
-}
-130.1.1 = {
-	holder = 166633
-}
-132.1.1 = {
-	holder = 166634
-}
-151.1.1 = {
-	holder = 166635
-}
-182.1.1 = {
-	holder = 166636
-}
-188.1.1 = {
-	holder = 166637
-}
-208.1.1 = {
-	holder = 166638
-}
-243.1.1 = {
-	holder = 166639
-}
-251.1.1 = {
-	holder = 166640
-}
-279.1.1 = {
-	holder = 166641
-}
-306.1.1 = {
-	holder = 166642
-}
-336.1.1 = {
-	holder = 166643
-}
-373.1.1 = {
-	holder = 166644
-}
-397.1.1 = {
-	holder = 166645
-}
-436.1.1 = {
-	holder = 166646
-}
-451.1.1 = {
-	holder = 166647
-}
-496.1.1 = {
-	holder = 166648
-}
-512.1.1 = {
-	holder = 166649
-}
-531.1.1 = {
-	holder = 166650
-}
-578.1.1 = {
-	holder = 166651
-}
-596.1.1 = {
-	holder = 166652
-}
-612.1.1 = {
-	holder = 166653
-}
-628.1.1 = {
-	holder = 166654
-}
-649.1.1 = {
-	holder = 166655
-}
-662.1.1 = {
-	holder = 166656
-}#
-673.1.1 = {
-	holder = 166657
-}
-680.1.1 = {
-	holder = 166658
-}#Regent of Khotan
-692.1.1 = {
-	holder = 166659
-}
-719.1.1 = {
-	holder = 166660
-}
-725.1.1 = {
-	holder = 166661
-}
-736.1.1 = {
-	holder = 166662
-}
-740.1.1 = {
-	holder = 166663
-}
-747.1.1 = {
-	holder = 166664
-}
-756.1.1 = {
-	holder = 166665
-}
-789.1.1 = {
-	holder = 166666
-}
-798.1.1 = {
-	holder = 166668
-}
-809.1.1 = {
-	holder = 166673
-}
-825.1.1 = {
-	holder = 166675
-}
-841.1.1 = {
-	holder = 166676
-}
-856.1.1 = {
-	holder = 166679
-}
-859.1.1 = {
-	holder = 166680
-}
-863.1.1 = {
-	holder = 166681
-}
-877.1.1 = {
-	holder = 166683
-}
-885.1.1 = {
-	holder = 166685
-}
-912.1.1 = {
-	holder = 166686
-}
-966.1.1 = {
-	holder = 166687
-}
-977.1.1 = {
-	holder = 166688
-}
-982.1.1 = {
-	holder = 166689
-}
-#Karakhanids
-1006.1.1 = {
-	holder = 217206
-	liege = d_zhetysu
-}
-1015.5.9 = {
-	holder = 217207
-}
-1054.2.27 = {
-	holder = 217208
-}
-1096.3.27 = {
-	holder = 217210
-}
+# -*- ck2.history.titles -*-
 
+742.1.1 = {
+	holder = 166696
+}
+763.1.1 = {
+	holder = 166697
+}
+800.1.1 = {
+	holder = 166699
+}
+849.1.1 = {
+	holder = 166700
+}
+902.1.1 = {
+	liege = k_turkestan_east
+	holder = 194383
+}
+920.1.2 = {
+	holder = 1230252
+}
+940.1.2 = {
+	holder = 188853
+}
+958.1.2 = {
+	holder = 1230254
+}
+958.10.10 = {
+	holder = 188854
+}
+970.1.2 = {
+	holder = 3000
+}
+998.1.2 = {
+	holder = 3002
+}
+# Karakhanids
+1012.1.1 = { #?
+	liege = d_kashgar
+	holder = 3008 # Yusuf Kadir Khan
+}
+1032.1.2 = {
+	holder = 144102
+}
+1056.1.1 = {
+	holder = 144103
+}
+1057.1.1 = {
+	holder = 144104
+}
+1059.1.1 = {
+	holder = 144105
+}
+1074.1.1 = {
+	holder = 144106
+}
+1075.1.1 = {
+	holder = 144107
+}
+1076.1.1 = {
+	holder = 1230283
+}
+1102.1.1 = {
+	holder = 144114
+}
+1128.1.1 = {
+	holder = 144115 # lives up to 1156
+}
+1137.1.1 = {
+	liege = d_kashgar
+}
+1156.1.1 = {
+	holder = 188855
+}
+1188.1.1 = {
+	holder = 188856
+}
+1205.1.1 = {
+	holder = 188857
+}
+1211.1.1 = {
+	liege = e_khitan
+	holder = 188914
+}
+# Mongol conquest
 1218.1.1 = {
+	liege = e_mongol_empire
 	holder = 125501
-	liege = 0
 }
 1227.12.2 = {
-	holder = 172005 # Ögedei Khan
+	liege = k_turkestan_east
+	holder = 93062
 }
-1241.12.11 = {
-	holder = 172007 # Güyük Khan
+1234.2.10 = {
+	liege = e_chagatai
 }
-1248.1.1 = {
-	holder = 217265 # Möngke Khan
+1242.1.1 = {
+	holder = 93064
 }
-1259.8.11 = {
-	holder = 217266 # Kublai Khan
+1246.1.1 = {
+	holder = 93065
 }
-1294.2.18 = {
-	holder = 217269 # Temür Khan
+1248.4.20 = {
+	holder=248230
 }
-1307.2.10 = {
-	holder = 217271 # Külüg Khan
+1250.1.1 = {
+	holder = 248231
 }
-1311.1.27 = {
-	holder = 217272 # Buyantu Khan
+1267.1.1 = {
+	liege = k_turkestan_east
 }
-1320.3.1 = {
-	holder = 217274 # Gegeen Khan
+1287.1.1 = {
+	holder = 248232
 }
-1323.9.4 = {
-	holder = 217279 # Yesün Temür Khan
+1300.1.1 = {
+	holder = 248233
 }
-1328.8.15 = {
-	holder = 217280 # Ragibagh Khan
+1306.1.1 = {
+	liege = e_chagatai
 }
-1328.11.14 = {
-	holder = 217281 # Jayaatu Khan
-}
-1329.2.27 = {
-	holder = 217282 # Khutughtu Khan Kusala
-}
-1329.8.30 = { # Enthroned 1329.9.8
-	holder = 217281 # Jayaatu Khan
-}
-1332.9.2 = { # Coronation 1332.10.23
-	holder = 217283 # Rinchinbal Khan
-}
-1332.12.14 = {
-	holder = 217284 # Toghon Temür Khan
+1320.1.1 = {
+	holder = 248234
 }

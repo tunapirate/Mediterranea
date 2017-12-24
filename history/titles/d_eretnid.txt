@@ -1,0 +1,5 @@
+# -*- ck2.history.titles -*-
+
+1335.1.1 = {
+	holder = 71864
+}

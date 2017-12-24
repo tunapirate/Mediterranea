@@ -75,6 +75,7 @@ bm_the_hellenes = {
 	name = "BM_MED_THE_HELLENES"
 	desc = "BM_MED_THE_HELLENES_INFO"
 	date = 867.1.1
+	custom_start = yes
 	
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_2

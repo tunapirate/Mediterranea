@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1339 - Ikhmin
+
+# County Title
+title = c_ikhmin
+
+# Settlements
+max_settlements = 4
+b_ikhmin = castle
+b_ptolemais_hermeiou = city
+b_hu = city
+b_bulyana = temple
+
+# Misc
+culture = coptic
+religion = miaphysite
+
+# History
+1099.1.1 = { culture = egyptian_arabic religion = sunni } 

@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1592 - Suhar
+
+# County Title
+title = c_suhar
+
+# Settlements
+max_settlements = 4
+b_qalatsuhar = castle
+b_sohar = city
+b_dibba = city
+#b_khorfakkan = city
+
+# Misc
+culture = pahlavi
+religion = zoroastrian
+
+# History
+

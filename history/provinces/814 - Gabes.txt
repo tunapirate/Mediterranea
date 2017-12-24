@@ -1,23 +1,23 @@
+# -*- ck2.history.provinces -*-
+
 # 814 - Gabes
 
 # County Title
 title = c_gabes
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_gabes = castle
-b_medenine = city
-b_kebili = temple
-b_tataouine = castle
-
-#b_aljanain = castle
-#b_haddej = castle
-#b_steftimi = castle
-#b_alqalah = castle
+b_haddej = castle
+b_gabes = city
+#b_tataouine = temple
+#b_medenine = city
+#b_jarjis = castle
+#b_steftimi = temple
 
 # Misc
-culture = maghreb_arabic
-religion = hellenic_pagan
+culture = sanhaja
+religion = african_rite
 
 # History
+

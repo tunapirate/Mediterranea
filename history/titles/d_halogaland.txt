@@ -1,0 +1,17 @@
+# -*- ck2.history.titles -*-
+
+830.1.1 = {
+	holder = 186002 # Grjotgard Herlaugsson Jarl of lade and Håløy
+}
+860.1.1 = {
+	holder = 186003 # Håkon Grjotgardsson Jarl of lade and Håløy
+}
+917.1.1 = {
+	holder = 1228055 # Sigurd Haakonsson Jarl of Lade
+}
+962.1.1 = {
+	holder = 1228056
+}
+995.1.1 = {
+	holder = 0
+}

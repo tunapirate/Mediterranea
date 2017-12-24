@@ -1,8 +1,12 @@
-867.1.1={
+867.1.1 = {
 	holder = 504314
-	law = tax_levy_law_feudal_2
+	law = crown_authority_0
 	law = succ_primogeniture
-	law = law_voting_power_1
-	law = revoke_title_law_0
 	law = agnatic_succession
+	law = status_of_women_2
+	law = feudal_slider_3
+	law = feudal_obligations_1
+	law = law_voting_power_1
+	law = revoke_title_voting_power_1
+	pentarch = b_alexandria
 }

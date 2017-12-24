@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 568 - Smolensk
 
 # County Title
@@ -5,31 +7,25 @@ title = c_smolensk
 
 # Settlements
 max_settlements = 5
-b_smolensk = tribal
 
-#b_velizh = temple
-#b_rodnya = city
+b_gnezdovo = tribal #Varagian fortress and tradestation, likely known as Sviecesko at the time. 
+#b_smolensk = city
+#b_dukhovshchina = temple
+#b_dorogobuzh = castle
 
-#b_demidov = castle
-#b_krasnoi = castle
-#b_przhevalskoye = castle
-#b_yartsevo = castle
+#b_kasplya = castle
+#b_demidov = city
+#b_zhichitsy = castle
+#b_verzavsk = temple
+#b_belyy = city
+#b_lucin = city
 
 # Misc
-culture = ilmenian
+culture = russian
 religion = slavic_pagan
 
 # History
-867.1.1 = {
-	culture = russian
-	b_smolensk = ca_keep_1
-	b_smolensk = ca_wall_1
-}
-1128.1.1 = {
-	religion = orthodox
-
-	b_smolensk = castle
-	b_velizh = temple
-	b_rodnya = city
-}
-1337.1.1 = { b_demidov = castle }
+988.1.1 = {religion = orthodox }
+988.1.1 = {b_gnezdovo = castle
+b_smolensk = city
+b_dorogobuzh = castle }

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 514 - Turnu
 
 # County Title
@@ -7,17 +9,24 @@ title = c_turnu
 max_settlements = 5
 
 b_turnu = castle
-b_giurgiu = temple
-#b_bucuresti = city
-
-b_dristra = city
-#b_strehaia = temple
+b_giurgiu = city
+b_slazialea = temple
+b_bucuresti = city
 #b_rosiorriidevede = castle
-#b_oltenita = city
-#b_corabia = castle
+
+
 
 # Misc
 culture = romanian
 religion = orthodox
 
 # History
+
+900.1.1 = { religion = orthodox culture = bulgarian }
+927.1.1 = { culture = pecheneg }
+927.1.1 = { religion = manichean }
+1123.1.1 = { culture = romanian }
+1123.1.1 = { religion = orthodox }
+1299.1.2 = { b_turnu = castle
+b_bucuresti = castle
+b_giurgiu = city }

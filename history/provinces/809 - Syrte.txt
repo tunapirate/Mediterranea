@@ -1,15 +1,17 @@
+# -*- ck2.history.provinces -*-
+
 # 809 - Syrte
 
 # County Title
 title = c_syrte
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_syrte = castle
-b_assultan = temple
+b_syrte = tribal
 
 #b_abuhadi = city
+#b_assultan = temple
 #b_assidr = castle
 #b_lanuf = castle
 #b_bishr = castle
@@ -17,8 +19,12 @@ b_assultan = temple
 #b_qaryatbishr = castle
 
 # Misc
-culture = maghreb_arabic
+culture = zanata
 religion = african_rite
 
 # History
+
+1052.1.1 = { culture = bedouin_arabic }
+1171.1.1 = { religion = sunni }
+
 

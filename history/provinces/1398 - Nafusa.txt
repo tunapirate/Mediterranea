@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1398 - Nafusa
+
+# County Title
+title = c_nafusa
+
+# Settlements
+max_settlements = 4
+
+b_nafusa = tribal
+b_djadojafran = city
+#b_tiri = castle
+#b_jafran = city
+
+# Misc
+culture = zanata
+religion = west_african_pagan
+
+# History
+
+1171.1.1 = { religion = sunni }
+

@@ -1,22 +1,34 @@
+# -*- ck2.history.provinces -*-
+
 # 366 - Stettin
 
 # County Title
 title = c_stettin
 
 # Settlements
-max_settlements = 4
-b_soldin = tribal
+max_settlements = 5
 
-#b_stestargard = castle
-#b_wollin = city
-#b_stettin = temple
-#b_kolbatz = castle
+b_dabie = tribal
+b_stettin = city
 #b_kammin = temple
-#b_cedene = city
-#b_pyritz = castle
+#b_pyritz = city
+#b_kolbatz = temple
+#b_treptow = city
+#b_naugard = castle
+#b_greifensberg = city
+#b_gollnow = city
+#b_stargardpommern = city
+
 
 # Misc
 culture = pommeranian
 religion = slavic_pagan
 
 # History
+1122.1.1 = { b_dabie = castle }#Wartislaw I
+1122.1.1 = { b_kammin = temple }
+1140.1.1 = { b_stargardpommern = city }
+1199.1.1 = { religion = catholic } 
+1243.1.1 = { trade_post = b_warendorp }
+1268.1.1 = { b_naugard = castle }
+1280.1.1= { culture= low_german }

@@ -1,23 +1,20 @@
-# 399 - Syrj
+# -*- ck2.history.provinces -*-
+
+# 399 - Syrj # Vym
 
 # County Title
 title = c_syrj
 
 # Settlements
-max_settlements = 3
-b_syktyvkar = tribal
-#b_pyras = city
-#b_yugydyag = temple
+max_settlements = 1
+b_ust_vym = tribal
 
-#b_zheshart = castle
-#b_mikun = castle
-#b_emva = castle
-#b_ezhva = castle
-#b_sindor = castle
 
 # Misc
-culture = samoyed
+culture = komi
 religion = finnish_pagan
 terrain = arctic
 
 # History
+
+1380.1.1 = { b_ust_vym = temple} #Ust Vym monestary founded

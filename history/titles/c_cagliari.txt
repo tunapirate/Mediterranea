@@ -1,0 +1,78 @@
+# -*- ck2.history.titles -*-
+
+867.1.1 = {
+	holder = 184009
+}
+981.1.1 = {
+	holder = 1601603
+}
+1020.1.1 = {
+	holder = 144251
+}
+1058.1.1 = {
+	holder = 20326
+}
+1089.1.1 = {
+	holder = 144252
+}
+1103.1.1 = {
+	holder = 144253
+}
+1130.1.1 = {
+	holder = 1167089
+}
+1163.1.1 = {
+	liege = d_genoa
+	holder = 144526
+}
+1188.1.1 = {
+	liege = d_pisa
+	holder = 71311
+}
+1214.1.1 = {
+	liege = d_genoa
+	holder = 71634
+}
+1217.1.1 = {
+	liege = d_pisa
+	holder = 144531
+}
+1254.1.1 = {
+	liege = d_genoa
+	holder = 144532
+}
+1256.1.1 = {
+	liege = d_pisa
+	holder = 73449
+}
+1258.1.1 = {
+	holder = 73450
+}
+1285.1.1 = {
+	holder = 73454
+}
+1288.1.1 = {
+	holder = 73463
+}
+1288.7.1 = {
+	holder = 73464
+}
+1289.1.1 = {
+	holder = 73599
+}
+1294.1.1 = {
+	holder = 73465
+}
+1312.1.1 = {
+	holder = 73425
+}
+1316.1.1 = {
+	holder = 73452
+}
+1324.1.1 = {
+	liege = k_aragon
+	holder = 10651404 # Berengario I Carroz, viceroy of Sardinia, conte di Quirra.
+}
+1336.1.1 = {
+	holder = 10651405 # Berengario II Carroz, conte di Quirra
+}

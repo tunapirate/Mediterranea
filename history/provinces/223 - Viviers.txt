@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 223 - Viviers
 
 # County Title
@@ -17,7 +19,9 @@ b_largentiere = city
 #b_joyeuse = castle
 
 # Misc
-culture = occitan
+culture = visigothic
 religion = hellenic_pagan
 
 # History
+867.1.1 = { culture = occitan }
+

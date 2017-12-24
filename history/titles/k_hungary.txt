@@ -1,0 +1,6 @@
+867.1.1 = {
+	holder = 574028
+	name = AVAR_KHAGANATE
+	adjective = AVAR_KHAGANATE_ADJ
+	effect = { set_coa = k_avaria }
+}

@@ -1,24 +1,20 @@
+# -*- ck2.history.provinces -*-
+
 # 605 - Manych
 
 # County Title
 title = c_manych
 
 # Settlements
-max_settlements = 4
-b_mozdok = tribal
+max_settlements = 2
+b_manych = tribal
+#b_semikarakary = tribal
 
-#b_terek = city
-#b_makhmudmekteb = temple
 
-#b_nartkala = castle
-#b_malgobekbalka = castle
-#b_karabulak = castle
-#b_kunay = city
-#b_makhach = castle
-
-culture = alan
+culture = khazar
 religion = tengri_pagan
 
 # History
-900.1.1 = { religion = orthodox } 
+1050.1.1 = { culture = cuman } 
+1050.1.1 = { religion = tengri_pagan } 
 1313.1.1= { religion = sunni } 

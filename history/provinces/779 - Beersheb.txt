@@ -1,22 +1,23 @@
-# 779 - Beersheb
+# -*- ck2.history.provinces -*-
+
+# 779 - Beersheb #Nablus
 
 # County Title
 title = c_beersheb
 
 # Settlements
-max_settlements = 3
-b_beersheb = castle
-#b_estemon = city
-b_massada = temple
+max_settlements = 4
 
-#b_abuzqayqa = castle
-#b_debir = castle
-#b_gilat = castle
-#b_rahat = castle
-#b_ofakim = castle
+b_bethsan = castle
+b_nablus = city
+b_jericho = temple
+#b_syrsebastia = temple
+#b_lafeve = castle
+#b_aynjalut = city
+
 
 # Misc
-culture = mizrahi
+culture = ashkenazi
 religion = jewish
 
 # History

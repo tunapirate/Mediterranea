@@ -1,76 +1,54 @@
-695.1.1={
-	holder=184010
-	liege=d_mali
-}
-745.1.1={
-	holder=184011
-}
+# -*- ck2.history.titles -*-
 
-765.1.1={
-	holder=188751
+#860.1.1 = {
+#	liege = d_mossi
+#	holder = 1228261
+#}
+868.1.1 = {
+	holder = 184015
 }
-
-770.1.1={
-	holder=184012
+898.1.1 = {
+	holder = 184016
 }
-780.1.1={
-	holder=184013
+920.1.1 = {
+	holder = 184017
 }
-840.1.1={
-	holder=184014
+960.1.1 = {
+	holder = 184018
 }
-860.1.1={
-	holder=183503
+980.1.1 = {
+	holder = 184019
 }
-868.1.1={
-	holder=184015
-}
-898.1.1={
-	holder=184016
-}
-920.1.1={
-	holder=184017
-}
-960.1.1={
-	holder=184018
-}
-980.1.1={
-	holder=184019
-}
-1040.1.1={
-	holder=161000
-}
-1060.1.1 = {
-	holder=161145
-	liege="d_mali"
+1041.1.1 = {
+	holder = 161145
 }
 1096.1.1 = {
-	holder=161146
+	holder = 161146
 }
 1141.1.1 = {
-	holder=161147
+	holder = 161147
 }
 1165.1.1 = {
-	liege="d_timbuktu"
+	liege = d_timbuktu
 }
 1170.1.1 = {
-	holder=161148
+	holder = 161148
 }
 1199.1.1 = {
-	holder=161149
+	holder = 161149
 }
 1204.1.1 = {
-	holder=161141
+	holder = 161141
 }
 1214.1.1 = {
-	liege="d_mali"
+	liege = d_mali
 }
 1248.1.1 = {
-	holder=161142
+	holder = 161142
 }
 1292.1.1 = {
-	holder=161143
+	holder = 161143
 }
 1336.1.1 = {
-	holder=161144
+	holder = 161144
 }

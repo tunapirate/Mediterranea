@@ -1,22 +1,23 @@
-# 712 - Suwaida
+# -*- ck2.history.provinces -*-
+
+# 712 - Bostra #Former Suwaida
 
 # County Title
 title = c_suwaida
 
 # Settlements
 max_settlements = 4
-b_suwaida = castle
-b_raha = city
-b_qummoualad = temple
 
-#b_taraba = castle
-#b_nimreh = castle
-#b_salah = castle
-#b_tlilin = castle
-#b_busan = city
+b_suwaida = castle
+b_busra = city
+#b_salkhard = castle
+b_shahba = temple
+b_shaqqa = city
+
 
 # Misc
-culture = assyrian
-religion = nestorian
+culture = aramean
+religion = syriac
 
 # History
+

@@ -1,22 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 431 - Poznanskie
 
 # County Title
 title = c_poznanskie
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_poznan = tribal
+#b_sroda = city
+b_lubin = temple
 #b_czarkow = city
 #b_obrzycko = temple
 
 #b_miedryrzecz = castle
-#b_drzen = castle
 #b_zbaszyn = castle
-#b_strarygrode = castle
-#b_srem = castle
+#b_srme = castle
 
 # Misc
 culture = polish
 religion = slavic_pagan
 
 # History
+962.1.1 = { religion = catholic 
+b_poznan = castle
+b_sroda = city
+}
+1187.1.1 = { b_miedryrzecz = castle }

@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1036 - Montbeliard
+
+# County Title
+title = c_montbeliard
+
+# Settlements
+max_settlements = 3
+
+
+b_montbeliard = castle
+#b_montfaucon = castle
+
+#b_hericourtm = castle
+#b_montecheroux = city
+#b_clemontm = castle
+# Misc
+
+culture = frankish
+religion = hellenic_pagan
+
+# History
+1025.1.1 = { b_montfaucon = castle } 

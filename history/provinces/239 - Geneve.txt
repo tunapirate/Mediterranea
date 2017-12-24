@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 239 - Geneve
 
 # County Title
@@ -5,7 +7,6 @@ title = c_geneve
 
 # Settlements
 max_settlements = 4
-
 b_geneve = castle
 b_lausanne = temple
 b_nyon = city
@@ -14,10 +15,10 @@ b_nyon = city
 #b_echallens = castle
 #b_aubonne = castle
 #b_orbe = castle
-#b_thonon = castle
 
 # Misc
-culture = gallic
+culture = arpitan
 religion = hellenic_pagan
 
 # History
+

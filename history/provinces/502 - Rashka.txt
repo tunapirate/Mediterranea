@@ -1,22 +1,26 @@
+# -*- ck2.history.provinces -*-
+
 # 502 - Rashka
 
 # County Title
 title = c_rashka
 
 # Settlements
-max_settlements = 4
-b_prizren = castle
-b_dioclea = city
-b_decani = temple
+max_settlements = 5
 
-#b_svetispas = castle
-#b_trepca = castle
-#b_zvecan = castle
-#b_djakovica = castle
-#b_polog = castle
+b_stari_ras = castle
+#b_sjenica = city
+b_zica = temple
+#b_studenica = temple
+b_maglic = castle
+
+
 
 # Misc
-culture = dalmatian
+culture = arberian
 religion = hellenic_pagan
 
 # History
+
+880.1.1 = { religion = orthodox }
+

@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1054 - Henneberg
+# County Title
+title = c_henneberg
+
+# Settlements
+max_settlements = 3
+
+b_henneberg = tribal
+#b_arnstadt = city
+#b_salzungen = castle
+#b_schmalkalden = castle
+
+
+#Misc
+religion = norse_pagan
+culture = thuringian
+
+# History
+1170.1.1 = { culture = german }

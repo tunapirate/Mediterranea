@@ -1,115 +1,158 @@
-654.1.1={
-	liege="d_azov"
-	holder=74004
+# -*- ck2.history.titles -*-
+
+691.1.1 = {
+	liege = k_khazaria
+	holder = 74007
 }
-662.1.1= {
-	holder=74005
+715.1.1 = {
+	holder = 74008
 }
-704.1.1= {
-	holder=146195
+731.1.1 = {
+	holder = 74009
 }
-743.1.1={
-	holder=146196
+749.1.1 = {
+	holder = 74012
 }
-#756.1.1={
-#	holder=146198
-#}
-800.1.1={
-	holder=146199
+763.1.1 = {
+	holder = 146203
 }
-801.1.1={
-	holder=146200
+796.1.1 = {
+	holder = 74018
 }
-803.1.1={
-	holder=146199
+802.1.1 = {
+	holder = 74019
 }
-805.1.1={
-	holder=74013
+818.1.1 = {
+	holder = 74020
 }
-810.1.1={
-	holder=74014
+829.1.1 = {
+	holder = 74021
 }
-825.1.1={
-	holder=74015
+831.1.1 = {
+	holder = 74022
 }
-830.1.1={
-	holder=74016
+833.1.1 = {
+	liege = d_sarkel
 }
-861.1.1={
-	holder=74017
+847.1.1 = {
+	holder = 74023
 }
-886.1.1={
-	holder=74025
+852.1.1 = {
+	holder = 74024
 }
-888.1.1={
-	holder=74026
+864.1.1 = {
+	holder = 180226
 }
-899.1.1={
-	holder=146187
+889.1.1 = {
+	holder = 74026
 }
-916.1.1={
-	holder=146188
+899.1.1 = {
+	holder = 146187
 }
-920.1.1={
-	holder=146189
+916.1.1 = {
+	holder = 146188
 }
-928.1.1={
-	holder=146190
+920.1.1 = {
+	holder = 146189
 }
-945.1.1={
-	holder=146191
+928.1.1 = {
+	holder = 146190
 }
-969.1.1={
-	holder=146193
+945.1.1 = {
+	holder = 146191
 }
-993.1.1={
-	holder=146194
+# Suru-Külbej
+966.1.1 = {
+	liege = d_suru_kulbej
+	holder = 1231768
 }
-1016.1.1 = {
-	liege=0
-	holder=0
-}	
-1066.1.1=
-{
-liege="d_azov"
+970.1.1 = {
+	holder = 1231769
 }
-1066.1.1=
-{
-holder=20655
+989.1.1 = {
+	holder = 1231771
 }
-1089.1.1=
-{
-holder=228059
+# Bula-Chopan pushed west by the Oghuz.
+1001.1.1 = {
+	liege = d_bula_chopan
+	holder = 1231848
 }
-1110.1.1=
-{
-holder=479240
+1006.1.1 = {
+	holder = 1231850
 }
-1150.1.1=
-{
-holder=34882
+1027.1.1 = {
+	holder = 1231852
 }
-1180.1.1=
-{
-holder=34883
+# Oghuz takes over
+1044.1.1 = {
+	liege = d_tekule
+	holder = 1231951
 }
-1210.1.1=
-{
-holder=34884
+# Cumans arrive
+# Toqsoba
+1060.1.1 = {
+	liege = d_toqsoba
+	holder = 1229732
 }
-1238.1.1=
-{
-holder=34885
+1065.1.1 = {
+	holder = 1229733 # Sharukan
 }
-1270.1.1=
-{
-holder=34886
+1107.1.1 = {
+	holder = 1233001 # Sugr
 }
-1300.1.1=
-{
-holder=34887
+# Monomakh rises to the Kievan throne
+1113.4.16 = {
+	liege = k_ruthenia
 }
-1315.1.1=
-{
-holder=34888
+1116.1.1 = {
+	holder = 1229736 # Sirçan remains behind, while Ötrök leaves for Georgia
+}
+1125.5.19 = {
+	liege = d_toqsoba
+	# Monomakh dies Ötrök returns
+	holder = 1229735 # Ötrök
+}
+1140.1.1 = {
+	holder = 1229736 # Sirçan
+}
+1159.1.1 = {
+	holder = 1229737 # Künçek
+}
+1203.1.1 = {
+	holder = 1229739 # Yugri
+}
+1223.5.31 = {
+	holder = 1233212 # Akkabul
+}
+# Mongols put down revolt
+1239.1.1 = {
+	liege = k_turkestan_west
+	holder = 125503
+}
+1241.12.11 = {
+	liege = e_golden_horde
+}
+1255.1.2 = {
+	holder = 125505
+}
+1256.1.2 = {
+	holder = 125506
+}
+1257.1.2 = {
+	holder = 125504
+}
+1266.1.2 = {
+	holder = 125508
+}
+1280.1.2 = {
+	holder = 125509
+}
+1287.1.2 = {
+	holder = 125511
+}
+1291.1.2 = {
+	holder = 125512
+}
+1312.1.2 = {
+	holder = 480000
 }

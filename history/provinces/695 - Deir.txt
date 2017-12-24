@@ -1,19 +1,16 @@
+# -*- ck2.history.provinces -*-
+
 # 695 - Deir
 
 # County Title
 title = c_deir
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 b_anah = castle
-b_rutbah = city
-b_anbar = temple
-b_rawa = castle
-b_hit = castle
-
-#b_ramadi = city
-#b_kasra = castle
-#b_nehardea = temple
+b_haditha_anbar = city
+b_hit = city
+#b_anbar_iraq = city
 
 #Misc
 culture = assyrian

@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 971 - Philadelphia
+
+# County Title
+title = c_philadelphia
+
+# Settlements
+max_settlements = 5
+
+b_sardis = castle
+b_philadelpheia = city
+b_pyrgion = temple
+b_thyraia = temple
+#b_nysa = city
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+
+1305.1.1 = { culture = turkish }
+1305.1.1 = { religion = sunni }
+1305.1.1 = { b_pyrgion = castle b_thyraia = city }
+1305.1.1 = { capital = b_pyrgion }
+1305.1.1 = { remove_settlement = b_sardis }

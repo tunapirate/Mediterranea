@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 550 - Minsk
 
 # County Title
@@ -6,19 +8,22 @@ title = c_minsk
 # Settlements
 max_settlements = 5
 b_minsk = tribal
+#b_bobruisk = city
 
-#b_borisow = city
-#b_maladzyechna = temple
-
-#b_kletsk = castle
 #b_berezino = city
-#b_nesvizh = castle
-#b_valozhyn = castle
-#b_kapyl = castle
+#b_chervyen = temple
+#b_dzierzynsk = city
+
 
 # Misc
 culture = lithuanian
 religion = baltic_pagan
-terrain = forest
 
 # History
+990.1.1 = {religion = orthodox }
+990.1.1 = {b_minsk = castle
+b_bobruisk = city }
+
+
+
+

@@ -1,30 +1,22 @@
-# 404 - Zaozerye
+# -*- ck2.history.provinces -*-
+
+# 404 - Zaozerye # Tudozerskij
 
 # County Title
 title = c_zaozerye
 
 # Settlements
-max_settlements = 3
-b_zarechnaya = tribal
-#b_kharovsk = city
-#b_nazankha = temple
+max_settlements = 2
 
-#b_afoninskaya = castle
-#b_borisovskaya = castle
-#b_konechnaya = castle
-#b_bolshaya = castle
-#b_pashuchikha = castle
+b_tudorzerkij = tribal
+#b_vytegra = city
+
 
 # Misc
-culture = finnish
+culture = karelian
 religion = finnish_pagan
-terrain = forest
 
 # History
-1150.1.1 = {
-	religion = orthodox
-	
-	b_zarechnaya = castle
-	b_kharovsk = city
-	b_nazankha = temple
-}
+1060.1.1 = { b_tudorzerkij = castle }
+1150.1.1 = { religion = orthodox }
+1150.1.1 = { culture = russian }

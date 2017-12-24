@@ -1,0 +1,245 @@
+greco-italic = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = GREAT_HOLY_WAR
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	
+	ai_convert_same_group = 2 # always try to convert
+	ai_convert_other_group = 2 # always try to convert
+	
+	hellenic_pagan = {
+		graphical_culture = westerngfx
+		
+		pre_reformed = yes
+
+		icon = 37
+		
+		color = { 0.24 0.2 0.2 }
+		
+		high_god_name = GOD_SATURN
+		
+		god_names = {
+			GOD_JUPITER GOD_MERCURY GOD_MARS GOD_VENUS GOD_MINERVA GOD_VESTA
+		}
+		evil_god_names = {
+			PLUTO
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		allow_in_ruler_designer = no
+	}
+	mercurial = {
+		graphical_culture = westerngfx
+
+		icon = 73
+		
+		color = { 0.93 0.81 0.09 }
+		
+		high_god_name = GOD_MERCURY
+		
+		god_names = {
+			FORTUNUS MERCATOR ALIPES
+		}
+		evil_god_names = {
+			ORCUS PLUTO DIS_PATER
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = PONTIFF
+		
+		autocephaly = yes
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = athenaic
+		intermarry = dianic
+		intermarry = saturnal
+	}
+	apollonian = {
+		graphical_culture = westerngfx
+		
+		icon = 85
+		
+		color = { 1.00 0.27 0.26 }
+		
+		high_god_name = APOLLO
+		
+		god_names = {
+			PHOEBUS ACESTOR MANTICUS
+		}
+		evil_god_names = {
+			ORCUS PLUTO DIS_PATER
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = PONTIFF
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = neptunal
+		intermarry = athenaic
+		intermarry = dianic
+		intermarry = saturnal
+	}
+	neptunal = {
+		graphical_culture = westerngfx
+		
+		icon = 81
+		
+		color = { 0.17 0.74 1.00 }
+		
+		high_god_name = NEPTUNUS
+		
+		god_names = {
+			EQUESTER ISTHMIUS OCEANUS
+		}
+		evil_god_names = {
+			ORCUS PLUTO DIS_PATER
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		autocephaly = yes
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = athenaic
+		intermarry = dianic
+		intermarry = saturnal
+	}
+	athenaic = {
+		graphical_culture = westerngfx
+		
+		icon = 84
+		
+		color = { 0.95 0.44 0.77 }
+		
+		high_god_name = ATHENA
+		
+		god_names = {
+			ATRYTONE PARTHENOS PROMACHOS
+		}
+		evil_god_names = {
+			KRONOS
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		feminist = yes
+		
+		hard_to_convert = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = dianic
+		intermarry = saturnal
+	}
+	dianic = {
+		graphical_culture = westerngfx
+		
+		icon = 82
+		
+		color = { 1.00 0.33 0.03 }
+		
+		high_god_name = DIANA
+		
+		god_names = {
+			TRIVIA NEMORENSIS LUCIFERA
+		}
+		evil_god_names = {
+			ORCUS DIS_PATER
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		autocephaly = yes
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		feminist = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = athenaic
+		intermarry = saturnal
+	}
+	saturnal = {
+		graphical_culture = westerngfx
+		
+		icon = 86
+		
+		color = { 0.09 0.75 0.04 }
+		
+		high_god_name = SATURNUS
+		
+		god_names = {
+			STERQUILINUS AION DIS_PATER
+		}
+		evil_god_names = {
+			KRONOS
+		}
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		religious_clothing_head = 3
+		religious_clothing_priest = 3
+		
+		intermarry = mercurial
+		intermarry = apollonian
+		intermarry = neptunal
+		intermarry = athenaic
+		intermarry = dianic
+	}
+}

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 148 - Angouleme
 
 # County Title
@@ -20,3 +22,10 @@ religion = hellenic_pagan
 culture = occitan
 
 # History
+#1125.1.1   = { b_jarnac = castle }
+1200.1.1   = {
+	b_cognac = city
+}
+1308.1.1 = {
+	culture = frankish
+}

@@ -1,14 +1,15 @@
+# -*- ck2.history.provinces -*-
+
 # 251 - Fürstenberg
 
 # County Title
 title = c_furstenberg
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 b_furstenberg = castle
-b_hirsau = temple
-b_zollern = city
 
+#b_sanktgeorgen = temple #Sankt Georgen
 #b_villingen = city
 #b_baar = castle
 #b_haslach = castle
@@ -16,8 +17,10 @@ b_zollern = city
 #b_wolfach = castle
 
 # Misc
-culture = german
+culture = swabian
 religion = germanic_rite
 
 # History
+1086.1.1 = { b_sanktgeorgen = temple } 
+1170.1.1 = { culture = german }
 

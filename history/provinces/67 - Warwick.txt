@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 67 - Warwick
 
 # County Title
@@ -5,18 +7,24 @@ title = c_warwick
 
 # Settlements
 max_settlements = 4
-b_tamworth = castle
+
 b_warwick = castle
 b_coventry = temple
-
-#b_lichfield = castle
-b_stafford = city
+#b_birmingham = city
 #b_kenilworth = castle
-#b_tutbury = castle
+#b_merevale = temple
+#b_maxstoke = castle
 #b_dudley = castle
+#b_neueaton = temple
+#b_hartshill
+
 
 # Misc
 culture = brittonic
 religion = celtic_rite
 
 # History
+1086.1.1 = { b_kenilworth = castle }
+1100.11.11 = { culture = english }
+1160.1.1 = { b_birmingham = city } # marketcharter granted, was very small before
+

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 418 - Orsha
 
 # County Title
@@ -5,19 +7,19 @@ title = c_orsha
 
 # Settlements
 max_settlements = 4
-b_orsha = tribal
+b_krasnyy = tribal
+#b_kopys = castle
+#b_orsha = city
 
-#b_talachyn = city
-#b_novolukomi = temple
 
-#b_sianno = castle
-#b_shklou = castle 
-#b_kopys = city
-#b_horki = castle
-#b_larynouka = castle
+#b_horki = city
 
 # Misc
-culture = lithuanian
-religion = baltic_pagan
+culture = russian
+religion = slavic_pagan
 
 # History
+995.1.1 = {religion = orthodox }
+995.1.1 = {b_krasnyy = castle
+b_kopys = castle
+b_orsha = city }

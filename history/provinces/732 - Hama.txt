@@ -1,4 +1,6 @@
-# 732 - Hama 
+# -*- ck2.history.provinces -*-
+
+# 732 - Hama
 
 # County Title
 title = c_hama
@@ -6,17 +8,18 @@ title = c_hama
 # Settlements
 max_settlements = 5
 b_hama = castle
-b_mhardeh = city
-b_hamath = temple
+b_shayzar = city
+b_barinsyria = castle
+#b_mhardeh = city
+#b_kafroun = city
 
-#b_qarqar = castle
-#b_bara = castle 
-#b_salamiyah = city
-#b_serjilla = castle
-#b_kharsan = castle
+
 
 # Misc
 culture = aramean
-religion = orthodox
+religion = maronite
 
 # History
+
+
+

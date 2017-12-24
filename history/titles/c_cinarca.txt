@@ -1,0 +1,42 @@
+# -*- ck2.history.titles -*-
+
+846.1.1 = {
+	liege = d_toscana
+	holder = 163070
+}
+# CJL78 - NROC Counts of Cinarca by Arko
+940.1.1 = {
+	liege = e_hre
+	holder = 1093019
+}
+1000.1.1 = {
+	holder = 1093023
+}
+1070.1.1 = {
+	holder = 1093024
+}
+1077.1.1 = {
+	liege = d_pisa
+}
+1112.1.1 = {
+	holder = 1093025
+}
+1160.1.1 = {
+	holder = 1093026
+}
+1200.1.1 = {
+	holder = 1093027
+}
+1204.1.1 = {
+	holder = 1093028
+}
+1245.1.1 = {
+	holder = 1093029
+}
+1312.1.1 = {
+	liege = d_genoa
+	holder = 0
+}
+1358.1.1 = {
+	holder = 1093030
+}

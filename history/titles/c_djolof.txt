@@ -1,0 +1,6 @@
+# -*- ck2.history.titles -*-
+
+1060.1.1 = {
+	liege = d_takrur
+	holder = 1144540
+}

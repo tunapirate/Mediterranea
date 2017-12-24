@@ -1,0 +1,6 @@
+# -*- ck2.history.titles -*-
+
+867.1.1 = {
+	holder = 594034
+	law = agnatic_succession
+}

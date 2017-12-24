@@ -1,0 +1,57 @@
+# -*- ck2.history.titles -*-
+
+1040.1.1 = {
+	liege = e_hre
+	holder = 7310
+}
+1044.1.1 = {
+	holder = 1616
+}
+1070.3.6 = {
+	holder = 7300
+}
+1098.1.1 = {
+	holder = 7400
+}
+1107.1.1 = {
+	holder = 212997
+}
+1124.1.1 = {
+	holder = 212996
+}
+#1147.1.1 = {
+#	holder = 0
+#}
+1147.1.1 = {
+	holder = 30098 # Albrecht III
+}
+1165.2.2 = {
+	holder = 30100 # Berthold I
+}
+1180.1.1 = {
+	liege = e_hre
+}
+1180.3.7 = {
+	holder = 30102 # Berthold II
+}
+1181.1.1 = {
+	holder = 212380 # Heinrich I
+}
+1202.6.14 = {
+	holder = 212382 # Albrecht IV
+}
+1253.7.22 = {
+	holder = 7633 # Meinhard I
+}
+1258.7.22 = {
+	holder = 462711 # Meinhard II
+}
+1295.10.1 = {
+	holder = 462714 # Otto II
+}
+1310.3.28 = {
+	holder = 462720 # Heinrich II
+}
+1335.4.2 = {
+	holder = 462710 # Margarete I
+}

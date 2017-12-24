@@ -181,7 +181,7 @@
 }
 5436=
 {
-	name="Lekhsa"
+	name="Jrawa"
 	culture="maghreb_arabic"
 }
 5437=
@@ -237,6 +237,18 @@
 5447=
 {
 	name="Shlhi"
+	culture="maghreb_arabic"
+	religion="west_african_pagan"
+}
+5448=
+{
+	name="Aweynat"
+	culture="maghreb_arabic"
+	religion="west_african_pagan"
+}
+5449=
+{
+	name="Isiwan"
 	culture="maghreb_arabic"
 	religion="west_african_pagan"
 }
@@ -562,6 +574,12 @@
 	culture="romanian"
 	religion="orthodox"
 }
+5577=
+{
+	name="Iovianu" # Syrmia
+	culture="romanian"
+	religion="orthodox"
+}
 
 # Baltic
 
@@ -812,6 +830,18 @@
 	culture="levantine_arabic"
 	religion="nestorian"
 }
+56011=
+{
+	name="Banu Hamdam"
+	culture="yemeni"
+	religion="jewish"
+}
+56012=
+{
+	name="Banu Kilab"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
 
 # Persian
 
@@ -973,6 +1003,12 @@
 	culture="persian"
 	religion="zoroastrian"
 }
+57025=
+{
+	name="Siyahid"
+	culture="persian"
+	religion="zoroastrian"
+}
 
 # Caucasian
 
@@ -1010,6 +1046,12 @@
 {
 	name="Nersiani"
 	culture="georgian"
+	religion="orthodox"
+}
+58006=
+{
+	name="Gnuni"
+	culture="armenian"
 	religion="orthodox"
 }
 
@@ -1123,6 +1165,18 @@
 	culture="anatolian"
 	religion="orthodox"
 }
+59018=
+{
+	name="Ninuwa"
+	culture="assyrian"
+	religion="nestorian"
+}
+59019=
+{
+	name="Nasar"
+	culture="assyrian"
+	religion="orthodox"
+}
 
 # Mizrahi
 59050=
@@ -1173,211 +1227,247 @@
 59100=
 {
 	name="Cassia" # Caesaraugusta/Olissipo
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59101=
 {
 	name="Comentiolus" # ref. Comentiolus, Mag. Mili. of Spania
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59102=
 {
 	name="Paulus"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59103=
 {
 	name="Polliena"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59104=
 {
 	name="Severiana"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59105=
 {
 	name="Ulpia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59106=
 {
 	name="Calleta"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59107=
 {
 	name="Asida"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59108=
 {
 	name="Isturgia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59109=
 {
 	name="Osseta"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59110=
 {
 	name="Sacilia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59111=
 {
 	name="Segida"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59112=
 {
 	name="Ulgia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59113=
 {
 	name="Artigia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59114=
 {
 	name="Iliturgia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59115=
 {
 	name="Lacimurga"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59116=
 {
 	name="Nertobriga"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59117=
 {
 	name="Ugultunia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59118=
 {
 	name="Urgao"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59119=
 {
 	name="Seria"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59120=
 {
 	name="Lucurgenta"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59121=
 {
 	name="Ituccia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59122=
 {
 	name="Urgo"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59123=
 {
 	name="Italica"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59124=
 {
 	name="Salpensa"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59125=
 {
 	name="Abdera"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59126=
 {
 	name="Olaura"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59127=
 {
 	name="Orippa"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59128=
 {
 	name="Irnia"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59129=
 {
 	name="Traducta"
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59130=
 {
 	name="Cynegius" # Corduba
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59131=
 {
 	name="Ossia" # ref. Hosius of Corduba
-	culture="catalan"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59132=
 {
 	name="Eulogia" # ref. Eulogius of Toledo
-	culture="catalan"
+	culture="hispanic"
 	religion="catholic"
 }
 59133=
 {
 	name="Alvarus" # ref. Paulus Alvarus
-	culture="catalan"
+	culture="hispanic"
 	religion="catholic"
 }
 59134=
 {
 	name="Paganus"
-	culture="catalan"
+	culture="hispanic"
+	religion="catholic"
+}
+59135=
+{
+	name="Porcia"
+	culture="hispanic"
+	religion="catholic"
+}
+59136=
+{
+	name="Sempronia"
+	culture="hispanic"
+	religion="catholic"
+}
+59137=
+{
+	name="Iunia"
+	culture="hispanic"
+	religion="catholic"
+}
+59138=
+{
+	name="Licinia"
+	culture="hispanic"
+	religion="catholic"
+}
+59139=
+{
+	name="Caecilia"
+	culture="hispanic"
+	religion="catholic"
+}
+59140=
+{
+	name="Pompeii"
+	culture="hispanic"
 	religion="catholic"
 }
 
@@ -1386,7 +1476,7 @@
 59250=
 {
 	name="Orósio" # ref. Paulus Orosius
-	culture="portuguese"
+	culture="hispanic"
 	religion="catholic"
 }
 59251=
@@ -1398,115 +1488,127 @@
 59252=
 {
 	name="Asterio" # ref. comes Hisp. Asterius
-	culture="portuguese"
+	culture="hispanic"
 	religion="catholic"
 }
 59253=
 {
 	name="Galeria" # ref. gens Galeria of Pax Iulia colonists
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59254=
 {
 	name="Sertoria"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59255=
 {
 	name="Perpenna"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59256=
 {
 	name="Januaria"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59257=
 {
 	name="Neobridia"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59258=
 {
 	name="Azulana"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59259=
 {
 	name="Ovidia"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59260=
 {
 	name="Policarpo"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59261=
 {
 	name="Serfriana"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59262=
 {
 	name="Caledoniana"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59263=
 {
 	name="Profutura"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59264=
 {
 	name="Eleuteria"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59265=
 {
 	name="Apolonia"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59266=
 {
 	name="Narcisa"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59267=
 {
 	name="Valeria"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59268=
 {
 	name="Castina"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59269=
 {
 	name="Potamia"
-	culture="lusitanian"
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 59270=
 {
 	name="Fructuosa"
-	culture="lusitanian"
+	culture="hispanic"
+	religion="hellenic_pagan"
+}
+59271=
+{
+	name="Sulpicia"
+	culture="hispanic"
+	religion="hellenic_pagan"
+}
+59272=
+{
+	name="Aspidia" # Ribatejo
+	culture="hispanic"
 	religion="hellenic_pagan"
 }
 
@@ -1515,7 +1617,7 @@
 59300=
 {
 	name="Priscillianus"
-	culture="castillan"
+	culture="hispanic"
 	religion="catholic"
 }
 59301=
@@ -1530,7 +1632,7 @@
 59500=
 {
 	name="Tellaro"
-	culture="apennine"
+	culture="roman"
 	religion="catholic"
 }
 59501=
@@ -1542,187 +1644,247 @@
 59502=
 {
 	name="Anicia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59503=
 {
 	name="Aurelia" #representative of the Symmachan branch
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59504=
 {
 	name="Aviena" #Gennadus Avienus
-	culture="apennine"
+	culture="roman"
 	religion="catholic"
 }
 59505=
 {
 	name="Ennodia" # Styria
-	culture="apennine"
+	culture="roman"
 	religion="catholic"
 }
 59506=
 {
 	name="Petronia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59507=
 {
 	name="Cornelia" #representive of the Cethegus branch
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59508=
 {
 	name="Mariniana"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59509=
 {
 	name="Arminica"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59510=
 {
 	name="Eleutheria"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59511=
 {
 	name="Ducas"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59512=
 {
 	name="Comes"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59513=
 {
 	name="Senatore"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59514=
 {
 	name="Scaptia" # Aquileia
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59515=
 {
 	name="Albina"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59516=
 {
 	name="Flavia" # Florence/Ravenna
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59517=
 {
 	name="Pacifica" # Padua, ref. Pacificus of Verona
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59518=
 {
 	name="Caetani" # Capua, ref. family of same name
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59519=
 {
 	name="Ambrosius" # Liguria, ref. Saint Ambrose
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59520=
 {
 	name="Decia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59521=
 {
 	name="Caecina"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59522=
 {
 	name="Rufia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59523=
 {
 	name="Messia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59524=
 {
 	name="Petronia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59525=
 {
 	name="Hypatia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59526=
 {
 	name="Venantia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59527=
 {
 	name="Venantia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59528=
 {
 	name="Attia" # Ancona
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59529=
 {
 	name="Romilia"
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59530=
 {
 	name="Caudina" # Benevento/Samnium
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59531=
 {
 	name="Nicomachus" # Sicily
-	culture="apennine"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 59532=
 {
 	name="Symmachus"
-	culture="apennine"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59533= # Marsica
+{
+	name="Fucensa"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59534= # Umbria
+{
+	name="Herculana"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59535= # Luni
+{
+	name="Lunensa"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59536= # Aemilia
+{
+	name="Aemiliana"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59537= # Mantua
+{
+	name="Geminiana"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59538= # Mediolanum
+{
+	name="Hosia"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59539= # Novara
+{
+	name="Thermantia"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59540= # Bergamo
+{
+	name="Proconsul"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59541= # Alpes
+{
+	name="Vestalis"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59542= # Como / Bergamo
+{
+	name="Leucensa"
+	culture="roman"
 	religion="hellenic_pagan"
 }
 
@@ -2028,5 +2190,112 @@
 {
 	name="Comes"
 	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+59735=
+{
+	name="Delminiani"
+	culture="dalmatian"
+	religion="hellenic_pagan"
+}
+
+# Basque
+
+59750={
+	name="Eneko"
+	culture="basque"
+	religion="hellenic_pagan"
+}
+59751={
+	name="Belasko"
+	culture="basque"
+	religion="hellenic_pagan"
+}
+59752={
+	name="Aznárez"
+	culture="basque"
+	religion="hellenic_pagan"
+}
+59753={
+	name="Thervingi"
+	culture="visigoth"
+	religion="hellenic_pagan"
+}
+59754={
+	name="Balthingi"
+	culture="visigoth"
+	religion="hellenic_pagan"
+}
+59755={
+	name="Hilderingi"
+	culture="visigoth"
+	religion="hellenic_pagan"
+}
+59756={
+	name="Otsoa"
+	culture="basque"
+	religion="hellenic_pagan"
+}
+
+# Occitan
+
+59775={
+	name="Cabilonens"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59776={
+	name="Cotia"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59777={
+	name="Rustica"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59778={
+	name="Volusiana"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59779={
+	name="Litorius"
+	culture="roman"
+	religion="hellenic_pagan"
+}
+59780={
+	name="Adurens"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59781={
+	name="Plavons"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59782={
+	name="Egnaçia"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59783={
+	name="Aelian"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59784={
+	name="Mario"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59785={
+	name="Esuvi"
+	culture="occitan"
+	religion="hellenic_pagan"
+}
+59786={
+	name="Carassio"
+	culture="occitan"
 	religion="hellenic_pagan"
 }

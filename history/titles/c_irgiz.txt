@@ -1,0 +1,86 @@
+# -*- ck2.history.titles -*-
+
+500.1.1 = {
+	historical_nomad = yes
+}
+810.1.1 = {
+	liege = k_pechenegs
+	holder = 1231704
+}
+830.1.1 = {
+	holder = 1231706
+}
+833.1.1 = {
+	liege = d_oghuz
+	holder = 0
+}
+862.1.1 = {
+	holder = 1230102
+}
+866.1.1 = {
+	holder = 1230118
+}
+880.1.1 = {
+	holder = 1230125
+}
+910.1.1 = {
+	holder = 1230118
+}
+#912.1.1 = {
+#	holder = 1230106
+#}
+#929.1.1 = {
+#	holder = 1230121
+#}
+#957.1.1 = {
+#	holder = 1231985
+#}
+#960.1.1 = {
+#	holder = 1600009
+#}
+#983.1.1 = {
+#	holder = 1230146
+#}
+#996.1.1 = {
+#	holder = 1230138
+#}
+#1015.1.1 = {
+#	holder = 1230137
+#}
+# Cumans consolidation complete, push westwards intensifies.
+1030.1.1 = {
+	liege = d_ay_opa
+	holder = 1233047
+}
+1065.1.1 = {
+	holder = 1233049 # Kunui
+}
+1110.1.1 = {
+	holder = 1233051
+}
+1145.1.1 = {
+	holder = 1233053
+}
+1184.1.1 = {
+	holder = 1233055
+}
+1210.1.1 = {
+	holder = 1233057
+}
+1236.9.1 = {
+	liege = k_turkestan_west
+	holder = 125503
+}
+1241.12.11 = {
+	liege = d_yaik
+	holder = 34911
+}
+1260.1.1 = {
+	holder = 34904
+}
+1285.1.1 = {
+	holder = 125548
+}
+1310.1.1 = {
+	holder = 125549
+}

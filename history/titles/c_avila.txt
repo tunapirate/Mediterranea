@@ -1,0 +1,4 @@
+867.1.1 = {
+	holder = 584081
+	liege = "d_segovia"
+}

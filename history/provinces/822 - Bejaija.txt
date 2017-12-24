@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 822 - Bejaija
 
 # County Title
@@ -7,21 +9,15 @@ title = c_bejaija
 max_settlements = 4
 
 b_bejaija = castle
-b_setif = city
-b_mila = temple
+b_tadallis = city
+b_eldjabia = temple
 b_elbekara = city
-
-#b_eldjabia = castle
 #b_boudaoud = castle
 #b_gantas = castle
-#b_jijel = castle
 
 # Misc
-culture = maghreb_arabic
-religion = hellenic_pagan
+culture = african
+religion = african_rite
 
 # History
-1000.1.1 = {
-	religion = sunni
-}
-1109.1.1 = { trade_post = b_doria }
+

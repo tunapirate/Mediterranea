@@ -1,0 +1,4 @@
+867.1.1 = {
+	holder = 584156
+	liege = "k_navarra"
+}

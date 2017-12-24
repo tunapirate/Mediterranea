@@ -1,0 +1,11 @@
+# -*- ck2.history.titles -*-
+
+841.1.1 = {
+	liege = k_lotharingia
+}
+923.1.1 = {
+	liege = k_germany
+}
+962.2.2 = {
+	liege = e_hre
+}

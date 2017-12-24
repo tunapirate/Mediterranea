@@ -1,22 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 330 - Siena
 
 # County Title
 title = c_siena
 
 # Settlements
-max_settlements = 5
-b_pienza = castle
-b_cortona = temple
-b_siena = city
+max_settlements = 6
 
-#b_montepulciano = city
+b_orgia = castle
+b_siena = city
+b_sprunga = temple
+b_montalto = castle
 #b_montalcino = castle
-#b_sangimignano = castle
-#b_colledievaldelsa = Castle
-#b_monteriggioni = castle
+b_montone_in_chianti= castle
+#b_castellina_in_chianti = castle
+
+
 
 # Misc
-culture = apennine
-religion = roman_rite
+culture = roman
+religion = catholic
+terrain = farmlands
 
 # History
+
+

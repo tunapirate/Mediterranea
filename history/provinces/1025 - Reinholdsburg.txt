@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 1025 - Reinholdsburg
+
+# County Title
+title = c_reinholdsburg
+
+# Settlements
+max_settlements = 4
+
+b_krummediek = tribal
+#b_kiel = city
+#b_gottorp = castle
+#b_neumunster = castle
+#b_glucksburg = castle
+#b_reinholdsburg = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+
+1035.1.1 = {
+	culture = danish
+	religion = catholic
+	b_krummediek = castle
+}
+1106.1.1 = { culture = low_german }
+
+

@@ -1,35 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 553 - Lyubech
 
 # County Title
 title = c_lyubech
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
+
 b_lyubech = tribal
+#b_sedniv = temple
+#b_brahin = city
+#b_horodnya = city
+#b_ripky = city
 
-#b_gomel = city
-#b_rechytsa = temple
-
-#b_loyew = castle
-#b_brahin = castle
-#b_zlynka = castle
-#b_klimovo = castle
-#b_novozybkov = castle
 
 # Misc
-culture = severian
+culture = russian
 religion = slavic_pagan
 
 # History
-867.1.1 = {
-	culture = russian
-}
-1187.1.1 = {
-	religion = orthodox
-	b_lyubech = castle
-	b_gomel = city
-	b_rechytsa = temple
-	b_loyew = castle
-	b_brahin = castle
-}
+988.1.1 = {religion = orthodox }
+990.1.1 = {b_lyubech = castle
+b_sedniv = temple
+b_brahin = city}
+1187.1.1 = { b_horodnya = city}
 

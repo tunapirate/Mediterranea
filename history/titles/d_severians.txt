@@ -1,0 +1,37 @@
+# -*- ck2.history.titles -*-
+
+# Bryansk / Severians
+750.1.1 = {
+	holder = 194142
+}
+799.1.1 = {
+	holder = 194143
+}
+822.1.1 = {
+	holder = 194144
+}
+865.1.1 = {
+	holder = 159721
+}
+900.1.1 = {
+	holder = 6860
+}
+902.1.1 = {
+	holder = 160089
+}
+910.1.1 = {
+	holder = 1601003
+}
+951.1.1 = {
+	holder = 1601005
+	set_tribute_suzerain = {
+		who = d_kiev
+		percentage = 0.1
+	}	
+}
+990.1.1 = {
+	holder = 1601007
+}
+1024.1.2 = {
+	clear_tribute_suzerain = d_kiev
+}

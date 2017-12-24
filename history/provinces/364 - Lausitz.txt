@@ -1,22 +1,23 @@
+# -*- ck2.history.provinces -*-
+
 # 364 - Lausitz
 
 # County Title
 title = c_lausitz
 
 # Settlements
-max_settlements = 4
-b_gorlitz = tribal
+max_settlements = 3
 
+b_gorlitz = tribal
+#b_raothenburg = castle
 #b_bautzen = city 
-#b_lebus = temple
-#b_rothenburg = castle
-#b_cottbus = city
-#b_forst = castle
 #b_zittau = castle
-#b_luckau = castle
 
 # Misc
 culture = pommeranian
 religion = slavic_pagan
 
 # History
+926.1.1 = { b_gorlitz = castle } # Geronen
+937.1.1 = { religion = catholic }
+#1220.1.1 = { culture = german }

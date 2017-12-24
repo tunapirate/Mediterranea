@@ -1,23 +1,31 @@
+# -*- ck2.history.provinces -*-
+
 # 316 - Tirol
 
 # County Title
 title = c_tirol
 
 # Settlements
-max_settlements = 4
-b_bregenz = castle
-b_landeck = city
-b_stanton = temple
-
-#b_sterzing = castle
-#b_dornbirn = castle
-#b_nenzing = castle
-#b_imst = castle
-#b_ried = castle
+max_settlements = 5 
+b_tirol = castle
+b_meran = city
+b_brixen = temple
+b_lienz = castle
+#b_stams = temple 
+#b_innichen = temple # italian = San Candido
+#b_innsbruck = city
+#b_bozen = city
+#b_sterzing = city
+#b_schlanders = castle 
+#b_bruneck = castle 
+#b_freundsberg = castle
+#b_klamm = castle # nearby Imst
 
 # Misc
 culture = rhaetic
-religion = roman_rite
+religion = catholic
 
 # History
+1170.1.1 = { culture = german }
+1187.1.1 = { b_innsbruck = city }
 

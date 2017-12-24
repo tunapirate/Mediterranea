@@ -1,0 +1,22 @@
+# Localization Keys that need to be finished
+
+CTT_ORTHODOX_CRUSADES_UNLOCKED
+
+EVTDESCmed.0501
+EVTOPTAmed.0501
+EVTOPTBmed.0501
+EVTOPTCmed.0501
+EVTOPTDmed.0501
+
+EVTDESCmed.0502A
+EVTDESCmed.0502B
+EVTDESCmed.0502C
+
+# Important Global Flags
+
+- council_of_curia
+- iranian_chaos_subsided
+
+# Notes
+
+- Need to add proper events for the start of Orthodox crusades; right now it's just activated by the BotHoly Sepulchre event

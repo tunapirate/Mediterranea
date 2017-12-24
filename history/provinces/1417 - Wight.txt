@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 1417 - Wight
+
+# County Title
+title = c_wight
+
+# Settlements
+max_settlements = 2
+
+b_carisbrooke = castle
+#b_east_cowes = city
+
+# Misc
+culture = brittonic
+religion = hellenic_pagan
+
+# History

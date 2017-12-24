@@ -1,0 +1,25 @@
+# -*- ck2.history.titles -*-
+
+# Qalhati dynasty
+1266.1.1 = {
+	holder = 1229668
+	set_tribute_suzerain = {
+		who = e_il-khanate
+		percentage = 0.4
+	}
+}
+1278.1.1 = {
+	holder = 1229671
+}
+1294.1.1 = {
+	holder = 1229669
+}
+1316.1.1 = {
+	holder = 1229622
+}
+1346.1.1 = {
+	holder = 1229623
+}
+1377.1.1 = {
+	holder = 0
+}

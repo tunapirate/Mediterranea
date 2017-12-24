@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 78 - Brugge
 
 # County Title
@@ -8,15 +10,22 @@ max_settlements = 7
 b_sluys = castle
 b_brugge = city
 b_damme = temple
-
 #b_male = castle
+
 #b_oostende = city
-#b_nieuwpoort = city
+b_nieuwpoort = city
 #b_aardenburg = castle
-#b_torhout = castle
+b_torhout = temple
+#b_assenede = castle
+#b_moerkerke = castle
+
 
 # Misc
-culture = frankish
+culture = low_frankish
 religion = gallic_rite
 
 # History
+1150.1.1 = { culture = dutch }
+1187.1.1 = { b_male = castle }
+
+1337.1.1 = { b_oostende = city }

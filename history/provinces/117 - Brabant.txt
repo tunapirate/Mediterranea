@@ -1,22 +1,30 @@
+# -*- ck2.history.provinces -*-
+
 # 117 - Brabant
 
 # County Title
 title = c_brabant
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 b_leuven = castle
-b_brussel = city
-b_mechelen = temple
+b_tienen = city
 b_aarschot = castle
 
-#b_antwerpen = city
-#b_grimbergen = castle
+
+#b_horstcastle = castle
+#b_diestcity = city
+#b_bonletz = castle
+#b_dongleberg = castle
+#b_gembloux = temple
+#b_nivelles = temple
 #b_herstal = castle
-#b_lier = castle
+#b_chatelet = castle
+
 
 # Misc
-culture = frankish
+culture = low_frankish
 religion = gallic_rite
 
 # History
+1150.1.1 = { culture = dutch }

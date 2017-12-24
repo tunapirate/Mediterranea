@@ -1,0 +1,17 @@
+# -*- ck2.history.provinces -*-
+
+# 1593 - Naqis
+
+# County Title
+title = c_naqis
+
+# Settlements
+max_settlements = 2
+b_naqis = tribal
+#b_wadi_al_allaqi = city
+
+# Misc
+culture = beja
+religion = east_african_pagan
+
+# History

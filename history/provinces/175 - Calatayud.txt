@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 175 - Calatayud
 
 # County Title
@@ -7,7 +9,7 @@ title = c_calatayud
 max_settlements = 4
 b_calatayud = castle
 b_alhamadearagon = city
-b_piedra = temple
+#b_piedra = temple
 #b_nuevalos = castle
 #b_daroca = castle
 #b_munebrega = temple
@@ -19,3 +21,11 @@ culture = castillan
 religion = hellenic_pagan
 
 # History
+
+1066.1.1 = { 
+	b_calatayud = ca_keep_1
+	b_calatayud = ca_wall_1
+}
+1131.1.1 = { culture = aragonese }
+1131.1.1 = { religion = catholic }
+

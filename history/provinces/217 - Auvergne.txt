@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 217 - Auvergne
 
 # County Title
@@ -5,18 +7,15 @@ title = c_auvergne
 
 # Settlements
 max_settlements = 5
-b_clermont = castle
-b_aurillac = temple
-b_brioude = city
-b_clermont = city
+b_chateaudopme = castle
+b_montferrand = city
 
-#b_tournoel = castle
-#b_mozac = temple
-#b_aurillac = city
-#b_murol = castle
-#b_carlat = castle
-#b_brioude = temple
-#b_domeyrat = castle
+b_clairmont = temple
+#b_brioude = city
+#b_riom = temple
+#b_thiers = city
+
+
 
 #Misc
 religion = hellenic_pagan

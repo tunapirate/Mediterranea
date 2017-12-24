@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 143 - Saintonge
 
 # County Title

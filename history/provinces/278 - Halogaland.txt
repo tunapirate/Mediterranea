@@ -1,35 +1,33 @@
+# -*- ck2.history.provinces -*-
+
 # 278 - Hålogaland
 
 # County Title
 title = c_halogaland
 
 # Settlements
-max_settlements = 2
-b_somna = tribal
+max_settlements = 4
 
-#b_veiga = city
-#b_bindal = temple
-#b_brunnoy = castle
-#b_hattfjelldalen = castle
-#b_lein = castle
-#b_alstahaug = castle
-#b_mosjoen = city
+b_torget = tribal # Torga
+#b_sandnessjoeen = castle # Sandnes
+#b_bjarkoey = castle # Bjarkøy
+#b_vaagan = city # Vágar
+#b_narvik = city  # Saltvík/Knarravík
 
 # Misc
 culture = norse
 religion = norse_pagan
-terrain = mountain
 
 # History
-800.1.1 = {
-	b_somna = tb_shipyard_1
-}
-1000.1.1 = {
-	b_somna = castle
-	b_veiga = city
 
-	b_veiga = ct_port_1
-	b_somna = ca_shipyard_1
-}
-1066.1.1 = { culture = norwegian }
+882.1.1 = { b_sandnessjoeen = tribal } # Bård Brynjulfson dies, gives everything to Torolv Kveldulvson who moves the seat to Sandenes.
+882.1.1 = { capital = b_sandnessjoeen } # Bård Brynjulfson dies, gives everything to Torolv Kveldulvson who moves the seat to Sandenes.
+900.1.1 = { b_bjarkoey = tribal } #Torolv Kveldulvson slain, rest of his kin moves to Iceland
+900.1.1 = { capital = b_bjarkoey } #Torolv Kveldulvson slain, rest of his kin moves to Iceland
+900.1.1 = { remove_settlement = b_torget} #  Ketil Trout sacks Torga and slays Harek and Hrærek as revenge of the death of Torolv
+1015.1.1 = { b_bjarkoey = castle 
+b_vaagan = city
+b_sandnessjoeen = castle
+} # Fat Olav
+1035.1.1 = { culture = norwegian } 
 1080.1.1 = { religion = catholic }

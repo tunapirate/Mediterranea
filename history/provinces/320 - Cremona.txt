@@ -1,22 +1,22 @@
-# 320 - Cremona
+# -*- ck2.history.provinces -*-
+
+# 320 - Camisano
 
 # County Title
 title = c_cremona
 
 # Settlements
 max_settlements = 4
-b_cremona = castle
-b_sospiro = city
-b_crema = temple
 
-#b_vescovato = castle
+b_camisano = castle
+b_crema = city
+b_cremona = temple
+b_soncino = city
+#b_sospiro = castle
 #b_viadana = castle
-#b_castelgoffredo = castle
-#b_casalmaggiore = castle
-#b_manerbio = castle
-
 # Misc
-culture = apennine
+culture = italian
 religion = hellenic_pagan
+terrain = farmlands
 
 # History

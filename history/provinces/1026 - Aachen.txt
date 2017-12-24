@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 1026 - Aachen
+
+# County Title
+title = c_aachen
+
+# Settlements
+max_settlements = 3
+
+b_pfalzaachen = castle
+b_aachen = city
+#b_burtscheid = temple
+
+# Misc
+culture = franconian
+religion = germanic_rite
+
+# History
+997.1.1 = { b_burtscheid = temple }
+1066.1.1 = { 
+	b_aachen = ct_wall_1
+	b_aachen = ct_wall_2
+	b_aachen = ct_marketplace_1
+	b_aachen = ct_barracks_1
+	b_aachen = ct_training_grounds_1	
+}
+1166.1.1 = { capital = b_aachen }
+1170.1.1 = { culture = german }
+
+

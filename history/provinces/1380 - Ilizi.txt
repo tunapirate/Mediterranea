@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1380 - Ilizi
+
+# County Title
+title = c_ilizi
+
+# Settlements
+max_settlements = 1
+b_ilizi = tribal
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+#islamization
+933.1.1 = { religion = ibadi }
+1130.1.1 = { religion = sunni }

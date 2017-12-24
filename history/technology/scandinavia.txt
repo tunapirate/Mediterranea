@@ -1,28 +1,44 @@
+# -*- ck2.history.technology -*-
+
 #SCANDINAVIA
 
 technology = {
 	titles = {
-		d_uppland
-		d_smaland
-		d_gotland
-		d_ostergotland
-		d_vastergotland
-		d_norrland
-		d_bergslagen
+	# Frisia
+		d_holland
+		d_frisia
+	# Denmark
 		d_skane
 		d_sjaelland
+		d_halland
+		d_jylland
 		d_slesvig
-		d_iceland
-		d_orkney
-		d_vestlandet
+		d_bornholm
+		d_nordfrisland
+	# Sweden
+		d_uppland
+		d_ostergotland
+		d_vastergotland
+		d_sodermandland
+		d_halsingland
+		d_gotland
+	# Norway
 		d_ostlandet
+		d_opplandene
+		d_vestlandet
+		d_more
 		d_trondelag
+		d_halogaland
 		d_jamtland
-		d_karelia
+		d_faereyar
+	# Iceland
+		d_iceland
+	# Suomi
 		d_finland
-		d_kola
-		d_finnmark
-		d_sapmi
+		d_viipuri
+		d_norrland
+		d_karelia
+		d_ingria
 	}
 
 	769 = {

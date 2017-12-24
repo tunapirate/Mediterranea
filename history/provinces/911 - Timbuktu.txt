@@ -1,29 +1,35 @@
+# -*- ck2.history.provinces -*-
+
 # 911 - Timbuktu
 
 # County Title
 title = c_timbuktu
 
 # Settlements
-max_settlements = 5
-b_timbuktu = tribal
-#b_alafia = city 
-b_salam = temple
+max_settlements = 6
+b_safanqu = tribal
+#b_tirakka = city
+b_sankore = temple
 
-#b_lafia = castle
-#b_ber = castle
-#b_boureminaly = castle #Bourem-Inaly
-#b_toya = castle
-#b_aglal = castle
+#b_kouga = castle
+#b_timbuktu = castle
+#b_ras_el_ma = castle
 
 # Misc
-culture = manden
+culture = songhai
 religion = west_african_pagan
 
 # History
 
-1050.1.1 = { religion = sunni }
-1300.1.1 = {
-	b_timbuktu = castle
-	b_alafia = city 
-	b_salam = temple
+#berber colonization
+1070.1.1 = { 
+	culture = zanata
 }
+1090.1.1 = { religion = sunni }
+1267.5.1 = {
+	b_timbuktu = castle
+	capital = b_timbuktu
+	b_tirakka = city
+	remove_settlement = b_safanqu
+}
+

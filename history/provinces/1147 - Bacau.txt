@@ -1,0 +1,29 @@
+# -*- ck2.history.provinces -*-
+
+## 1147 - Bacau
+
+# County Title
+title = c_bacau
+
+# Settlements
+max_settlements = 5
+
+b_neamt = tribal
+#b_roman = temple
+#b_bacau = city
+#b_bistrita_neamt = temple
+#b_piatra_neamt = city
+
+
+# Misc
+culture = hungarian
+religion = tengri_pagan
+
+# History
+900.1.1 = { religion = orthodox }
+1320.1.1 = { 
+b_roman = temple
+b_bacau = city
+b_neamt = castle }
+
+ 

@@ -1,20 +1,22 @@
+# -*- ck2.history.provinces -*-
+
 # 130 - Troyes
 
 # County Title
-title = c_troyes
+title = c_champagne
 
 # Settlements
 max_settlements = 4
 b_troyes = castle
-b_langres = temple
-b_chaumont = city
+b_romilly = city
+b_brienne = castle
 
-#b_brienne = castle
 #b_clairvaux = temple
 #b_chacenay = castle
 #b_rosnay = city 
 
-culture = gallic
+
+culture = frankish
 religion = hellenic_pagan
 
 # History

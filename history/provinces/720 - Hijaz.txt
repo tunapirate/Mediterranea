@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 720 - Hijaz
 
 # County Title
@@ -6,14 +8,9 @@ title = c_hijaz
 # Settlements
 max_settlements = 4
 b_al_ola = castle
-b_leuke_kome = city
-b_tayma = temple
-
+b_tayma = city
+b_alwajh = city
 #b_higra = temple
-#b_madain_salih = castle
-#b_mughayra = castle
-#b_samur = castle
-#b_tawala = city
 
 # Misc
 culture = bedouin_arabic

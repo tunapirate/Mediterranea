@@ -1,19 +1,27 @@
+# -*- ck2.history.provinces -*-
+
 # 112 - Ile de France
 
 # County Title
 title = c_ile_de_france
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_melun = castle
 b_paris = city
 b_stdenis = temple
-b_meaux = castle
+b_rambouillet = castle
+b_compiegne = city
+b_chevreuse = castle
+#b_maurepas = castle
+#b_beynes = castle
+#b_etampes = castle
+#b_montlhery = castle
 
-#b_montfortlamaury = castle
-#b_compiegne = city
-
-culture = gallic
+culture = frankish
 religion = hellenic_pagan
 
 # History
+1123.1.1  = { b_etampes = castle }
+#1153.1.1  = { b_compiegne = city }
+

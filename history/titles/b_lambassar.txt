@@ -1,0 +1,8 @@
+# -*- ck2.history.titles -*-
+
+#1092.1.1 = { #earliest possible date
+#	holder = 144226
+#}
+#1124.1.1 = {
+#	holder = 0
+#}

@@ -1,4 +1,6 @@
-# 730 - Palmyra 
+# -*- ck2.history.provinces -*-
+
+# 730 - Palmyra
 
 # County Title
 title = c_palmyra
@@ -6,20 +8,22 @@ title = c_palmyra
 # Settlements
 max_settlements = 5
 
-b_arak = castle
-b_palmyra = city
-b_arraml = temple
-b_alqasr = castle
+b_baalshamin = castle
+b_arak = city
+b_palmyra = temple
+#b_fakhraldinalmaani = castle
+#b_qasralhayralsharqi = castle
+#b_alsukhnah = city
 
-#b_jihar = castle
-#b_alhuwaysis = castle
-#b_tiace = city 
-#b_khirbat = castle
+
+
+
 
 # Misc
 culture = aramean
-religion = nestorian
+religion = syriac
 
 # History
 
-
+1282.1.1 = { remove_settlement = b_arak } #Tribalisation/Nomadization of Palmyra and Salamiyya
+1282.1.1 = { b_baalshamin = tribal } #Tribalisation/Nomadization of Palmyra and Salamiyya

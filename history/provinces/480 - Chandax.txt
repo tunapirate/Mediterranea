@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 480 - Chandax
 
 # County Title
@@ -6,14 +8,11 @@ title = c_chandax
 # Settlements
 max_settlements = 4
 b_iraklio = castle
-b_lassithi = city
+b_ierapetra = temple
+b_sitia = castle
 
-b_agiosnikolaos = temple
-#b_malia = castle
-#b_kastelli = castle
-#b_sitia = castle
-#b_ierapetra = castle
-#b_knossos = castle
+#b_agiosnikolaos = city
+#b_palaeokastro = castle
 
 # Misc
 culture = greek
@@ -24,12 +23,7 @@ terrain = mountain
 1189.1.1 = { trade_post = b_morosini }
 #4th crusade
 
-#4th crusade
-#1205.1.1 = { culture = italian }
-#1205.1.1 = { religion = catholic }
 
-1211.1.1 = { capital = b_lassithi }
-
-1337.1.1 = { b_malia = castle }
+1337.1.1 = { b_palaeokastro = castle }
 
 

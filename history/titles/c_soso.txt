@@ -1,0 +1,25 @@
+# -*- ck2.history.titles -*-
+
+865.1.1 = {
+	#holder = 1228262
+	liege = k_ghana
+}
+987.1.1 = {
+	holder = 1144690
+}
+1018.1.1 = {
+	holder = 1144691
+}
+1047.1.1 = {
+	holder = 1144692
+}
+1065.1.1 = {
+	liege = d_ghana
+	holder = 1144680
+}
+1165.1.1 = {
+	holder = 161009
+}
+1200.1.1 = {
+	holder = 161010
+}

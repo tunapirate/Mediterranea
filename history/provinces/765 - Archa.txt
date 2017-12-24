@@ -1,22 +1,21 @@
+# -*- ck2.history.provinces -*-
+
 # 765 - Archa
 
 # County Title
 title = c_archa
 
 # Settlements
-max_settlements = 5
-b_archa = castle
-b_shayzar = city
+max_settlements = 4
+b_bourzeycastle = castle
 b_famia = temple
-
-#b_chastelblanc = castle
-#b_kafroun = castle
-#b_masyaf = castle
+b_albarasyria = city 
 #b_treiz = castle
-#b_krakdeschevaliers = castle
+#b_sarmeniasyria = city
+
+
+
 
 # Misc
 culture = aramean
-religion = orthodox
-
-# History
+religion = syriac

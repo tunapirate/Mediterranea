@@ -1,4 +1,5 @@
-867.1.1={
-	holder = 554000
-	liege = "d_dioclea"
+850.1.1 = {
+	liege = k_dalmatia
+	holder = 1233508
+	law = succ_patrician_elective
 }

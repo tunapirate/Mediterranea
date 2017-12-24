@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1314 - Rawa Mazovia
+
+# County Title
+title = c_rawamazovia
+
+# Settlements
+max_settlements = 4
+
+b_rawa = tribal
+#b_sochaczew = castle
+#b_bialapoland = temple
+#b_ostroleska = city
+#b_jezow = city
+
+# Misc
+culture = prussian
+religion = baltic_pagan
+
+# History
+999.7.1 = { religion = catholic 
+b_rawa = castle
+b_jezow = city
+}

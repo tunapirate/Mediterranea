@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 198 - Valladolid
 
 # County Title
@@ -5,27 +7,23 @@ title = c_valladolid
 
 # Settlements
 max_settlements = 4
-b_valladolid = castle
-b_tordesillas = city
-b_segovia = temple
-
-#b_medinadelcampo = castle
-#b_simancas = castle
-#b_penafiel = castle
-#b_avila = castle
-#b_iscar = city
+b_penyafiel = castle
+b_valladolid = city
+#b_hornija = temple
+#b_medinaderioseco = city
+#b_uruenya = castle
 
 # Misc
-culture = castillan
+culture = aragonese
 religion = hispanic_rite
 
 # History
 
-867.1.1 = { 
-	b_valladolid = ca_town_1
-	b_valladolid = ca_keep_1
-	b_valladolid = ca_stable_1
-	b_valladolid = ca_militia_barracks_1
-	b_valladolid = ca_wall_1
-	b_valladolid = ca_wall_2
+1066.1.1 = { 
+	b_penyafiel = ca_town_1
+	b_penyafiel = ca_keep_1
+	b_penyafiel = ca_stable_1
+	b_penyafiel = ca_militia_barracks_1
+	b_penyafiel = ca_wall_1
+	b_penyafiel = ca_wall_2
 }

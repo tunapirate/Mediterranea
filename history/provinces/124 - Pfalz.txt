@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 124 - Pfalz
 
 # County Title
@@ -7,19 +9,18 @@ title = c_pfalz
 max_settlements = 5
 b_kaiserslautern = castle
 b_worms = temple
-b_hagenau = city
+b_heidelberg = city
+#b_hagenau = city
 b_stahleck = castle
-
 #b_trifels = castle
-#b_zweibrucken = castle
 #b_speyer = temple
-#b_saarbrucken = city
+
 
 # Misc
-culture = german
+culture = swabian
 religion = germanic_rite
 
 # History
+1170.1.1 = { culture = german }
 
-1187.1.1 = { b_saarbrucken = city } 
 

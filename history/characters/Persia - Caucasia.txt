@@ -4,7 +4,7 @@
     name="Khosrau"
     dynasty=57004
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	 
 	add_trait=strong
 	add_trait=shrewd
@@ -23,7 +23,7 @@
     name="Farnaz"
     dynasty=57010
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 	father=524006
 	 
@@ -40,7 +40,7 @@
     name="Ardashir"
     dynasty=57004
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524000
 	mother=524001
 	 
@@ -54,7 +54,7 @@
     name="Narseh"
     dynasty=57004
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524000
 	mother=524001
 	 
@@ -68,7 +68,7 @@
     name="Borandukht"
     dynasty=57004
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524000
 	mother=524001
 	female=yes
@@ -86,7 +86,7 @@
     name="Narseh"
     dynasty=57004
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524000
 	mother=524001
 	female=yes
@@ -101,7 +101,7 @@
     name="Piruz"
     dynasty=57010
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	 
 	#History
 	 
@@ -116,7 +116,7 @@
     name="Namdar"
     dynasty=57010
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524006
 	 
 	#History
@@ -131,7 +131,7 @@
 524008 = {
     name="Darya"
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 	 
 	#History
@@ -147,7 +147,7 @@
     name="Namdar"
     dynasty=57010
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524007
 	mother=524008
 	 
@@ -161,7 +161,7 @@
     name="Ashot"
 	dynasty=58000
     religion="zoroastrian"
-    culture="armenian"
+    culture="assyrian"
 	 
 	#History
 	 
@@ -175,7 +175,7 @@
 524100 = {
     name="Vardan"
 	dynasty=23006
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	 
 	#History
@@ -190,7 +190,7 @@
 524101 = {
     name="Dalita"
 	dynasty=43
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	female=yes
 	 
@@ -206,7 +206,7 @@
 524102 = {
     name="Artashir"
 	dynasty=58003
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	 
 	#History
@@ -220,7 +220,7 @@
 }
 524103 = {
     name="Anna"
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	female=yes
 	 
@@ -236,7 +236,7 @@
 524104 = {
     name="Gorandoukht"
 	dynasty=58003
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	female=yes
 	father=524102
@@ -251,7 +251,7 @@
 524105 = {
     name="Khorishah"
 	dynasty=58003
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	female=yes
 	father=524102
@@ -266,7 +266,7 @@
 524106 = {
     name="Tovmas"
 	dynasty=58003
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	father=524102
 	mother=524103
@@ -298,7 +298,7 @@
 }
 524108 = {
     name="Meghranoush"
-    religion="miaphysite"
+    religion="apostolic"
     culture="armenian"
 	female=yes
 	 
@@ -329,7 +329,7 @@
     name="Kurush"
 	dynasty=58001
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	 
 	#History
 	 
@@ -343,7 +343,7 @@
 524111 = {
     name="Nazgol"
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 	
 	add_trait=shrewd
@@ -374,7 +374,7 @@
     name="Ashot"
 	dynasty=58004
     religion="zoroastrian"
-    culture="georgian"
+    culture="udi"
 	 
 	#History
 	 
@@ -438,6 +438,18 @@
 		birth=yes
     }
 }
+524118 = {
+    name="Mjej"
+	dynasty=58006
+	religion="zoroastrian"
+    culture="armenian"
+	 
+	#History
+	 
+    843.10.8={
+		birth=yes
+    }
+}
 
 # Persia
 
@@ -445,7 +457,7 @@
     name="Djamasp"
 	dynasty=57009
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	 
 	#History
 	 
@@ -462,7 +474,7 @@
 524201 = {
     name="Azarmidokht"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 	 
 	#History
@@ -481,7 +493,7 @@
     name="Marzuban"
 	dynasty=57009
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524200
 	mother=524201
 	 
@@ -497,7 +509,7 @@
 524203 = {
     name="Parvaneh"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 	 
 	#History
@@ -513,7 +525,7 @@
     name="Irandokht"
 	dynasty=57009
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524202
 	mother=524203
 	female=yes
@@ -528,7 +540,7 @@
     name="Farroukh"
 	dynasty=57009
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524200
 	mother=524201
 	
@@ -544,7 +556,7 @@
     name="Hazarasp"
 	dynasty=57015
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	 
 	#History
@@ -557,7 +569,7 @@
     name="Javeed"
 	dynasty=57016
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	 
 	#History
@@ -570,7 +582,7 @@
     name="Humayun"
 	dynasty=57017
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	 
 	#History
@@ -583,7 +595,7 @@
     name="Mazyar"
 	dynasty=7511
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	
 	trait=content
 	 
@@ -599,7 +611,7 @@
 524210 = {
     name="Noor"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 
 	 
@@ -616,7 +628,7 @@
     name="Sassan"
 	dynasty=7511
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524209
 	mother=524210
 
@@ -634,7 +646,7 @@
     name="Zeynab"
 	dynasty=7511
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524209
 	mother=524210
 	female=yes
@@ -651,7 +663,7 @@
     name="Dinah"
 	dynasty=7511
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524209
 	mother=524210
 	female=yes
@@ -668,7 +680,7 @@
     name="Kavadh"
 	dynasty=57005
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	#History
 	 
@@ -685,7 +697,7 @@
 524215 = {
     name="Nazilla"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 
 	#History
@@ -704,7 +716,7 @@
     name="Farhad"
 	dynasty=57005
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524214
 	mother=524215
 	
@@ -724,7 +736,7 @@
     name="Farnaz"
 	dynasty=57005
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524214
 	mother=524215
 	female=yes
@@ -742,7 +754,7 @@
     name="Golpari"
 	dynasty=57005
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524216
 	mother=524217
 	female=yes
@@ -760,7 +772,7 @@
     name="Mehrzad"
 	dynasty=57006
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	#History
 	 
@@ -774,7 +786,7 @@
 524220 = {
     name="Ghazal"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 
 	#History
@@ -790,7 +802,7 @@
     name="Behrouz"
 	dynasty=57006
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524219
 	mother=52420
 
@@ -804,7 +816,7 @@
     name="Bahar"
 	dynasty=57006
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524219
 	mother=52420
 	female=yes
@@ -822,7 +834,7 @@
     name="Jahangir"
 	dynasty=57006
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524219
 	mother=52420
 
@@ -836,7 +848,7 @@
     name="Jahangir"
 	dynasty=57008
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	#History
 	 
@@ -851,7 +863,7 @@
     name="Balash"
 	dynasty=57010
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	#History
 	 
@@ -865,7 +877,7 @@
 524226 = {
     name="Nazilla"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 
 	#History
@@ -881,7 +893,7 @@
     name="Balash"
 	dynasty=57010
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524225
 	mother=524226
 
@@ -895,7 +907,7 @@
     name="Adurgundbad"
 	dynasty=57007
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 
 	#History
 	 
@@ -912,7 +924,7 @@
 524229 = {
     name="Behnaz"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 
 	#History
@@ -931,7 +943,7 @@
     name="Khosrau"
 	dynasty=57007
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524228
 	mother=524229
 
@@ -948,7 +960,7 @@
     name="Hurmat"
 	dynasty=57007
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524228
 	mother=524229
 	female=yes
@@ -966,7 +978,7 @@
     name="Kavadh"
 	dynasty=57007
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524230
 	mother=524235
 	
@@ -983,7 +995,7 @@
     name="Gholam"
 	dynasty=57014
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	
 	add_trait=genius
 	add_trait=grey_eminence
@@ -1000,7 +1012,7 @@
 524234 = {
     name="Parvaneh"
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 
 	#History
@@ -1019,7 +1031,7 @@
     name="Noor"
 	dynasty=57014
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524233
 	mother=524234
 	female=yes
@@ -1037,7 +1049,7 @@
     name="Keykhosrau"
 	dynasty=57014
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524233
 	mother=524234
 
@@ -1054,7 +1066,7 @@
     name="Kavadh"
 	dynasty=57014
 	religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	father=524236
 	mother=524231
 
@@ -1068,7 +1080,7 @@
     name="Peroz"
 	dynasty=57004
 	religion="buddhist"
-    culture="persian"
+    culture="pahlavi"
 	father=524236
 	mother=524231
 	
@@ -1080,6 +1092,87 @@
 	#History
 	 
 	839.6.30={
+		birth=yes
+	}
+	effect = {
+			spawn_unit = {
+				province = 904 # Balkh
+				owner = ROOT
+				troops = {
+					light_cavalry = { 800 800 }
+					heavy_cavalry = { 200 200 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 904 # Balkh
+				owner = ROOT
+				troops = {
+					light_cavalry = { 800 800 }
+					heavy_cavalry = { 200 200 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 904 # Balkh
+				owner = ROOT
+				troops = {
+					light_cavalry = { 800 800 }
+					heavy_cavalry = { 200 200 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 904 # Balkh
+				owner = ROOT
+				troops = {
+					light_cavalry = { 800 800 }
+					heavy_cavalry = { 200 200 }
+				}
+				attrition = 0.5
+			}
+			spawn_unit = {
+				province = 904 # Balkh
+				owner = ROOT
+				troops = {
+					light_cavalry = { 800 800 }
+					heavy_cavalry = { 200 200 }
+				}
+				attrition = 0.5
+			}
+		}
+}
+524239 = {
+    name="Shahriyar"
+	dynasty=57025
+	religion="zoroastrian"
+    culture="pahlavi"
+
+	#History
+	 
+	849.3.16={
+		birth=yes
+	}
+}
+524240 = {
+    name="Gurak"
+	religion="buddhist"
+    culture="sogdian"
+
+	#History
+	 
+	849.3.16={
+		birth=yes
+	}
+}
+524241 = {
+    name="Tarkhun"
+	religion="buddhist"
+    culture="sogdian"
+
+	#History
+	 
+	849.3.16={
 		birth=yes
 	}
 }
@@ -1248,7 +1341,7 @@
     name="Kanadbak"
 	dynasty=57019
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	 
 	#History
 	 
@@ -1262,7 +1355,7 @@
 524357 = {
     name="Golnaz"
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	female=yes
 	 
 	#History
@@ -1278,7 +1371,7 @@
     name="Kavadh"
 	dynasty=57019
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	father=524356
 	mother=524357
 	 
@@ -1292,7 +1385,7 @@
     name="Nazgol"
 	dynasty=57019
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	father=524356
 	mother=524357
 	female=yes
@@ -1307,7 +1400,7 @@
     name="Valash"
 	dynasty=57019
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	father=524356
 	mother=524357
 	 
@@ -1321,7 +1414,7 @@
     name="Jamshid"
 	dynasty=57024
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	
 	add_trait=lustful
 	 
@@ -1335,7 +1428,7 @@
     name="Radman"
 	dynasty=812
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	
 	add_trait=midas_touched
 	add_trait=ambitious
@@ -1350,7 +1443,7 @@
     name="Nezam"
 	dynasty=57018
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	 
 	#History
 	 
@@ -1364,7 +1457,7 @@
 524364 = {
     name="Delaram"
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	female=yes
 	 
 	#History
@@ -1380,7 +1473,7 @@
     name="Ishmael"
 	dynasty=57018
 	religion="zoroastrian"
-    culture="persian"
+    culture="khorasani"
 	father=524363
 	mother=524364
 	 

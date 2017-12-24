@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1521 - Shewa
+
+# County Title
+title = c_shewa
+
+# Settlements
+max_settlements = 3
+b_shewa = tribal
+b_antsokia = city
+
+#b_debreberhan = temple
+
+# Misc
+culture = ethiopian
+religion = east_african_pagan
+
+# History
+
+1190.1.1 = { religion = sunni }
+  

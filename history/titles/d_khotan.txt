@@ -1,4 +1,6 @@
-#Khotan Kings
+# -*- ck2.history.titles -*-
+
+# Khotan Kings
 100.1.1 = {
 	holder = 166632
 }
@@ -72,14 +74,14 @@
 	holder = 166655
 }
 662.1.1 = {
-	holder = 166656
-}#
+	holder = 166656 #
+}
 673.1.1 = {
 	holder = 166657
 }
 680.1.1 = {
-	holder = 166658
-}#Regent of Khotan
+	holder = 166658 # Regent of Khotan
+}
 692.1.1 = {
 	holder = 166659
 }
@@ -143,7 +145,12 @@
 982.1.1 = {
 	holder = 166689
 }
-#Karakhanids
+# Karakhanids
 1006.1.1 = {
+	liege = k_turkestan_east
+	holder = 3008 # Yusuf Kadir Khan
+}
+1032.1.2 = {
+	liege = 0
 	holder = 0
 }

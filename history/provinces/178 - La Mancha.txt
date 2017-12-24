@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 178 - La Mancha
 
 # County Title
@@ -5,17 +7,17 @@ title = c_la_mancha
 
 # Settlements
 max_settlements = 4
-b_tarazona = castle
-b_alarcon = city
-b_laroda = temple
-#b_quintanardelrey = castle
-#b_lagineta = castle
-#b_barrax = castle
-#b_munera = castle
-#b_jorquera = castle
+b_alarcon = castle
+b_tarancon = castle
+b_sanclemente = temple
+#b_ucles = castle
+#b_laspedroneras = castle
+#b_motadelcuervo = castle
 
-# Misc
 culture = castillan
-religion = hispanic_rite
+religion = hellenic_pagan
 
 # History
+1235.1.1 = { culture = castillan }
+1235.1.1 = { religion = catholic }
+

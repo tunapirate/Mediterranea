@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 519 - Feher
 
 # County Title
@@ -5,18 +7,19 @@ title = c_feher
 
 # Settlements
 max_settlements = 4
+b_gyulafehervar = tribal
 
-b_feher = tribal
-b_arad = temple
-
-#b_elek = castle
-#b_abrudbanya = castle
-#b_nagyenyed = castle
-#b_vizakna = castle
-#b_tovis = castle
+#b_maros = city
+#b_vajdahunyadi = castle
+#b_nagyenyed = city
 
 # Misc
 culture = avar
 religion = tengri_pagan
 
 # History
+
+985.1.1 = { b_gyulafehervar = castle } 
+1060.1.1 = { b_nagyenyed = city } 
+1200.1.1 = { b_maros = temple } 
+1300.1.1 = { b_vajdahunyadi = castle } 

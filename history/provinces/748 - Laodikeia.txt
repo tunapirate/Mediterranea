@@ -1,30 +1,26 @@
+# -*- ck2.history.provinces -*-
+
 # 748 - Laodikeia
 
 # County Title
 title = c_laodikeia
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_laodikeia = castle
-b_philadelphia = city
-b_rhoas = temple
-b_flaviupolis = castle
+b_chonai = castle
+b_laodikeia = city
 
-#b_hieropolis = castle
-#b_gordes = castle
-#b_sardes = city
-#b_kona = castle
+#b_harpasa = castle
+b_kibyra = city
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-740.1.1 = { religion = orthodox } # iconoclast
-#843.1.1 = { religion = orthodox }
 
-1187.1.1 = { b_kona = castle }
-
-1390.1.1 = { culture = turkish }
-1390.1.1 = { religion = sunni }
+1185.1.1 = { remove_settlement = b_kibyra }
+1205.1.1 = { culture = turkmen }
+1205.1.1 = { religion = sunni }
+1256.1.1 = { culture = turkish }

@@ -1,69 +1,73 @@
+# -*- ck2.history.technology -*-
+
 #BYZ
 
 technology = {
 	titles = {
-	#k_armenia
-		d_edessa
-		d_mesopotamia
-	#k_asia
-		d_anatolia
-		d_cibyrrhaeot
-		d_hellespont
-		d_samos
-		d_thracesia
-	#k_byzantium
-		d_achaia
-		d_aegean_islands
+	# Morea
 		d_athens
+		d_achaia
+		d_krete
+	# Macedonia
+		d_thessalonika
+		d_neopatras
 		d_dyrrachion
 		d_epirus
-		d_krete
-		d_thessalonika
-	#k_dacia
+		d_cephalonia
+		d_macedonia
+	# Moesia
+		d_serdica
+		d_dardania
+		d_macva
+	# Thrace
+		d_strymon
+		d_turnovo
+		d_karvuna
+		d_adrianopolis
+	# Dacia
 		d_wallachia
-	#k_egypt
-		d_alexandria
-		d_arcadia
-		d_cyrenaica
-		d_damietta
-		d_thebais
-	#k_himyar
-		d_afar
-		d_harer
-		d_mahra
-		d_sanaa
-	#k_mesopotamia
-		d_anbar
-		d_basra
-		d_garamig
-		d_jazira
-		d_mosul
-		d_tigris
-	#k_pontus
+		d_oltenia
+		d_basarabia
+	# Pontus
+		d_paphlagonia
+		d_boukellarion
+		d_opsikon
+		d_optimatoi
+		d_trebizond
+		d_cherson
+		d_tmutarakan
 		d_armeniacon
 		d_charsianon
-		d_nikaea
-		d_paphlagonia
-		d_trebizond
-	#k_thrace
-		d_adrianopolis
-		d_thracia
-		d_scythia_minor
-	#k_taurica
-		d_korchev
-		d_cimmeria
-	#k_syria
-		d_antioch
-		d_armenia_minor
-		d_ascalon
-		d_cyprus
-		d_jerusalem
-		d_osroene
-		d_phoenice
-		d_sinai
-		d_syria
-		d_tripoli
-		d_transjordan
+		d_cappadocia
+		d_coloneia
+		d_sebasteia
+		d_lykandos
+	# Asia
+		d_anatolia
+		d_cibyrrhaeot
+		d_seleukeia
+		d_samos
+		d_aegean_islands
+		d_thracesia
+	# Armenia
+		d_artsakh
+		d_suenik
+		d_vaspurakan
+		d_armenia
+		d_lori
+		d_taron
+		d_mesopotamia
+		d_dzopk
+		d_amida
+	# Georgia
+		d_kartli
+		d_tao
+		d_klarjeti
+		d_kakheti
+		d_abkhazia
+		d_imeretia
+		d_racha
+		d_hereti
 	}
 	
 	769 = {
@@ -82,6 +86,10 @@ technology = {
 technology = {
 	titles = {
 		d_thrace
+		d_alexandria
+		d_lombardia
+		d_baghdad
+		d_antioch
 	}
 
 	769 = {

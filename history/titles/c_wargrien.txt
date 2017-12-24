@@ -1,0 +1,72 @@
+# -*- ck2.history.titles -*-
+
+854.1.1 = {
+        liege=d_wagrians
+	holder = 1227049
+}
+888.1.1 = {
+	holder = 1227050
+}
+931.1.1 = {
+	holder = 1227051
+}
+955.1.1 = {
+	holder = 1227008 # Selibur
+}
+1010.1.1 = {
+	holder = 1227009
+}
+1040.1.1 = {
+	holder = 1227010
+}
+1065.1.1 = {
+	holder = 20584 # Kruto Wizlawid
+}
+1093.1.1 = {
+	holder = 1227011 # Mordbeil
+}
+1110.1.1 = {
+	holder = 30507 # Przybyslaw Nakonid aka Pribislaw of Alt-lubeck/Wagrians
+}
+1139.1.1 = {
+	holder = 30482 # Race Wizlawid
+}
+1150.1.1 = {
+	holder = 1227012 #Roschel Wizlawid son of previous
+}
+1156.1.1 = {
+	holder = 1227013 #Pribislav Wizlawid brother of previous.
+}
+#####
+1180.1.1 = {
+        liege=k_denmark
+	holder = 201510 # Valdemar the Great
+}
+1182.5.12 = {
+	holder = 201500 # Knud VI
+}
+1187.1.1 = {
+	holder = 201501
+}
+1227.7.22 = { # battle of Bornhoved
+	liege = d_saxony
+	holder = 462114
+}
+1260.10.7 = {
+	holder = 33336
+}
+1282.1.1 = {
+	holder = 462101
+}
+# duchy of Saxe-Ratzeburg-Lauenburg
+1296.1.1 = {
+	liege = e_hre
+	holder = 33343
+}
+1308.1.1 = {
+	liege = d_lauenburg
+	holder = 33344
+}
+1322.4.22 = {
+	holder = 33346
+}

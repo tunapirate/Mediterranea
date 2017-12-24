@@ -1,0 +1,9 @@
+867.1.1 = {
+	holder = 584156
+	law = crown_authority_2
+	law = centralization_2
+	law = succ_primogeniture
+	law = revokation_1
+	law = feudal_slider_1
+	law = feudal_obligations_2
+}

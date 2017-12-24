@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 982 - Prignitz
+
+# County Title
+title = c_prignitz
+
+# Settlements
+max_settlements = 4
+
+b_wittstock = tribal
+#b_pritzwalk = city
+
+#b_ruppin = castle
+#b_perleberg = temple
+#b_ruppin = castle
+#b_lindow = temple
+
+# Misc
+culture = low_saxon
+religion = norse_pagan
+
+# History
+1056.1.1 = { b_wittstock = castle }
+1056.1.1 = { b_pritzwalk = city }
+1160.1.1 = { religion = catholic }
+1160.1.1 = { culture = low_german } 

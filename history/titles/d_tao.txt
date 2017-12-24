@@ -1,0 +1,34 @@
+# -*- ck2.history.titles -*-
+
+888.1.1 = {
+	liege = k_iberia
+	holder = 70461
+}
+891.1.1 = {
+	holder = 160034
+}
+896.1.1 = {
+	holder = 160035
+}
+918.1.1 = {
+	holder = 1232616
+}
+941.1.1 = {
+	holder = 161201
+}
+945.1.1 = {
+	holder = 161202
+}
+961.1.1 = {
+	holder = 161203
+}
+1000.1.1 = {
+	holder = 0
+}
+1064.1.1 = {
+	liege = e_byzantium
+	holder = 1232600
+}
+1071.8.26 = {
+	holder = 0
+}

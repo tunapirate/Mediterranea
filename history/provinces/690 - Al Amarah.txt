@@ -1,22 +1,22 @@
+# -*- ck2.history.provinces -*-
+
 # 690 - Al Amarah
 
 # County Title
 title = c_al_amarah
 
 # Settlements
-max_settlements = 5
-b_amarah = castle
-b_kutelamara = city
-b_wasit = temple
-b_badra = castle
+max_settlements = 6
+b_bandanijin = castle
+b_baqubah = city
+b_daskara = city
+b_jalula = castle
 
-#b_suwaira = city
-#b_azeeziaya = castle
-#b_hai = castle
-b_zurbatiyah = castle
+#b_barazarruz = city
+#b_iskaf_nahrawan = city
 
 #Misc
-culture = assyrian
+culture = pahlavi
 religion = zoroastrian
 
 # History

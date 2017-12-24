@@ -1,24 +1,33 @@
+# -*- ck2.history.provinces -*-
+
 # 248 - St. Gallen
 
 # County Title
 title = c_st_gallen
 
 # Settlements
-max_settlements = 4
-b_rheineck = castle
-b_appenzell = city
+max_settlements = 5
+
+b_kyburg = castle
+b_konstanz = temple
+b_zurich = city
 b_stgallen = temple
 
-#b_frauenfeld = city
-#b_altstatten = castle
-#b_lichtensteig = castle
-#b_vaduz = castle
-#b_herisau = castle
+#b_alttogenburg = castle
+
+
+
+#b_winterthur= city
+#b_badenschweiz= castle
+#b_schanis = temple
+
 
 # Misc
 culture = rhaetic
-religion = roman_rite
+religion = catholic
 
 # History
+1077.1.1 = { b_badenschweiz= castle } #Lenzburger in the Zürichgau
+1170.1.1 = { culture = german }
 
 

@@ -1,4 +1,4 @@
-867.1.1={
-	holder = 504005
-	liege = "d_kabylia"
+867.1.1 = {
+	holder = 504000
+	liege = "k_africa"
 }

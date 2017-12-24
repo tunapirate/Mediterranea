@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1515 - Gojjam
+
+# County Title
+title = c_gojjam
+
+# Settlements
+max_settlements = 4
+b_guihon = tribal
+b_mertulematiam = temple
+
+#b_debremarqos = city
+#b_gafat = castle
+
+# Misc
+culture = ethiopian
+religion = east_african_pagan
+
+# History
+
+  

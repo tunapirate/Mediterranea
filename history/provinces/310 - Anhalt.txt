@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 310 - Anhalt
 
 # County Title
@@ -5,17 +7,28 @@ title = c_anhalt
 
 # Settlements
 max_settlements = 5
-b_zerbst = tribal
 
-#b_magdeburg = temple
+
+b_bernburg = tribal
+#b_zerbst = city
+
+#b_aschersleben = city
+#b_kothen = temple
+#b_plotzkau = castle
 #b_mansfeld = castle
-#b_dessau = castle
+#b_dessau = city
 #b_arnstein = castle
 #b_querfurt = castle
-#b_bernburg  = city
 
 # Misc
-culture = old_saxon
+culture = thuringian
 religion = norse_pagan
 
 # History
+929.1.1 = { 
+b_bernburg = castle
+b_zerbst = city}
+937.1.1 = { religion = catholic }
+950.1.1 = { culture = thuringian } 
+1170.1.1 = { culture = german } 
+1250.1.1= { b_dessau = city } 

@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 942- Saarbrucken
+
+# County Title
+title = c_saarbrucken
+
+# Settlements
+max_settlements = 3
+
+
+
+b_hohnburg = castle
+b_saarbrucken = city
+#b_neukirchen = castle
+#b_homburg = city
+
+# Misc
+culture = frankish
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }

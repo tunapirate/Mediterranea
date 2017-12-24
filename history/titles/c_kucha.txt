@@ -1,90 +1,133 @@
-595.1.1 = {
-	holder = 166708
+# -*- ck2.history.titles -*-
+
+850.1.1 = {
+	liege = d_uighurs
+	holder = 1229800
 }
-624.1.1 = {
-	holder = 166709
+866.1.1 = {
+	holder = 1229801
 }
-646.1.1 = {
-	holder = 166710
+871.1.1 = {
+	holder = 1229808
 }
-689.1.1 = {
-	holder = 166711
+920.1.1 = {
+	liege = d_kucha
+	holder = 1229802
 }
-719.1.1 = {
-	holder = 166712
+940.1.1 = {
+	holder = 1229803
 }
-760.1.1 = {
-	holder = 166713
+948.1.1 = {
+	holder = 1229804
 }
-792.1.1 = {
-	holder = 166715
-}
-#Kingdom of Qocho
-856.1.1 = {
-	liege = d_karashar
-}
-865.1.1 = {
-	holder = 166716
-}
-888.1.1 = {
-	holder = 166776
-}
-896.1.1 = {
-	holder = 166777
-}
-916.1.1 = {
-	holder = 166778
-}
-957.1.1 = {
-	holder = 166779
-}
-988.1.1 = {
-	holder = 166780
+985.1.1 = {
+	holder = 1229809
 }
 1010.1.1 = {
-	holder = 166781
+	holder = 1229810
 }
-1054.1.1 = {
-	holder = 166782
+1040.1.1 = {
+	holder = 1229823 # fictional
 }
-1064.1.1 = {
-	holder = 166783
+1063.1.1 = {
+	holder = 1229813 # date fictional, but a recorded ruler of Kucha Uyghurs
 }
-1080.1.1 = {
-	holder = 166784
+1095.1.1 = {
+	liege = k_turkestan_east
+	holder = 1230283
 }
-1105.1.1 = {
-	holder = 166785
+1102.1.1 = {
+	holder = 144114
 }
-1132.1.1 = {
-	holder = 166786
+1128.1.1 = {
+	holder = 144115
 }
-1165.1.1 = {
-	holder = 166787
+#Increased Qarluq presence around this time
+1137.1.1 = {
+	liege = d_kashgar
 }
-1189.1.1 = {
-	holder = 166788
+1156.1.1 = {
+	holder = 188855
 }
-1206.1.1 = {
-	holder = 166789
+1188.1.1 = {
+	holder = 188856
 }
-1249.1.1 = {
-	holder = 166790
+1205.1.1 = {
+	holder = 188857
 }
-1264.1.1 = {
-	holder = 166791
+1211.1.1 = {
+	liege = e_khitan
+	holder = 1231514
 }
-1297.1.1 = {
-	holder = 166792
+# Mongol conquest
+1218.1.1 = {
+	liege = e_mongol_empire
+	holder = 125501
+}
+1227.12.2 = {
+	liege = k_turkestan_east
+	holder = 93062
+}
+1242.1.1 = {
+	holder = 93064
+}
+1246.1.1 = {
+	holder = 93065
+}
+1248.1.1 = {
+	liege = e_chagatai
+}
+1252.1.1 = {
+	holder = 93064
+}
+1253.1.1 = {
+	holder = 93066
+}
+1260.1.1 = {
+	holder = 93068
+}
+1266.1.1 = {
+	holder = 93066
+}
+1266.9.1 = {
+	holder = 93070
+}
+1271.1.1 = {
+	holder = 93072
+}
+1272.1.1 = {
+	holder = 93074
+}
+1282.1.1 = {
+	holder = 93075
+}
+1307.1.1 = {
+	holder = 93076
+}
+1308.1.1 = {
+	holder = 93078
+}
+1309.1.1 = {
+	holder = 93079
+}
+1310.1.1 = {
+	holder = 93080
 }
 1318.1.1 = {
-	holder = 166793
+	holder = 93079
 }
-1327.1.1 = {
-	holder = 166794
+1326.1.1 = {
+	holder = 93081
 }
-#Conquered by Khizr Khoja of the Chagatai Khanate
-1335.1.1=
-{
+1329.1.1 = {
+	holder = 93082
+}
+1330.1.1 = {
+	holder = 93083
+}
+1334.1.1 = {
+	holder = 93084
+}
+1335.1.1 = {
 	holder = 93086
 }

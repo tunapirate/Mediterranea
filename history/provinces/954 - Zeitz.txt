@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 954 - zeitz
+
+# County Title
+title = c_zeitz
+
+# Settlements
+max_settlements = 3
+b_zeitz = tribal
+#b_halle = city
+#b_naumburg = temple
+
+# Misc
+culture = thuringian
+religion = norse_pagan
+
+# History
+929.1.1 = { b_zeitz = castle}
+929.1.1 = { culture = thuringian }
+929.1.1 = { religion = catholic }
+1170.1.1 = { culture = german } 

@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1331 - Bilbays
+
+# County Title
+title = c_bilbays
+
+# Settlements
+max_settlements = 6
+b_bilbays = castle
+b_basta = city
+b_san_bilbays = temple
+b_samannud = city
+
+#b_abbasiya = castle
+#b_banha = city
+
+# Misc
+culture = coptic
+religion = miaphysite
+
+# History

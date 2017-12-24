@@ -1,0 +1,51 @@
+# -*- ck2.history.titles -*-
+
+854.1.1 = {
+        liege=k_oborites
+	holder = 1227049
+}
+888.1.1 = {
+	holder = 1227050
+}
+931.1.1 = {
+	holder = 1227051
+}
+955.1.1 = {
+	holder = 1227008 # Selibur
+}
+1010.1.1 = {
+	holder = 1227009
+}
+1040.1.1 = {
+	holder = 1227010
+}
+1065.1.1 = {
+	holder = 20584 # Kruto Wizlawid
+}
+1093.1.1 = {
+	holder = 1227011 # Mordbeil
+}
+1110.1.1 = {
+	holder = 30507 # Przybyslaw Nakonid aka Pribislaw of Alt-lubeck/Wagrians
+}
+1139.1.1 = {
+        liege=0
+	holder = 30482 # Race Wizlawid
+}
+1147.1.1 = {
+        liege=k_oborites
+}
+1150.1.1 = {
+	holder = 1227012 #Roschel Wizlawid son of previous
+}
+1156.1.1 = {
+	holder = 1227013 #Pribislav Wizlawid brother of previous.
+}
+1160.1.1 = {
+        liege=k_denmark
+}
+1180.1.1 = {
+        liege=0
+	holder = 0
+}
+

@@ -1,23 +1,23 @@
+# -*- ck2.history.provinces -*-
+
 # 313 - Bamberg
 
 # County Title
 title = c_bamberg 
 
 # Settlements
-max_settlements = 4
-#b_ansbach = castle
-b_babenberg = castle
-b_bamberg = temple
+max_settlements = 3
 
-#b_cadolzburg = castle
-#b_colmberg = castle
-b_roth = city
-#b_uffenheim = castle
-#b_crailsheim = castle
+b_schweinfurt = tribal
+#b_bamberg = temple
+#b_pottenstein = castle
+#b_babenberg = castle
+#b_heilingenstadt = city
+#b_baiersdorf = city
 
 # Misc
-culture = german
-religion = germanic_rite
+culture = thuringian
+religion = norse_pagan
 
 # History
-1337.1.1 = { b_ansbach = castle }
+1170.1.1 = { culture = german }

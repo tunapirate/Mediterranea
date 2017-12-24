@@ -1,22 +1,31 @@
-# 508 - Dorostotum
+# -*- ck2.history.provinces -*-
+
+# 508 - Dorostotum # Preslav
 
 # County Title
 title = c_dorostotum
 
 # Settlements
-max_settlements = 3
-b_dorosturum = castle
+max_settlements = 5
 
-b_rusi = city
-b_shumen = temple
-#b_borovo = castle
-#b_slivopole = castle
-#b_byaladve = castle
-#b_tsenovo = castle
-#b_samuil = castle
+b_pliska = castle
+b_preslav = city
+b_silistra = temple
+#b_shumen = city
+#b_cherven_bulgaria = castle
+#b_ivanovo = temple
+
 
 # Misc
 culture = romanian
 religion = orthodox
 
 # History
+
+893.1.1 = { capital = b_preslav }
+900.1.1 = { religion = orthodox }
+972.1.1 = { remove_settlement = b_pliska } # Demolished by the Byzzies
+1046.1.1 = { culture = pecheneg }
+1046.1.1 = { religion = sunni}
+1091.4.29 = { culture = bulgarian }
+1091.4.29 = { religion = orthodox }

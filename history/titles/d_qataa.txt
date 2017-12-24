@@ -1,0 +1,43 @@
+# -*- ck2.history.titles -*-
+
+856.1.1 = {
+	holder = 1228793
+	set_tribute_suzerain = {
+		who = d_axum
+		percentage = 0.4
+	}
+}
+892.1.1 = {
+	holder = 0
+}
+916.1.1 = {
+	clear_tribute_suzerain = d_axum
+	set_tribute_suzerain = {
+		who = k_abyssinia
+		percentage = 0.4
+	}
+}
+996.1.1 = {
+	holder = 1231676
+}
+1000.1.1 = {
+	clear_tribute_suzerain = k_abyssinia
+}
+1025.1.1 = {
+	holder = 1231653
+}
+1052.1.1 = {
+	holder = 1228779
+}
+1090.1.1 = {
+	holder = 1228780
+}
+1111.1.1 = {
+	holder = 1228781
+}
+1140.1.1 = {
+	holder = 1228782
+}
+#1178.1.1 = {
+#	holder = 1228766
+#}

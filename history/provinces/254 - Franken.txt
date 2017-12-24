@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 254 - Würzburg
 
 # County Title
@@ -5,18 +7,17 @@ title = c_wurzburg
 
 # Settlements
 max_settlements = 4
-b_schweinfurt = castle
-b_wurzburg = temple
-b_aschaffenburg = city
 
-#b_marienberg = castle
+b_karlsburg= castle
+b_wurzburg = temple
+#b_dettlebach = city
+
 #b_hammelburg = castle
-#b_schwarzenberg = castle
 #b_theiheim = castle
 #b_mainderheim = castle
 
 # Misc
-culture = german
+culture = thuringian
 religion = germanic_rite
 
 # History
@@ -24,3 +25,4 @@ religion = germanic_rite
 1168.1.1 = {
 	capital = b_wurzburg
 }
+1170.1.1 = { culture = german }

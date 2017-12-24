@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 113 - Vermandois
 
 # County Title
@@ -5,17 +7,18 @@ title = c_vermandois
 
 # Settlements
 max_settlements = 5
-b_rethel = castle
-b_laon = temple
+b_guise = castle
+b_signy = temple
 b_stquentin = city
 
-#b_crepy = city
+#b_roucy = castle
 #b_montaigu = castle
 #b_coucy = castle
-#b_guise = castle
-#b_signy = temple
+#b_marlesaisnes = castle
 
-culture = gallic
+culture = frankish
 religion = hellenic_pagan
 
 # History
+
+1187.1.1 = { b_coucy = castle } 

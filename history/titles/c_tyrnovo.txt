@@ -1,4 +1,3 @@
-867.1.1={
-	holder=1700
-	liege=d_thracia
+867.1.1 = {
+	liege = "e_byzantium"
 }

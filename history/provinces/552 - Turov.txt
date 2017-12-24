@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 552 - Turov
 
 # County Title
@@ -5,27 +7,25 @@ title = c_turov
 
 # Settlements
 max_settlements = 5
+
 b_turov = tribal
 #b_mazyr = city
-b_dubrovitsya = temple
-
-#b_slutsk = castle
-#b_zhytkavichy = castle
-#b_bobruisk = city
-#b_petrykaw = castle
-#b_yelsk = castle
+#b_petrykaw = temple
+#b_rahachow = castle
+#b_zhytkavichy = city
+#b_hlusk = castle
+#b_lelchytsy = city
+#b_zlobin = city
+#b_stresin = castle
+#b_lukski = castle
 
 # Misc
-culture = volhynian
+culture = russian
 religion = slavic_pagan
 
 # History
-867.1.1 = {
-	culture = russian
-}
-988.1.1 = {
-	religion = orthodox
-	b_turov = castle
-	b_mazyr = city
-}
-1160.1.1 = { b_slutsk = castle }
+988.1.1 = {religion = orthodox }
+988.1.1 = {b_mazyr = city
+b_petrykaw = temple
+b_rahachow = castle }
+1160.1.1 = { b_hlusk = castle }

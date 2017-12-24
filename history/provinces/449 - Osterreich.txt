@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 449 - Österreich
 
 # County Title
@@ -5,20 +7,26 @@ title = c_osterreich
 
 # Settlements
 max_settlements = 6
-b_wien = castle
-b_linz = city
-b_melk = temple
 
-#b_hohenwarth = castle
-#b_stpolten = city
-#b_wagram = castle
-#b_krems = castle
-#b_steyr = castle
+b_pochlarn = tribal #(Pöchlarn; old capital of the East March) 
+#b_wien = city
+#b_melk = temple
+#b_raabs = castle
+#b_klosterneuburg = temple #(Klosterneuburg)
+#b_heiligenkreuz = temple
+#b_stpolten = city #(Sankt Pölten)
+#b_modling = city #(Mödling)
+#b_hainburg = city
+#b_liechtenstein = castle
+#b_falkenstein = castle
+#b_stolzenworth = castle #(Stolzenwörth)
+#b_maissau= castle
 
 # Misc
-culture = german
-religion = germanic_rite
+culture = bohemian
+religion = slavic_pagan
 
 # History
-
-1187.1.1 = { b_steyr = castle } 
+1114.1.1 = { b_klosterneuburg = temple } 
+1159.1.1 = { b_stpolten = city }
+1170.1.1 = { culture = german }

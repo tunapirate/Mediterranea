@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 55 - Westmorland
 
 # County Title
@@ -5,18 +7,18 @@ title = c_westmorland
 
 # Settlements
 max_settlements = 3
-b_appleby = tribal
 
-#b_lowther = city
+b_appleby = tribal
 #b_kendal = castle
-#b_cartmel = temple
 #b_brough = castle
-#b_kirkby = castle
-#b_shap = castle
+#b_cartmel = temple
 #b_brougham = castle
 
+
 # Misc
-culture = welsh
+culture = cumbric
 religion = celtic_rite
 
 # History
+#1068.1.1 = { culture = saxon } # held by Scotland and therefor not affected by the Harrying.
+1100.11.11 = { culture = english }

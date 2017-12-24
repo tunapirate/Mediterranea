@@ -1,0 +1,105 @@
+# -*- ck2.history.titles -*-
+
+860.1.1 = {
+	liege = d_severians
+	holder = 6860
+}
+902.1.1 = {
+	holder = 160089
+}
+910.1.1 = {
+	holder = 1601003
+}
+951.1.1 = {
+	holder = 1601005
+}
+990.1.1 = {
+	holder = 1601007
+}
+1024.1.2 = {
+	liege = d_pereyaslavl
+	#liege = 0
+	holder = 618
+}
+1036.1.2 = {
+	holder = 612
+}
+1054.2.20 = {
+	holder = 630
+}
+1073.1.2 = {
+	holder = 656
+}
+1076.12.27 = {
+	holder = 630
+}
+1093.4.13 = {
+	holder = 125093
+}
+1093.5.26 = {
+	holder = 666
+}
+1113.4.16 = {
+	holder = 125097
+}
+1114.3.16 = {
+	holder = 125101
+}
+1132.4.14 = {
+	holder = 222525
+}
+1133.1.2 = {
+	holder = 125102
+}
+1134.1.2 = {
+	holder = 222672
+}
+1135.1.2 = {
+	holder = 125106
+}
+# Berendi returns to the steppes, joins the Black hats.
+1139.1.1 = {
+	liege = d_black_caps
+	holder = 1232000
+}
+1148.1.1 = {
+	holder = 1232002
+}
+1178.1.1 = {
+	holder = 1232004
+}
+1220.1.1 = {
+	holder = 1232006
+}
+1240.1.1 = {
+	liege = d_pereyaslavl
+	holder = 125192
+}
+1252.2.3 = {
+	liege = d_chernigov
+	holder = 125065
+}
+1263.1.2 = {
+	holder = 125059
+}
+1289.1.2 = {
+	holder = 125060
+}
+1290.1.2 = {
+	holder = 125061
+}
+1308.1.2 = {
+	holder = 472506
+}
+1309.1.2 = {
+	holder = 472511
+}
+1310.1.2 = {
+	holder = 472506
+}
+1314.1.2 = {
+	holder = 472507
+}
+1330.1.2 = {
+	holder = 472510
+}

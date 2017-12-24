@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 219 - Gevaudan
 
 # County Title
@@ -10,13 +12,15 @@ b_mende = temple
 b_marvejols = city
 
 #b_apchier = castle
-#b_florac = castle
-#b_lepuy = city
+#b_florac = city
 #b_stsauveur = temple
 #b_tournel = castle
 
 #Misc
-culture = occitan
 religion = hellenic_pagan
+culture = occitan
 
 # History
+1307.1.1   = {
+	capital = b_mende
+}

@@ -1,22 +1,18 @@
+# -*- ck2.history.provinces -*-
+
 # 114 - Reims
 
 # County Title
 title = c_reims
 
 # Settlements
-max_settlements = 7
-
-b_reims = castle
-b_provins = city
+max_settlements = 4
+b_reims = temple
 b_chalons = temple
-b_chatillon = castle
-b_chateauthierry = city
+#b_louvois = castle
+b_vitry = castle
 
-#b_epernay = castle
-#b_roucy = castle
-#b_vertus = city
-
-culture = gallic
+culture = frankish
 religion = hellenic_pagan
 
 # History

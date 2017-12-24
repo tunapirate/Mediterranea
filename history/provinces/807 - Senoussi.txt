@@ -1,14 +1,18 @@
+# -*- ck2.history.provinces -*-
+
 # 807 - Senoussi
 
 # County Title
 title = c_senoussi
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
-b_kufra = castle
+b_awjila = tribal
 
 #b_jalu = city
+#b_arzakiya = temple
+
 #b_jakharrah = temple
 #b_gabr = castle
 #b_attallab = castle
@@ -17,7 +21,10 @@ b_kufra = castle
 #b_attaj = castle
 
 # Misc
-culture = maghreb_arabic
-religion = miaphysite
+culture = tuareg
+religion = west_african_pagan
 
 # History
+
+1052.1.1 = { culture = bedouin_arabic }
+#1171.1.1 = { religion = sunni }

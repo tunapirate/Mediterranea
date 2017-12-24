@@ -1,21 +1,28 @@
-# 329 - Urbino
+# -*- ck2.history.provinces -*-
+
+# 329 - Urbino # Piobicco
 
 # County Title
 title = c_urbino
 
 # Settlements
-max_settlements = 4
-b_urbino = castle
-b_sanmarino = city
-b_sanseverino = temple
-b_montefeltro = castle
-#b_gubbio = castle
-#b_fano = castle
-#b_cittadicastello = castle
-#b_fossombrone = castle
+max_settlements = 5
+
+b_piobbico = castle
+b_urbino = city
+b_cagli = temple
+b_senigallia = castle
+#b_pesaro = city
+#b_fano = city
+
+
 
 # Misc
-culture = apennine
+culture = roman
 religion = hellenic_pagan
-
+terrain = hills
 # History
+
+1000.1.1 = { capital = b_piobbico }
+1289.1.1 = { capital = b_cagli }
+1292.1.1 = { capital = b_piobbico }

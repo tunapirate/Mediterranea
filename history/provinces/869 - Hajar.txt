@@ -1,22 +1,24 @@
+# -*- ck2.history.provinces -*-
+
 # 869 - Hajar
 
 # County Title
 title = c_hajar
 
 # Settlements
-max_settlements = 4
-b_alhamra = castle
-b_nizwa = temple
-#b_ibri = city
-
-#b_jabrin = castle
-#b_rustaq = castle
-#b_masruq = castle
-#b_haran = castle
-#b_yanqui = castle
+max_settlements = 5
+b_qalatnizwa = tribal
+b_nizwa = temple #was city
+#b_bahla = castle
+#b_nakhal = castle
+#b_rustaq_nizwa = castle
 
 # Misc
 culture = bedouin_arabic
 religion = hindu
 
 # History
+1250.1.1 = {
+	b_qalatnizwa = castle
+	b_bahla = castle
+}

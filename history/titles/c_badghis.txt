@@ -1,0 +1,118 @@
+# -*- ck2.history.titles -*-
+
+828.1.1 = {
+	liege = k_khorasan
+	holder = 163158
+}
+841.1.1 = {
+	holder = 163155
+}
+856.1.1 = { #driven out and captured by Ya'qub of the Saffarids in 867
+	holder = 1235920
+}
+1011.1.1 = {
+	liege = d_herat
+	holder = 144127 # Masud
+}
+1030.1.1 = {
+	holder = 144126 # Muhammad
+}
+1031.1.1 = {
+	holder = 144127 # Masud
+}
+1040.11.1 = {
+	liege = d_sistan
+	holder = 1229901
+}
+1051.1.1 = {
+	liege = k_khorasan
+}
+1058.1.1 = {
+	liege = d_sistan
+}
+1060.1.1 = {
+	liege = d_herat
+}
+1064.1.1 = {
+	holder = 1230199
+}
+1066.1.1 = {
+	liege = k_khorasan
+	holder = 1229905
+}
+1072.11.1 = {
+	liege = d_herat
+	holder = 1229924
+}
+1096.1.1 = {
+	holder = 93121
+}
+1097.1.1 = { #placeholder
+	holder = 1229947
+}
+1120.1.1 = {
+	holder = 144015
+}
+1157.5.8 = {
+	holder = 1230193
+}
+1172.1.1 = {
+	liege = 0
+	holder = 1230194
+}
+# to Ghurids
+1175.1.1 = {
+	liege = d_herat
+	holder = 1230336
+}
+1203.1.1 = {
+	holder = 144142
+}
+1206.1.1 = {
+	holder = 1230338
+}
+1212.1.1 = {
+	holder = 93144
+}
+1213.1.1 = {
+	holder = 93145
+}
+1214.1.1 = {
+	holder = 1230332
+}
+1215.1.1 = {
+	holder = 93053
+	#liege = e_persia
+}
+1222.1.1 = {
+	holder = 125501
+}
+1227.12.2 = {
+	holder = 172005
+}
+1241.12.11 = {
+	holder = 172007
+}
+1248.1.1 = {
+	liege = e_il-khanate
+	holder = 217265
+}
+1252.1.1 = {
+	liege = d_herat
+	holder = 93154
+}
+1277.1.1 = {
+	holder = 93155
+}
+1295.1.1 = {
+	holder = 93156
+}
+1308.1.1 = {
+	holder = 93157
+}
+1330.1.1 = {
+	holder = 93158
+}
+1332.1.1 = {
+	holder = 93159
+}

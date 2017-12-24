@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1968 - Niya
+
+# County Title
+title = c_niya
+
+# Settlements
+max_settlements = 3
+b_niya = castle
+b_cherchen = city
+#b_endere = temple
+
+# Misc
+culture = saka
+religion = buddhist
+
+# History
+980.1.1 = {
+	culture = uyghur
+}

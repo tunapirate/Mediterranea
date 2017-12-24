@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 1264 - Kuenring
+
+# County Title
+title = c_kuenring
+
+# Settlements
+max_settlements = 3
+
+b_kuhenring = tribal
+#b_zwettl = temple #1137
+#b_krems = city #955
+#b_weitra = temple
+#b_stein = temple
+#b_hardegg = castle
+#b_hartenstein = castle
+
+# Misc
+culture = bohemian
+religion = slavic_pagan
+
+# History
+955.1.1 = { b_krems = city }
+1100.1.1 = { culture = bavarian }
+1137.1.1 = { b_zwettl = temple }
+1170.1.1 = { culture = german }

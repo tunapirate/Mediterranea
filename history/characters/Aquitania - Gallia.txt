@@ -1,0 +1,634 @@
+# Septimanie
+
+594000 = { # Provincia
+    name="Pèire"
+    dynasty=59775
+    religion="apollonian"
+    culture="occitan"
+	
+	#History
+	 
+    823.4.18={
+		birth=yes
+    }
+	847.1.1={
+		add_spouse=594001
+	}
+}
+594001 = {
+    name="Juliana"
+    religion="apollonian"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+    827.8.29={
+		birth=yes
+    }
+	847.1.1={
+		add_spouse=594000
+	}
+}
+594002 = {
+    name="Serenus"
+    dynasty=59775
+    religion="apollonian"
+    culture="occitan"
+	father=594000
+	mother=594001
+	
+	#History
+	 
+	848.2.3={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=594003
+	}
+}
+594003 = {
+    name="Eisabèu"
+    religion="apollonian"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+	850.5.28={
+		birth=yes
+	}
+	866.1.1={
+		add_spouse=594002
+	}
+}
+594004 = {
+    name="Constància"
+    dynasty=59775
+    religion="apollonian"
+    culture="occitan"
+	father=594000
+	mother=594001
+	female=yes
+	
+	#History
+	 
+	850.5.14={
+		birth=yes
+		add_trait=twin
+	}
+}
+594005 = {
+    name="Elena"
+    dynasty=59775
+    religion="apollonian"
+    culture="occitan"
+	father=594000
+	mother=594001
+	female=yes
+	
+	#History
+	 
+	850.5.14={
+		birth=yes
+		add_trait=twin
+	}
+}
+594006 = {
+    name="Leon"
+    dynasty=59775
+    religion="apollonian"
+    culture="occitan"
+	father=594000
+	mother=594001
+	
+	add_trait=quick
+	
+	#History
+	 
+	854.9.22={
+		birth=yes
+	}
+}
+594007 = { # Gapencois
+    name="Julian"
+    dynasty=59776
+    religion="apollonian"
+    culture="occitan"
+	
+	#History
+	 
+    834.2.25={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=594008
+	}
+}
+594008 = {
+    name="Cecilia"
+    religion="apollonian"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+    834.2.25={
+		birth=yes
+    }
+	854.1.1={
+		add_spouse=594007
+	}
+}
+594009 = {
+    name="Julia"
+    dynasty=59776
+    religion="apollonian"
+    culture="occitan"
+	father=594007
+	mother=594008
+	female=yes
+	
+	#History
+
+	856.12.25={
+		birth=yes
+	}
+}
+594010 = { # Septimania
+    name="Vicenç"
+    dynasty=59516
+    religion="apollonian"
+    culture="occitan"
+	
+	#History
+	 
+    827.4.30={
+		birth=yes
+    }
+	849.1.1={
+		add_spouse=594011
+	}
+}
+594011 = {
+    name="Camila"
+    religion="apollonian"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+    829.10.2={
+		birth=yes
+    }
+	849.1.1={
+		add_spouse=594010
+	}
+}
+594012 = {
+    name="Vicenç"
+    dynasty=59516
+    religion="apollonian"
+    culture="occitan"
+	father=594010
+	mother=594011
+	
+	#History
+	 
+	850.3.18={
+		birth=yes
+	}
+	867.1.1={
+		add_spouse=594017
+	}
+}
+594013 = {
+    name="Martin"
+    dynasty=59516
+    religion="apollonian"
+    culture="occitan"
+	father=594010
+	mother=594011
+	
+	#History
+	 
+	853.6.9={
+		birth=yes
+	}
+}
+594014 = {
+    name="Patricia"
+    dynasty=59516
+    religion="apollonian"
+    culture="occitan"
+	father=594010
+	mother=594011
+	female=yes
+	
+	#History
+	 
+	850.3.18={
+		birth=yes
+	}
+}
+594015 = { # Montpellier
+    name="Laurènç"
+    dynasty=59777
+    religion="apollonian"
+    culture="occitan"
+	
+	#History
+	 
+    824.12.19={
+		birth=yes
+    }
+	847.1.1={
+		add_spouse=594016
+	}
+}
+594016 = {
+    name="Alpaïs"
+    religion="apollonian"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+    827.6.13={
+		birth=yes
+    }
+	847.1.1={
+		add_spouse=594015
+	}
+}
+594017 = {
+    name="Dolça"
+    dynasty=59777
+    religion="apollonian"
+    culture="occitan"
+	father=594015
+	mother=594016
+	female=yes
+	
+	#History
+	 
+    851.1.1={
+		birth=yes
+    }
+	867.1.1={
+		add_spouse=594012
+	}
+}
+594018 = { # Foix
+    name="Rainaud"
+    dynasty=59778
+    religion="dianic"
+    culture="occitan"
+	
+	#History
+	 
+    841.1.1={
+		birth=yes
+    }
+}
+594019 = { # Tolosa
+    name="Felix"
+    dynasty=59779
+    religion="dianic"
+    culture="occitan"
+	
+	#History
+	 
+    826.9.30={
+		birth=yes
+    }
+	848.1.1={
+		add_spouse=594020
+	}
+}
+594020 = {
+    name="Livia"
+    religion="dianic"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+    828.4.17={
+		birth=yes
+    }
+	848.1.1={
+		add_spouse=594019
+	}
+}
+594021 = {
+    name="Ricard"
+    dynasty=59779
+    religion="dianic"
+    culture="occitan"
+	father=594019
+	mother=594020
+	
+	#History
+	 
+	851.3.12={
+		birth=yes
+	}
+}
+594022 = {
+    name="Eisabèu"
+    dynasty=59779
+    religion="dianic"
+    culture="occitan"
+	father=594019
+	mother=594020
+	female=yes
+	
+	#History
+	 
+	853.10.26={
+		birth=yes
+	}
+}
+594023 = {
+    name="Eufèmia"
+    dynasty=59779
+    religion="dianic"
+    culture="occitan"
+	father=594019
+	mother=594020
+	female=yes
+	
+	#History
+	 
+	856.1.12={
+		birth=yes
+	}
+}
+594024 = {
+    name="Jordan"
+    dynasty=59779
+    religion="dianic"
+    culture="occitan"
+	father=594019
+	mother=594020
+	
+	#History
+	 
+	857.11.13={
+		birth=yes
+	}
+}
+594025 = { # Bigorre
+    name="Antso" 
+    dynasty=59756
+    religion="dianic"
+    culture="basque"
+	
+	#History
+	 
+	829.8.24={
+		birth=yes
+	}
+	851.1.1={
+		add_spouse=594026
+	}
+}
+594026 = {
+    name="Konstantzia"
+    dynasty=59756
+    religion="dianic"
+    culture="basque"
+	female=yes
+	
+	#History
+	 
+	829.8.24={
+		birth=yes
+	}
+	851.1.1={
+		add_spouse=594026
+	}
+}
+594027 = {
+    name="Antso"
+    dynasty=59756
+    religion="dianic"
+    culture="basque"
+	father=594025
+	mother=594026
+	
+	#History
+	 
+	854.2.14={
+		birth=yes
+	}
+}
+594028 = {
+    name="Fortun"
+    dynasty=59756
+    religion="dianic"
+    culture="basque"
+	father=594025
+	mother=594026
+	
+	#History
+	 
+	856.3.2={
+		birth=yes
+	}
+}
+594029 = { # Armagnac / Ausciorum
+    name="Urso" 
+    dynasty=59780
+    religion="dianic"
+    culture="occitan"
+	
+	#History
+	 
+	834.4.26={
+		birth=yes
+	}
+	853.1.1={
+		add_spouse=594030
+	}
+}
+594030 = {
+    name="Aelia"
+    religion="dianic"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+	833.12.3={
+		birth=yes
+	}
+	853.1.1={
+		add_spouse=594029
+	}
+}
+594031 = {
+    name="Verounica" 
+    dynasty=59780
+    religion="dianic"
+    culture="occitan"
+	father=594029
+	mother=594030
+	female=yes
+	
+	#History
+	 
+	853.11.8={
+		birth=yes
+	}
+}
+594032 = {
+    name="Marcel" 
+    dynasty=59780
+    religion="dianic"
+    culture="occitan"
+	father=594029
+	mother=594030
+	
+	#History
+	 
+	855.1.1={
+		birth=yes
+	}
+}
+594033 = {
+    name="Peironèla" 
+    dynasty=59780
+    religion="dianic"
+    culture="occitan"
+	father=594029
+	mother=594030
+	female=yes
+	
+	#History
+	 
+	859.11.8={
+		birth=yes
+	}
+}
+594034 = { # Aquitania / Nemossus
+    name="Victor" 
+    dynasty=59781
+    religion="saturnal"
+    culture="occitan"
+	
+	#History
+	 
+	822.7.15={
+		birth=yes
+	}
+	845.1.1={
+		add_spouse=594035
+	}
+}
+594035 = {
+    name="Cornelia"
+    religion="saturnal"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+	825.4.7={
+		birth=yes
+	}
+	845.1.1={
+		add_spouse=594034
+	}
+}
+594036 = { # La Marche
+    name="Marcus" 
+    dynasty=59782
+    religion="saturnal"
+    culture="occitan"
+	
+	#History
+	 
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=594037
+	}
+}
+594037 = {
+    name="Victoria"
+    religion="saturnal"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=594036
+	}
+}
+594038 = { # Vivares
+    name="Paulus" 
+    dynasty=59783
+    religion="saturnal"
+    culture="occitan"
+	
+	#History
+	 
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=594039
+	}
+}
+594039 = {
+    name="Victoria"
+    religion="saturnal"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=594038
+	}
+}
+594040 = { # Perigord
+    name="Petronius" 
+    dynasty=59783
+    religion="saturnal"
+    culture="occitan"
+	
+	#History
+	 
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=594041
+	}
+}
+594041 = {
+    name="Victoria"
+    religion="saturnal"
+    culture="occitan"
+	female=yes
+	
+	#History
+	 
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=594040
+	}
+}

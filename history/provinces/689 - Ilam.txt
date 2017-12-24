@@ -1,22 +1,28 @@
-# 689 - Ilam
+# -*- ck2.history.provinces -*-
+
+# 689 - Igharayn
 
 # County Title
-title = c_ilam
+title = c_igharayn
 
 # Settlements
 max_settlements = 6
-b_dehloran = castle
-b_ilam = city
-b_chahartaghi = temple
-b_mehran = city
-b_abdanan = castle
-b_hezardar = castle
+b_nihavand = castle
+b_khurramabad = city
+b_burujerd = temple
+b_dorood = city
 
-#b_ghalehghiran = castle
-#b_towhid = castle
+#b_alashtar = castle
+#b_aligoodarz = castle
+
+#b_burdj = castle
+#b_lishtar = temple
 
 #Misc
-culture = assyrian
+culture = pahlavi
 religion = zoroastrian
 
 # History
+#1066.1.1 = {
+#	b_alashtar = castle
+#}

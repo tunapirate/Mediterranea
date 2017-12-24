@@ -1,22 +1,20 @@
+# -*- ck2.history.provinces -*-
+
 # 776 - Hebron
 
 # County Title
 title = c_hebron
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_hebron = castle
-b_deimachar = city
-b_bethlehem = temple
-
-#b_syrbelmont = castle
+b_syrcarmel = city
+b_bethgibelin = castle
 #b_alsamoa = castle
-#b_saintcharlton = temple
-#b_latrun = castle
-#b_bethgibelin = castle
+#b_syrsebbe = temple
 
 # Misc
-culture = mizrahi
-religion = jewish
+culture = levantine_arabic
+religion = miaphysite
 
 # History

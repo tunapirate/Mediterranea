@@ -1,25 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 357 - Treviso
 
 # County Title
 title = c_treviso
 
 # Settlements
-max_settlements = 4
-b_treviso = castle
-b_bassano = city
-b_oderzo = temple
-#b_castelfranco = castle
-#b_citadella = castle
-#b_asola = castle
-#b_ceneda = castle
-#b_paese = castle
+max_settlements = 5
+
+
+b_collalto = castle
+b_montanara = castle
+b_treviso = city
+b_belluno = temple
+b_feltre = temple
+
 
 # Misc
-culture = lombard
+culture = venetian
 religion = hellenic_pagan
+terrain = hills
 
 # History
-789.1.1 = { culture = italian }
+1116.1.1 = { capital = b_montanara } # Collalto falls out with the emperor.
 1078.1.1 = { trade_post = b_contarini }
-1164.1.1 = {capital = b_bassano }
-1283.1.1 = { capital = b_treviso }
+#1164.1.1 = {capital = b_treviso } # ct
+#1283.1.1 = { capital = b_montanara } # ca

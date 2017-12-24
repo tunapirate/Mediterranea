@@ -1,22 +1,31 @@
-# 635 - Qohistan
+# -*- ck2.history.provinces -*-
+
+# 635 - Qohistan #Qohestán
 
 # County Title
 title = c_qohistan
 
 # Settlements
-max_settlements = 4
-b_torshiz = castle
-b_beyhaq = city
-b_gonabad = temple
+max_settlements = 6
 
-#b_torbatjam = temple
-#b_kalat = castle
-#b_bardaskan = castle
-#b_mahvalat = castle
-#b_fariman = castle
+b_kain = tribal
+b_tun = city
+#b_khur = temple
+#b_khusb = castle
+#b_naband_qohistan = temple
+#b_kuri = castle
+#b_birjand = city
 
 # Misc
-culture = persian
+culture = baloch
 religion = zoroastrian
 
 # History
+970.1.1 = { religion = sunni }
+970.1.1 = { culture = khorasani }
+1051.1.1 = {
+	b_kain = castle
+	b_khur = temple
+	b_kuri = city
+}
+1120.1.1 = { religion = ismaili }

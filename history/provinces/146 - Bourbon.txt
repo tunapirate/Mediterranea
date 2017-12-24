@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 146 - Bourbon
 
 # County Title
@@ -11,11 +13,11 @@ b_souvigny = temple
 
 #b_lancy = castle
 #b_montpensier = castle
-#b_murat = castle
 #b_vichy = city
 
 #Misc
-culture = gallic
 religion = hellenic_pagan
+culture = frankish
 
 # History
+1250.1.1   = { b_montlucon = castle }

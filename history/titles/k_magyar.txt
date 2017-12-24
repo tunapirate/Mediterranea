@@ -1,4 +1,8 @@
-867.1.1={
+867.1.1 = {
 	holder = 159137
-	set_tribute_suzerain = { who = e_byzantium percentage = 0.20 }
+	set_tribute_suzerain = {
+		who = e_byzantium
+		percentage = 0.4
+		type = permanent
+	}
 }

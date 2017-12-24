@@ -1,23 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 439 - Plzen
 
 # County Title
 title = c_plzen
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_plzen = tribal
-
-#b_rokycany = temple
 #b_stribo = city
-#b_tachov = city
-#b_cheb = castle
-#b_plasy = castle
-#b_pomuk = castle
-#b_susice = castle
-
+#b_kladruby = temple
+#b_tachov = castle
+#b_primda = castle
+#b_velhartice = castle
+#b_klatovy = city
+#b_rokycany = city
+#b_plasy = temple
+#b_tepla = temple
 
 # Misc
 culture = lombard
 religion = norse_pagan
 
 # History
+
+883.1.1 = { religion = catholic }
+1126.1.6 = { b_primda = castle }

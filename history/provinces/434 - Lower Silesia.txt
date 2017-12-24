@@ -1,22 +1,32 @@
+# -*- ck2.history.provinces -*-
+
 # 434 - Lower Silesia
 
 # County Title
-title = c_lower_silesia
+
+title = c_upper_silesia
 
 # Settlements
 max_settlements = 5
-b_glogow = tribal
-#b_krosno = city
-#b_legnica = temple
-
-#b_jawor = castle
-#b_lwowek = castle
-#b_swidnica = city
-#b_boleslawiec = castle
-#b_zagan = castle 
+b_wroclaw = tribal
+b_brzeg = city
+b_sleza = temple
+#b_ostrow_tumski = temple
+#b_olesnica = castle
+#b_niemcza = castle
+#b_henrykow = castle
 
 # Misc
 culture = polish
 religion = slavic_pagan
 
 # History
+990.1.1 = { religion = catholic 
+b_wroclaw = castle
+b_brzeg = city
+}
+#1165.1.1 = { remove_settlement = b_sleza } 
+#1165.1.1 = { b_ostrow_tumski = temple }
+1187.1.1 = { b_henrykow = temple }
+1260.1.1 = { culture = german } #German settlers
+

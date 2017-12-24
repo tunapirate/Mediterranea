@@ -1,3 +1,5 @@
+# -*- ck2.events -*-
+
 ###########################################
 #
 # Holy Order Events
@@ -30,6 +32,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		has_character_modifier = borrowed_from_knights_templar
@@ -39,7 +43,7 @@ character_event = {
 			is_adult = yes
 			is_ruler = no
 			prisoner = no
-			NOT = { trait = incapable }
+			is_incapable = no
 			ROOT = {
 				NOT = { 
 					current_heir = { 
@@ -62,7 +66,7 @@ character_event = {
 				is_adult = yes
 				is_ruler = no
 				prisoner = no
-				NOT = { trait = incapable }
+				is_incapable = no
 				ROOT = {
 					NOT = { 
 						current_heir = { 
@@ -141,7 +145,6 @@ letter_event = {
 					move_character = PREV
 					add_trait = celibate
 					end_inaccessibility_effect = yes #removes in_hiding or in_seclusion
-
 				}
 			}
 		}
@@ -205,6 +208,7 @@ character_event = {
 	
 	immediate = {
 		set_defacto_liege = FROM
+		emf_liege_change = yes
 		FROM = {
 			letter_event = {
 				id = SoA.1016
@@ -243,6 +247,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
@@ -387,141 +393,8 @@ province_event = {
 character_event = {
 	id = SoA.1030
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = catholic
-			religion = cathar
-			religion = fraticelli
-			religion = waldensian
-			religion = lollard
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_knights_templar
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_knights_templar }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_knights_templar
-			}
-		}
-		
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-		modifier = {
-			factor = 3.0 # Prefer the Teutonic Order
-			OR = {
-				culture_group = north_germanic
-				culture_group = central_germanic
-				culture_group = magyar
-				culture_group = south_slavic
-				culture_group = west_slavic
-			}
-		}
-	}
-	
+	is_triggered_only = yes # EMF: Changed to triggered event
+
 	immediate = {
 		liege = {
 			character_event = {
@@ -630,6 +503,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
@@ -838,6 +713,7 @@ character_event = {
 				is_liege_or_above = FROM
 			}
 			set_defacto_liege = THIS
+			emf_liege_change = yes
 		}
 	
 		FROM = {
@@ -883,6 +759,7 @@ character_event = {
 	
 	immediate = {
 		set_defacto_liege = FROM
+		emf_liege_change = yes
 		FROM = {
 			letter_event = {
 				id = SoA.1116
@@ -908,141 +785,8 @@ letter_event = {
 character_event = {
 	id = SoA.1130
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = catholic
-			religion = cathar
-			religion = fraticelli
-			religion = waldensian
-			religion = lollard
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_knights_hospitaler
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_knights_hospitaler }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_knights_hospitaler
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-		modifier = {
-			factor = 3.0 # Prefer the Teutonic Order
-			OR = {
-				culture_group = north_germanic
-				culture_group = central_germanic
-				culture_group = magyar
-				culture_group = south_slavic
-				culture_group = west_slavic
-			}
-		}
-	}
-	
 	immediate = {
 		liege = {
 			character_event = {
@@ -1196,6 +940,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
@@ -1372,8 +1118,8 @@ province_event = {
 	option = {
 		name = EVTOPTA_SOA_1024
 		build_holding = {
-		   type = castle
-		   holder = FROMFROM
+			type = castle
+			holder = FROMFROM
 		}
 	}
 }
@@ -1395,7 +1141,8 @@ character_event = {
 		OR = {
 			religion = sunni
 			religion = zikri
-			religion = yazidi
+			religion = mahdiyya
+			religion = nabawiyya
 		}
 		is_heretic = no
 		has_character_modifier = borrowed_from_bektashi
@@ -1405,7 +1152,7 @@ character_event = {
 			is_adult = yes
 			is_ruler = no
 			prisoner = no
-			NOT = { trait = incapable }
+			is_incapable = no
 			ROOT = {
 				NOT = { 
 					current_heir = { 
@@ -1428,7 +1175,7 @@ character_event = {
 				is_adult = yes
 				is_ruler = no
 				prisoner = no
-				NOT = { trait = incapable }
+				is_incapable = no
 				ROOT = {
 					NOT = { 
 						current_heir = { 
@@ -1544,32 +1291,12 @@ narrative_event = {
 		OR = {
 			religion = sunni
 			religion = zikri
-			religion = yazidi
+			religion = mahdiyya
+			religion = nabawiyya
 		}
 		is_heretic = no
 		NOT = {
 			is_title_active = d_bektashi
-		}
-		
-		
-		OR = {
-			year = 1228	# Historical
-			
-			693 = { # Baghdad
-				NOT = { owner = { religion_group = muslim } }
-			}
-			728 = { # Damascus
-				NOT = { owner = { religion_group = muslim } }
-			}
-			796 = { # Cairo
-				NOT = { owner = { religion_group = muslim } }
-			}
-			774 = { # Jerusalem
-				NOT = { owner = { religion_group = muslim } }
-			}
-			719 = { # Mecca
-				NOT = { owner = { religion_group = muslim } }
-			}
 		}
 	}
 	
@@ -1610,79 +1337,7 @@ narrative_event = {
 			d_bektashi = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -1744,7 +1399,8 @@ character_event = {
 		OR = {
 			religion = sunni
 			religion = zikri
-			religion = yazidi
+			religion = mahdiyya
+			religion = nabawiyya
 		}
 		is_heretic = no
 		
@@ -1876,8 +1532,8 @@ province_event = {
 	option = {
 		name = EVTOPTA_SOA_1024
 		build_holding = {
-		   type = castle
-		   holder = FROMFROM
+			type = castle
+			holder = FROMFROM
 		}
 	}
 }
@@ -1886,128 +1542,8 @@ province_event = {
 character_event = {
 	id = SoA.1230
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = muslim
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = sunni
-			religion = zikri
-			religion = yazidi
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_bektashi
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_bektashi }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_bektashi
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -2118,9 +1654,9 @@ character_event = {
 		OR = {
 			religion = sunni
 			religion = zikri
-			religion = yazidi
+			religion = mahdiyya
+			religion = nabawiyya
 		}
-
 		d_bektashi = {
 			holder_scope = {
 				wealth = 300
@@ -2277,8 +1813,8 @@ province_event = {
 	option = {
 		name = EVTOPTA_SOA_1024
 		build_holding = {
-		   type = castle
-		   holder = FROMFROM
+			type = castle
+			holder = FROMFROM
 		}
 	}
 }
@@ -2292,142 +1828,7 @@ province_event = {
 character_event = {
 	id = SoA.1330
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = catholic
-			religion = cathar
-			religion = fraticelli
-			religion = waldensian
-			religion = lollard
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_teutonic_order
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_teutonic_order }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_teutonic_order
-			}
-		}
-
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-		modifier = {
-			factor = 3.0 # Prefer the other Holy Orders
-			NOT = {
-				OR = {
-					culture_group = north_germanic
-					culture_group = central_germanic
-					culture_group = magyar
-					culture_group = south_slavic
-					culture_group = west_slavic
-				}
-			}
-		}
-	}
+	is_triggered_only = yes # EMF: Changed to triggered event
 	
 	immediate = {
 		liege = {
@@ -2558,6 +1959,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
@@ -2757,12 +2160,7 @@ character_event = {
 	religion_group = muslim
 	
 	trigger = {
-		OR = {
-			religion = shiite
-			religion = druze
-			religion = hurufi
-		}
-		is_heretic = no
+		emf_holy_order_hashshashin_religion = yes
 		has_character_modifier = borrowed_from_assassins
 		NOT = { has_character_flag = sent_son_to_assassins }
 		any_child = {
@@ -2770,7 +2168,7 @@ character_event = {
 			is_adult = yes
 			is_ruler = no
 			prisoner = no
-			NOT = { trait = incapable }
+			is_incapable = no
 			ROOT = {
 				NOT = { 
 					current_heir = { 
@@ -2800,7 +2198,7 @@ character_event = {
 				is_adult = yes
 				is_ruler = no
 				prisoner = no
-				NOT = { trait = incapable }
+				is_incapable = no
 				ROOT = {
 					NOT = { 
 						current_heir = { 
@@ -2857,9 +2255,6 @@ letter_event = {
 	
 	option = {
 		name = EVTOPTA_SOA_1403 # Agree
-		ai_chance = {
-			factor = 100
-		}
 		
 		set_character_flag = sent_son_to_assassins
 		
@@ -2871,10 +2266,14 @@ letter_event = {
 					move_character = PREV
 					hidden_tooltip = {
 						clear_wealth = PREV
+						add_trait = disinherited
 					}
 					end_inaccessibility_effect = yes #removes in_hiding or in_seclusion
 				}
 			}
+		}
+		ai_chance = {
+			factor = 10
 		}
 	}
 	
@@ -2887,11 +2286,48 @@ letter_event = {
 		FROM = {
 			wealth = 300
 		}
+
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 0
+				NOT = { wealth = 300 }
+			}
+		}
 	}
 	
 	option = {
 		name = EVTOPTC_SOA_1003 # Refuse
-		piety = -1000
+
+		if = {
+			limit = { NOT = { has_dlc = "Mystics" } }
+			piety = -1000
+		}
+		if = {
+			limit = { has_dlc = "Mystics" }
+			piety = -200
+			set_character_flag = assassins_refused_to_pay_debt
+		}
+
+		ai_chance = {
+			factor = 3
+			modifier = {
+				factor = 2
+				NOT = { wealth = 300 }
+			}
+			modifier = {
+				factor = 2
+				trait = greedy
+			}
+			modifier = {
+				factor = 2
+				is_impious_trigger = yes
+			}
+			modifier = {
+				factor = 0
+				NOT = { has_dlc = "Mystics" }
+			}
+		}
 	}
 }
 
@@ -2935,12 +2371,7 @@ character_event = {
 	religion_group = muslim
 	
 	trigger = {
-		OR = {
-			religion = shiite
-			religion = druze
-			religion = hurufi
-		}
-		is_heretic = no
+		emf_holy_order_hashshashin_religion = yes
 		
 		has_character_modifier = borrowed_from_assassins
 		NOT = { has_character_flag = sent_son_to_assassins }
@@ -3021,9 +2452,6 @@ letter_event = {
 	
 	option = {
 		name = EVTOPTA_SOA_1023 # Agree
-		ai_chance = {
-			factor = 100
-		}
 		
 		hidden_tooltip = {
 			remove_character_modifier = borrowed_from_assassins
@@ -3033,6 +2461,9 @@ letter_event = {
 		}
 		
 		piety = 100
+		ai_chance = {
+			factor = 10
+		}
 	}
 	
 	option = {
@@ -3044,11 +2475,48 @@ letter_event = {
 		FROM = {
 			wealth = 300
 		}
+
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 0
+				NOT = { wealth = 300 }
+			}
+		}	
 	}
 	
 	option = {
 		name = EVTOPTC_SOA_1003 # Refuse
-		piety = -1000
+		
+		if = {
+			limit = { NOT = { has_dlc = "Mystics" } }
+			piety = -1000
+		}
+		if = {
+			limit = { has_dlc = "Mystics" }
+			piety = -200
+			set_character_flag = assassins_refused_to_pay_debt
+		}
+
+		ai_chance = {
+			factor = 3
+			modifier = {
+				factor = 2
+				NOT = { wealth = 300 }
+			}
+			modifier = {
+				factor = 2
+				trait = greedy
+			}
+			modifier = {
+				factor = 2
+				is_impious_trigger = yes
+			}
+			modifier = {
+				factor = 0
+				NOT = { has_dlc = "Mystics" }
+			}
+		}
 	}
 }
 
@@ -3080,129 +2548,8 @@ province_event = {
 character_event = {
 	id = SoA.1430
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = muslim
-	
-	trigger = {
-		OR = {
-			religion = shiite
-			religion = druze
-			religion = hurufi
-		}
-		is_heretic = no
-		
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_hashshashin
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_hashshashin }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_hashshashin
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -3306,12 +2653,7 @@ character_event = {
 	religion_group = muslim
 	
 	trigger = {
-		OR = {
-			religion = shiite
-			religion = druze
-			religion = hurufi
-		}
-		is_heretic = no
+		emf_holy_order_hashshashin_religion = yes
 		
 		d_hashshashin = {
 			holder_scope = {
@@ -3504,6 +2846,7 @@ character_event = {
 				is_liege_or_above = FROM
 			}
 			set_defacto_liege = THIS
+			emf_liege_change = yes
 		}
 	
 		FROM = {
@@ -3545,126 +2888,8 @@ letter_event = {
 character_event = {
 	id = SoA.1530
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = pagan_group
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = norse_pagan
-			religion = norse_pagan_reformed
-		}
-		
-		martial = 5
-		
-		is_title_active = d_jomsvikings
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_jomsvikings }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_jomsvikings
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -4008,6 +3233,7 @@ character_event = {
 				is_liege_or_above = FROM
 			}
 			set_defacto_liege = THIS
+			emf_liege_change = yes
 		}
 	
 		FROM = {
@@ -4058,21 +3284,37 @@ narrative_event = {
 	religion_group = christian
 	
 	trigger = {
+		controls_religion = yes
+		religion = orthodox
+		
 		OR = {
-				496 = { # Constantinople
-					NOT = { owner = { religion_group = christian } }
+			AND = {
+				496 = { # Byzantium has fallen
+					NAND = {
+						holder_scope = { religion_group = christian }
+						religion = orthodox 
+					}
 				}
-				764 = { # Antioch
-					NOT = { owner = { religion_group = christian } }
+				764 = { # Antioch has fallen
+					NAND = { 
+						holder_scope = { religion_group = christian }
+						religion = orthodox 
+					}
 				}
-				774 = { # Jerusalem
-					NOT = { owner = { religion_group = christian } }
+				774 = { # Jerusalem has fallen
+					NAND = {
+						holder_scope = { religion_group = christian }
+						religion = orthodox 
+					}
 				}
-				802 = { # Alexandria
-					NOT = { owner = { religion_group = christian } }
+				802 = { # Alexandria has fallen
+					NAND = {
+						holder_scope = { religion_group = christian }
+						religion = orthodox 
+					}
 				}
 			}
-		
+		}
 		is_heretic = no
 			
 		NOT = {
@@ -4086,7 +3328,6 @@ narrative_event = {
 	
 	immediate = {
 		activate_title = { title = d_holy_sepulchre status = yes }
-		set_global_flag = orthodox_crusades_unlocked
 		create_character = {
 			random_traits = no
 			dynasty = random
@@ -4106,79 +3347,7 @@ narrative_event = {
 			d_holy_sepulchre = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = greek
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -4200,130 +3369,7 @@ narrative_event = {
 character_event = {
 	id = SoA.1630
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = orthodox
-			religion = bogomilist
-			religion = monothelite
-			religion = iconoclast
-			religion = paulician
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_holy_sepulchre
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_holy_sepulchre }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_holy_sepulchre
-			}
-		}
-
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
+	is_triggered_only = yes # EMF: Changed to triggered event
 	
 	immediate = {
 		liege = {
@@ -4766,79 +3812,7 @@ narrative_event = {
 			d_saint_anthony = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ethiopian
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -4860,127 +3834,8 @@ narrative_event = {
 character_event = {
 	id = SoA.1730
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = miaphysite
-			religion = monophysite
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_saint_anthony
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_saint_anthony }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_saint_anthony
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -5355,26 +4210,15 @@ narrative_event = {
 	
 	only_playable = yes
 	religion_group = zoroastrian_group
-	
+	has_global_flag = zoroastrian_priesthood_founded
 	
 	trigger = {
 		is_heretic = no
 		NOT = {
 			is_title_active = d_immortals
 		}
-		OR = {
-			693 = { # Baghdad
-				NOT = { owner = { religion_group = zoroastrian_group } }
-			}
-			646 = { # Esfahan
-				NOT = { owner = { religion_group = zoroastrian_group } }
-			}
-			643 = { # Fars
-				NOT = { owner = { religion_group = zoroastrian_group } }
-			}
-		}
 	}
-		
+	
 	mean_time_to_happen = {
 		months = 36
 	}
@@ -5400,79 +4244,7 @@ narrative_event = {
 			d_immortals = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -5494,123 +4266,8 @@ narrative_event = {
 character_event = {
 	id = SoA.1830
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = zoroastrian_group
-	
-	trigger = {
-		is_ruler = no
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_immortals
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_immortals }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_immortals
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -6014,79 +4671,7 @@ narrative_event = {
 			d_zealots = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = ashkenazi
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -6108,123 +4693,7 @@ narrative_event = {
 character_event = {
 	id = SoA.1930
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = jewish_group
-	
-	trigger = {
-		is_ruler = no
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_zealots
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_zealots }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_zealots
-			}
-		}
-
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
+	is_triggered_only = yes # EMF: Changed to triggered event
 	
 	immediate = {
 		liege = {
@@ -6629,79 +5098,7 @@ narrative_event = {
 			d_sky_lords = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = tengri_pagan_reformed
-				culture = cuman
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -6723,122 +5120,8 @@ narrative_event = {
 character_event = {
 	id = SoA.2030
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion = tengri_pagan_reformed
-	
-	trigger = {
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_sky_lords
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_sky_lords }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_sky_lords
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -7241,79 +5524,7 @@ narrative_event = {
 			d_spirit_guardians = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = west_african_pagan_reformed
-				culture = manden
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -7335,122 +5546,8 @@ narrative_event = {
 character_event = {
 	id = SoA.2130
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion = west_african_pagan_reformed
-	
-	trigger = {
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_spirit_guardians
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_spirit_guardians }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_spirit_guardians
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -7852,79 +5949,7 @@ narrative_event = {
 			d_warriors_perun = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = slavic_pagan_reformed
-				culture = russian
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -7946,122 +5971,7 @@ narrative_event = {
 character_event = {
 	id = SoA.2230
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion = slavic_pagan_reformed
-	
-	trigger = {
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_warriors_perun
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_warriors_perun }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_warriors_perun
-			}
-		}
-
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
+	is_triggered_only = yes # EMF: Changed to triggered event
 	
 	immediate = {
 		liege = {
@@ -8464,79 +6374,7 @@ narrative_event = {
 			d_chosen_perkunas = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = baltic_pagan_reformed
-				culture = lettigallish
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -8558,122 +6396,8 @@ narrative_event = {
 character_event = {
 	id = SoA.2330
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion = baltic_pagan_reformed
-	
-	trigger = {
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_chosen_perkunas
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_chosen_perkunas }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_chosen_perkunas
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -9075,79 +6799,7 @@ narrative_event = {
 			d_sons_kaleva = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = finnish_pagan_reformed
-				culture = finnish
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -9169,122 +6821,8 @@ narrative_event = {
 character_event = {
 	id = SoA.2430
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion = finnish_pagan_reformed
-	
-	trigger = {
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_sons_kaleva
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		NOT = { has_character_modifier = expelled_d_sons_kaleva }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_sons_kaleva
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
-	
 	immediate = {
 		liege = {
 			character_event = {
@@ -9685,79 +7223,7 @@ narrative_event = {
 			d_huitzilopochtli = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = aztec_reformed
-				culture = nahuatl
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -9779,121 +7245,7 @@ narrative_event = {
 character_event = {
 	id = SoA.2530
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion = aztec_reformed
-	
-	trigger = {
-		is_ruler = no
-		
-		martial = 5
-		
-		is_title_active = d_huitzilopochtli
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		NOT = { has_character_modifier = expelled_d_huitzilopochtli }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_huitzilopochtli
-			}
-		}
-
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
+	is_triggered_only = yes # EMF: Changed to triggered event
 	
 	immediate = {
 		liege = {
@@ -10260,21 +7612,22 @@ narrative_event = {
 	only_playable = yes
 	hide_from = yes
 	religion_group = christian
+	has_dlc = "Sons of Abraham"
 	has_global_flag = christian_crusades_unlocked
 	
 	trigger = {
-		has_dlc = "Sons of Abraham"
 		OR = {
 			religion = catholic
 			religion = cathar
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
 		NOT = { is_title_active = d_knights_santiago }
-		
 		
 		OR = {
 			year = 1175	# Historical
@@ -10324,79 +7677,7 @@ narrative_event = {
 			d_knights_santiago = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -10418,137 +7699,8 @@ narrative_event = {
 character_event = {
 	id = SoA.2630
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = catholic
-			religion = cathar
-			religion = fraticelli
-			religion = waldensian
-			religion = lollard
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_knights_santiago
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_knights_santiago }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_knights_santiago
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-		modifier = {
-			factor = 3.0 # Prefer the Order of Santiago
-			OR = {
-				culture_group = iberian
-				culture = andalusian_arabic
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -10692,6 +7844,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
@@ -10925,21 +8079,22 @@ narrative_event = {
 	only_playable = yes
 	hide_from = yes
 	religion_group = christian
+	has_dlc = "Sons of Abraham"
 	has_global_flag = christian_crusades_unlocked
 	
 	trigger = {
-		has_dlc = "Sons of Abraham"
 		OR = {
 			religion = catholic
 			religion = cathar
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
 		NOT = { is_title_active = d_knights_calatrava }
-		
 		
 		OR = {
 			year = 1164	# Historical
@@ -10989,79 +8144,7 @@ narrative_event = {
 			d_knights_calatrava = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = castillan
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -11083,137 +8166,9 @@ narrative_event = {
 character_event = {
 	id = SoA.2730
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = catholic
-			religion = cathar
-			religion = fraticelli
-			religion = waldensian
-			religion = lollard
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_knights_calatrava
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_knights_calatrava }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_knights_calatrava
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-		modifier = {
-			factor = 3.0 # Prefer the Order of Calatrava
-			OR = {
-				culture_group = iberian
-				culture = andalusian_arabic
-			}
-		}
-	}
+
 	
 	immediate = {
 		liege = {
@@ -11358,6 +8313,8 @@ character_event = {
 			religion = fraticelli
 			religion = waldensian
 			religion = lollard
+			religion = adoptionist
+			religion = arian
 		}
 		is_heretic = no
 		
@@ -11593,9 +8550,9 @@ narrative_event = {
 	only_playable = yes
 	hide_from = yes
 	religion_group = christian
+	has_dlc = "Sons of Abraham"
 	
 	trigger = {
-		has_dlc = "Sons of Abraham"
 		
 		OR = {
 			religion = nestorian
@@ -11657,79 +8614,7 @@ narrative_event = {
 			d_saint_addai = {
 				grant_title = PREV
 			}
-			set_government_type = feudal_government
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 18
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 20
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 25
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = persian
-				female = no
-				age = 26
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = kurdish
-				female = no
-				age = 28
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = kurdish
-				female = yes
-				age = 16
-			}
-			create_character = {
-				random_traits = yes
-				dynasty = random
-				religion = ROOT
-				culture = kurdish
-				female = yes
-				age = 17
-			}
+			emf_new_character = yes
 		}
 	}
 	
@@ -11751,127 +8636,8 @@ narrative_event = {
 character_event = {
 	id = SoA.2830
 	hide_window = yes
-	
-	only_men = yes
-	min_age = 16
-	max_age = 45
-	only_capable = yes
-	prisoner = no
-	religion_group = christian
-	
-	trigger = {
-		is_ruler = no
-		OR = {
-			religion = nestorian
-			religion = messalian
-		}
-		is_heretic = no
-		
-		martial = 5
-		
-		is_title_active = d_saint_addai
-		
-		OR = {
-			father_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-			mother_even_if_dead = {
-				primary_title = { higher_tier_than = BARON }
-			}
-		}
-		
-		liege = {
-			holy_order = no
-			liege = {
-				holy_order = no
-			}
-		}
-		
-		has_dlc = "Sons of Abraham"
-		
-		NOT = { has_character_modifier = expelled_d_saint_addai }
-		NOT = {
-			any_liege = {
-				has_character_modifier = expelled_d_saint_addai
-			}
-		}
+	is_triggered_only = yes # EMF: Changed to triggered event
 
-		NOT = {
-			any_spouse = {
-				OR = {
-					is_landed = yes
-					AND = {
-						is_pregnant = yes
-					father_of_unborn = { character = ROOT } # Won't happen if spouse is pregnant with non-bastard child
-					}
-				}
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		years = 100
-		modifier = {
-			factor = 0.25
-			trait = zealous
-		}
-		modifier = {
-			factor = 0.5
-			trait = celibate
-		}
-		modifier = {
-			factor = 0.5
-			trait = homosexual
-		}
-		modifier = {
-			factor = 0.7
-			trait = content
-		}
-		modifier = {
-			factor = 0.75
-			trait = chaste
-		}
-		modifier = {
-			factor = 0.75
-			NOT = { age = 25 }
-		}
-		modifier = {
-			factor = 1.5
-			trait = slothful
-		}
-		modifier = {
-			factor = 2.0
-			trait = lustful
-		}
-		modifier = {
-			factor = 2.0
-			trait = cynical
-		}
-		modifier = {
-			factor = 2.0
-			trait = hedonist
-		}
-		modifier = {
-			factor = 2.0
-			trait = ambitious
-		}
-		modifier = {
-			factor = 2.0
-			any_heir_title = {
-				always = yes
-			}
-		}
-		modifier = {
-			factor = 2.0
-			is_primary_heir = yes
-		}
-		modifier = {
-			factor = 2
-			any_spouse = {
-				reverse_opinion = { who = ROOT value = 100 }
-			}
-		}
-	}
 	
 	immediate = {
 		liege = {
@@ -13170,3 +9936,4 @@ character_event = {
 		}
 	}
 }
+

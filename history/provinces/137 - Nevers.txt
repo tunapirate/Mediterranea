@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 137 - Nevers
 
 # County Title
@@ -7,16 +9,14 @@ title = c_nevers
 max_settlements = 4
 b_nevers = castle
 b_lacharite = temple
-b_courtenay = city
-
+b_clamecy = city
 #b_chateauchinon = castle
 #b_donzy = temple
 #b_vandenesse = castle
-#b_clamecy = city
 #b_cosne = city
 
 #Misc
-religion = gallic_rite
-culture = gallic
+religion = hellenic_pagan
+culture = frankish
 
 # History

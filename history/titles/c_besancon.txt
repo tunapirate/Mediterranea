@@ -1,0 +1,12 @@
+# -*- ck2.history.titles -*-
+
+# Archevêché puis ville libre.
+842.1.1 = {
+	liege = k_lotharingia
+}
+888.1.1 = {
+	liege = k_burgundy
+}
+1032.1.1 = {
+	liege = e_hre
+}

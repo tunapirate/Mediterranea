@@ -1,19 +1,22 @@
+# -*- ck2.history.provinces -*-
+
 # 790 - Sarqihya
 
 # County Title
 title = c_sarqihya
 
 # Settlements
-max_settlements = 4
-b_sarqinya = castle
-b_clysma = city
-b_atfih = temple
+max_settlements = 3
+b_quzlum = castle
+b_sarqihya = temple
+b_suez = city
 
+#b_clysma = city
+#b_atfih = temple
 #b_taufiq = castle
 #b_agruda = castle
 #b_alhaifar = castle
 #b_shallufa = castle
-#b_suez = city
 
 # Misc
 culture = coptic

@@ -1,4 +1,8 @@
 867.1.1={
 	holder = 514300
-	set_tribute_suzerain = { who = k_mesopotamia percentage = 0.40 }
+	set_tribute_suzerain = { 
+		who = k_mesopotamia 
+		percentage = 0.40 
+		type = permanent
+	}
 }

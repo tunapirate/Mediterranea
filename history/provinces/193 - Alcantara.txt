@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 193 - Alcantara
 
 # County Title
@@ -5,17 +7,18 @@ title = c_alcantara
 
 # Settlements
 max_settlements = 4
+
+b_coria = castle
+b_caceres = city
 b_alcantara = castle
-b_moraleja = city
-b_coria = temple
-#b_brozas = castle
-#b_lamata = castle
-#b_racharachel = castle
-#b_lasnavasdelmadrono = city
-#b_ceclavin = castle
+#b_valenciadealcantara = city
+
 
 # Misc
-culture = lusitanian
+culture = hispanic
 religion = hellenic_pagan
 
 # History
+
+1236.1.1 = { culture = castillan }
+1236.1.1 = { religion = catholic }

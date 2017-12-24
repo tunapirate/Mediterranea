@@ -1,0 +1,63 @@
+# -*- ck2.history.titles -*-
+
+867.1.1 = {
+	holder = 184008
+}
+# CJL78 - Giudice of Logudoro
+984.1.1 = {
+	holder = 1601604
+}
+1015.1.1 = {
+	holder = 1167060
+}
+1038.1.1 = {
+	holder = 1167061
+}
+1060.1.1 = {
+	holder = 1167062
+}
+1073.1.1 = {
+	holder = 1167064
+}
+1112.1.1 = {
+	holder = 1167065
+}
+1127.1.1 = {
+	holder = 1167066
+}
+1153.1.1 = {
+	holder = 1167067
+}
+1186.1.1 = {
+	holder = 1167068
+}
+1198.1.1 = {
+	holder = 1167069
+}
+1218.1.1 = {
+	holder = 1167070
+}
+1233.1.1 = {
+	holder = 1167071
+}
+1236.1.1 = {
+	holder = 1167072
+}
+1237.11.28 = {
+    liege=d_sardinia
+}
+1249.5.26 = {
+    liege=0
+}
+1259.1.1 = {
+	liege = d_genoa
+	holder = 71151# Niccolò Doria
+	# Adelasia dies heirless, most of Logudoro coming under control of Genoese
+}
+1276.1.1 = {
+	holder = 71154# Branca Doria
+}
+1324.1.1 = {
+	liege = k_aragon
+	holder = 10651439 # Azzone Malaspina, signore di Osilio
+}

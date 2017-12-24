@@ -1,22 +1,33 @@
+# -*- ck2.history.provinces -*-
+
 # 312 - Meissen
 
 # County Title
 title = c_meissen
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_dresden = tribal
-
 #b_dohna = city
 #b_meissen = temple
-#b_belgern = castle # Called Altenburg
+
+#b_belgern = castle
 #b_strehla = castle
 #b_rabenau = castle
-#b_wettin = castle
 #b_radeburg = city
 
 # Misc
-culture = german
+culture = thuringian
 religion = norse_pagan
 
 # History
+929.1.1 = {
+	b_dresden = castle
+	b_dohna = city
+	b_meissen = temple
+}
+929.1.1 = { culture = thuringian }
+929.1.1 = { religion = catholic }
+1170.1.1 = { culture = german }
+# silver mines of Freiberg founded in 1186 (not listed)
+1186.1.1 = { b_radeburg = city }

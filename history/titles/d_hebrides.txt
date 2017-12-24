@@ -1,0 +1,8 @@
+# -*- ck2.history.titles -*-
+
+855.1.1 = {
+	holder = 168610 # Ketill flatnose
+}
+874.1.1 = {
+	holder = 0
+}

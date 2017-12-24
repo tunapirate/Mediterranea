@@ -1,13 +1,14 @@
+# -*- ck2.history.provinces -*-
+
 # 118 - Trier
 
 # County Title
 title = c_trier
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_trier = temple
 b_coblenz = city
-b_sponheim = castle
 
 #b_andernach = castle
 #b_wittlich = castle
@@ -16,11 +17,11 @@ b_sponheim = castle
 #b_bitburg = castle
 
 # Misc
-culture = frankish
-religion = gallic_rite
+culture = franconian
+religion = germanic_rite
 
 # History
-
+1170.1.1 = { culture = german }
 
 
 

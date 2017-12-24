@@ -1,23 +1,31 @@
+# -*- ck2.history.provinces -*-
+
 # 828 - Ouled Nail
 
 # County Title
 title = c_ouled_nail
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tubirett = castle
-b_msila = city
+b_bousaada = tribal #Bou Sa'ada
 b_sidiheg = temple
 
+#b_ainzia = city #Ain Zia
 #b_roumana = castle
-#b_ainzia = castle
-#b_sidinhar = castle
+#b_ainrich = castle
+#b_hassibenmadjeb = castle
+
+#b_tubirett = castle
 #b_bordjelcaid = castle
 #b_beneldir = castle
 
 # Misc
-culture = maghreb_arabic
+culture = sanhaja
 religion = african_rite
 
 # History
+
+
+
+

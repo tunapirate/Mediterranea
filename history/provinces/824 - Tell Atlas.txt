@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 824 - Tell Atlas
 
 # County Title
@@ -6,9 +8,13 @@ title = c_tell_atlas
 # Settlements
 max_settlements = 5
 
-b_tiziouzou = castle
-b_zaoula = city
-b_akaoudj = temple
+b_masila = castle
+b_tabna = city
+b_bilizma = temple
+
+#b_msila = city
+#b_batna = castle
+#b_sidinhar = castle
 
 #b_mirabeau = castle
 #b_nacina = castle
@@ -17,7 +23,10 @@ b_akaoudj = temple
 #b_mechreck = castle
 
 # Misc
-culture = african
+culture = sanhaja
 religion = african_rite
 
 # History
+1054.1.1 = { b_masila = tribal } #was 1068
+
+

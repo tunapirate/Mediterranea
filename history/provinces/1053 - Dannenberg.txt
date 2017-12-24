@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1053 - Dannenberg
+
+# County Title
+title = c_dannenberg
+
+# Settlements
+max_settlements = 3
+
+b_dannenberg = tribal
+#b_luchow = castle
+#b_grabowdannenberg = city
+#b_domitzdannenberg = castle
+
+
+# Misc
+
+culture = low_saxon
+religion = norse_pagan
+
+# History
+1153.1.1 = { culture = low_german }
+1153.1.1 = { religion = catholic } 

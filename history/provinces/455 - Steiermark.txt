@@ -1,26 +1,33 @@
-# 465 - Steiermark
+# -*- ck2.history.provinces -*-
+
+# 455 - Steiermark
 
 # County Title
 title = c_steiermark
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_eppenstein = castle
-b_graz = city
-b_lavant = temple
-
-#b_cilli = castle
-#b_seckau = castle
-#b_leibnitz = castle
-#b_radkersburg = castle
-#b_stubing = castle
+#b_graz = city
+b_seckau = temple
+#b_stubing = castle #Stübing
+#b_admont = temple
+#b_goss = temple # Göss
+#b_leibnitz = temple
+#b_leoben = city
+#b_judenburg = city
+#b_bruck = city
+#b_kapfenberg = castle
+#b_murau = castle
+#b_landsberg = castle
+#b_voitsberg = castle
 
 # Misc
-culture = italian
-religion = hellenic_pagan
+culture = east_gothic
+religion = orthodox
 
 # History
-
-
+955.1.1 = { culture = bavarian }
+1170.1.1 = { culture = german }
 
 

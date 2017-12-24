@@ -1,63 +1,136 @@
+# -*- ck2.history.technology -*-
+
+#Romanesque
+
+technology = {
+	titles = {
+	# Egypt
+		d_augustamnica
+		d_arcadia
+		d_marmarica
+		d_aswan
+		d_cyrenaica
+		d_sinai
+	# Africa
+		d_carthage
+		d_byzacena
+	# Numidia
+		d_alger
+		d_aures
+		d_kabylia
+	}  
+    
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CASTLE_CONSTRUCTION = 2.0
+		TECH_TEMPLE_CONSTRUCTION = 2.0
+		TECH_LEGALISM = 2.0
+	}
+	   
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}  
+}   
+
 #EAST AFRICA
 
 technology = {
 	titles = {
-	#k_abyssinia
-		d_damot
-		d_gojjam
+		d_afar
 		d_gondar
-		d_shewa
-	#k_africa
-		d_tripolitania
-	#k_aksum
-		d_axum
-		d_semien
-		d_wag
-	#k_nubia
-		d_hayya
+		d_damot
 		d_nobatia
 		d_nubia
 		d_sennar
-	}
-
+		d_berbera 
+		d_ifat    
+		d_tedjoura
+		d_amhara  
+		d_alodia  
+		d_badi
+		d_axum
+		d_aydhab
+		d_kassala       
+	}  
+    
 	769 = {
-		military = 0.1
-		economy = 0.1
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		  
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
+}   
+    
+# Berbera
+    
+technology = {
+	titles = {
+		d_tripolitania
+		d_tlemcen
+		d_fes
+		d_marrakech
+		d_draa
+	}  
+	
+	769 = {
+		military = 0.6
+		economy = 0.2
 		culture = 0.1
-		
+
+    TECH_CAVALRY = 1.6
+     		
 	}
 	
 	1337 = {
-		military = 3.5
-		economy = 3.5
+		military = 3.9
+		economy = 3.7
 		culture = 3.5
 	}
 }
 
 #WEST AFRICA
-
+    
 technology = {
 	titles = {
-	#k_mali
-		d_timbuktu
 		d_ghana
 		d_mali
 		d_songhay
-	#_mauretania
-		d_marrakech
-		d_trans-atlas
-	}
+		d_mema   
+		d_bambuk 
+		d_kala   
+		d_wolof  
+		d_takrur 
+		d_mossi  
+		d_bornu  
+		d_kanem  
+		d_kano   
+		d_kebbi  
+		d_gobir
+	}  
 	
 	769 = {
 		military = 0.1
-		economy = 0.1
-		culture = 0.1
+		economy = 0.7
+		culture = 0.3
+    
+    TECH_TRADE_PRACTICES = 1.2
 		
 	}
 	
 	1337 = {
 		military = 3.5
-		economy = 3.5
-		culture = 3.5
+		economy = 3.9
+		culture = 3.7
 	}
 }

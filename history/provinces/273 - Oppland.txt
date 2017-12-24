@@ -1,30 +1,25 @@
-# 273 - Oppland
+# -*- ck2.history.provinces -*-
+
+# 273 - Oppland # Ringrike
 
 # County Title
 title = c_oppland
 
 # Settlements
 max_settlements = 3
-b_dovre = tribal
 
-#b_lillehammer = city
-#b_favang = temple
-#b_lom = castle
-#b_oyer = city
-#b_slidre = castle
-#b_flesberg = temple
-#b_garmo = temple
+b_hole = tribal # Hólar/Steinn
+#b_tingelstad = castle # Þengilstaðir
+#b_tanberg = castle # Þornberg
+
 
 # Misc
 culture = norse
 religion = norse_pagan
 
 # History
-1000.1.1 = {
-	b_dovre = castle
-	b_lillehammer = city
-}
-1066.1.1 = {
-	culture = norwegian
-	religion = catholic
-}
+1015.1.1 = { b_hole = castle
+b_tanberg = castle } # Fat Olav
+1025.1.1 = { religion = catholic } 
+1035.1.1 = { culture = norwegian } 
+

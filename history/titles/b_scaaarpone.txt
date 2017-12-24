@@ -1,0 +1,36 @@
+# -*- ck2.history.titles -*-
+
+923.1.1 = {
+	liege = c_bar
+}
+1010.1.1 = {
+	holder = 161489 # Richuin Scarponnois
+}
+1052.1.1 = {
+	holder = 11000 # Louis Scarponnois
+}
+#copied from c_bar
+1071.1.1 = {
+	holder = 20250 # Thierry de Scarponnois
+}
+1103.1.2 = {
+	holder = 7565 #Renaud Scarponnois
+}
+1149.3.10 = {
+	holder = 7566 #Renaud Scarponnois
+}
+1170.7.25 = {
+	holder = 34300 #Henri Scarponnois
+}
+1190.10.1 = {
+	holder = 7568
+}
+1214.2.13 = {
+	holder = 7569
+}
+1239.11.13 = {
+	holder = 7570
+}
+1261.1.1 = {
+	holder = 0 #guess
+}

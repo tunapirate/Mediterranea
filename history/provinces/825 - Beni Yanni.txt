@@ -1,16 +1,19 @@
+# -*- ck2.history.provinces -*-
+
 # 825 - Beni Yanni
 
 # County Title
 title = c_beni_yanni
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_bourmedes = castle
-b_tafoughalt = city
-b_tigzirt = temple
-b_bujima = castle
-
+b_jijel = castle
+b_djimla = city
+b_bourmedes = city
+#b_tafoughalt = city
+#b_tigzirt = temple
+#b_bujima = castle
 #b_azeffoun = castle
 #b_taoudouch = castle
 #b_azazga = castle
@@ -21,3 +24,5 @@ culture = african
 religion = african_rite
 
 # History
+
+

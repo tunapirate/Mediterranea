@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1033 - Leuchtenberg
+
+# County Title
+title = c_leuchenberg #landgraviate
+
+# Settlements
+max_settlements = 3
+b_leuchenberg = tribal
+#b_hals = castle
+#b_grafenwohr = city
+#b_pleystein = temple
+#b_reichenstein = castle
+
+# Misc
+culture = lombard
+religion = norse_pagan
+
+# History
+1170.1.1 = { culture = german }
+

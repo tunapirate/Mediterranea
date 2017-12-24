@@ -1,19 +1,17 @@
+# -*- ck2.history.provinces -*-
+
 # 500 - Serdica
 
 # County Title
 title = c_serdica
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_serdica = castle
-b_velbazhd = city
-b_rila = temple
-b_etropole = castle
-
-#b_pernik = castle
-#b_pravets = castle
-#b_breznik = castle
+b_vratsa = city
+b_etropole = temple
+b_breznik = castle
 #b_samundzhievo = castle
 
 # Misc
@@ -21,3 +19,4 @@ culture = romanian
 religion = orthodox
 
 # History
+

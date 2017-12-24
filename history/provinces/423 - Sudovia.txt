@@ -1,27 +1,24 @@
-# 423 - Trakai #Former Sudovia
+# -*- ck2.history.provinces -*-
+
+# 423 - Sudovia
 
 # County Title
 title = c_sudovia
 
 # Settlements
 max_settlements = 4
-b_vilkaviskis = tribal
-#b_trakai = city
-#b_suvalkai = temple
 
-#b_hrodna = city
-#b_raiziai = castle
-#b_augustavas = castle
-#b_seiniai = temple
-#b_merkine = castle
+
+b_elk = tribal
+#b_rajgrod = castle
+#b_sejny = temple
+#b_olecko = city
+
 
 # Misc
 culture = lithuanian
 religion = baltic_pagan
 
 # History
-1187.1.1 = {
-	b_vilkaviskis = castle
-	b_trakai = city
-	b_suvalkai = castle
-}
+1253.6.30  = { b_elk = castle } # Granduchy of Lithuania formed
+1253.6.30  = { b_rajgrod = castle }

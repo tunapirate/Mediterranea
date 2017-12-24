@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 90 - Jülich
 
 # County Title
@@ -6,18 +8,16 @@ title = c_julich
 # Settlements
 max_settlements = 4
 b_julich = castle
-b_aachen = city
-b_prum = temple
-
-#b_roermond = city
-#b_geldern = castle
-#b_duren = castle
-#b_moers = castle
-#b_monschau = temple
+b_zulpich = city
+#b_nideggen = castle
+b_monschau = temple
+#b_schleiden = city
+#b_kronenburg = castle
+#b_aldenhoven = city
 
 # Misc
-culture = frankish
-religion = gallic_rite
+culture = franconian
+religion = germanic_rite
 
 # History
-
+1170.1.1 = { culture = german }

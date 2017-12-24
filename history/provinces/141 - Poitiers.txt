@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 141 - Poitiers
 
 # County Title
@@ -20,3 +22,7 @@ religion = hellenic_pagan
 culture = occitan
 
 # History
+#1090.1.1 = { b_moncontour = temple }
+1214.1.1 = {
+	culture = frankish
+}

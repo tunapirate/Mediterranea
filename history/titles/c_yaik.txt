@@ -1,64 +1,78 @@
-768.1.1={
-	holder=188789
-}
+# -*- ck2.history.titles -*-
 
-850.1.1={
-	liege="k_cuman"
-	holder=180262
+825.1.1 = {
+	liege = k_pechenegs
+	holder = 1231704
 }
-
-1066.1.1={
-	liege="d_sibir"
-	holder=161730
+830.1.1 = {
+	holder = 1231706
 }
-1110.1.1=
-{
-holder=161731
+# Küerchi-Chur
+864.1.1 = {
+	liege = d_kuerchi_chur
+	holder = 1231725 # Kügel, cheif of Küerchi-Chur at the time of expulsion from Yaik.
 }
-1140.1.1=
-{
-holder=161732
+# Pechengs expulsed by Oghuz and Khazars.
+# Uzlar
+893.1.1 = {
+	liege = k_uzes
+	holder = 1231862 # father of Etrek
 }
-1170.1.1=
-{
-holder=161733
+910.1.1 = {
+	holder = 1231864 # Etrek
 }
-1200.1.1=
-{
-holder=161734
+921.1.1 = {
+	liege = d_salgur
+	holder = 1231985
 }
-1220.1.1=
-{
-holder=161735
+940.1.1 = {
+	holder = 1231987
 }
-
-
-1227.1.1=
-{
-holder=34912
-liege=e_golden_horde
+960.1.1 = {
+	holder = 1231989
 }
-1251.1.1=
-{
-holder=34919
+1026.1.1 = {
+	holder = 1231991
 }
-1280.1.1=
-{
-holder=34913
+# Cumans arrive
+# Dörüt
+1030.1.1 = {
+	liege = d_dorut
+	holder = 1233032
 }
-1301.1.1=
-{
-holder=34914
+1060.1.1 = {
+	holder = 1233034
 }
-1309.1.1=
-{
-holder=34915
+1098.1.1 = {
+	holder = 1233036
 }
-1315.1.1=
-{
-holder=34916
+1130.1.1 = {
+	holder = 1233038
 }
-1320.1.1=
-{
-holder=34917
+1163.1.1 = {
+	holder = 1233040
+}
+1199.1.1 = {
+	holder = 1233042
+}
+1215.1.1 = {
+	holder = 1233044
+}
+1236.9.1 = {
+	liege = k_turkestan_west
+	holder = 125503
+}
+# Mongols put down revolt
+1241.12.11 = {
+	liege = d_yaik
+	holder = 34911
+}
+1260.1.1 = {
+	holder = 34904
+}
+1285.1.1 = {
+	holder = 125548
+}
+1310.1.1 = {
+	holder = 125549
 }

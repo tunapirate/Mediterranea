@@ -1,0 +1,18 @@
+# -*- ck2.history.titles -*-
+
+# Kryvians
+750.1.1 = {
+	holder = 194133
+}
+799.1.1 = {
+	holder = 160049
+}
+860.1.1 = {
+	holder = 160050
+}
+865.1.1 = {
+	holder = 159719
+}
+989.1.2 = {
+	holder = 0
+}

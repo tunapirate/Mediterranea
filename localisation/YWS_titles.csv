@@ -116,14 +116,12 @@ d_vacaya_adj;Vacayan;Vacayan;Vacayan;;Vacayan;;;;;;;;;x
 
 k_aksum;Aksum;Aksum;Aksum;;Aksum;;;;;;;;;x
 k_aksum_adj;Aksumite;Aksumite;Aksumite;;Aksumite;;;;;;;;;x
-k_arabia_petraea;Arabia Petraea;Arabia Petraea;Arabia Petraea;;Arabia Petraea;;;;;;;;;x
-k_arabia_petraea_adj;Arabian;Arabian;Arabian;;Arabian;;;;;;;;;x
 k_asia;Asia;Asia;Asia;;Asia;;;;;;;;;x
 k_asia_adj;Asian;Asian;Asian;;Asian;;;;;;;;;x
+k_baetica;Bætica;Bætica;Bætica;;Bætica;;;;;;;;;x
+k_baetica_adj;Bætican;Bætican;Bætican;;Bætican;;;;;;;;;x
 k_bardulia;Bardulia;Bardulia;Bardulia;;Bardulia;;;;;;;;;x
 k_bardulia_adj;Bardulian;Bardulian;Bardulian;;Bardulian;;;;;;;;;x
-k_betica;Bætica;Bætica;Bætica;;Bætica;;;;;;;;;x
-k_betica_adj;Bætican;Bætican;Bætican;;Bætican;;;;;;;;;x
 k_burdigala;Burdigala;Burdigala;Burdigala;;Burdigala;;;;;;;;;x
 k_burdigala_adj;Burdigalan;Burdigalan;Burdigalan;;Burdigalan;;;;;;;;;x
 k_cartagena;Cartagena;Cartagena;Cartagena;;Cartagena;;;;;;;;;x
@@ -152,6 +150,8 @@ k_lusitania_adj;Lusitanian;Lusitanian;Lusitanian;;Lusitanian;;;;;;;;;x
 k_mercurial;The Mercurial Pontificate;The Mercurial Pontificate;The Mercurial Pontificate;;The Mercurial Pontificate;;;;;;;;;x
 k_moesia;Moesia;Moesia;Moesia;;Moesia;;;;;;;;;x
 k_moesia_adj;Moesian;Moesian;Moesian;;Moesian;;;;;;;;;x
+k_noricum;Noricum;Noricum;Noricum;;Noricum;;;;;;;;;x
+k_noricum_adj;Noric;Noric;Noric;;Noric;;;;;;;;;x
 k_numidia;Numidia;Numidia;Numidia;;Numidia;;;;;;;;;x
 k_numidia_adj;Numidian;Numidian;Numidian;;Numidian;;;;;;;;;x
 k_padania;Padania;Padania;Padania;;Padania;;;;;;;;;x

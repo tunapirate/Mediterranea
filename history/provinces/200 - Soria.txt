@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 200 - Soria
 
 # County Title
@@ -5,24 +7,22 @@ title = c_soria
 
 # Settlements
 max_settlements = 4
-b_soria = castle
-b_almazan = city
-b_osma = temple
-#b_gormaz = castle
-#b_castromoro = castle
-#b_medinacelli = castle
-#b_sanleonardodeyague = castle
-#b_covaleda = castle
+b_gormaz = castle
+b_soria = temple
+b_osma = castle
+#b_medinaceli = castle
+#b_almazan = city
+#b_huerta = temple
 
 culture = castillan
-religion = hellenic_pagan
+religion = hispanic_rite
 
 # History
 
-867.1.1 = { 
-	b_soria = ca_keep_1
-	b_soria = ca_stable_1
-	b_soria = ca_militia_barracks_1
-	b_soria = ca_wall_1
-	b_soria = ca_wall_2
+1066.1.1 = { 
+	b_gormaz = ca_keep_1
+	b_gormaz = ca_stable_1
+	b_gormaz = ca_militia_barracks_1
+	b_gormaz = ca_wall_1
+	b_gormaz = ca_wall_2
 }

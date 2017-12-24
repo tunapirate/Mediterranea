@@ -1,23 +1,27 @@
+# -*- ck2.history.provinces -*-
+
 # 350 - Ancona
 
 # County Title
 title = c_ancona
 
 # Settlements
-max_settlements = 4
-
+max_settlements = 6
 
 b_ancona = city
-b_pesaro = temple
-b_rimini = castle
-b_matelica = city
-#b_osimo = castle
-#b_fermo = castle
-#b_recanati = castle
-#b_camerino = castle
+b_jezi = temple
+b_fermo = castle
+b_osimo = city
+#b_macerata = city
+#b_loreto = castle
+
 
 # Misc
-culture = apennine
-religion = hellenic_pagan
-
+culture = roman
+religion = apollonian
+terrain = farmlands
 # History
+
+870.1.1 = { capital = b_ancona }
+1139.1.1 = { trade_post = b_contarini }
+1149.1.1 = { capital = b_ancona }

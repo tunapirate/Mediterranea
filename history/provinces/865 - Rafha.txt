@@ -1,24 +1,19 @@
+# -*- ck2.history.provinces -*-
+
 # 865 - Rafha
 
 # County Title
 title = c_rafha
 
 # Settlements
-max_settlements = 2
-b_rafha = tribal
-
-#b_aljumaymah = city
-#b_timiat = temple
-
-#b_markuz = castle
-#b_lawqah = castle
-#b_ashshir = castle
-#b_uwayqilah = castle
-#b_duwayd = castle
+max_settlements = 3
+b_sadah = castle
+b_najran = temple
+#b_huth = city
 
 # Misc
-culture = levantine_arabic
-religion = nestorian
+culture = yemeni
+religion = jewish
 
 # History
 

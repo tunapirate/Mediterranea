@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1020 - Schaumburg
+
+# County Title
+title = c_schaumburg
+
+# Settlements
+max_settlements = 4
+b_schauenburg = tribal
+#b_minden = city
+#b_rinteln = city
+#b_querheim = city
+#b_oberkirchsaxony = temple
+#b_buckeburg = castle
+
+
+
+# Misc
+culture = low_saxon
+religion = norse_pagan
+
+# History
+1100.1.1 = { culture = low_german }
+
+

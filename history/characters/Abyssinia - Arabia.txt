@@ -171,7 +171,7 @@
 	name="Isaac"
     dynasty=56001
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	father=514104
 	 
 	#History
@@ -190,7 +190,7 @@
 	name="Yasmin"
     female=yes
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	 
 	#History
 	 
@@ -205,7 +205,7 @@
 	name="Hasan"
     dynasty=56001
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	add_trait=twin
 	father=514100
 	mother=514101
@@ -221,7 +221,7 @@
 	name="Qamara"
     dynasty=56001
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	female=yes
 	add_trait=twin
 	father=514100
@@ -237,7 +237,7 @@
 	name="Musa"
     dynasty=56001
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	 
 	#History
 	 
@@ -252,9 +252,8 @@
 	name="David"
     dynasty=56001
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	father=514104
-	add_claim=c_dhofar
 	 
 	#History
 	 
@@ -269,7 +268,7 @@
 	name="Samira"
     female=yes
     religion="jewish"
-    culture="bedouin_arabic"
+    culture="yemeni"
 	 
 	#History
 	 
@@ -297,7 +296,7 @@
 		add_spouse=514108
 	}
 	867.1.1 = {
-		# Boost the initial strength of the Magyars
+		# Boost the initial strength of the Arabs
 		effect = {
 			spawn_unit = {
 				province = 719 # Mecca
@@ -374,14 +373,82 @@
 		birth=yes
     }
 }
+514112 = {
+	name="Haritha"
+    dynasty=56011
+    religion="jewish"
+    culture="yemeni"
+	
+	#History
+	 
+    833.6.13={
+		birth=yes
+    }
+	856.1.={
+		add_spouse=514113
+	}
+}
+514113 = {
+	name="Hamama"
+    religion="jewish"
+    culture="yemeni"
+	female = yes
+	
+	#History
+	 
+    836.9.2={
+		birth=yes
+    }
+	856.1.={
+		add_spouse=514112
+	}
+}
+514114 = {
+	name="Haritha"
+    dynasty=56011
+    religion="jewish"
+    culture="yemeni"
+	father=514112
+	mother=514113
+	
+	#History
+	 
+    859.2.14={
+		birth=yes
+	}
+}
+514115 = {
+	name="Ja'far"
+    dynasty=56012
+    religion="sunni"
+    culture="bedouin_arabic"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
+514116 = {
+	name="Dhu’l"
+    dynasty=1000103494
+    religion="sunni"
+    culture="bedouin_arabic"
+	
+	#History
+	 
+    842.1.1={
+		birth=yes
+    }
+}
 
-# Yemen/East Arabia
+# Oman/East Arabia
 
 514200 = {
 	name="Shahram"
     dynasty=57001
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	 
 	#History
 	 
@@ -395,7 +462,7 @@
 514201 = {
 	name="Bahar"
     religion="zoroastrian"
-    culture="persian"
+    culture="pahlavi"
 	female=yes
 	 
 	#History
@@ -544,7 +611,7 @@
 514211 = {
 	name="Amr"
     dynasty=56006
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	add_trait=strong
 	 
@@ -560,7 +627,7 @@
 }
 514212 = {
 	name="Saaman"
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	female=yes
 	 
@@ -576,7 +643,7 @@
 514213 = {
 	name="Zaynab"
     dynasty=56006
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	father=514211
 	mother=514212
@@ -591,7 +658,7 @@
 514214 = {
 	name="Amr"
     dynasty=56006
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	father=514211
 	mother=514212
@@ -605,7 +672,7 @@
 514215 = {
 	name="Alim"
     dynasty=56007
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	 
 	#History
@@ -617,7 +684,7 @@
 514216 = {
 	name="Ibrahim"
     dynasty=56008
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	 
 	#History
@@ -631,7 +698,7 @@
 }
 514217 = {
 	name="Qamara"
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	female=yes
 	 
@@ -647,7 +714,7 @@
 514218 = {
 	name="Abdul-Qadir"
     dynasty=56008
-    religion="orthodox"
+    religion="miaphysite"
     culture="levantine_arabic"
 	father=514216
 	mother=514217

@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1502 - Maikele Bahr
+
+# County Title
+title = c_maikele_bahr
+
+# Settlements
+max_settlements = 2
+
+b_sinkat = tribal
+
+#b_wadibaraka = city
+
+# Misc
+culture = beja
+religion = east_african_pagan
+
+# History

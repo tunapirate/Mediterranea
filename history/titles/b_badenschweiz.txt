@@ -1,0 +1,42 @@
+# -*- ck2.history.titles -*-
+
+#1077.1.1 = {
+#	holder = 20287
+#}
+#1081.1.1 = {
+#	holder = 40701
+#}
+1077.1.1 = {
+	liege = d_swabia
+	holder = 40701
+}
+1127.1.1 = {
+	holder = 7643
+}
+1172.5.9 = {
+	liege = c_st_gallen
+	holder = 33618
+}
+1180.8.31 = {
+	holder = 33626
+}
+1214.2.15 = {
+	holder = 33627
+}
+1258.12.11 = {
+	holder = 33644
+}
+1273.1.1 = {
+	liege = c_aargau
+	holder = 462021
+}
+1291.7.15 = {
+	liege = d_osterreich
+	holder = 462023
+}
+1308.5.1 = {
+	holder = 462029
+}
+1326.1.29 = {
+	holder = 462020
+}

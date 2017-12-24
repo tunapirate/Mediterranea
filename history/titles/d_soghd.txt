@@ -1,0 +1,26 @@
+# -*- ck2.history.titles -*-
+
+864.1.1 = {
+	holder = 163099
+}
+875.1.1 = {
+	liege = k_mavarannahr
+}
+892.1.1 = {
+	holder = 163157
+}
+907.1.1 = {
+	liege = 0
+	holder = 0
+}
+# Karakhanids
+1048.1.2 = {
+	holder = 3014
+}
+1068.1.1 = {
+	holder = 3016
+}
+1080.1.1 = {
+	liege = 0
+	holder = 0
+}

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 813 - Djerba
 
 # County Title
@@ -7,9 +9,9 @@ title = c_djerba
 max_settlements = 3
 
 b_houmtsouk = castle
+b_midoun = city
 b_ajim = temple
 
-#b_midoun = city
 #b_aghir = castle
 #b_abarda = castle
 #b_elmey = castle
@@ -17,12 +19,9 @@ b_ajim = temple
 #b_taguermess = castle
 
 # Misc
-culture = maghreb_arabic
+culture = sanhaja
 religion = african_rite
 
-terrain = desert
-
 # History
-
-909.1.1 = { religion = sunni }
-1126.1.1 = { trade_post = b_ziani }
+1052.1.1 = { b_houmtsouk = tribal }
+1146.1.1 = { b_houmtsouk = castle }

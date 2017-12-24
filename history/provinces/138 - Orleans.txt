@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 138 - Orleans
 
 # County Title
@@ -6,16 +8,18 @@ title = c_orleans
 # Settlements
 max_settlements = 5
 b_orleans = castle
-b_gien = city
+b_jargeau = city
 b_fleury = temple
-b_lepuiset = castle
 
+#b_lepuiset = castle
 #b_sully = castle
 #b_janville = castle
 #b_meung = temple
-#b_jargeau = city
 
-culture = gallic
+
+culture = frankish
 religion = gallic_rite
 
 # History
+
+1187.1.1 = { b_lepuiset = castle } 

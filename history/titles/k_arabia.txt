@@ -1,4 +1,3 @@
-867.1.1={
+867.1.1 = {
 	holder = 514107
-	law = tax_levy_law_feudal_7
 }

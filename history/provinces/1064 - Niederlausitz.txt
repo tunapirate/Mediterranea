@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1064 - Niederlausitz
+
+# County Title
+title = c_niederlausitz
+
+# Settlements
+max_settlements = 3
+
+
+b_luckau = tribal
+#b_cottbus = city
+#b_forst = castle
+#b_lebus = temple
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+926.1.1 = { b_luckau = castle } # Geronen
+926.1.1 = { b_cottbus = city }
+937.1.1 = { religion = catholic }
+#1220.1.1 = { culture = german } 

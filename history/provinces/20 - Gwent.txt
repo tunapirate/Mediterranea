@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 20 - Gwent
 
 # County Title
@@ -5,19 +7,17 @@ title = c_gwent
 
 # Settlements
 max_settlements = 3
-b_caerwent = castle
-#b_caerleon = castle
-b_newport = city
+b_caerwent = tribal
+#b_trefynwy = temple
+#b_caerleon = city
 
-#b_chepstow = castle
-#b_abergavenny = castle
-b_monmouth = temple
-#b_brecon = castle
-#b_tintern = castle
 
 # Misc
-culture = welsh
+culture = brittonic
 religion = celtic_rite
 terrain = hills
 
 # History
+1090.1.1={
+	b_caerwent = castle
+}

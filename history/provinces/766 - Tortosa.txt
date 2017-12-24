@@ -1,23 +1,26 @@
+# -*- ck2.history.provinces -*-
+
 # 766 - Tortosa
 
 # County Title
 title = c_tortosa
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
 b_tortosa = castle
 b_maraclea = city
-b_balemia = temple
-
-#b_jabala = castle
-#b_valania = castle
+b_valania = temple
+#b_margat = castle
 #b_alkhawabi = castle
 #b_ruad = castle
-#b_margat = castle
 
 # Misc
 culture = aramean
-religion = orthodox
+religion = miaphysite
 
 # History
+
+1109.1.1 = { b_margat = castle }
+
+1279.1.1 = { trade_post = b_faliero }

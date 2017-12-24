@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1057 - Limburg
+
+# County Title
+title = c_limburg
+
+# Settlements
+max_settlements = 4
+
+b_limburg = castle
+b_valkenburg = temple
+b_maastricht = city
+
+#b_wassenberg = castle
+#b_eupen = castle
+
+# Misc
+culture = low_frankish
+religion = germanic_rite
+
+# History
+1150.1.1 = { culture = dutch }

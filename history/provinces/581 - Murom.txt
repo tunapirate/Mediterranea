@@ -1,36 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 581 - Murom
 
 # County Title
 title = c_murom
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_murom = tribal
-
+#b_borisobgleskij = city
+#b_starodubvockij = temple
+#b_pavlovomorom = city
 #b_melenki = city
-#b_moramar = temple
 
-#b_vyksa = castle
-#b_kulebaki = castle
-#b_vilya = castle
-#b_mordovshchikovo = castle
-#b_lipnya = castle
+# Misc
 
 culture = mordvin
 religion = finnish_pagan
 
 # History
-988.1.1 = {
-	culture = russian
-	religion = orthodox
-}
-1187.1.1 = {
-	b_murom = castle
-	b_melenki = city
-	b_moramar = temple
-	b_vyksa = castle
-	b_kulebaki = city
-}
-1237.1.1 = { remove_settlement = b_vyksa } #Mongol invasion
-1237.1.1 = { remove_settlement = b_kulebaki }
-1237.1.1 = { remove_settlement = b_melenki }
+1025.1.1 = { b_murom = castle
+b_borisobgleskij = city
+b_starodubvockij = temple }
+1150.1.1 = { culture = russian }
+1150.1.1 = { religion = orthodox}
+1237.1.1 = { remove_settlement = b_borisobgleskij } #Mongol invasion
+1237.1.1 = { remove_settlement = b_starodubvockij }
+

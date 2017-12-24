@@ -1,4 +1,8 @@
-867.1.1={
-	holder = 504313
-	liege = "d_alexandria"
+867.1.1 = {
+	holder = 504327
+	set_tribute_suzerain = {
+		who = k_egypt
+		percentage = 0.4
+		type = permanent
+	}
 }

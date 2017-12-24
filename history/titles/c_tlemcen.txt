@@ -1,4 +1,3 @@
-867.1.1={
-	holder = 504201
-	liege = "k_numidia"
+867.1.1 = {
+	liege = "k_mauretania"
 }

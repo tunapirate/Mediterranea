@@ -1,22 +1,26 @@
-# 468 - Istria
+# -*- ck2.history.provinces -*-
+
+# 458 - Istria
 
 # County Title
 title = c_istria
 
 # Settlements
-max_settlements = 4
-b_mitterburg = castle
-b_trieste = city
-b_fiume = temple
+max_settlements = 3
 
-#b_lovrana = castle
-#b_wolauska = castle
-#b_karstberg = castle
-#b_pula = city
-#b_duino = castle
+b_mitterburg = castle
+b_motovun = city
+b_pican = temple
+#b_labin = city
+
+
+
 
 # Misc
-culture = italian
+culture = venetian
 religion = hellenic_pagan
 
 # History
+
+1110.1.1 = { trade_post = b_contarini }
+

@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1263 - Opava
+
+# County Title
+title = c_opava
+# Settlements
+max_settlements = 4
+
+b_opava = tribal
+#b_bruntal = city
+#b_krnov = temple
+#b_odry = castle
+
+# Misc
+culture = bohemian
+religion = slavic_pagan
+
+# History
+
+1210.1.1 = { b_bruntal = city }

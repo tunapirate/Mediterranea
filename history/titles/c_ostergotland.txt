@@ -1,3 +1,5 @@
+# -*- ck2.history.titles -*-
+
 769.1.1 = {
 	holder = 194005
 }
@@ -7,36 +9,48 @@
 835.1.1 = {
 	holder = 0
 }
-863.1.1={
-	liege = "d_uppland"
-}
-863.1.1={
+863.1.1 = {
+	liege = d_uppland
 	holder = 41257 # Rikulfr Ylfing
 }
-1066.1.1 = {
-	liege="d_ostergotland"
+1000.1.8 = {
+	liege = d_vastergotland
+	holder = 100521 # Ragnvald
 }
-1066.1.1 = {
-	holder=100530 # Sven af Sverker
+1022.1.1 = {
+	liege = d_ostergotland
+	holder = 100529
 }
-1106.1.1 = {
-	holder=200600
+1046.1.1 = {
+	holder = 100530
+}
+1068.1.1 = {
+	holder = 1234002
+}
+1084.1.1 = {
+	holder = 1234003
+}
+1120.1.1 = {
+	holder = 1234004
+}
+1126.1.1 = {
+	holder = 200600
 }
 1134.6.4 = {
-	holder=200521
+	holder = 200521
 }
 1166.1.1 = {
-	holder=200540
+	holder = 200540
 }
 1210.7.17 = {
-	holder=450510
+	holder = 450510
 }
 1260.10.5 = {
-	holder=450654
+	holder = 450654
 }
 1302.1.1 = {
-	liege="k_sweden"
+	liege = k_sweden
 }
 1310.1.1 = {
-	holder=450650 # Knut Jonsson
+	holder = 450650 # Knut Jonsson
 }

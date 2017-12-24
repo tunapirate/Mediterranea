@@ -1,6 +1,0 @@
-867.1.1={
-	holder = 534025
-	liege = "k_syria"
-	law = succ_primogeniture
-	law = law_voting_power_1
-}

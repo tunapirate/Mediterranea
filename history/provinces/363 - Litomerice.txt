@@ -1,22 +1,26 @@
+# -*- ck2.history.provinces -*-
+
 # 363 - Litomerice
 
 # County Title
 title = c_litomerice
 
 # Settlements
-max_settlements = 4
-b_zatec = tribal
-
-#b_kadan = city
-#b_chomutov = temple
+max_settlements = 5
+b_litomerice = tribal
+#b_bilina = city
+#b_doksany = temple
+#b_lipa = castle
+#b_duba = castle
 #b_usti = castle
-#b_ceskalipa = castle
-#b_duchcov = castle
-#b_jachymov = castle
-#b_osek = castle
+#b_frydlant = castle
+#b_decin = city
+
 
 # Misc
 culture = lombard
 religion = norse_pagan
 
 # History
+
+883.1.1 = { religion = catholic }

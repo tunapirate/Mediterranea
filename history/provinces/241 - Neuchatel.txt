@@ -1,14 +1,15 @@
+# -*- ck2.history.provinces -*-
+
 # 241 - Neuchatel
 
 # County Title
 title = c_neuchatel
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 b_neuchatel = castle
-b_fribourg = city
-b_stimier = temple
 
+#b_stimier = temple
 #b_grandson = castle
 #b_yverdon = city
 #b_estavayer = castle
@@ -16,7 +17,7 @@ b_stimier = temple
 #b_murten = castle
 
 # Misc
-culture = gallic
+culture = arpitan
 religion = hellenic_pagan
 
 # History

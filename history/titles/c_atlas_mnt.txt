@@ -1,4 +1,4 @@
-867.1.1={
-	holder = 504205
-	liege = "d_atlas_mtn"
+867.1.1 = {
+	holder = 504034
+	liege = "d_alger"
 }

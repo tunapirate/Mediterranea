@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1022 - Valenciennes
+
+# County Title
+title = c_valenciennes
+
+# Settlements
+max_settlements = 4
+b_cihmay = castle
+b_avesnes = temple
+b_valenciennes = city
+#b_maubeuge = castle
+#b_beaumonte = castle
+#b_charleroi = city
+
+# Misc
+culture = low_frankish
+religion = gallic_rite
+
+# History
+

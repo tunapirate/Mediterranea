@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1334 - Fayyum
+
+# County Title
+title = c_fayyum
+
+# Settlements
+max_settlements = 3
+b_fayyum = castle
+b_fidaymin = city
+b_iqna = temple
+
+# Misc
+culture = coptic
+religion = miaphysite
+
+# History
+
+1100.1.1 = { religion = sunni } 

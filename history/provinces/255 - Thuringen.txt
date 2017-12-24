@@ -1,23 +1,27 @@
+# -*- ck2.history.provinces -*-
+
 # 255 - Thüringen
 
 # County Title
 title = c_thuringen
 
 # Settlements
-max_settlements = 4
-b_erfurt = tribal
-#b_arnstadt = city
-#b_muhlhausen = temple
+max_settlements = 5
 
+b_wartburg = tribal
+b_erfurt = city
+#b_gleichen = castle
+#b_waschenberg = castle
+
+#b_muhlhausen = temple
+#b_eisenach = castle
 #b_eichsfeld = castle
 #b_reuss = castle
-#b_salzungen = castle
-#b_schmalkalden = castle
-b_henneberg = castle
+
 
 # Misc
-culture = german
+culture = thuringian
 religion = norse_pagan
 
 # History
-
+1170.1.1 = { culture = german }

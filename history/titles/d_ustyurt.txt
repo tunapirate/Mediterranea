@@ -1,0 +1,21 @@
+# -*- ck2.history.titles -*-
+
+# Cuman revolt put down
+1239.1.1 = {
+	liege = k_turkestan_west
+	holder = 125503
+}
+1241.12.11 = {
+	historical_nomad = yes
+	liege = e_golden_horde
+	holder = 125534
+}
+1275.1.2 = {
+	holder = 125540
+}
+1304.1.2 = {
+	holder = 125541
+}
+1327.1.2 = {
+	holder = 125542
+}

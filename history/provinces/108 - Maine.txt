@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 108 - Maine
 
 # County Title
@@ -6,20 +8,20 @@ title = c_maine
 # Settlements
 max_settlements = 5
 b_le_mans = castle
-b_beaumont = city
+b_beaumont = castle
 b_evron = temple
-
-#b_laval = city
+b_laval = city
 #b_craon = castle
 #b_mayenne = castle
 #b_montenay = temple 
 #b_sable = castle
 
 # Misc
-culture = gallic
+culture = old_frankish
 religion = gallic_rite
 
 # History
+790.1.1 = { culture = frankish }
 867.1.1 = { 
 	b_le_mans = ca_keep_1
 	b_le_mans = ca_training_grounds_1

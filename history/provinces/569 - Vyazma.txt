@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 569 - Vyazma
 
 # County Title
@@ -6,28 +8,19 @@ title = c_vyazma
 # Settlements
 max_settlements = 4
 b_vyazma = tribal
-
-#b_yelnya = city
-#b_dukhov = temple
-
-#b_gzhatsky = castle
-#b_dorogobuzh = castle
-#b_vyazkholm = castle
-#b_ugra = city
-#b_safonovo = castle
+#b_rzhev = city
+b_verigino = temple #Formin
+#b_sychyovka = city
+#b_oscen = castle
 
 # Misc
-culture = ilmenian
+culture = russian
 religion = slavic_pagan
 
 # History
-867.1.1 = {
-	culture = russian
-}
-1128.1.1 = {
-	religion = orthodox
-	
-	b_vyazma = castle
-	b_yelnya = city
-	b_dukhov = temple
-}
+1040.1.1 = {culture = prussian}
+1040.1.1 = {religion = baltic_pagan}
+1148.1.1 = {culture = russian
+religion = orthodox}
+1148.1.1 = {b_vyazma = castle
+b_rzhev = city}

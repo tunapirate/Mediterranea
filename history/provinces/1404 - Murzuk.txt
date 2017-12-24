@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1404 - Murzuk
+
+# County Title
+title = c_murzuk
+
+# Settlements
+max_settlements = 6
+
+b_murzuk = tribal
+#b_mishtouta = city
+
+#b_dillaim = temple
+b_djarma = city
+#b_tassawa = city
+#b_tamzawa = castle
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+1200.1.1 = { b_tassawa = city }
+

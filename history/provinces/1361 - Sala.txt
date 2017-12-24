@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1361 - Sala
+
+# County Title
+title = c_sala
+
+# Settlements
+max_settlements = 2
+
+b_sale = castle
+b_albasra = city
+
+# Misc
+culture = tangieran
+religion = african_rite
+
+# History
+
+#987.1.1 = { b_sale = tribal }
+#1059.1.1 = { b_sale = castle }
+

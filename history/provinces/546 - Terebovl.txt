@@ -1,33 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 546 - Terebovl
 
 # County Title
 title = c_terebovl
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
+
 b_terebovl = tribal
+#b_kamyanetspodilsky = castle
+#b_zbarazh = castle
+#b_mykulyntsi = city
+#b_tykhomel = temple
+#b_ilavche = temple
+#b_ternopil = castle
 
-#b_bratslav = city
-#b_pochayivlavra = temple
-
-#b_kremenets = castle
-#b_borschiv = castle
-#b_vinnytsia = castle
-#b_buchach = castle
-#b_zalischyky = castle
 
 # Misc
-culture = volhynian
+culture = russian
 religion = slavic_pagan
 
 # History
-867.1.1 = {
-	culture = russian
-}
-988.1.1 = {
-	religion = orthodox
-	b_terebovl = castle
-	b_bratslav = city
-	b_pochayivlavra = temple
-}
-
+990.1.1 = {religion = orthodox }
+990.1.1 = {b_terebovl = castle
+b_kamyanetspodilsky = castle
+b_mykulyntsi = city }

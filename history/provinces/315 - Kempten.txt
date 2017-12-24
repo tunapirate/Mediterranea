@@ -1,23 +1,24 @@
+# -*- ck2.history.provinces -*-
+
 # 315 - Kempten
 
 # County Title
 title = c_kempten
 
 # Settlements
-max_settlements = 4
-b_kempten = castle
-b_augsburg = temple
-b_donauworth = city
+max_settlements = 3
 
+
+b_wittelsbach = castle
+b_kempten = temple
 #b_zumarshausen = temple
-#b_kaufbeuren = castle
 #b_friedberg = castle
-#b_hochstadt = castle
-#b_rain = castle
+
+
 
 # Misc
-culture = german
+culture = bavarian
 religion = germanic_rite
 
 # History
-
+1170.1.1 = { culture = german }

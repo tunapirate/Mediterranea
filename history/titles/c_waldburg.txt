@@ -1,0 +1,82 @@
+# -*- ck2.history.titles -*-
+
+800.1.1 = {
+	liege = k_germany
+	holder = 7985
+}
+825.1.1 = {
+	holder = 7988
+}
+859.1.1 = {
+	holder = 7990
+}
+865.1.1 = {
+	liege = d_swabia
+}
+876.1.1 = {
+	liege = k_germany
+	holder = 7991
+}
+911.1.1 = {
+	liege = d_swabia
+	holder = 7992
+}
+975.1.1 = {
+	holder = 1524
+}
+990.1.2 = {
+	holder = 1526
+}
+1010.1.1 = {
+	holder = 1528
+}
+1030.3.10 = {
+	holder = 7941
+}
+1055.11.13 = {
+	holder = 1530
+}
+1101.11.9 = {
+	holder = 7906
+}
+1120.9.24 = {
+	holder = 212604
+}
+1126.1.14 = {
+	holder = 7595
+}
+1191.12.15 = {
+	holder = 212505 # Konrad II von Hohenstaufen
+}
+1196.8.15 = {
+	holder = 212506 # Phillip I von Hohenstaufen
+}
+1208.6.21 = {
+	holder = 212513 # Friedrich VII von Hohenstaufen
+}
+1216.1.1 = {
+	holder = 30759 # Heinrich VII von Hohenstaufen
+}
+1235.1.1 = {
+	holder = 30760 # Konrad III von Hohenstaufen
+}
+1254.5.21 = {
+	holder = 30785 # Konrad IV von Hohenstaufen
+}
+# counts of Tübingen
+1268.10.29 = {
+	liege = e_hre
+	holder = 33558
+}
+1277.1.1 = {
+	holder = 33561
+}
+1294.1.1 = {
+	holder = 33567
+}
+1316.1.1 = {
+	holder = 33568
+}
+1327.1.1 = {
+	holder = 33569
+}

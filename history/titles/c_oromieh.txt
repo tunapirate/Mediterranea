@@ -1,4 +1,4 @@
 867.1.1={
 	holder = 524202
-	liege = "d_tabriz"
+	liege = "d_azerbaijan"
 }

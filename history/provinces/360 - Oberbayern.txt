@@ -1,10 +1,12 @@
+# -*- ck2.history.provinces -*-
+
 # 360 - Oberbayern
 
 # County Title
 title = c_oberbayern
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_munchen = castle
 b_dachau = city
 b_freising = temple
@@ -16,8 +18,8 @@ b_andechs = castle
 #b_ebersberg = castle
 
 # Misc
-culture = german
+culture = bavarian
 religion = germanic_rite
 
 # History
-
+1170.1.1 = { culture = german }

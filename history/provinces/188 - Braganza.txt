@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 188 - Braganza
 
 # County Title
@@ -7,7 +9,7 @@ title = c_braganza
 max_settlements = 4
 b_braganza = castle
 b_vilareal = city
-b_chaves = temple
+#b_chaves = temple
 #b_torredemoncorvo = castle
 #b_mogadouro = castle
 #b_castelomelhor = castle
@@ -15,7 +17,12 @@ b_chaves = temple
 #b_azinhoso = castle
 
 # Misc
-culture = portuguese
+culture = galician
 religion = hispanic_rite
 
 # History
+
+1066.1.1 = { 
+	b_braganza = ca_wall_1
+	b_braganza = ca_wall_2
+}

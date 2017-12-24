@@ -1,0 +1,31 @@
+# -*- ck2.history.titles -*-
+
+863.1.1 = {
+        liege=k_pommeranians
+	holder = 1226978
+}
+889.1.1 = {
+	holder = 1226979
+}
+936.1.1 = {
+	holder = 1226980
+}
+971.1.1 = {
+	holder = 1226981
+}
+1006.1.1 = {
+	holder = 1226982
+}
+1039.1.1 = {
+	holder = 1226983
+}
+1066.1.1 = {
+	holder = 1226984
+}
+1090.1.1 = {
+	holder = 30520 #Swantibor
+}
+1126.1.1 = {
+        liege=0
+	holder = 0
+}

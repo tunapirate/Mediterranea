@@ -1,22 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 538 - Abauj
 
 # County Title
 title = c_abauj
 
 # Settlements
-max_settlements = 4
-b_abauj = tribal
-#b_kassa = city
-b_satoraljaujhely = temple
+max_settlements = 3
 
-#b_szikszo = castle
-#b_turna = castle
-#b_szepsi = castle
-#b_sarospatak = castle
-#b_tokaj = castle
+
+b_abaujszanto = tribal
+#b_kassa = city
+#b_totsovar = city
+#b_gonc = temple
+#b_eperjes= castle
+#b_boldog = castle
+#b_telkibanya = castle
+
 
 # Misc
 culture = bulgarian
-religion = slavic_pagan
+religion = tengri_pagan
 
 # History
+
+900.1.1 = { religion = catholic }
+950.1.1 = { culture = hungarian }

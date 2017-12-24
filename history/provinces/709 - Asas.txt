@@ -1,23 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 709 - Asas
 
 # County Title
 title = c_asas
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
-b_asas = castle
+b_ar-rafiqa = castle
 b_rakka = city
-b_kallinikos = temple
-
+b_resafa = temple
+b_qalatjabar = castle
+#b_zarzakka = temple
+#b_bizunasyria = temple
 #b_talabyad = castle
-#b_tabqa = castle
-#b_souriya = city
-#b_resafa = castle
-#b_zaazouaa = castle
+
+
+
+
 
 # Misc
 culture = aramean
-religion = orthodox
+religion = syriac
 
 # History
+1120.1.1 = { religion = sunni }
+1187.1.1 = { b_talabyad = castle } 

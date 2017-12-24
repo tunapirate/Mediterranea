@@ -1,4 +1,95 @@
-867.1.1={
-	holder = 163116
-	liege = "k_serbia"
+# -*- ck2.history.titles -*-
+
+764.1.1 = {
+	liege = k_magyar
+	holder = 146226
+}
+809.1.1 = {
+	holder = 146227
+}
+833.1.1 = {
+	liege = k_pechenegs
+	holder = 1231706
+}
+# Bula-Chopan
+864.1.1 = {
+	liege = d_bula_chopan
+	holder = 1231840 # Bota, cheif of Bula-Chopan at the time of expulsion from Yaik.
+}
+892.1.1 = {
+	holder = 1231762 # Ipoch, cheif of Suru-Külbej at the time of expulsion from Yaik.
+}
+923.1.1 = {
+	holder = 1231765
+}
+947.1.1 = {
+	holder = 1231768
+}
+# Sarkel falls, Suru-Külbej claims the rest of their demense.
+970.1.1 = {
+	holder = 1231769
+}
+989.1.1 = {
+	holder = 1231771
+}
+1015.1.1 = {
+	holder = 1231774
+}
+1017.1.1 = {
+	holder = 1231776 # Bilter
+}
+1034.1.1 = {
+	holder = 1231778 # Tiraq
+}
+# Oghuz takes over
+1044.1.1 = {
+	liege = k_uzes
+	holder = 1231873
+}
+# Cumans arrive, Black hats formed
+1060.1.1 = {
+	liege = d_black_caps
+	holder = 1231917
+}
+1100.1.1 = {
+	holder = 1231919
+}
+1117.1.1 = {
+	holder = 1231921
+}
+1154.1.1 = {
+	holder = 1231923 # Bastey
+}
+1177.1.1 = {
+	holder = 1231925 # Kuntuvdey
+}
+1218.1.1 = {
+	holder = 1231927 # Basty/Bastey
+}
+1232.1.1 = {
+	holder = 1231929
+}
+############################
+# Mongols
+1240.1.1 = {
+	liege = d_azov
+	holder = 125503
+}
+1262.1.13 = {
+	holder = 125504
+}
+1266.1.2 = {
+	holder = 125508
+}
+1280.1.2 = {
+	holder = 125509
+}
+1287.1.2 = {
+	holder = 125511
+}
+1291.1.2 = {
+	holder = 125512
+}
+1312.1.2 = {
+	holder = 480000
 }

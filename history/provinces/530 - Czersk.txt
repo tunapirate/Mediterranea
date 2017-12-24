@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 530 - Czersk
 
 # County Title
@@ -6,23 +8,19 @@ title = c_czersk
 # Settlements
 max_settlements = 4
 b_czersk = tribal
-#b_siedlce = castle
-#b_radom = city
-b_garwolin = temple
-
-#b_borowie = castle
-#b_losice = castle
-#b_gorzno = castle
-#b_grojec = castle
+#b_sieciechow = castle
+b_grojec = temple
+#b_liw = castle
+#b_garwolin = castle
+#b_warszawa = city
+#b_brodno = castle
 
 # Misc
-culture = polish
-religion = slavic_pagan
+culture = prussian
+religion = baltic_pagan
 
 # History
-987.1.1 = {
-	religion = catholic
-	b_czersk = castle
-	b_radom = city
-}
-
+999.7.1 = { religion = catholic 
+b_czersk = castle
+b_sieciechow = castle}
+1337.1.1 = { b_warszawa = city }

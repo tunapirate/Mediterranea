@@ -1,0 +1,19 @@
+name = "Himyarite War for Afar"
+
+casus_belli = {
+	actor = 514102
+	recipient = 1229012
+	casus_belli = religious
+	landed_title = d_afar
+	date = 867.1.1
+}
+
+867.1.1 = {
+	add_attacker = 514102
+	add_defender = 1229012
+}
+
+868.1.1 = {
+	rem_attacker = 514102
+	rem_defender = 1229012
+}

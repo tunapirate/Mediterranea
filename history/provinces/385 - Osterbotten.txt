@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 385 - Österbotten
 
 # County Title
@@ -18,14 +20,16 @@ b_oulu = tribal
 #b_liminka = city
 
 # Misc
-culture = finnish
+culture = lappish
 religion = finnish_pagan
-terrain = forest
 
 # History
-1158.1.1 = { name = "Österbotten" }
-1250.1.1 = {
-	religion = catholic 	#Northern Crusades
+#1158.1.1 = { name = "Österbotten" }
+#1250.1.1 = {
+#	religion = catholic 	#Northern Crusades
+#}
+1302.1.1 = {
 	b_oulu = castle
+religion = catholic 	#Northern Crusades
 }
 1337.1.1 = { b_nykarleby = city }

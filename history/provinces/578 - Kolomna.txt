@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 578 - Kolomna
 
 # County Title
@@ -5,29 +7,22 @@ title = c_kolomna
 
 # Settlements
 max_settlements = 4
+
 b_kolomna = tribal
+#b_tula = castle
+#b_zaratysk = city
+#b_ozery = city
+#b_venev = city
+#b_dedilovo = temple
 
-#b_zaraysk = city
-#b_glukhovichi = temple
 
-#b_bronnitsy = castle
-#b_ramenskoye = city
-#b_egorevsk = castle
-#b_peski = castle
-#b_cherkizovo = castle
-
+# Misc
 culture = mordvin
 religion = finnish_pagan
-terrain = plains
 
 # History
-988.1.1 = {
-	culture = russian
-	religion = orthodox
-}
+1025.1.1 = { b_kolomna = castle
+b_tula = castle }
+1130.1.1 = { religion = orthodox }
+1130.1.1 = { culture = russian }
 
-1187.1.1 = {
-	b_kolomna = castle
-	b_glukhovichi = temple
-	b_zaraysk = city
-}

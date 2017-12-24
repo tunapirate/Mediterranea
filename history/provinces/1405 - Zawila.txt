@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1405 - Zawila
+
+# County Title
+title = c_zawila
+
+# Settlements
+max_settlements = 4
+
+b_zawila = tribal
+
+b_sebha = city
+#b_zalha = castle
+#b_sabab = temple
+
+# Misc
+culture = zanata
+religion = west_african_pagan
+
+# History
+
+
+

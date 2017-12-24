@@ -1,21 +1,22 @@
-# 232 - Monferrato
+# -*- ck2.history.provinces -*-
+
+# 232 - Monferrato # Asti
 
 # County Title
 title = c_monferrato
 
 # Settlements
 max_settlements = 5
-b_monferrato = castle
-b_asti = city
-b_casale = temple
-#b_acqui = castle
-#b_tortona = castle
-#b_biella = castle
-#b_alba = castle
-#b_canelli = castle
+
+b_moncalvo = castle
+b_asti = temple
+b_casale = city
+b_serralunga = castle
+#b_ferrere = castle
 
 # Misc
-culture = apennine
+culture = italian
 religion = hellenic_pagan
-
+terrain = farmlands
 # History
+1162.1.1 = { b_ferrere = castle }

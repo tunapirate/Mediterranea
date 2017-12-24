@@ -1,20 +1,28 @@
+# -*- ck2.history.provinces -*-
+
 # 912 - Aoudaghost
 
 # County Title
 title = c_aoudaghost
 
 # Settlements
-max_settlements = 3
-b_aoudaghost = tribal
+max_settlements = 4
+b_kiffa = tribal
+b_aoudaghost = city
 
-#b_tichitt = city
 #b_moudjeria = temple
-#b_ksarelbarka = castle #Ksar-el-Barka
+#b_tamchakett = castle
 
 # Misc
-culture = manden
+culture = soninke
 religion = west_african_pagan
 
 # History
+955.1.1 = { culture = zanata }
 
-1000.1.1 = { religion = sunni }
+#islamization
+980.1.1 = { religion = sunni }
+1100.1.1 = {
+	remove_settlement = b_aoudaghost
+	culture = tagelmust
+}

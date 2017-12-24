@@ -1,0 +1,6 @@
+867.1.1={
+	holder = 543511
+	liege = "e_byzantium"
+	vice_royalty = yes
+	pentarch = b_hagiasophia
+}

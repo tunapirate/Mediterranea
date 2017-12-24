@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 226 - Charolais
 
 # County Title
@@ -16,7 +18,9 @@ b_perrecy = temple
 #b_paray = temple
 
 # Misc
-culture = gallic
+culture = old_frankish
 religion = hellenic_pagan
 
 # History
+790.1.1 = { culture = frankish }
+

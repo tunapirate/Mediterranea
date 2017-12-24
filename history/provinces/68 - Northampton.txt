@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 68 - Northampton
 
 # County Title
@@ -5,18 +7,28 @@ title = c_northampton
 
 # Settlements
 max_settlements = 4
-b_northampton = castle
-b_cambridge = city
 
-#b_huntingdon = castle
-#b_peterborough = castle
-#b_ramsey = castle
-#b_kettering = castle
-b_crowland = temple
+b_northampton = castle
+b_peterborough = temple
+#b_corby = city
+#b_fotheringhay = castle
+#b_brackley = castle
 #b_rockingham = castle
+#b_wellingborough = city
+#b_kettering = castle
+#b_barnwell = castle
+#b_long_buckby = castle
 
 # Misc
 culture = brittonic
 religion = hellenic_pagan
 
 # History
+880.1.1 = { culture = norse } # Danes settle down
+880.1.1 = { religion = norse_pagan } # Danes settle down
+917.1.1 = { 
+	religion = catholic
+	culture = anglonorse
+} # Submitted to Wessex
+1075.1.1 = { b_rockingham = castle } 
+1100.11.11 = { culture = english }

@@ -1,31 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 572 - Yaroslavl
 
 # County Title
 title = c_yaroslavl
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_timerevo = tribal
-
 #b_yaroslavl = city
 #b_tolga = temple
+#b_romanov = city
+#b_tutaev = temple
+#b_lyubim = city
+#b_danilov = city
+#b_pertoma = city
 
-#b_romanov = castle
-#b_semibratovo = castle
-#b_karabikha = castle
-#b_volgostroy = castle
-#b_putyatino = castle
 
-culture = mordvin
+# Misc
+culture = mari
 religion = finnish_pagan
 
 # History
-988.1.1 = {
-	culture = russian
-	religion = orthodox
-}
-1200.1.1 = {
-	b_timerevo = castle
-	b_yaroslavl = city
-	b_tolga = temple
-}
+990.1.1 = {religion = orthodox }
+990.1.1 = {culture = russian }
+990.1.1 = {b_timerevo = castle
+b_yaroslavl = city
+b_tolga = temple }

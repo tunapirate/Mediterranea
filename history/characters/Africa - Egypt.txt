@@ -21,7 +21,7 @@
 }
 504001 = {
     name="Maria"
-    dynasty=5402
+    dynasty=5451
     religion="mercurial"
     culture="african"
 	female=yes
@@ -271,7 +271,7 @@
 }
 504017 = {
 	name="Ossaveu"
-	dynasty=5407
+	dynasty=5456
 	religion="mercurial"
 	culture="african"
 	
@@ -301,7 +301,7 @@
 }
 504019 = {
 	name="Ossaveu"
-	dynasty=5407
+	dynasty=5456
 	religion="mercurial"
 	culture="african"
 	father=504017
@@ -315,7 +315,7 @@
 }
 504020 = {
 	name="Nissoleu"
-	dynasty=5407
+	dynasty=5456
 	religion="mercurial"
 	culture="african"
 	father=504017
@@ -329,7 +329,7 @@
 }
 504021 = {
 	name="Laveia"
-	dynasty=5407
+	dynasty=5456
 	religion="mercurial"
 	culture="african"
 	female=yes
@@ -371,7 +371,7 @@
 	name="Jaida"
 	dynasty=5427
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	female=yes
 	
 	#History
@@ -386,7 +386,7 @@
 504025 = {
 	name="Bezz'i"
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	
 	#History
 	
@@ -401,7 +401,7 @@
 	name="Immeghar"
 	dynasty=5427
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	mother=504024
 	father=504025
 
@@ -417,7 +417,7 @@
 504027 = {
 	name="Gedduda"
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	female=yes
 	
 	#History
@@ -433,7 +433,7 @@
 	name="Immeghar"
 	dynasty=5427
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	mother=504027
 	father=504026
 
@@ -447,7 +447,7 @@
 	name="Awlagh"
 	dynasty=5427
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	mother=504024
 	father=504025
 
@@ -463,7 +463,7 @@
 504030 = {
 	name="Bghnat"
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="zanata"
 	female=yes
 	
 	#History
@@ -477,8 +477,9 @@
 }
 504031 = {
 	name="Mastanabal"
+	dynasty=5447
 	religion="african_rite"
-	culture="maghreb_arabic"
+	culture="masmuda"
 
 	#History
 	
@@ -489,7 +490,7 @@
 504032 = {
 	name="Zer'wal"
 	religion="west_african_pagan"
-	culture="maghreb_arabic"
+	culture="tuareg"
 	dynasty=5434
 
 	#History
@@ -501,7 +502,7 @@
 504033 = {
 	name="H'emmu"
 	religion="west_african_pagan"
-	culture="maghreb_arabic"
+	culture="tuareg"
 	dynasty=5435
 
 	#History
@@ -510,7 +511,208 @@
 		birth=yes
 	}
 }
- 
+504034 = {
+	name="Aksel" # Tahart
+	dynasty=5433
+	religion="african_rite"
+	culture="zanata"
+
+	#History
+	
+	825.8.26={
+		birth=yes
+	}
+	848.1.1={
+		add_spouse=504035
+	}
+}
+504035 = {
+	name="Dihya"
+	religion="african_rite"
+	culture="zanata"
+	female=yes
+
+	#History
+	
+	828.4.30={
+		birth=yes
+	}
+	848.1.1={
+		add_spouse=504034
+	}
+}
+504036 = {
+	name="Garmul"
+	dynasty=5433
+	religion="african_rite"
+	culture="zanata"
+	father=504034
+	mother=504035
+
+	#History
+	
+	849.11.3={
+		birth=yes
+	}
+}
+504037 = {
+	name="Masuna"
+	dynasty=5433
+	religion="african_rite"
+	culture="zanata"
+	father=504034
+	mother=504035
+
+	#History
+	
+	852.4.22={
+		birth=yes
+	}
+}
+504038 = {
+	name="Damya"
+	dynasty=5433
+	religion="african_rite"
+	culture="zanata"
+	father=504034
+	mother=504035
+	female=yes
+
+	#History
+	
+	854.7.19={
+		birth=yes
+	}
+}
+504039 = {
+	name="Tabat"
+	dynasty=5436
+	religion="african_rite"
+	culture="sanhaja"
+
+	#History
+	
+	800.1.1={
+		birth=yes
+	}
+	850.1.1={
+		death=yes
+	}
+}
+504040 = {
+	name="Matina" # Kabylia
+	dynasty=5436
+	religion="african_rite"
+	culture="sanhaja"
+	father=504039
+
+	#History
+	
+	823.4.26={
+		birth=yes
+	}
+	845.1.1={
+		add_spouse=504041
+	}
+}
+504041 = {
+	name="Tikinas"
+	religion="african_rite"
+	culture="sanhaja"
+	female=yes
+
+	#History
+	
+	825.8.3={
+		birth=yes
+	}
+	845.1.1={
+		add_spouse=504040
+	}
+}
+504042 = {
+	name="Dihya"
+	dynasty=5436
+	religion="african_rite"
+	culture="sanhaja"
+	father=504040
+	mother=504041
+	female=yes
+	
+	add_trait=genius
+
+	#History
+	
+	848.2.24={
+		birth=yes
+	}
+}
+504043 = {
+	name="Massinissa"
+	dynasty=5436
+	religion="african_rite"
+	culture="sanhaja"
+	father=504040
+	mother=504041
+	
+	add_trait=genius
+
+	#History
+	
+	850.6.21={
+		birth=yes
+	}
+}
+504044 = {
+	name="Ghanim"
+	dynasty=5436
+	religion="african_rite"
+	culture="sanhaja"
+	father=504039
+
+	#History
+	
+	826.7.6={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=504045
+		add_claim=d_kabylia
+	}
+}
+504045 = {
+	name="Tigmi"
+	religion="african_rite"
+	culture="sanhaja"
+	female=yes
+
+	#History
+	
+	826.7.6={
+		birth=yes
+	}
+	850.1.1={
+		add_spouse=504045
+	}
+}
+504046 = {
+	name="Tifan"
+	dynasty=5436
+	religion="african_rite"
+	culture="sanhaja"
+	father=504044
+	mother=504045
+	female=yes
+	
+	add_trait=genius
+
+	#History
+	
+	853.4.12={
+		birth=yes
+	}
+}
+
 #Libya 
 504101 = {
      name="Nayram"
@@ -520,8 +722,8 @@
      intrigue=5
      stewardship=5
 	 learning=8
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 
 	 #History
 	 
@@ -542,8 +744,8 @@
      intrigue=5
      stewardship=5
 	 learning=8
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 father=504101
 	 mother=504106
 	 #History
@@ -560,8 +762,8 @@
      intrigue=5
      stewardship=5
 	 learning=8
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 father=504101
 	 mother=504106
 	 #History
@@ -578,8 +780,8 @@
      intrigue=5
      stewardship=5
 	 learning=8
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 father=504101
 	 mother=504106
 	 #History
@@ -596,8 +798,8 @@
      intrigue=5
      stewardship=5
 	 learning=8
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 father=504101
 	 mother=504107
 	 #History
@@ -609,8 +811,8 @@
 }
 504106 = {
      name="T'awes"
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 female=yes
 	 #History
 	 
@@ -620,8 +822,8 @@
 }
 504107 = {
      name="Taheyyatt"
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 female=yes
 	 #History
 	 
@@ -631,8 +833,8 @@
 }
 504108 = {
      name="Barakah"
-     religion="pagan"
-     culture="maghreb_arabic"
+     religion="hip_religion"
+     culture="zanata"
 	 female=yes
 	 #History
 	 
@@ -644,7 +846,7 @@
 #Mauretania
 504201 = {
     name="Fileu"
-    dynasty=5402
+    dynasty=5451
     religion="african_rite"
     culture="african"
 	father=504207
@@ -658,9 +860,9 @@
 }
 504202 = {
     name="Hermeu"
-    dynasty=5405
+    dynasty=5454
     religion="african_rite"
-    culture="african"
+    culture="sanhaja"
 	 
 	#History
 	 
@@ -673,7 +875,7 @@
 }
 504203 = {
     name="Jussineu"
-    dynasty=5402
+    dynasty=5451
     religion="african_rite"
     culture="african"
 	father=504207
@@ -692,7 +894,7 @@
 }
 504204 = {
     name="Hassabau"
-    dynasty=5414
+    dynasty=5463
     religion="african_rite"
     culture="african"
 	 
@@ -707,7 +909,7 @@
 }
 504205 = {
     name="Maharbau"
-    dynasty=5414
+    dynasty=5463
     religion="african_rite"
     culture="african"
 	father=504204
@@ -721,7 +923,7 @@
 }
 504206 = {
     name="Nusia"
-    dynasty=5410
+    dynasty=5459
     religion="african_rite"
     culture="african"
 	female=yes
@@ -737,7 +939,7 @@
 }
 504207 = {
     name="Gereu"
-    dynasty=5402
+    dynasty=5451
     religion="african_rite"
     culture="african"
 	
@@ -767,7 +969,7 @@
 }
 504209 = {
     name="Aossu"
-    dynasty=5402
+    dynasty=5451
     religion="african_rite"
     culture="african"
 	father=504207
@@ -909,8 +1111,10 @@
 504305 = {
     name="Strategios"
 	dynasty=5501
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
+	
+	trait = ambitious
 	 
 	#History
 	 
@@ -924,20 +1128,21 @@
 504306 = {
     name="Sebastianos"
 	dynasty=5501
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	trait=genius
 	 
 	#History
 	 
     854.5.23={
           birth=yes
+		  add_claim = k_egypt
     }
 }
 504307 = {
     name="Theodora"
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	female=yes
 	 
 	#History
@@ -952,8 +1157,8 @@
 504308 = {
     name="Belisarios"
 	dynasty=5502
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	trait=shrewd
 	trait=quick
 	trait=grey_eminence
@@ -975,7 +1180,7 @@
 }
 504309 = {
     name="Agathe"
-    religion="orthodox"
+    religion="miaphysite"
     culture="anatolian"
 	female=yes
 	 
@@ -991,8 +1196,8 @@
 504310 = {
     name="Philippos"
 	dynasty=5502
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504308
 	mother=504309
 	trait=ambitious
@@ -1009,8 +1214,8 @@
 504311 = {
     name="Eirene"
 	dynasty=5502
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504308
 	mother=504309
 	female=yes
@@ -1024,8 +1229,8 @@
 504312 = {
     name="Alexandra"
 	dynasty=5502
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504308
 	mother=504309
 	female=yes
@@ -1039,8 +1244,8 @@
 504313 = {
     name="Helene"
 	dynasty=5503
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	female=yes
 	 
 	#History
@@ -1055,11 +1260,14 @@
 504314 = {
     name="Alexandros"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
-	trait=strong
-	trait=gamer
+    religion="miaphysite"
+    culture="greek"
+	trait=brawny
 	trait=skilled_tactician
+	trait=proud
+	trait=greedy
+	trait=temperate
+	trait=paranoid
 	 
 	#History
 	 
@@ -1073,8 +1281,8 @@
 504315 = {
     name="Zenobia"
 	dynasty=5503
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	female=yes
 	 
 	#History
@@ -1089,8 +1297,8 @@
 504316 = {
     name="Anna"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	female=yes
 	father=504314
 	mother=504315
@@ -1106,8 +1314,8 @@
 }
 504317 = {
     name="Georgios"
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	 
 	#History
 	 
@@ -1121,8 +1329,8 @@
 504318 = {
     name="Alexios"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	mother=504316
 	father=504317
 	 
@@ -1135,8 +1343,8 @@
 504319 = {
     name="Sophia"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	mother=504316
 	father=504317
 	female=yes
@@ -1150,8 +1358,8 @@
 504320 = {
     name="Isaakios"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504314
 	mother=504315
 	trait=weak
@@ -1168,8 +1376,8 @@
 }
 504321 = {
     name="Eirene"
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	female=yes
 	 
 	#History
@@ -1184,8 +1392,8 @@
 504322 = {
     name="Isaakios"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504314
 	mother=504315
 	 
@@ -1200,8 +1408,8 @@
 }
 504323 = {
     name="Ioulia"
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	female=yes
 	 
 	#History
@@ -1216,8 +1424,8 @@
 504324 = {
     name="Alexandros"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504322
 	mother=504323
 	trait=twin
@@ -1231,8 +1439,8 @@
 504325 = {
     name="Basileios"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504322
 	mother=504323
 	trait=twin
@@ -1246,8 +1454,8 @@
 504326 = {
     name="Christophoros"
 	dynasty=5504
-    religion="orthodox"
-    culture="aegyptian"
+    religion="miaphysite"
+    culture="greek"
 	father=504314
 	mother=504315
 	 
@@ -1258,5 +1466,112 @@
     }
 	859.8.12={
 		add_matrilineal_spouse=504313
+	}
+}
+504327 = { 
+    name="Azenkwed" # Awjla/Augila
+	dynasty=5448
+    religion="miaphysite"
+    culture="tuareg"
+	 
+	#History
+	 
+    814.8.13={
+          birth=yes
+    }
+	836.1.1={
+		add_spouse=504328
+	}
+}
+504328 = {
+    name="Tanest"
+    religion="miaphysite"
+    culture="tuareg"
+	female=yes
+	 
+	#History
+	 
+    816.2.20={
+          birth=yes
+    }
+	836.1.1={
+		add_spouse=504327
+	}
+}
+504329 = {
+    name="Tin-Hinan"
+	dynasty=5448
+    religion="miaphysite"
+    culture="tuareg"
+	father=504327
+	mother=504328
+	female=yes
+	 
+	#History
+	 
+	839.1.29={
+		birth=yes
+	}
+}
+504330 = {
+    name="Meq'wran"
+	dynasty=5448
+    religion="miaphysite"
+    culture="tuareg"
+	father=504327
+	mother=504328
+	 
+	#History
+	 
+	841.8.2={
+		birth=yes
+	}
+}
+504331 = {
+    name="Awgustin"
+	dynasty=5448
+    religion="miaphysite"
+    culture="tuareg"
+	father=504327
+	mother=504328
+	 
+	#History
+	 
+	844.3.15={
+		birth=yes
+	}
+}
+504332 = { 
+    name="Ugdada" # Kharija
+	dynasty=5449
+    religion="miaphysite"
+    culture="tuareg"
+	
+	add_trait=ambitious
+	 
+	#History
+	 
+    837.5.23={
+          birth=yes
+    }
+	856.1.1={
+		add_spouse=504333
+	}
+}
+504333 = { 
+    name="Taweckint"
+    religion="miaphysite"
+    culture="tuareg"
+	female=yes
+	
+	add_trait=ambitious
+	 
+	#History
+	 
+    837.5.23={
+          birth=yes
+    }
+	856.1.1={
+		add_spouse=504332
 	}
 }

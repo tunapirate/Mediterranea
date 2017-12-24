@@ -1,23 +1,25 @@
+# -*- ck2.history.provinces -*-
+
 # 412 - Torzhok
 
 # County Title
 title = c_torzhok
 
 # Settlements
-max_settlements = 4
-b_yamskygorodok = tribal
+max_settlements = 3
 
-#b_kingisepp = city
-#b_shcheremenski = temple
-
-#b_volosovo = castle
-#b_konnovo = castle
-#b_vistino = castle
-#b_komarovka = castle
-#b_vassakara = castle
+b_rajsna = tribal
+#b_torzhok = city
+#b_yshny_volochyok = city
+#b_bologoye = city
+#b_valday = temple
 
 # Misc
-culture = finnish
+culture = vepsian
 religion = finnish_pagan
 
 # History
+1010.1.1 = {religion = orthodox }
+1010.1.1 = {b_rajsna = castle
+b_torzhok = city }
+

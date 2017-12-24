@@ -1,15 +1,16 @@
+# -*- ck2.history.provinces -*-
+
 # 871 - Busaso
 
 # County Title
 title = c_busaso
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_mosylon = castle
-b_bandaraassim = city
 b_lasanod = temple
-
+#b_bandaraassim = city
 #b_garoowe = castle
 #b_qardho = castle
 #b_erigavo = city
@@ -21,3 +22,5 @@ culture = somali
 religion = jewish
 
 # History
+
+1337.1.1 = { b_bandaraassim = city }

@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 873 - Harer
 
 # County Title
@@ -6,17 +8,19 @@ title = c_harer
 # Settlements
 max_settlements = 4
 
-b_dakkar = castle
+b_jijiga = tribal
 b_harar = temple
-
-b_alemaya = city
+#b_hargeysa = city
 #b_diridawa = castle
+#b_jijiga = castle
 #b_kurfachele = castle
 #b_kombolcha = city
 #b_babile = castle
 
 # Misc
-culture = ethiopian
+culture = somali
 religion = miaphysite
 
 # History
+
+

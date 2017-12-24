@@ -1,23 +1,29 @@
+# -*- ck2.history.provinces -*-
+
 # 441 - Brno
 
 # County Title
 title = c_brno
 
 # Settlements
-max_settlements = 4
-b_velehrad = tribal
-#b_kromeriz = city
-b_prerov = temple
+max_settlements = 5
 
-#b_boskovice = castle
-#b_wisowitz = castle
-#b_uherskebrod = castle
-#b_uherskehradiste = castle
-#b_kromeriz = castle
-#b_zlin = castle
+b_brno = tribal
+b_mikulcice = city
+b_rejhrad = temple
+#b_pohansko = city
+#b_zdar = temple
+#b_mikulov = city
+#b_zdar = temple
+#b_pernstejn = castle
+#b_svitavy = castle
+#b_ivancice = city
+#b_boskovice = city
+#b_tisnov = temple
 
 # Misc
 culture = bohemian
 religion = slavic_pagan
 
 # History
+	

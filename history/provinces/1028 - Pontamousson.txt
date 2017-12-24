@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1028 - Pontamousson
+
+# County Title
+title = c_pontamousson
+
+# Settlements
+max_settlements = 3
+
+b_scaaarpone = castle
+#b_mousson = castle
+#b_saintdizier = city #Pont ра Mousson in fact 
+b_toul = temple
+
+
+# Misc
+culture = frankish
+religion = gallic_rite
+
+# History
+1261.1.1 = { remove_settlement = b_scaaarpone }
+1261.1.1 = { b_mousson = castle } 
+1261.1.1 = { capital = b_mousson } 
+1261.1.1 = { b_saintdizier = city } #Pont ра Mousson in fact
+1261.1.1 = { max_settlements = 4 }

@@ -1,0 +1,7 @@
+867.1.1 = {
+	holder = 524240
+	set_tribute_suzerain = {
+		who = k_balkh
+		percentage = 0.3
+	}
+}

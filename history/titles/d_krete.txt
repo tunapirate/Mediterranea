@@ -1,4 +1,3 @@
-867.1.1={
+867.1.1 = {
 	holder = 543559
-	law = succ_primogeniture
 }

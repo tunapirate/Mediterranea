@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 133 - Saintois
 
 # County Title
@@ -6,16 +8,20 @@ title = c_saintois
 # Settlements
 max_settlements = 4
 b_vaudemont = castle
-b_brixey = city
+b_neufchateau = city
 b_saintois = temple
 
+#b_brixey = city
+#b_joinville = castle
 #b_ivios = castle
 #b_sorcystmartin = castle
 #b_ornois = castle
 #b_saulnois = castle
 #b_dompaire = castle
 # Misc
-culture = gallic
+culture = frankish
 religion = gallic_rite
 
 # History
+
+

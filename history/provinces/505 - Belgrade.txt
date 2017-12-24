@@ -1,22 +1,27 @@
+# -*- ck2.history.provinces -*-
+
 # 505 - Belgrade
 
 # County Title
 title = c_belgrade
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
+
 b_belgrade = castle
 b_zemun = city
-b_smederevo = temple
-b_kragujevac = castle
-#b_pozarevac = castle
+#b_rudnik = city
+#b_smederevo = castle
 
-#b_branicevo = city
-#b_lipovic = castle
-#b_rudnik = castle
 
 # Misc
 culture = romanian
 religion = orthodox
 
 # History
+
+
+880.1.1 = { religion = orthodox }
+
+1000.1.1 = { culture = serbian }
+

@@ -1,23 +1,33 @@
+# -*- ck2.history.provinces -*-
+
 # 362 - Domazlice
 
 # County Title
 title = c_domazlice
 
 # Settlements
-max_settlements = 5
-b_domazlice = tribal
-
+max_settlements = 6
+b_doudleby = castle
 #b_pisek = city
-#b_kladruby = temple
-#b_hohenfurth = temple
-#b_sobeslav = castle
-#b_budejovice = city
+#b_vyssi_brod = temple
 #b_rosenberg = castle
-#b_goldenkron = castle
+#b_trebon = castle
+#b_netolice = castle
+#b_chynov = castle
+#b_budweis = city
+#b_tabor = city
+#b_milevsko = temple
+#b_zlata_koruna = temple
+
 
 # Misc
 
-culture = german
-religion = norse_pagan
+culture = bavarian
+religion = germanic_rite
 
 # History
+
+883.1.1 = { religion = catholic }
+#1254.1.1 = { culture = german } partially settled
+1265.1.1 = { b_budweis = city }
+

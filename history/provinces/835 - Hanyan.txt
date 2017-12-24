@@ -1,14 +1,16 @@
+# -*- ck2.history.provinces -*-
+
 # 835 - Hanyan
 
 # County Title
 title = c_hanyan
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
 b_hanyan = castle
-b_naama = city
-b_saida = temple
+b_nadruma = city
+
 
 #b_alkasdir = castle
 #b_alancha = castle
@@ -17,7 +19,8 @@ b_saida = temple
 #b_raselma = castle
 
 # Misc
-culture = maghreb_arabic
+culture = sanhaja
 religion = african_rite
 
 # History
+

@@ -1,0 +1,39 @@
+# -*- ck2.history.provinces -*-
+
+# 1267 - Szvuine
+# County Title
+
+title = c_szvuine
+
+# Settlements
+max_settlements = 3
+
+b_szvuinecastle = tribal
+b_wolin = city
+#b_usedom = temple # Grobe monestary
+
+# Misc
+culture = pommeranian
+religion = slavic_pagan
+
+# History
+867.1.1 = {
+	b_szvuinecastle = tb_shipyard_1
+}
+950.1.1 = {
+culture = norse
+religion = norse_pagan	
+}
+1040.1.1 = {
+culture = pommeranian
+religion = slavic_pagan
+}
+1122.1.1 = { b_szvuinecastle = castle 
+	b_szvuinecastle = ca_shipyard_1
+}#Wartislaw I
+# Christianity only arrived with the Danish king Valdemar I
+1155.1.1 = { b_usedom = temple }
+1168.1.1 = { religion = catholic }
+#1250.1.1 = { culture = low_german } not the majority
+1277.1.1 = { trade_post = b_bardewik }
+

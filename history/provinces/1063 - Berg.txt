@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1063 - Berg
+
+# County Title
+title = c_berg
+
+# Settlements
+max_settlements = 4
+
+b_berg = castle
+b_westerberg = city
+b_siegen = temple
+#b_olpe = city
+#b_schlossburg = castle
+#b_ermingardibruggern = city
+
+# Misc
+culture = franconian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }
+
+
+

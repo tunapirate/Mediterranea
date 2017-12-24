@@ -1,23 +1,19 @@
+# -*- ck2.history.provinces -*-
+
 # 602 - Kasogs
 
 # County Title
 title = c_kasogs
 
 # Settlements
-max_settlements = 3
-b_myequape = tribal
+max_settlements = 2
+b_khumar = tribal
+#b_sambalut = tribal
 
-#b_samiran = city
-#b_zikh = temple
 
-#b_bakhtarakhtar = castle
-#b_koshkhab = castle
-#b_ustdzeghuta = castle
-#b_eltarkan = temple
-#b_sarytyuz = city
 
 # Misc
-culture = croatian
+culture = kasogi
 religion = slavic_pagan
 
 # History

@@ -1,22 +1,25 @@
+# -*- ck2.history.provinces -*-
+
 # 503 - Hum
 
 # County Title
 title = c_hum
 
 # Settlements
-max_settlements = 4
-b_plav = castle
-b_novipazar = city
-b_pec = temple
+max_settlements = 3
 
-#b_stupovi = castle
-#b_belacrkva = castle
-#b_bradarevo = castle
-#b_moraca = castle
-#b_medun = castle
+b_borac = castle 
+#b_vlasenica = city
+b_rogatica = castle
 
 # Misc
 culture = dalmatian
 religion = hellenic_pagan
 
 # History
+
+880.1.1 = { religion = orthodox }
+
+
+
+ 

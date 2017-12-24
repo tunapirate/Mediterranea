@@ -1,27 +1,30 @@
+# -*- ck2.history.provinces -*-
+
 # 253 - Württemberg
 
 # County Title
 title = c_wurttemberg
 
 # Settlements
-max_settlements = 6
-b_stuttgart = castle
-b_reutlingen = city
-b_heilbronn = temple
-b_asperg = castle
+max_settlements = 5
 
-#b_waiblingen = castle
-#b_esslingen = castle
-#b_gmund = castle
-#b_staufen = castle
+b_wirtenberg = castle
+b_stuttgart = city
+b_calw = castle
+#b_hirsau = temple
+#b_heilbronn = temple
+#b_reutlingen = city
+#b_waiblingen = city
+#b_esslingen = city
+#b_herrenberg = castle
 
 # Misc
-culture = german
+culture = swabian
 religion = germanic_rite
 
 # History
-
-1187.1.1 = { b_waiblingen = castle } 
+1065.1.1 = { b_hirsau = temple }
+1170.1.1 = { culture = german }
 
 
 

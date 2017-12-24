@@ -1,0 +1,12 @@
+# -*- ck2.history.titles -*-
+
+1198.1.1 = {
+	#liege = k_volga_bulgaria
+	holder = 1233644 # Purgaz/Purgas
+}
+#1236.9.1 = {
+#	liege = 0
+#}
+1238.10.1 = {
+	holder = 0
+}

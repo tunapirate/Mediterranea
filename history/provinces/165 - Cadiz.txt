@@ -1,21 +1,23 @@
+# -*- ck2.history.provinces -*-
+
 # 165 - Cadiz
 
 # County Title
 title = c_cadiz
 
 # Settlements
-max_settlements = 5
-b_cadiz = castle
-b_jerez = temple
-b_medinasidonia = city
-b_arcos = castle
+max_settlements = 4
 
-#b_sanjosedelvalle = city
-#b_sanlucadebarrameda = castle
-#b_sanfernando = castle
-#b_alcaladelosgazules = castle
+b_osuna = castle
+b_carmona = temple
+b_ecija = city
+b_lora_del_rio = temple
+#b_sevimoron = city
 
-culture = catalan
+
+culture = hispanic
 religion = hellenic_pagan
 
 # History
+1279.1.1 = { culture = castillan }
+1279.1.1 = { religion = catholic }

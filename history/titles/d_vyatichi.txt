@@ -1,0 +1,18 @@
+# -*- ck2.history.titles -*-
+
+# Vyatichi
+750.1.1 = {
+	holder = 194145
+}
+799.1.1 = {
+	holder = 194146
+}
+822.1.1 = {
+	holder = 160063
+}
+855.1.1 = {
+	holder = 6834
+}
+1000.1.1 = {
+	holder = 0
+}

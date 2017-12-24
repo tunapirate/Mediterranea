@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1608 - Kandail
+
+# County Title
+title = c_kandail
+
+# Settlements
+max_settlements = 5
+b_kandail = castle
+b_dadu = city
+b_quzdar = castle
+#b_bodein = city
+#b_jhal = temple
+
+# Misc
+culture = sindhi
+religion = hindu
+
+# History
+980.1.1 = {	religion = sunni }

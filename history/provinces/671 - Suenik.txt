@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 671 - Suenik
 
 # County Title
@@ -5,17 +7,14 @@ title = c_suenik
 
 # Settlements
 max_settlements = 3
-b_ghapan = castle
+b_hrasekaberd = castle
 b_areni = city
-b_noravank = temple
-#b_vorotnavank = castle
-#b_prochabert = castle
+b_tatev = temple
 #b_goris = castle
-#b_tatev = temple
-#b_gandzassar = temple
+#b_jermuk = city
 
 # Misc
 culture = armenian
-religion = miaphysite
+religion = apostolic
 
 # History

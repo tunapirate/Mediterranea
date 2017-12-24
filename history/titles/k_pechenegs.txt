@@ -1,4 +1,37 @@
-20.1.1={
-	holder=0
-	active = no
+# -*- ck2.history.titles -*-
+
+# Fictional Qangar Khans.
+20.1.1 = {
+	historical_nomad = yes
+}
+730.1.1 = {
+	holder = 1231700
+}
+750.1.1 = {
+	holder = 1231702
+}
+790.1.1 = {
+	holder = 1231704
+}
+830.1.1 = {
+	holder = 1231706
+}
+893.1.1 = {
+	holder = 0 # Defeated by Oghuz and Khazars.There were no khans, but only princes at the time of expulsion.
+}
+# The east united under Tiraq.
+1040.1.1 = {
+	holder = 1231778 # Tiraq
+}
+1069.1.1 = {
+	holder = 1231756 # Tzegul
+}
+1087.6.1 = {
+	holder = 1231780 # Tatus/Tatos/Tatrys
+}
+1091.4.29 = {
+	holder = 1231834 # Osul
+}
+1094.1.1 = {
+	holder = 0 # North Danubian Pechenegs subdued
 }

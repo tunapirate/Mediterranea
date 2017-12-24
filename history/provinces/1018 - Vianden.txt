@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 115 - Vianden
+
+# County Title
+title = c_vianden
+
+# Settlements
+max_settlements = 4
+
+b_vianden = castle
+b_prum = temple
+
+#b_duren = city
+#b_ham = castle
+
+
+# Misc
+culture = franconian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }
+
+
+

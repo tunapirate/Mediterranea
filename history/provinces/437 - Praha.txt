@@ -1,22 +1,35 @@
+# -*- ck2.history.provinces -*-
+
 # 437 - Praha
 
 # County Title
 title = c_praha
 
 # Settlements
-max_settlements = 6
-b_praha = tribal
+max_settlements = 7
+b_levyhradec= tribal
+b_praha = city
 b_brevnov = temple
-
-#b_kuttenberg = city
-#b_karlstein = castle
-#b_slany = castle
-#b_kolin = castle
 #b_stare_mesto = city
-#b_zbraslav = castle
+#b_boleslav = castle
+#b_sternbergprague = castle
+#b_krivoklat = castle
+#b_beroun = castle
+#b_melnik = castle
+#b_slany = city
+#b_kuttenberg = city
+#b_sazava = temple
+#b_zbraslav = temple
 
 # Misc
 culture = lombard
 religion = norse_pagan
 
 # History
+
+883.1.1 = { religion = catholic }
+883.1.1 = { capital = b_praha }
+900.1.1 = {
+      remove_settlement = b_levyhradec
+      }
+910.1.1 = { b_boleslav = castle }

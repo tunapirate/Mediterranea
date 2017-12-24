@@ -1,24 +1,25 @@
+# -*- ck2.history.provinces -*-
+
 # 121 - Nassau
 
 # County Title
 title = c_nassau
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_nassau = castle
 b_wetzlar = city
-b_fulda = temple
 
-#b_marburg = city
-#b_katzenelnbogen = castle
-#b_hersfeld = castle
-#b_falkenstein = castle
+#b_falkenstein_nassau = castle
+b_solms = castle
+#b_braunfels = city
+#b_laurenburg = castle
 #b_isenburg = castle
+#b_schaldeck = castle
 
 # Misc
-culture = german
+culture = franconian
 religion = germanic_rite
 
 # History
-
-1097.1.1= { b_katzenelnbogen = castle } 
+1170.1.1 = { culture = german }

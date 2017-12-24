@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1037 - Basel
+
+# County Title
+title = c_basel
+
+# Settlements
+max_settlements = 2
+
+b_basel = temple
+#b_arlesheim = city
+#b_thierstein = castle
+#b_kleinlutzel = temple
+
+# Misc
+culture = arpitan
+religion = hellenic_pagan
+
+# History
+1170.1.1 = { culture = german }
+
+
+

@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 977 - Waldburg
+
+# County Title
+title = c_waldburg
+
+# Settlements
+max_settlements = 4
+
+b_waldburg = castle
+b_ravensburg = city
+#b_altdorf = castle
+#b_biberach = temple
+#b_weingarten = temple 
+#b_schussenried = temple
+#b_wangen = city
+#b_isny = city
+#b_leutkirch = city
+#b_zeil = castle
+#b_trauchburg = castle 
+#b_marstetten = castle
+
+# Misc
+culture = swabian
+religion = germanic_rite
+
+# History
+1056.1.1 = { b_weingarten = temple } 
+1170.1.1 = { culture = german }
+

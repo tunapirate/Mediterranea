@@ -1,22 +1,22 @@
-# 462 - Krizevci
+# -*- ck2.history.provinces -*-
+
+# 462 - Krizevci # Vukova
 
 # County Title
 title = c_krizevci
 
 # Settlements
 max_settlements = 4
-b_krizevci = castle
-b_koprivnica = city
-b_osijek = temple
-#b_vinkovci = castle
 
-#b_durdevac = castle
-#b_vukovar = city
-#b_pozega = castle
-#b_virovitica = castle
+b_vukovar = castle
+#b_ilok = castle
+b_osijek = city
+#b_dakovo = temple
+#b_gorjani = castle
 
 # Misc
-culture = ostrogothic
-religion = germanic_rite
+culture = east_gothic
+religion = orthodox
 
 # History
+1250.1.1 = { b_dakovo = temple }

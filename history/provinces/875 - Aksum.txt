@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 875 - Aksum
 
 # County Title
@@ -10,9 +12,9 @@ b_adwa = castle
 b_aksum = temple # Miaphysite Holy Site
 b_mekele = city
 
-#b_rama = castle
+#b_qohaito = castle
 b_adigrat = castle
-b_hawzen = temple
+b_sembel = temple
 b_yeha = temple
 
 # Misc

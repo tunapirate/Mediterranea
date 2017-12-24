@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1408 - Tummo
+
+# County Title
+title = c_tummo
+
+# Settlements
+max_settlements = 1
+
+b_tummo = tribal
+
+# Misc
+culture = tuareg
+religion = west_african_pagan
+
+# History
+
+#islamization
+910.1.1 = { religion = sunni }

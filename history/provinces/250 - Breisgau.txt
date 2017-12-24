@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 250 - Breisgau
 
 # County Title
@@ -6,18 +8,19 @@ title = c_breisgau
 # Settlements
 max_settlements = 4
 b_freiburg = castle
-b_offenburg = city
+#b_offenburg = city
 b_stblasien = temple
 
-#b_zahringen = castle
+b_schaffhausen = city
 #b_lahr = castle
 #b_lohrrach = castle
 #b_breisach = castle
 #b_rottweil = castle
 
 # Misc
-culture = german
-religion = gallic_rite
+culture = swabian
+religion = germanic_rite
 
 # History
+1170.1.1 = { culture = german }
 

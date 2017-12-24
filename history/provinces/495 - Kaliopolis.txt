@@ -1,34 +1,32 @@
+# -*- ck2.history.provinces -*-
+
 # 495 - Kaliopolis
 
 # County Title
 title = c_kaliopolis
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
+b_selymbria = castle
+b_raidestos = city
+b_herakleiaperinthos = temple
 b_gallipoli = castle
-b_heraclea = temple
-b_madyta = city
-b_rhaidestos = castle
+b_ainos = city
+b_tzouroulos = city
 
-#b_panidos = castle
-#b_selymbria = castle
-#b_lysimachia = castle
-#b_sestus = castle
+#b_hexamilion = castle
+#b_chariopolis = temple
+#b_kypsela = temple
+#b_ganos = city
+#b_madyta = city
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-765.1.1 = { religion = orthodox } # iconoclast
-#787.10.23 = { religion = orthodox }
-
 1194.1.1 = { trade_post = b_ziani }
 # Catalan Company ravages the province
-
-1305.1.1 = { remove_settlement = b_heraclea }
-
-1337.1.1 = { b_selymbria = castle }
 
 1374.1.1 = { culture = turkish }
 1374.1.1 = { religion = sunni }

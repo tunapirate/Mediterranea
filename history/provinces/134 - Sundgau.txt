@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 134 - Sundgau
 
 # County Title
@@ -9,14 +11,19 @@ b_ferette = castle
 b_murbach = temple
 b_kolmar = city
 
-#b_ensisheim = city
+#b_ensisheim = castle becomes Habsburgs Sundgau capital in 1431
 #b_landser = castle
 #b_altkirch = castle
 #b_thann = castle
-#b_mulhouse = castle
+#b_mulhouse = city
 
 # Misc
-culture = gallic
-religion = gallic_rite
+culture = frankish
+religion = hellenic_pagan
 
 # History
+1186.1.1 = { culture = german }
+1186.1.1 = { b_ensisheim = castle } #1273 Koenigsbourg castle of Habsburg landgraves of Upper Alsace
+1271.1.3= { capital = b_ensisheim }
+1324.11.3 = { remove_settlement = b_ferette }
+1324.11.3 = { b_altkirch = castle }

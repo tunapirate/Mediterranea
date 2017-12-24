@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1007 - Konigssondergau
+# County Title
+title = c_konigssondergau
+
+# Settlements
+max_settlements = 5
+
+b_sonnenberg = castle
+b_wiesbaden = city
+b_katz = castle
+b_lipporn = castle
+#b_lorch = city
+#b_biburc = city
+#b_moskebach = temple
+
+# Misc
+culture = swabian
+religion = germanic_rite
+
+# History
+1170.1.1 = { culture = german }

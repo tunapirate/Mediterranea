@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 110 - Blois
 
 # County Title
@@ -7,15 +9,17 @@ title = c_blois
 max_settlements = 4
 b_blois = castle
 b_staignan = temple
-b_beaugency = city 
+b_romorantin = city
 
 #b_chaumontsurloire = castle
 #b_stgeorgesdubois = temple
 #b_montrichard = castle
 #b_fougeressurbievre = castle
-#b_romorantin = city
+#b_bourgmoyen = temple
 
-culture = gallic
-religion = gallic_rite
+
+culture = frankish
+religion = hellenic_pagan
 
 # History
+

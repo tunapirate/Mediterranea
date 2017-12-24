@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 446 - Znojmo
 
 # County Title
@@ -7,19 +9,20 @@ title = c_znojmo
 max_settlements = 4
 
 b_znojmo = tribal
-#b_mikulov = city
 b_trebic = temple
-
-#b_trebic = temple
-#b_mikulov = city
-#b_lundenburg = castle
-#b_iglau = castle
-#b_skalitz = castle
-#b_eibenshitz = castle
-#b_ivancice = castle
+#b_jihlava = city
+#b_vranov = castle
+#b_bitov = castle
+#b_jemnice = city
+#b_louka = temple
 
 # Misc
-culture = german
-religion = germanic_rite
+culture = bohemian
+religion = slavic_pagan
 
 # History
+#1061.1.1 = { b_bitov = castle }
+1101.1.1 = { b_trebic = temple }
+#german colonization of southern parts
+#1160.1.1 = { culture = german } only parts settled
+1233.1.1 = { b_jihlava = city }

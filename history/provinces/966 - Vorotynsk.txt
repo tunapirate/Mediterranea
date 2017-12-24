@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 966 - Vorortynsk
+
+# County Title
+title = c_vorotynsk
+
+# Settlements
+max_settlements = 4
+
+b_vorotynsk = tribal
+#b_mosalsk = castle
+#b_meshchovsk = castle
+#b_serpeysk = castle 
+
+# Misc
+culture = russian
+religion = slavic_pagan
+
+# History
+1040.1.1 = {culture = prussian}
+1040.1.1 = {religion = baltic_pagan}
+1134.1.1 = {religion = orthodox }
+1134.1.1 = {culture = russian }
+1134.1.1 = {b_vorotynsk = castle
+b_mosalsk = castle
+b_meshchovsk = castle }

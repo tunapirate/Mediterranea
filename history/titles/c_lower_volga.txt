@@ -1,111 +1,89 @@
-654.1.1= {
-	liege=d_itil
-	holder=74004
-}
-672.1.1={
-	holder=74007
-}
-699.1.1={
-	holder=74008
-}
-#720.1.1={
-#	holder=74010
-#}
-749.1.1= {
-	holder=74012
-}
-771.1.1={
-	holder=74018
-}
-788.1.1={
-	holder=74019
-}
-802.1.1={
-	holder=74020
-}
-818.1.1={
-	holder=74023
-}
-822.1.1={
-	liege=d_itil
-	holder=0
-}
-860.1.1=
-{
-holder=180174
-}
-1066.1.1=
-{
-#liege="d_itil"
-liege = k_cuman
-holder=806
-}
-1110.1.1=
-{
-holder=90143
-}
-1120.1.1=
-{
-holder=125401
-}
-1146.1.1=
-{
-holder=125402
-}
-1183.1.1=
-{
-holder=228030
-}
-1203.1.1=
-{
-holder=125403
-}
-1220.1.1 = {
-	holder = 34949
-}
-1223.1.1=
-{
-holder=125404
-}
-1227.1.1=
-{
-holder=125501
-}
-1227.12.2=
-{
-holder=125503
-}
-1255.1.2=
-{
-holder=125505
-}
-1256.1.2=
-{
-holder=125506
-}
-1257.1.2=
-{
-holder=125504
-}
-1266.1.2=
-{
-holder=125508
-}
-1280.1.2=
-{
-holder=125509
-}
-1287.1.2=
-{
-holder=125511
-}
-1291.1.2=
-{
-holder=125512
-}
-1312.1.2=
-{
-holder=480000
-}
+# -*- ck2.history.titles -*-
 
-
+825.1.1 = {
+	liege = k_pechenegs
+	holder = 1231704
+}
+830.1.1 = {
+	holder = 1231706
+}
+# Bula-Chopan
+864.1.1 = {
+	liege = d_bula_chopan
+	holder = 1231840 # Bota, chief of Bula-Chopan at the time of the 893 expulsion
+}
+# Pechengs expulsed by Khazars.
+895.1.1 = {
+	liege = k_khazaria
+	holder = 1233421
+}
+930.1.1 = {
+	holder = 1233423
+}
+# Sarkel destroyed, goes to oghuz turks.
+966.1.1 = {
+	liege = k_uzes
+	holder = 1231869
+}
+1010.1.1 = {
+	holder = 1231871
+}
+1035.1.1 = {
+	holder = 1231873
+}
+# Cumans arrive
+# Yimek
+1060.1.1 = {
+	liege = d_yimek
+	holder = 1233015
+}
+1065.1.1 = {
+	holder = 1233017 # Esen
+}
+1082.1.1 = {
+	holder = 1233019 # Aepa
+}
+1117.1.1 = {
+	holder = 1233021
+}
+1140.1.1 = {
+	holder = 1233024 # Amurat
+}
+1165.1.1 = {
+	holder = 1233026
+}
+1205.1.1 = {
+	holder = 1233028
+}
+# Mongols put down revolt
+1239.1.1 = {
+	liege = k_turkestan_west
+	holder = 125503
+}
+1241.12.11 = {
+	liege = e_golden_horde
+}
+1255.1.2 = {
+	holder = 125505
+}
+1256.1.2 = {
+	holder = 125506
+}
+1257.1.2 = {
+	holder = 125504
+}
+1266.1.2 = {
+	holder = 125508
+}
+1280.1.2 = {
+	holder = 125509
+}
+1287.1.2 = {
+	holder = 125511
+}
+1291.1.2 = {
+	holder = 125512
+}
+1312.1.2 = {
+	holder = 480000
+}

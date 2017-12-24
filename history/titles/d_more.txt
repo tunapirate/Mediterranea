@@ -1,0 +1,14 @@
+# -*- ck2.history.titles -*-
+
+800.1.1 = {
+	holder = 1228005 # Ivar Halvdansson mørekonge
+}
+825.1.1 = {
+	holder = 1228006 # Øystein Ivarsson mørekonge
+}
+858.1.1 = {
+	holder = 1228007 # Hundtjov Mørekonge
+}
+877.1.1 = {
+	holder = 0 # goes to the Mørejarls after the first battle of Solskjell
+}

@@ -1,22 +1,30 @@
+# -*- ck2.history.provinces -*-
+
 # 249 - Schwaben
 
 # County Title
 title = c_schwaben
 
-# Settlements
-max_settlements = 5
-b_tubingen = castle
-b_heiligenberg = city
-b_konstanz = temple
 
-#b_uberlingen = castle
-#b_hohenberg = castle
-#b_friedrichshafen = castle
-#b_wangen = castle
-#b_lindau = castle
+# Settlements
+max_settlements = 4
+
+b_montfort = castle
+b_bregenz = city
+b_lindau = temple
+#b_vaduz = castle
+#b_dornbirn = city
+#b_sonnenberg_montfort = castle
+#b_langenargen = city
+#b_feldkirch = city
+#b_rankweil = temple
 
 # Misc
 culture = rhaetic
-religion = roman_rite
+religion = catholic
 
 # History
+
+#800.1.1 = { name = "Bregenz" }
+#1000.1.1 = { name = "Montfort" }
+1170.1.1 = { culture = german }

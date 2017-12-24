@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 111 - Chartres
 
 # County Title
@@ -6,16 +8,14 @@ title = c_chartres
 # Settlements
 max_settlements = 4
 b_chartres = castle
-b_bonneval = temple
-b_dreux = city 
-#b_bonneval = temple
-#b_chateaudun = castle
-#b_epernon = city
-#b_gallardon = castle
-#b_nogent = castle
-#b_tiron = castle
+b_gallardon = castle
+#b_sours = castle
+#b_tiron = temple
+#b_dammarieleslys = temple
+#b_auneau = city
 
-culture = gallic
+culture = frankish
 religion = gallic_rite
 
 # History
+

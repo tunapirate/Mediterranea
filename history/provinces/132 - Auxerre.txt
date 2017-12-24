@@ -1,10 +1,12 @@
+# -*- ck2.history.provinces -*-
+
 # 132 - Auxerre
 
 # County Title
 title = c_auxerre
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 b_auxerre = castle
 b_druyes = city
 
@@ -12,11 +14,12 @@ b_pontigny = temple
 #b_cravant = castle
 #b_crisenon = temple
 #b_stsauveurenpuisaye = city
-#b_tonnerre = city
 #b_mailly = temple
 
+
 # Misc
-culture = gallic
+culture = frankish
 religion = hellenic_pagan
 
 # History
+

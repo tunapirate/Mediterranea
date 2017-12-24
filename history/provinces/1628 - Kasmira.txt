@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1628 - Kasmira
+
+# County Title
+title = c_kasmira
+
+# Settlements
+max_settlements = 4
+b_srinagara = castle
+b_shankaracharya = temple
+#b_jayapura = city
+#b_parihasapura = temple
+#b_padmapura = city
+#b_loharakota = castle
+#b_amaresvara = temple
+#b_baghsar = castle
+
+# Misc
+culture = panjabi
+religion = buddhist
+
+# History

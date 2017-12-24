@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1151 - Komarom
+
+# County Title
+title = c_komarom
+
+# Settlements
+max_settlements = 2
+
+
+b_komarom = tribal
+b_tatahungary = temple
+#b_szony = castle
+#b_guta = temple
+#b_ersekujvar = city
+
+# Misc
+culture = moravian
+religion = slavic_pagan 
+
+# History
+950.1.1 = { culture = hungarian }
+
+

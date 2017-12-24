@@ -3,9 +3,13 @@
 }
 867.1.1={
 	holder = 534021
-	law = tax_levy_law_feudal_2
+	law = crown_authority_1
+	law = centralization_1
 	law = succ_primogeniture
-	law = law_voting_power_1
-	law = revoke_title_law_0
 	law = agnatic_succession
+	law = feudal_slider_2
+	law = feudal_obligations_1
+	law = law_voting_power_1
+	law = revoke_title_voting_power_1
+	pentarch = b_antiocheia
 }

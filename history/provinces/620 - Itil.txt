@@ -1,21 +1,19 @@
+# -*- ck2.history.provinces -*-
+
 # 620 - Itil
 
 # County Title
 title = c_itil
 
 # Settlements
-max_settlements = 5
-b_itil = tribal
-b_saqsin = temple
+max_settlements = 6
+b_khazaran = tribal
+b_saksin = city
+b_atil = temple
+#b_astrakhan = tribal
+#b_jenotajewka = castle
+#b_chistibanka = city
 
-#b_tumak = castle
-#b_xacitarxan = city 
-
-#b_khaganbaligh = city
-#b_kharabali = castle
-#b_kamyzyak = castle
-
-#b_alga = castle
 
 # Misc
 culture = khazar
@@ -53,7 +51,7 @@ religion = tengri_pagan
 #Mongol invasion
 #1227.1.1 = { remove_settlement = b_xacitarxan }
 
-1227.1.1 = { culture = mongol } 
+1239.1.1 = { culture = mongol } 
 
-#1337.1.1 = { b_khaganbaligh = city }
+1337.1.1 = { b_astrakhan = city }
 

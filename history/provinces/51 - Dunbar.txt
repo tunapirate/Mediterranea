@@ -1,23 +1,22 @@
+# -*- ck2.history.provinces -*-
+
 # 51 - Dunbar
 
 # County Title
 title = c_dunbar
 
 # Settlements
-max_settlements = 4
-b_dunbar = tribal
+max_settlements = 3
+b_berwick = tribal
+b_coldingham = temple
+#b_gordon = city
 
-#b_berwick = city
 
-#b_thirlestane = castle
-b_tyninghame= temple
-#b_gordon = castle
-#b_huntly = castle
-#b_coldingham = castle
-#b_crichton = castle
 
 # Misc
-culture = welsh
+culture = cumbric
 religion = celtic_rite
 
 # History
+1100.11.11 = { culture = english }
+

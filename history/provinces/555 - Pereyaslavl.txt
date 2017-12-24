@@ -1,38 +1,32 @@
+# -*- ck2.history.provinces -*-
+
 # 555 - Pereyaslavl
 
 # County Title
 title = c_pereyaslavl
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 b_pereyaslavl = tribal
-
-#b_hadyach = city
-#b_myrhorod = temple
-
-#b_chornukhy = castle
-#b_hrebinka = castle
-#b_lokhvytsia = castle
-#b_boryspil = castle
-#b_velykisorochyntsi = castle
+#b_nosivka = castle
+#b_pryluky = city
+#b_baryshivska = temple
+#b_yaroslavka = city
+#b_oster = castle
+#b_zolotonosha = city
+#b_pyryatyn = temple
 
 # Misc
-culture = severian
+culture = russian
 religion = slavic_pagan
 
 # History
+988.1.1 = {religion = orthodox }
+988.1.1 = {b_pereyaslavl = castle
+b_nosivka = castle
+b_pryluky = city
+b_baryshivska = temple }
+1239.1.1 = { remove_settlement = b_baryshivska } #Mongol invasion
+1239.1.1 = { remove_settlement = b_nosivka }
 
-833.1.1 = { culture = russian }
-833.1.1 = { religion = slavic_pagan } 
 
-988.1.1 = {
-	religion = orthodox
-}
-1187.1.1 = {
-	b_pereyaslavl = castle
-	b_hadyach = city
-	b_myrhorod = temple
-	b_chornukhy = castle
-}
-1239.1.1 = { remove_settlement = b_myrhorod } #Mongol invasion
-1239.1.1 = { remove_settlement = b_chornukhy }

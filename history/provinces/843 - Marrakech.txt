@@ -1,24 +1,41 @@
+# -*- ck2.history.provinces -*-
+
 # 843 - Marrakech
 
 # County Title
 title = c_marrakech
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 
-b_marrakech = castle
-b_sidirahhal = temple
+#b_marrakech = castle
+b_aghmat = tribal
+b_dai = city
+
+#b_tasgimut = castle
+#b_naffis = temple
+#b_demnat = castle
+#b_asni = castle
 
 #b_elanakir = castle
-b_ouarzazate = city
-#b_demnat = city
-#b_asni = city
-
-#b_thineghir = castle
-#b_alnif = castle
 
 # Misc
-culture = maghreb_arabic
+culture = masmuda
 religion = african_rite
 
 # History
+
+1062.1.1 = {
+	b_marrakech = castle
+	capital = b_marrakech
+}
+1066.1.1 = { 
+	b_marrakech = ca_keep_1
+	b_marrakech = ca_training_grounds_1
+	b_marrakech = ca_keep_2
+	b_marrakech = ca_stable_1
+	b_marrakech = ca_barracks_1
+	b_marrakech = ca_militia_barracks_1
+	b_marrakech = ca_wall_1
+	b_marrakech = ca_wall_2
+}

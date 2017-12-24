@@ -1,5 +1,34 @@
-867.1.1={
-	holder = 534005
-	liege = "k_syria"
-	law = succ_primogeniture
+# -*- ck2.history.titles -*-
+
+866.1.1 = {
+	liege = e_arabia
+	holder = 163136
+}
+877.1.1 = {
+	liege = 0
+}
+#1066.1.1 = {
+#	liege = k_egypt
+#	holder = 41706
+#}
+1076.1.1 = {
+	liege = k_persia
+	holder = 144065
+}
+1091.1.1 = {
+	holder = 144067
+}
+1095.1.1 = {
+	holder = 144066
+}
+1098.1.1 = {
+	liege = k_egypt
+	holder = 34700
+}
+1099.7.15 = {
+	liege = k_jerusalem
+	holder = 10072
+}
+1291.5.28 = {
+	holder = 0
 }

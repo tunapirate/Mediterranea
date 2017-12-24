@@ -1,0 +1,52 @@
+# -*- ck2.history.titles -*-
+
+855.1.1 = {
+	liege = d_hebrides
+	holder = 168610 # Ketill flatnose
+}
+1017.12.25 = {
+	liege = d_western_isles
+	holder = 102518 # Haakon Eiriksson of the Lade Family. Was driven to England, where he was made an Earl like his father
+}
+1030.7.29 = {
+	holder = 1027 #Amlaib/Olav, son of Sihtric Silkbeard. King of Mann and many of the islands of the Danish Kingdom
+}
+1034.1.1 = {
+	holder = 102537 #Thorfinn Sigurdsson
+}
+1066.1.1 = {	
+	holder = 131104
+}
+1093.1.1 = {
+	holder = 202511
+}
+1103.1.25 = {
+	holder = 7395
+}
+1110.1.1 = {
+	holder = 220023
+}
+1153.1.1 = {
+	holder = 220021
+}
+1156.1.1 = {
+	holder = 220027
+}
+1164.1.1 = {
+	holder = 232683
+}
+1175.1.1 = {
+	holder = 232684
+}
+1237.1.1 = {
+	holder = 7278
+}
+1266.1.1 = {
+	holder = 7279
+}
+1296.1.1 = {
+	holder = 453071
+}
+1316.4.26 = {
+	holder = 453009
+}

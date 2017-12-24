@@ -1,22 +1,22 @@
-# 781 - Darum
+# -*- ck2.history.provinces -*-
+
+# 781 - Darum # Gaza
 
 # County Title
 title = c_darum
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 b_darum = castle
-b_rafah = city
-b_gaza = temple
-
-#b_radwan = castle
+b_gaza = city
+b_radwan = temple
 #b_salqah = castle
-#b_gerar = castle
-#b_jarara = castle
-#b_abasan = castle
+#b_abasan = temple
 
 # Misc
-culture = mizrahi
-religion = jewish
+culture = levantine_arabic
+religion = miaphysite
 
 # History
+
+1259.1.1 = { trade_post = b_morosini }

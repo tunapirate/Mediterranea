@@ -1,0 +1,33 @@
+# -*- ck2.history.provinces -*-
+
+# 1572 - Balasaghun
+
+# County Title
+title = c_balasaghun
+
+# Settlements
+max_settlements = 4
+b_quzordu = tribal
+b_suyab = city
+#b_balasaghun = city
+b_akbeshim = temple
+
+
+# Misc
+culture = pecheneg
+religion = tengri_pagan
+
+# History
+
+810.1.1 = {
+	culture = karluk
+	religion = manichean
+}
+950.1.1 = {
+	b_quzordu = castle
+	b_balasaghun = city
+}
+1050.1.1 = { remove_settlement = b_suyab }
+1050.1.1 = { religion = sunni }
+1070.1.1 = { remove_settlement = b_akbeshim }
+1218.1.1 = { b_quzordu = tribal }

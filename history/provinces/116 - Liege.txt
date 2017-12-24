@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 116 - Liege
 
 # County Title
@@ -6,23 +8,13 @@ title = c_liege
 # Settlements
 max_settlements = 4
 
-b_namur = castle
 b_liege = temple
-b_bastogne = city
+b_huy = city
+b_bouillon = castle
 
-#b_huy = castle
-#b_laroche = castle
-#b_stavelot = temple
-#b_cine = castle
-#b_salm = castle
+#b_fexhe = castle
+#b_aulne = castle
 
 # Misc
-culture = old_frankish
+culture = low_frankish
 religion = gallic_rite
-
-# History
-790.1.1 = { culture = frankish }
-850.1.1 = {
-	capital = b_liege
-}
-1187.1.1 = { b_stavelot = temple }

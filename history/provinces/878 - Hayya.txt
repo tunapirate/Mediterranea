@@ -1,24 +1,19 @@
+# -*- ck2.history.provinces -*-
+
 # 878 - Hayya
 
 # County Title
 title = c_hayya
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-b_hayya = tribal
-
-#b_sinkat = city
-
-#b_musmer = temple
-
-#b_kataigarsa = castle
-#b_aliab = castle
-#b_taris = city
-#b_gebeit = castle
+b_badi = tribal
+#b_ini = city
 
 # Misc
-culture = nubian
-religion = miaphysite
+culture = beja
+religion = east_african_pagan
 
 # History
+

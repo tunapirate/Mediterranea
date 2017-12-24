@@ -1,0 +1,32 @@
+# -*- ck2.history.titles -*-
+
+1120.1.1 = {
+	historical_nomad = yes
+	holder = 1231500
+}
+1134.1.1 = {
+	historical_nomad = no
+	law = succ_primogeniture
+}
+1144.6.6 = {
+	holder = 1231502
+}
+#1151.6.6 = {
+#	holder = 1231502
+#}
+1163.6.6 = {
+	holder = 1231503
+}
+1177.6.6 = {
+	holder = 1231504
+}
+1177.11.11 = {
+	holder = 1231505
+}
+1211.1.1 = {
+	holder = 1231514
+}
+# Mongol conquest
+1218.1.1 = {
+	holder = 0
+}

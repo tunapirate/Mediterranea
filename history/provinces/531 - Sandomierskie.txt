@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 531 - Sandomierskie
 
 # County Title
@@ -5,24 +7,23 @@ title = c_sandomierskie
 
 # Settlements
 max_settlements = 5
-b_sandomierz = tribal
-#b_zawichost = city
-#b_koprzywnica = temple
 
-#b_dwikozy = castle
-#b_klimontow = castle
-#b_loniow = castle
-#b_samborzec = castle
-#b_wilczyce = castle
+b_sandomierz = tribal
+b_wislica = city
+#b_opatow = temple
+#b_kielce = city
+#b_opoczno = city
+#b_radom = castle
+#b_zawichost = castle
+
 
 # Misc
 culture = polish
 religion = slavic_pagan
 
 # History
-999.7.1 = {
-	religion = catholic
-	b_sandomierz = castle
-	b_zawichost = city
-	b_koprzywnica = temple
-}
+999.7.1 = { religion = catholic 
+b_sandomierz = castle
+b_wislica = city
+b_opatow = temple}
+1337.1.1 = { b_kielce = city }

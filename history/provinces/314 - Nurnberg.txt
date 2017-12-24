@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 314 - Nürnberg
 
 # County Title
@@ -5,20 +7,19 @@ title = c_nurnberg
 
 # Settlements
 max_settlements = 5
-b_nurnberg = castle
-b_furth = city
-b_ellwangen = temple
 
-#b_kulmbach = castle
-#b_hohenburg = castle
-#b_nordlingen = castle
-#b_eichstatt = castle
+b_nurnbergerburg = castle
+b_nurnberg = city
+b_roth = city
+#b_crailsheim = castle
 #b_erlangen = castle
+#b_cadolzburg = castle
+#b_furth = city
 
 # Misc
-culture = german
+culture = thuringian
 religion = germanic_rite
 
 # History
-## Nuremburg was Kaiserburg, inofficial capial
-1187.1.1 = { b_hohenburg = castle }
+## Nuremburg was a Kaiserburg, inofficial capital
+1170.1.1 = { culture = german }

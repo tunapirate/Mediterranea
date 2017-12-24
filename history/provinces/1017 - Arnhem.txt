@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1017 - Arnhem
+title = c_arnhem
+
+# Settlements
+max_settlements = 4
+
+b_elburg = castle
+b_arnhem = city
+b_harderwijk = temple
+#b_hattem = city
+#b_wageningen = city
+
+# Misc
+culture = low_frankish #northern parts could be low_saxon
+religion = gallic_rite
+
+# History
+1150.1.1 = { culture = dutch }
+
+

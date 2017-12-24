@@ -1,68 +1,116 @@
+# -*- ck2.history.technology -*-
+
+#CENTRAL EUROPE
+
+technology = {
+	titles = {
+	# Saxony
+		d_angria
+		d_oldenburg
+		d_osnabruck
+		d_bishopmunster
+		d_bremen
+		d_holstein
+		d_lubeck
+		d_saxewittenberg
+		d_mecklemburg
+		d_altmark
+		d_brunswick
+	# Thuringia
+		d_wurzburg
+		d_thuringia
+		d_hessen
+		d_nuremberg
+		d_meissen
+	# Wendia
+		d_lubusz
+		d_pommerania
+		d_rugen
+		d_lausitz
+	# Bohemia
+		d_bohemia
+	# Moravia
+		d_nyitra
+		d_moravia
+		d_osterreich
+		d_gyor
+	# Pannonia
+		d_pecs
+		d_syrmia
+		d_slavonia
+		d_usora_i_soli
+	# Carpathia
+		d_esztergom
+		d_ungvar
+		d_ujavar
+		d_csanad
+		d_bacs
+		d_pest
+		d_transylvania
+	}  
+	769 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
+		
+	}
+	
+	1337 = {
+		military = 3.7
+		economy = 3.8
+		culture = 3.7
+	}
+}
+
 
 #EASTERN EUROPE
 
 technology = {
 	titles = {
-	#k_bohemia
-		d_bohemia
-		d_meissen
-	#k_czechia
-		d_moravia
-		d_nyitra
-		d_slovakia
-	#k_dacia
-		d_moldau
-	#k_danubia
-		d_pecs
-		d_pest
-		d_temes
-		d_transylvania
-		d_ungvar
-	#k_poland
+	# Poland
 		d_greater_poland
-		d_kuyavia
-		d_lesser_poland
-		d_mazovia
-		d_pommerania
-		d_pomeralia
 		d_silesia
-	#k_lithuania
-		d_courland
+		d_lesser_poland
+		d_belz
+		d_sieradzko-leczyckie
+	# Lithuania
 		d_lithuanians
-		d_polotsk
-		d_prussia
+		d_trakai
 		d_samogitia
-		d_vitebsk
-		d_yatviags
-	#k_ruthenia
-		d_chernigov
-		d_galich
+		d_zemigalia
+		d_prussia
+		d_pomeralia
+		d_mazovia
+		d_kuyavia
+		d_podlaise
+	# Polotsk
+		d_polotsk
+		d_minsk
+	# Kiev
 		d_kiev
-		d_moskva
-		d_novgorod_seversk
 		d_pereyaslavl
+		d_zaporizhia
+		d_vorksla
+		d_podolia
+		d_moldau
+		d_novgorod-seversk
 		d_smolensk
+		d_toropec
+		d_moskva
 		d_turov
-		d_tver
+		d_galich
 		d_volhynia
-	#k_saxony
-		d_brunswick
-		d_holstein
-		d_mecklemburg
-		d_saxony
-	#k_vepsia
-		d_esthonia
+		d_chernigov
+		d_novosil
+	# Livonia
 		d_livonia
-		d_novgorod
-		d_pskov
-		d_rostov
-		d_yaroslavl
-	#k_volga
-		d_maris
-		d_mordvins
-		d_ryazan
-		d_vladimir
-	}
+		d_talava
+		d_courland
+		d_lettigale
+		d_esthonia
+		d_dorpat
+		d_osel_wiek
+	}  
 	769 = {
 		military = 0.1
 		economy = 0.1

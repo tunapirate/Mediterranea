@@ -1,105 +1,128 @@
-699.1.1={
-	holder=188377 # Lalitaditya Muktapida
+# -*- ck2.history.titles -*-
+
+699.1.1 = {
+	holder = 188377 # Lalitaditya Muktapida
 }
-736.1.1={
-	holder=188378 # Kuvalayapida
+736.1.1 = {
+	holder = 188378 # Kuvalayapida
 }
-737.1.1={
-	holder=188379 # Vajraditya
+737.1.1 = {
+	holder = 188379 # Vajraditya
 }
-744.1.1={
-	holder=188380 # Prithvyapida
+744.1.1 = {
+	holder = 188380 # Prithvyapida
 }
 # Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
-748.1.1={
-	holder=188381 # Jayapida
+748.1.1 = {
+	holder = 188381 # Jayapida
 }
-782.1.1={
-	holder=188383 # Lalitapida
+782.1.1 = {
+	holder = 188383 # Lalitapida
 }
-798.1.1={
-	holder=188384 # Samgramapida
+798.1.1 = {
+	holder = 188384 # Samgramapida
 }
-805.1.1={
-	holder=188386 # Cippatajayapida
+805.1.1 = {
+	holder = 188386 # Cippatajayapida
 }
-817.1.1={
-	holder=188393 # Ajitapida
+817.1.1 = {
+	holder = 188393 # Ajitapida
 }
-846.1.1={
-	holder=188394 # Anangapida
+846.1.1 = {
+	holder = 188394 # Anangapida
 }
-849.1.1={
-	holder=188395 # Utpalapida
+849.1.1 = {
+	holder = 188395 # Utpalapida
 }
-854.1.1={
-	holder=0
+854.1.1 = {
+	holder = 0
 }
-
-1157.1.1={
+1059.1.1 = { #countermeasure to prevent the Ghaznavids from losing kingdom tier
+	holder = 144133
+}
+1099.1.1 = {
+	holder = 144134
+}
+1115.1.1 = {
+	holder = 144135
+}
+1115.6.1 = {
+	holder = 144136
+}
+1118.10.1 = {
+	holder = 144137
+	set_tribute_suzerain = { # Ghaznavid vassalage under Seljuks
+		who = e_persia
+		percentage = 0.4
+	}
+}
+1152.1.1 = {
 	holder = 144138 # Khusraw Shah
 }
-1160.1.1={
+1157.5.8 = {
+	clear_tribute_suzerain = e_persia
+}
+1160.1.1 = {
 	holder = 144139 # Khusraw Malik
 }
-1186.1.1={
-	holder = 170190 #Mu'izz al-Din conquered Lahore and made Qutb-ud-din Aibak governor
-	liege=e_rajastan
+1186.1.1 = {
+	liege = e_rajastan
+	holder = 170190 # Mu'izz al-Din conquered Lahore and made Qutb-ud-din Aibak governor
 }
-1210.1.1={
-	holder = 170191 #Aram
+1210.1.1 = {
+	holder = 170191 # Aram
 }
-1211.1.1={
-	holder = 170193 #Iltutmish
+1211.1.1 = {
+	holder = 170193 # Iltutmish
 }
-1236.5.1={
-	holder = 170194 #Firuz I
+1236.5.1 = {
+	holder = 170194 # Firuz I
 }
-1236.11.20={
-	holder = 170195 #Raziyya
+1236.11.20 = {
+	holder = 170195 # Raziyya
 }
-1239.10.1={
-	holder = 170198 #Bahram
+1239.10.1 = {
+	holder = 170198 # Bahram
 }
-1242.5.15={
-	holder = 170199 #Masud
+1242.5.15 = {
+	holder = 170199 # Masud
 }
-1246.6.11={
-	holder = 170201 #Mahmud
+1246.6.11 = {
+	holder = 170201 # Mahmud
 }
-1266.2.19={
-	holder = 170204 #Ghiyasuddin Balban
+1266.2.19 = {
+	holder = 170204 # Ghiyasuddin Balban
 }
-1286.1.1={
-	holder = 170213 #Muizz ud-din Qaiqabad
+1286.1.1 = {
+	holder = 170213 # Muizz ud-din Qaiqabad
 }
-1290.10.1={
-	holder = 170243 #Jalal ud din Firuz Khilji
+1290.10.1 = {
+	holder = 170243 # Jalal ud din Firuz Khilji
 }
-1296.7.21={
-	holder = 170245 #Ibrahim
+1296.7.21 = {
+	holder = 170245 # Ibrahim
 }
-1296.11.1={
-	holder = 170246 #Ala-ud-din Muhammad
+1296.11.1 = {
+	holder = 170246 # Ala-ud-din Muhammad
 }
-1316.1.3={
-	holder = 170247 #Umar
+1316.1.3 = {
+	holder = 170247 # Umar
 }
-1316.4.1={
-	holder = 170248 #Mubarak
+1316.4.1 = {
+	holder = 170248 # Mubarak
 }
-1318.1.1={
-	holder = 170250 #Mahmud
+1318.1.1 = {
+	holder = 170250 # Mahmud
 }
-1318.6.1={
-	holder = 170248 #Mubarak
+1318.6.1 = {
+	holder = 170248 # Mubarak
 }
-1320.6.1={
-	holder = 170251 #Husraw Kushru
+1320.6.1 = {
+	holder = 170251 # Husraw Kushru
 }
-1320.10.1={
-	holder = 170257 #Ghiyath al-Din Tughluq
+1320.10.1 = {
+	holder = 170257 # Ghiyath al-Din Tughluq
 }
-1325.2.1={
-	holder = 170258 #Muhammad
+1325.2.1 = {
+	holder = 170258 # Muhammad
 }

@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1562 - Otrár
+
+# County Title
+title = c_otrar
+
+# Settlements
+max_settlements = 3
+b_ispijab = castle
+b_otrar = city
+b_sutkend = temple
+
+# Misc
+culture = oghuz
+religion = tengri_pagan
+
+# History
+1005.1.1 = {	religion = sunni }
+1015.1.1 = {	culture = turkmen }

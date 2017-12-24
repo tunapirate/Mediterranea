@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 140 - Tourraine
 
 # County Title
@@ -15,8 +17,9 @@ b_amboise = city
 #b_montbazon = castle
 #b_fierbois = temple
 
-culture = gallic
-religion = gallic_rite
+culture = old_frankish
+religion = hellenic_pagan
 
 # History
+790.1.1 = { culture = frankish }
 

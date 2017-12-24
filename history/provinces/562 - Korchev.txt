@@ -1,26 +1,24 @@
+# -*- ck2.history.provinces -*-
+
 # 562 - Korchev
 
 # County Title
 title = c_korchev
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_bosphoros = castle
-b_cherco = temple
-b_panticapea = city
-
-#b_chystopillia = castle
-#b_nymphaion = castle
-#b_vosporo = castle
-#b_baherove = castle
-#b_zavitne = castle
+b_kerch = castle
+b_kimmerikon = city
+b_nymphaion_korchev = city # no decent alternative sadly.
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
+950.1.1 = { religion = orthodox }
 #1214.1.1 = { culture = greek } 
+1016.1.1 = { b_kerch = castle }
+1115.8.1 = { b_kerch = tribal }
 1250.1.1 = { trade_post = b_grimaldi }

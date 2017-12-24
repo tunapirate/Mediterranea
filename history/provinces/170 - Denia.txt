@@ -1,3 +1,5 @@
+# -*- ck2.history.provinces -*-
+
 # 170 - Denia
 
 # County Title
@@ -6,16 +8,14 @@ title = c_denia
 # Settlements
 max_settlements = 4
 b_denia = castle
-b_alicante = city
 b_elche = temple
-b_villena = city
 #b_castalla = castle
-#b_albatera = castle
-#b_benissa = castle
-#b_orihuela = city
+b_benissa = city
 
-# Misc
-culture = catalan
+
+culture = hispanic
 religion = hellenic_pagan
 
 # History
+1259.1.1 = { culture = catalan }
+1259.1.1 = { religion = catholic }
