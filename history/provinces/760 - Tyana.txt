@@ -6,12 +6,11 @@
 title = c_tyana
 
 # Settlements
-max_settlements =4
+max_settlements = 3
 
-b_loulon = castle
-b_tyana = city
-b_anatoliaheraklea = castle
-#b_magida = city
+b_loulon = tribal
+b_tyana = tribal
+#b_anatoliaheraklea = tribal
 
 # Misc
 culture = greek
@@ -19,13 +18,6 @@ religion = orthodox
 
 # History
 
-# The Seljuks take over Anatolia
-
-1097.8.26 = { culture = turkmen }
-1097.8.26 = { religion = sunni }
-1120.8.26 = { b_magida = city }
-1120.8.26 = { remove_settlement = b_tyana }
-1256.1.1 = { culture = turkish }
 
 
 

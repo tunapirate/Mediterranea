@@ -6,11 +6,13 @@
 title = c_al_jazira
 
 # Settlements
-max_settlements = 4
-b_barqaid = castle
-b_jazirat = city
-b_faysabur = temple
-#b_fenek = castle
+max_settlements = 5
+
+b_barqaid = tribal
+b_jazirat = tribal
+b_faysabur = tribal
+b_fenek = tribal
+b_deyrulumur = tribal
 
 #Misc
 culture = assyrian
@@ -18,7 +20,3 @@ religion = nestorian
 
 # History
 
-1100.1.1 = {
-	culture = kurdish
-	religion = sunni
-}

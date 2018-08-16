@@ -15,7 +15,7 @@ b_biograd_na_moru = city
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 1066.1.1 = { trade_post = b_zamanjic }

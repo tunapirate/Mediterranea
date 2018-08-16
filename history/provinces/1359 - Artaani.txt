@@ -7,10 +7,10 @@ title = c_artaani
 
 # Settlements
  max_settlements = 3
-b_panaskerti = castle
-b_artaani = city
-#b_kola = city
- 
+
+b_panaskerti = tribal
+#b_artaani = tribal
+#b_kola = tribal
 
 # Misc
 culture = georgian

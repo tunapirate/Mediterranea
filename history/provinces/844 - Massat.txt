@@ -6,16 +6,12 @@
 title = c_massat
 
 # Settlements
-max_settlements = 3
+max_settlements = 4 
 
 b_safi = tribal
-#b_oualidia = city
-b_eljadida = temple
-
-#b_haddraa = city
-#b_aitelaouni = castle
-#b_qumelaioun = castle
-#b_aguedal = castle
+b_oualidia = tribal
+b_eljadida = tribal
+b_haddraa = tribal
 
 # Misc
 culture = masmuda

@@ -6,11 +6,12 @@
 title = c_medantaka
 
 # Settlements
-max_settlements = 3
-b_medantaka = castle
-b_purnatallakapura = city
-#b_phalarddhi = temple
-#b_sanjoo = castle
+max_settlements = 4
+
+b_medantaka = tribal
+b_purnatallakapura = tribal
+b_phalarddhi = tribal
+#b_sanjoo = tribal
 
 # Misc
 culture = rajput

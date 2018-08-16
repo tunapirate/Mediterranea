@@ -9,18 +9,11 @@ title = c_matamma
 max_settlements = 4
 
 b_ginbo = tribal
-
-b_bonga = city
-#b_wacha = castle
-#b_chiri = castle
-#b_yadeta = castle
-#b_kaffa = city
-#b_garo = castle
+b_bonga = tribal
+b_wacha = tribal
 
 # Misc
 culture = ethiopian
 religion = east_african_pagan
 
 # History
-
-1187.1.1 = { b_wacha = castle } 

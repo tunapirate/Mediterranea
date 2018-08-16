@@ -15,7 +15,7 @@ b_osijek = city
 #b_gorjani = castle
 
 # Misc
-culture = east_gothic
+culture = romanian
 religion = orthodox
 
 # History

@@ -6,11 +6,11 @@
 title = c_taron
 
 # Settlements
-max_settlements = 4
-b_sason = castle
-b_mush = city
-#b_surpmarineh = temple
-b_arakelots = temple
+max_settlements = 3
+
+b_sason = tribal
+b_mush = tribal
+b_arakelots = tribal
 
 # Misc
 culture = armenian

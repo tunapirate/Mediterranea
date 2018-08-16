@@ -18,7 +18,7 @@ b_chateauroux = city
 
 #Misc
 religion = saturnal
-culture = frankish
+culture = andegavian
 
 # History
 

@@ -6,12 +6,11 @@
 title = c_abuhammad
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_abuhammad = castle
-b_kurgus = city
-
-#b_alusheir = temple
+b_abuhammad = tribal
+b_kurgus = tribal
+b_alusheir = tribal
 
 # Misc
 culture = nubian

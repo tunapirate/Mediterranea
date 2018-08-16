@@ -6,13 +6,13 @@
 title = c_basra
 
 # Settlements
-max_settlements = 6
-b_qalatbasra = castle
-b_basra = city
-b_abbadan = city
-b_alubulla = city
-b_bayan = temple
-#b_kazima = tribal
+max_settlements = 5
+
+b_basra = tribal
+b_abbadan = tribal
+b_alubulla = tribal
+b_bayan = tribal
+b_kazima = tribal
 
 culture = levantine_arabic
 religion = nestorian

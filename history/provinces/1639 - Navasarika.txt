@@ -6,19 +6,15 @@
 title = c_navasarika
 
 # Settlements
-max_settlements = 6
-b_akruresvara = castle
-b_navasarika = city
-b_bharuch = temple
-#b_surat = city
-#b_rander = city
-#b_dharampur = castle
-#b_variav = city
-#b_rajpipla = castle
-#b_tadkeshwar = city
+max_settlements = 5
+
+b_akruresvara = tribal
+b_navasarika = tribal
+b_bharuch = tribal
+b_surat = tribal
 
 # Misc
 culture = gujurati
-religion = jain
+religion = hindu
 
 # History

@@ -6,22 +6,16 @@
 title = c_nineveh
 
 # Settlements
-max_settlements = 7
-b_bartella = castle
-b_karamlish = temple # Yazidi Holy Place
-b_bakhdida = city
-b_baqofah = castle
-b_duhok = city
-b_aqra = temple
-#b_maaltha = temple
-#b_marmattai = temple
+max_settlements = 5
+
+b_bartella = tribal
+b_karamlish = tribal # Yazidi Holy Place
+b_bakhdida = tribal
+b_baqofah = tribal
+b_duhok = tribal
 
 #Misc
 culture = assyrian
 religion = nestorian
 
 # History
-1375.1.1 = {
-	culture = kurdish
-	religion = yazidi
-}

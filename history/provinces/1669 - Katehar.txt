@@ -6,14 +6,14 @@
 title = c_katehar
 
 # Settlements
-max_settlements = 3
-b_mandawar = castle
-#b_bijnor = city
-b_gangadvara = temple
-#b_rishikesh = temple
-#b_nehtaur = city
-#b_kartikeyapura = temple
-#b_jageshwar = temple
+max_settlements = 6
+
+b_mandawar = tribal
+b_bijnor = tribal
+b_gangadvara = tribal
+b_rishikesh = tribal
+#b_nehtaur = tribal
+#b_kartikeyapura = tribal
 
 # Misc
 culture = hindustani

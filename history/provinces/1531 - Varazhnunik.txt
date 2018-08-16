@@ -7,11 +7,11 @@ title = c_varazhnunik
 
 # Settlements
 max_settlements = 4
-b_bjni = castle
-b_amberd = castle
-b_etchmiadzin = temple
-#b_ashtarak = city
-b_oshakan  = city
+
+b_bjni = tribal
+b_amberd = tribal
+b_etchmiadzin = tribal
+b_oshakan  = tribal
 
 # Misc
 culture = armenian

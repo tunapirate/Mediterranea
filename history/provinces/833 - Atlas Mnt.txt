@@ -6,15 +6,11 @@
 title = c_atlas_mnt
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_qalathuwara = castle  # Qal'at Bani Huwara
-b_tiaret = city
-
-#b_aflu = temple
-#b_saida = castle
-
-#b_bordj = temple
+b_qalathuwara = tribal
+b_tiaret = tribal
+b_aflu = tribal
 
 # Misc
 culture = zanata

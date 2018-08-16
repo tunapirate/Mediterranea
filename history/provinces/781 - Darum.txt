@@ -6,12 +6,9 @@
 title = c_darum
 
 # Settlements
-max_settlements = 4
-b_darum = castle
-b_gaza = city
-b_radwan = temple
-#b_salqah = castle
-#b_abasan = temple
+max_settlements = 2
+b_darum = tribal
+b_gaza = tribal
 
 # Misc
 culture = levantine_arabic
@@ -19,4 +16,3 @@ religion = miaphysite
 
 # History
 
-1259.1.1 = { trade_post = b_morosini }

@@ -14,10 +14,8 @@ b_labbeyblese = temple
 #b_auriacleglise = city
 #b_bonnac = city
 
-
-
 #Misc
-religion = hellenic_pagan
-culture = occitan
+religion = saturnal
+culture = auvergnat
 
 # History

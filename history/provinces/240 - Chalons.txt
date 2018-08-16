@@ -20,10 +20,9 @@ b_seurre = city
 #b_cuisery = castle
 
 # Misc
-culture = old_frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
-790.1.1 = { culture = frankish }
-1187.1.1 = { b_brancion = castle }
+
 

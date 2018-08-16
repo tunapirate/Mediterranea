@@ -18,7 +18,7 @@ b_marvejols = city
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = auvergnat
 
 # History
 1307.1.1   = {

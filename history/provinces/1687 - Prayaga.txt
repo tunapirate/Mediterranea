@@ -6,14 +6,12 @@
 title = c_prayaga
 
 # Settlements
-max_settlements = 6
-b_prayaga = castle
-b_daraganj = city
-b_alopibagh = temple
-#b_kausambi = temple
-#b_chowk = city
-#b_kara = temple
-#b_dariyabad = city
+max_settlements = 4
+
+b_prayaga = tribal
+b_daraganj = tribal
+b_alopibagh = tribal
+#b_kausambi = tribal
 
 # Misc
 culture = hindustani

@@ -7,18 +7,16 @@ title = c_khuttal
 
 # Settlements
 max_settlements = 5
-b_pargar = castle
-b_munk = temple
-b_hulbuk = city
-b_halavand = temple
 
-#b_qubadiyan = castle
-#b_livkand = city
+b_pargar = tribal
+b_munk = tribal
+b_hulbuk = tribal
+b_halavand = tribal
+b_qubadiyan = tribal
 
 # Misc
 culture = afghan
 religion = buddhist
 
 # History
-987.1.1 = {	religion = sunni }
-1007.1.1 = {	culture = tajik }
+

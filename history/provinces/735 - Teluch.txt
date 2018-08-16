@@ -8,10 +8,9 @@ title = c_teluch
 # Settlements
 max_settlements = 3
 
-b_kapan = castle
-b_marash = city
-#b_zeytun = city
-
+b_kapan = tribal
+b_marash = tribal
+b_zeytun = tribal
 
 # Misc
 culture = aramean

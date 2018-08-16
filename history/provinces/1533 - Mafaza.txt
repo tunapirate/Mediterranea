@@ -6,23 +6,14 @@
 title = c_mafaza
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
+
 b_saghand = tribal
-#b_zarand = city
-#b_nain = castle
-#b_djarmaq = temple
-#b_bihabad = city
+b_zarand = tribal
+b_nain = tribal
 
 # Misc
 culture = baloch
 religion = zoroastrian
 
 # History
-
-970.1.1 = { religion = sunni }
-970.1.1 = { culture = persian }
-970.1.1 = { b_zarand = city }
-1066.1.1 = {
-	b_saghand = castle
-	b_nain = temple
-}

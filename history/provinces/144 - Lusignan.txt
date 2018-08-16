@@ -19,7 +19,7 @@ b_niort = city
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = thifalian
 
 # History
 1214.1.1 = {

@@ -12,7 +12,7 @@ b_chalons = temple
 #b_louvois = castle
 b_vitry = castle
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

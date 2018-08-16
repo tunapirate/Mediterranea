@@ -17,6 +17,6 @@ b_clamecy = city
 
 #Misc
 religion = hellenic_pagan
-culture = frankish
+culture = gallic
 
 # History

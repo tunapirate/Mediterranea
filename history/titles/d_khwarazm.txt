@@ -98,7 +98,7 @@
 	holder = 1230214
 }
 1055.1.1 = {
-	liege = e_persia
+	liege = k_persia
 }
 1059.1.1 = {
 	holder = 1230215

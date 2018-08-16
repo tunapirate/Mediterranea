@@ -7,23 +7,14 @@ title = c_derbent
 
 # Settlements
 max_settlements = 4
-b_narinkala = castle
-b_derbent = city
-b_quba = city
-#b_juma = temple
-#b_chikkulkan = castle
-#b_kuli = castle
-#b_tarki = city
-#b_tayus = castle
-#b_datuna = temple
+
+b_derbent = castle
+#b_narinkala = tribal
+#b_quba = tribal
+#b_juma = tribal
 
 # Misc
 culture = adhari
 religion = zoroastrian
 
 # History
-
-651.1.1 = {
-    b_quba = ct_marketplace_1
-}
-1259.1.1 = { religion = shiite }

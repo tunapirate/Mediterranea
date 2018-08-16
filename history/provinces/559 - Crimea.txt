@@ -15,7 +15,7 @@ b_kirim = tribal
 
 
 # Misc
-culture = serbian
+culture = slavonic
 religion = slavic_pagan
 
 # History

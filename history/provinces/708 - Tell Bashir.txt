@@ -7,19 +7,15 @@ title = c_tell_bashir
 
 # Settlements
 max_settlements = 4
-b_turbessel = castle
-b_kyrrhos = temple
-b_nizip = city
-#b_trihalet = castle
 
+b_turbessel = tribal
+b_kyrrhos = tribal
+b_nizip = tribal
+b_trihalet = tribal
 
 # Misc
 culture = aramean
 religion = syriac
 
 # History
-1030.1.1 = { 
-	culture = levantine_arabic
-}
-1070.1.1 = { religion = sunni }
 

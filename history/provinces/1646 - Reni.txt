@@ -7,15 +7,14 @@ title = c_reni
 
 # Settlements
 max_settlements = 3
-b_reni = castle
-b_dadrewa = city
-#b_mandir = temple
-#b_bidasar = city
-#b_sidhmukh = castle
+
+b_reni = tribal
+b_dadrewa = tribal
+#b_mandir = tribal
 
 # Misc
 culture = rajput
-religion = hindu
+religion = jain
 terrain = desert
 
 # History

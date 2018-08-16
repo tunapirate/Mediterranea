@@ -16,7 +16,7 @@ b_laon = temple
 #b_senliscastle = castle
 #b_tracylemont = temple
 
-culture = frankish
+culture = gallic
 religion = saturnal
 
 # History

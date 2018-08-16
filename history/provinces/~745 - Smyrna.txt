@@ -1,0 +1,33 @@
+# -*- ck2.history.provinces -*-
+
+# 745 - Smyrna
+
+# County Title
+title = c_smyrna
+
+# Settlements
+max_settlements = 6
+
+b_smyrna = castle
+b_nymphaion = city
+b_phokaia = temple
+b_magnesia = city
+b_erythrai = castle
+
+#b_klazomeanai = ciy
+#b_tios = temple
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = hills
+
+# History
+
+1213.1.1 = { trade_post = b_dandolo }
+
+1280.1.1 = { remove_settlement = b_erythrai }
+
+
+
+

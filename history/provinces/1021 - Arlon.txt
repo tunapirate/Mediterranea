@@ -17,7 +17,7 @@ b_wilzenn = temple
 
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = germanic_rite
 
 # History

@@ -6,23 +6,13 @@
 title = c_albarracin
 
 # Settlements
-max_settlements = 4
-b_tramacastilla = castle
-b_albarracin = city
-#b_bronchales = temple
-#b_monreal_del_campo = castle
-#b_jabaloyas = temple
-#b_calomarde = castle
+max_settlements = 2
 
+b_tramacastilla = tribal
+#b_bronchales = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-1066.1.1 = { 
-	b_tramacastilla = ca_keep_1
-	b_tramacastilla = ca_wall_1
-}
-1170.1.1 = { culture = aragonese }
-1170.1.1 = { religion = catholic }

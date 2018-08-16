@@ -6,18 +6,12 @@
 title = c_beni_yanni
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 
-b_jijel = castle
-b_djimla = city
-b_bourmedes = city
-#b_tafoughalt = city
-#b_tigzirt = temple
-#b_bujima = castle
-#b_azeffoun = castle
-#b_taoudouch = castle
-#b_azazga = castle
-#b_thiza = castle
+b_jijel = tribal
+b_djimla = tribal
+b_bourmedes = tribal
+b_tafoughalt = tribal
 
 # Misc
 culture = african

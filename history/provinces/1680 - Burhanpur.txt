@@ -7,14 +7,14 @@ title = c_burhanpur
 
 # Settlements
 max_settlements = 4
-b_burhanpur = castle
-b_erandol = temple
-#b_vaghli = city
-#b_changdev = city
-#b_yawal = city
+
+b_burhanpur = tribal
+b_erandol = tribal
+b_vaghli = tribal
+#b_changdev = tribal
 
 # Misc
 culture = marathi
-religion = hindu
+religion = jain
 
 # History

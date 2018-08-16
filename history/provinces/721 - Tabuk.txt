@@ -7,15 +7,12 @@ title = c_tabuk
 
 # Settlements
 max_settlements = 3
-b_tabuk = castle
-b_alawnid = city
-#b_muwaylih = city
+b_tabuk = tribal
+b_alawnid = tribal
+#b_muwaylih = tribal
 
 # Misc
 culture = levantine_arabic
-religion = miaphysite
+religion = sunni
 
 # History
-
-974.1.1 = { remove_settlement = b_alawnid } #Tribalisation/Nomadization of al-Urdunn (and Tabuk)
-974.1.1 = { b_tabuk = tribal } #Tribalisation/Nomadization of al-Urdunn (and Tabuk)

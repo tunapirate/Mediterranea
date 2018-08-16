@@ -20,7 +20,7 @@ b_montreuil = castle
 
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

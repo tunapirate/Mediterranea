@@ -6,18 +6,14 @@
 title = c_azerbaijan
 
 # Settlements
-max_settlements = 4
-b_ardabil = castle
-b_pilsovar = city
-b_barzand = castle
-b_vartan = city
+max_settlements = 3
+
+b_ardabil = tribal
+b_pilsovar = tribal
+b_barzand = tribal
 
 # Misc
-culture = armenian
-religion = apostolic
+culture = adhari
+religion = mazdaki
 
 # History
-
-820.1.1 = { culture = adhari }
-820.1.1 = { religion = mazdaki }
-1320.1.1 = { religion = shiite }

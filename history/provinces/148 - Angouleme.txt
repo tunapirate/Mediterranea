@@ -19,13 +19,6 @@ b_bassac = temple
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = thifalian
 
 # History
-#1125.1.1   = { b_jarnac = castle }
-1200.1.1   = {
-	b_cognac = city
-}
-1308.1.1 = {
-	culture = frankish
-}

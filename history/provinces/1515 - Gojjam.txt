@@ -7,11 +7,11 @@ title = c_gojjam
 
 # Settlements
 max_settlements = 4
-b_guihon = tribal
-b_mertulematiam = temple
 
-#b_debremarqos = city
-#b_gafat = castle
+b_guihon = tribal
+b_mertulematiam = tribal
+b_debremarqos = tribal
+
 
 # Misc
 culture = ethiopian

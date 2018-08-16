@@ -6,30 +6,16 @@
 title = c_lykandos
 
 # Settlements
-max_settlements = 5
-b_lykandos = castle
-b_arabissos = city
-b_kokysos = temple
+max_settlements = 3
 
-#b_ablastha = city
-b_ariaramneia = castle
-#b_komanachryse = city
+b_lykandos = tribal
+b_arabissos = tribal
+#b_kokysos = tribal
 
 # Misc
 terrain = mountain
 culture = greek
-religion = orthodox
+religion = paulician
 
 # History
-830.1.1 = { religion = paulician }
 
-890.1.1 = {
-	culture = armenian
-	religion = apostolic }
-
-1162.1.1 = { culture = turkmen }
-1162.1.1 = { religion = sunni }
-1177.1.1 = { b_ablastha = castle }
-1177.1.1 = { capital = b_ablastha }
-1177.1.1 = { remove_settlement = b_lykandos }
-1256.1.1 = { culture = turkish }

@@ -7,13 +7,12 @@ title = c_godwad
 
 # Settlements
 max_settlements = 5
-b_candravati = castle
-b_bhillamala = temple # Jain Holy Site
-b_jalor = city
-#b_barodiya = city
-#b_achalgarh = castle
-#b_naddula = city
-#b_khudala = temple
+
+b_candravati = tribal
+b_bhillamala = tribal # Jain Holy Site
+b_jalor = tribal
+#b_barodiya = tribal
+#b_achalgarh = tribal
 
 # Misc
 culture = rajput

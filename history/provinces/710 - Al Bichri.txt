@@ -6,16 +6,12 @@
 title = c_al_bichri
 
 # Settlements
-max_settlements = 3
-b_bichri = castle
-b_deiralzur = city
-b_osrhoene = temple
+max_settlements = 4
 
-#b_abu_kamal = castle
-#b_shamiyya = castle
-#b_mayadin = city
-#b_mhaymidah = castle
-#b_sirhi = castle
+b_deiralzur = city
+b_bichri = tribal
+b_osrhoene = tribal
+b_mayadin = tribal
 
 #Misc
 culture = assyrian
@@ -23,5 +19,3 @@ religion = nestorian
 
 # History
 
-1183.1.1 = { remove_settlement = b_osrhoene } #Tribalisation/Nomadization of Rahba
-1183.1.1 = { b_bichri = tribal } #Tribalisation/Nomadization of Rahba

@@ -7,14 +7,15 @@ title = c_vijnot
 
 # Settlements
 max_settlements = 4
-b_vijnot = castle
-b_bhatiya = city
-#b_kishangarh = temple
-#b_ghotki = castle
+
+b_vijnot = tribal
+b_bhatiya = tribal
+b_kishangarh = tribal
+#b_ghotki = tribal
 
 # Misc
 culture = sindhi
 religion = hindu
 
 # History
-980.1.1 = {	religion = sunni }
+

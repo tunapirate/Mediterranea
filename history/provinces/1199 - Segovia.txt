@@ -7,22 +7,14 @@ title = c_segovia
 
 # Settlements
 max_settlements = 4
-b_segovia = castle
-#b_sepulveda = city
-#b_sacramenia = temple
-b_cuellar = castle
-#b_villacastin = city
-#b_parraces = temple
+
+b_segovia = tribal
+#b_sepulveda = tribal
+#b_sacramenia = tribal
+#b_cuellar = tribal
 
 # Misc
 culture = castillan
 religion = hispanic_rite
 
 # History
-
-1066.1.1 = { 
-	b_segovia = ca_keep_1
-	b_segovia = ca_wall_1
-	b_cuellar = ca_keep_1
-	b_cuellar = ca_wall_1
-}

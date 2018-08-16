@@ -6,14 +6,11 @@
 title = c_amol
 
 # Settlements
-max_settlements = 6
-b_amol = castle
-b_tahiriyya = temple
-b_farabr = city
-b_zam = city
+max_settlements = 3
 
-#b_akhsikak = castle
-#b_nevida = temple
+b_amol = castle
+b_tahiriyya = tribal
+b_farabr = tribal
 
 # Misc
 culture = khorasani
@@ -21,4 +18,3 @@ religion = zoroastrian
 
 # History
 
-990.1.1 = {	religion = sunni }

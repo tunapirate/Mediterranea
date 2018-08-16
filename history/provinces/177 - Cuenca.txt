@@ -6,14 +6,15 @@
 title = c_cuenca
 
 # Settlements
-max_settlements = 3
-b_cuenca = castle
-b_villanuevadelajara = city
-#b_quintanardelrey = castle
+max_settlements = 5
+
+b_cuenca = tribal
+b_segobriga = tribal
+b_valeria = tribal
+b_villanuevadelajara = tribal
+#b_quintanardelrey = tribal
 
 culture = castillan
 religion = hellenic_pagan
 
 # History
-1193.1.1 = { culture = castillan }
-1193.1.1 = { religion = catholic }

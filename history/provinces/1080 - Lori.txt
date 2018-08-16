@@ -6,18 +6,13 @@
 title = c_lori
 
 # Settlements
- max_settlements = 4
-b_loriberd = castle
-b_samshvilde = city
-b_dmanisi = city
-b_haghbat = temple
-#b_mahkanaberd = castle
-#b_noraberd = castle
-#b_tsurtav = castle
-#b_khorvirap = temple
-#b_sanahin = temple
- 
+max_settlements = 4
 
+b_loriberd = tribal
+b_samshvilde = tribal
+b_dmanisi = tribal
+b_haghbat = tribal
+ 
 # Misc
 culture = armenian
 religion = apostolic

@@ -6,24 +6,14 @@
 title = c_tyrnovo
 
 # Settlements
-max_settlements = 6
+max_settlements = 2
 
-b_tarnovo = castle
-b_oryahovo = castle
-b_nikopol = castle
-b_lovech = city
-#b_kilifarevo = temple
-#b_transfiguration_monestary_tarnovo = temple
-
+b_tarnovo = tribal
+b_nikopol = tribal
 
 # Misc
 culture = romanian
 religion = orthodox
 
 # History
-888.1.1 = { religion = orthodox }
-1046.1.1 = { culture = pecheneg }
-1046.1.1 = { religion = tengri_pagan }
-1087.1.1 = { culture = bulgarian }
-1087.1.1 = { religion = orthodox }
-1187.1.1 = { b_kilifarevo = temple }  
+

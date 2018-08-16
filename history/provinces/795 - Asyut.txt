@@ -6,25 +6,15 @@
 title = c_asyut
 
 # Settlements
-max_settlements = 4
-b_asyut = castle
-b_shutb = city
-b_butij = temple
+max_settlements = 5
 
-#b_bawit = castle
-
-#b_kusai = city
-#b_durunka = temple
-#b_egypthebes = castle
-#b_egypabydos = city
-#b_beitkhallaf = castle
-#b_wannina = castle
-#b_meir = castle
+b_asyut = tribal
+b_shutb = tribal
+b_butij = tribal
+b_egypthebes = tribal
 
 # Misc
 culture = coptic
 religion = miaphysite
 
 # History
-1075.1.1 = { culture = egyptian_arabic religion = sunni }
- 

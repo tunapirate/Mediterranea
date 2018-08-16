@@ -14,9 +14,8 @@ b_pistoia = temple
 b_montecuccolo = castle
 
 # Misc
-culture = italian
+culture = roman
 religion = hellenic_pagan
 terrain = mountain
+
 # History
-915.1.1 = {b_baiso = castle} 
-1147.1.1 = { capital = b_montecuccolo }

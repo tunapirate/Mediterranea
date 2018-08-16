@@ -5,16 +5,11 @@
 title = c_strumica
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 
-b_stip = castle
-b_rila = temple
-b_strumica = city
-#b_prosek = castle
-#b_melnik_strumica = city
-#b_petrich = castle
-
-
+b_stip = tribal
+b_rila = tribal
+b_strumica = tribal
 
 # Misc
 culture = greek

@@ -6,12 +6,12 @@
 title = c_amastris
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_amastris = castle
-b_ionopolis = city
-b_parthenios = city
-#b_kotyron = castle
+b_amastris = tribal
+b_ionopolis = tribal
+b_parthenios = tribal
+#b_kotyron = tribal
 
 # Misc
 culture = greek
@@ -19,10 +19,6 @@ religion = orthodox
 
 # History
 
-# The Seljuks take over Anatolia
-
-1261.1.1 = { culture = turkish }
-1261.1.1 = { religion = sunni }
 
 
 

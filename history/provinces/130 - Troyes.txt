@@ -16,7 +16,7 @@ b_brienne = castle
 #b_rosnay = city 
 
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

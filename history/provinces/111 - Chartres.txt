@@ -14,7 +14,7 @@ b_gallardon = castle
 #b_dammarieleslys = temple
 #b_auneau = city
 
-culture = frankish
+culture = andegavian
 religion = gallic_rite
 
 # History

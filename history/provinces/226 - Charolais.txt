@@ -18,9 +18,9 @@ b_perrecy = temple
 #b_paray = temple
 
 # Misc
-culture = old_frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History
-790.1.1 = { culture = frankish }
+
 

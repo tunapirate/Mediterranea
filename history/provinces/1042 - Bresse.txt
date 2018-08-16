@@ -17,7 +17,7 @@ b_belley = city
 
 
 # Misc
-culture = frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History

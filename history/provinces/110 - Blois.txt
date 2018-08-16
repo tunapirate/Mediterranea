@@ -18,8 +18,8 @@ b_romorantin = city
 #b_bourgmoyen = temple
 
 
-culture = frankish
-religion = hellenic_pagan
+culture = andegavian
+religion = gallic_rite
 
 # History
 

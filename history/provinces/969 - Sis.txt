@@ -6,14 +6,11 @@
 title = c_sis
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 
-b_sis = castle
-b_anazarba = city
-b_vakha = castle
-#b_trazak = temple
-#b_bardzberd = castle
-
+b_sis = tribal
+b_anazarba = tribal
+b_vakha = tribal
 
 # Misc
 culture = greek
@@ -21,9 +18,3 @@ religion = orthodox
 
 # History
 
-1010.1.1 = {
-	culture = armenian
-	religion = apostolic }
-
-1058.1.1 = { b_trazak = temple }
-1058.1.1 = { b_bardzberd = castle }

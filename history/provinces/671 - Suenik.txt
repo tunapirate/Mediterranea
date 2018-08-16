@@ -7,11 +7,10 @@ title = c_suenik
 
 # Settlements
 max_settlements = 3
-b_hrasekaberd = castle
-b_areni = city
-b_tatev = temple
-#b_goris = castle
-#b_jermuk = city
+
+b_hrasekaberd = tribal
+b_areni = tribal
+b_tatev = tribal
 
 # Misc
 culture = armenian

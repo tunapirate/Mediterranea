@@ -7,11 +7,11 @@ title = c_medina
 
 # Settlements
 max_settlements = 5
-b_qalatmedina = castle
-b_medina = temple
-b_khaybar = castle
+b_medina = city
+b_qalatmedina = tribal
+b_khaybar = tribal
+b_rabadha = tribal
 #b_madinabanusulaim = city
-b_rabadha = city
 
 # Misc
 culture = hijazi

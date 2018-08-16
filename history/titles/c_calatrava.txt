@@ -1,4 +1,3 @@
 867.1.1 = {
-	holder = 584023
-	liege = "d_cordoba"
+	holder = 584053
 }

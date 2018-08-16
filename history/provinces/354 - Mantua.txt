@@ -17,7 +17,7 @@ b_marmirolo = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = apollonian
 terrain = farmlands
 # History
 

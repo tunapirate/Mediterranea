@@ -1,0 +1,30 @@
+namespace = med_government
+
+character_event = {
+    id = med_government.001
+
+    hide_window = yes
+    is_triggered_only = yes
+
+    trigger = {
+		ai = no
+        NOT = { has_global_flag = tribal_government_check }
+    }
+
+    immediate = {
+        set_global_flag = tribal_government_check
+        # Add Tribal Government to starting rulers with the law
+        any_character = {
+            limit = {
+				is_landed = yes
+				is_feudal = yes
+                OR = {
+					NOT = { capital_scope = { TECH_LEGALISM = 1 } }
+					religion_group = pagan_group
+				}
+            }
+            primary_title = { set_title_flag = has_tribal_administration }
+            set_government_type = tribal_government
+        }
+    }
+}

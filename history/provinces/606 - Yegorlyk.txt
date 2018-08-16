@@ -6,14 +6,12 @@
 title = c_yegorlyk
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
+
 b_yegorlyk = tribal
-#b_kalaus = castle
+#b_kalaus = tribal
 
 culture = alan
 religion = zoroastrian
 
 # History
-1050.1.1 = { religion = tengri_pagan } 
-1238.1.1= { culture=mongol }
-1313.1.1= { religion = sunni } 

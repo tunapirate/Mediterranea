@@ -9,18 +9,11 @@ title = c_nafzawa
 max_settlements = 3
 
 b_nafta = tribal
-#b_alqalah = temple
-
-#b_kebili = city
-#b_souf = city
+b_alqalah = tribal
 
 # Misc
 culture = sanhaja
 religion = african_rite
 
 # History
-930.1.1 = { religion = ismaili }
-1052.1.1 = { religion = sunni }
-1052.1.1 = { culture = bedouin_arabic }
-1100.1.1 = { culture = maghreb_arabic }
 

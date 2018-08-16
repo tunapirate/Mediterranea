@@ -6,11 +6,13 @@
 title = c_rizaion
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_rizaion = castle
-b_atina = city
-b_hamamashen = city
+b_rizaion = tribal
+b_atina = tribal
+b_hamamashen = tribal
+b_kaine_parembole = tribal
+#b_hyssos = tribal
 
 # Misc
 culture = georgian #Laz

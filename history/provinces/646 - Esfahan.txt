@@ -6,39 +6,17 @@
 title = c_esfahan
 
 # Settlements
-max_settlements = 7
-b_esfahan = castle
-b_firuzan = city
-b_qumisha = castle
-b_gulpayagan = temple
-b_lurdagan = city
+max_settlements = 6
 
-#b_yazdikhwast = castle
-#b_sarvistan = temple
-#b_abada = castle
-
+b_esfahan = ciy
+b_firuzan = tribal
+b_qumisha = tribal
+b_gulpayagan = tribal
+b_lurdagan = tribal
+b_yazdikhwast = tribal
 
 # Misc
 culture = pahlavi
 religion = zoroastrian
 
 # History
-
-867.1.1 = { 
-	b_esfahan = ca_keep_1
-	b_esfahan = ca_training_grounds_1
-	b_esfahan = ca_keep_2
-	b_esfahan = ca_stable_1
-	b_esfahan = ca_barracks_1
-	b_esfahan = ca_militia_barracks_1
-	b_esfahan = ca_wall_1
-	b_esfahan = ca_wall_2
-	b_firuzan = ct_wall_1
-	b_firuzan = ct_barracks_1
-	b_gulpayagan = tp_monastery_1
-	b_gulpayagan = tp_monastery_2
-	b_gulpayagan = tp_wall_1
-	b_gulpayagan = tp_barracks_1
-}
-
-1337.1.1 = { b_yazdikhwast = castle }

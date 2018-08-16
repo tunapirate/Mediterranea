@@ -7,15 +7,16 @@ title = c_mosul
 
 # Settlements
 max_settlements = 5
-b_mosulcastle = castle
+
 b_mosul = city
-b_baladmosul = city
-b_bawazij = temple
-b_haditha = city
+b_mosulcastle = tribal
+b_baladmosul = tribal
+b_bawazij = tribal
+b_haditha = tribal
 
 #Misc
 culture = assyrian
 religion = nestorian
 
 # History
-995.1.1 = { culture = levantine_arabic religion = sunni }
+

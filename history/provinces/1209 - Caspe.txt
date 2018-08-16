@@ -6,22 +6,14 @@
 title = c_caspe
 
 # Settlements
-max_settlements = 4
-b_caspe = castle
-b_chiprana = city
-b_fabara = temple
-b_alcanyiz = castle
-#b_calanda = castle
+max_settlements = 3
 
+b_caspe = tribal
+b_chiprana = tribal
+#b_fabara = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History
-1066.1.1 = { 
-	b_caspe = ca_keep_1
-	b_caspe = ca_wall_1
-}
-1131.1.1 = { culture = aragonese }
-1131.1.1 = { religion = catholic }

@@ -7,13 +7,12 @@ title = c_asni
 
 # Settlements
 max_settlements = 5
-b_asni2 = castle
-b_bhitargaon = temple
-#b_kora = city
-#b_musanagar = city
-#b_shivrajpur = temple
-#b_bindki = city
-#b_khaga = castle
+
+b_asni2 = tribal
+b_bhitargaon = tribal
+b_kora = tribal
+b_shivrajpur = tribal
+#b_bindki = tribal
 
 # Misc
 culture = hindustani

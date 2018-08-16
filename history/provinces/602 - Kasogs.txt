@@ -7,10 +7,10 @@ title = c_kasogs
 
 # Settlements
 max_settlements = 2
+
 b_khumar = tribal
-#b_sambalut = tribal
-
-
+b_sambalut = tribal
+#b_klukhori = tribal
 
 # Misc
 culture = kasogi

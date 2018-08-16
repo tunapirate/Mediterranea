@@ -8,20 +8,13 @@ title = c_annaba
 # Settlements
 max_settlements = 4
 
-b_annabah = castle
-b_buna = city
-b_mila = temple
-
-#b_eltarf = city
-#b_soukahras = temple
-#b_skikda = city
-#b_elbouni = castle
-#b_boudjama = castle
-#b_meroudj = castle
-#b_drean = castle
+b_annabah = city
+b_buna = tribal
+b_mila = tribal
+b_eltarf = tribal
 
 # Misc
-culture = african
+culture = roman
 religion = african_rite
 
 # History

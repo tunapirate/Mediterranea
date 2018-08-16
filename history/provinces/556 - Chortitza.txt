@@ -13,7 +13,7 @@ b_kodak = tribal
 
 
 # Misc
-culture = serbian
+culture = slavonic
 religion = slavic_pagan
 terrain = steppe
 

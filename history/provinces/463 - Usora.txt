@@ -18,8 +18,8 @@ b_tolisa = city
  
 
 # Misc
-culture = dalmatian
-religion = hellenic_pagan
+culture = romanian
+religion = orthodox
 
 # History
 

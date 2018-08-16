@@ -5,14 +5,12 @@
 	holder = 200223 # Theodoros Spanikos
 }
 779.1.1 = {
-	liege = k_aquitaine
 	holder = 6392 # Charlemagne Karling
 }
 781.1.1 = {
 	holder = 90095 # Louis I Karling
 }
 801.1.1 = {
-	liege = d_barcelona
 	holder = 70140 # Bera, Count of Barcelona
 }
 820.1.1 = {

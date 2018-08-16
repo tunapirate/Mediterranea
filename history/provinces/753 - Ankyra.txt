@@ -7,13 +7,11 @@ title = c_ankyra
 
 # Settlements
 max_settlements = 4
-b_ankyra = castle
-b_anastasiopolis = city
 
-b_iuliopolis = temple
-
-#b_haymana = castle
-#b_gordion = castle
+b_ankyra = city
+b_anastasiopolis = tribal
+b_iuliopolis = tribal
+b_haymana = tribal
 
 # Misc
 culture = greek
@@ -21,9 +19,3 @@ religion = orthodox
 
 # History
 
-# The Seljuks take over Anatolia
-
-1097.8.26 = { culture = turkmen }
-1097.8.26 = { religion = sunni }
-1256.1.1 = { culture = turkish }
-#1295.1.1 = { b_ankyra = city }

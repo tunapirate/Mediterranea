@@ -1,5 +1,10 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 
+administration_3;Pre-Feudal Administration;;;;;;;;;;;;;x
+administration_3_desc;Pre-feudal societies lack the more well-developed legal structures of even feudal societies, and rely largely upon personal diplomacy. The structure and shape of pre-feudal polities can change rapidly depending on the ruler.;;;;;;;;;;;;;x
+
+TRIBAL_NAME_PROV;Pagus of $PROV$;;;;;;;;;;;;;x
+
 IMPERATOR;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
 PRINCEPS;Princeps;Princeps;Princeps;;Princeps;;;;;;;;;x
 roman_government;Romanesque;Romanesque;Romanesque;;Romanesque;;;;;;;;;x

@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1548 - Arghiyán
+
+# County Title
+title = c_arghiyan
+
+# Settlements
+max_settlements = 5
+b_azadvar = castle
+b_bayhaq = temple
+b_mazinan = city
+b_fayrumad = castle
+
+#b_isfarain = castle
+#b_asadabad_arghiyan = city
+#b_jajarm_arghyian = temple
+
+# Misc
+culture = khorasani
+religion = zoroastrian
+
+# History
+980.1.1 = {	religion = sunni }

@@ -6,12 +6,10 @@
 title = c_rhodos
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
 b_rhodos = temple
-b_kos = castle
-b_lindos = city
-#b_karpathos = city
+b_kos = tribal
 
 # Misc
 culture = greek
@@ -19,10 +17,4 @@ religion = athenaic
 terrain = mountain
 
 # History
-1166.1.1 = { trade_post = b_morosini }
 
-
-#The Knights Hospitaler take over Rhodos
-
-#1309.1.1 = { religion = catholic }
-#1309.1.1 = { b_lindos = castle }

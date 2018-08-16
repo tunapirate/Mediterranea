@@ -6,16 +6,10 @@
 title = c_baghk
 
 # Settlements
- max_settlements = 3
-b_ghapan = castle
-#b_vardanajor = city
-b_noravank = temple
-#b_artsnanik = city
-#b_kakavaberd = castle
-#b_kajaran = castle
-b_baghaberd = castle
-#b_tanjaparakhou = temple
- 
+max_settlements = 2
+
+b_ghapan = tribal
+b_noravank = tribal
 
 # Misc
 culture = armenian

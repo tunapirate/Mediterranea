@@ -6,14 +6,12 @@
 title = c_bejaija
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 
-b_bejaija = castle
-b_tadallis = city
-b_eldjabia = temple
-b_elbekara = city
-#b_boudaoud = castle
-#b_gantas = castle
+b_bejaija = tribal
+b_tadallis = tribal
+b_eldjabia = tribal
+b_elbekara = tribal
 
 # Misc
 culture = african

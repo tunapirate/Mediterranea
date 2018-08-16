@@ -6,26 +6,13 @@
 title = c_kerak
 
 # Settlements
-max_settlements = 4
-b_krakdemoab = castle
-b_kerak = city
-b_tafila = temple
-#b_syrdibban = city
-#b_syralrabbah = temple
-
-
-
-
+max_settlements = 3
+b_krakdemoab = tribal
+b_kerak = tribal
+b_tafila = tribal
 
 # Misc
 culture = levantine_arabic
 religion = miaphysite
 
 # History
-
-974.1.1 = { remove_settlement = b_tafila } #Tribalisation/Nomadization of al-Urdunn
-974.1.1 = { b_krakdemoab = tribal } #Tribalisation/Nomadization of al-Urdunn
-1115.1.1 = { b_tafila = temple } #Crusader Conquest
-1115.1.1 = { b_krakdemoab = castle } #Crusader Conquest
-1187.10.2 = { b_krakdemoab = tribal } #Falls to the Ayyubids
-1187.10.2 = { remove_settlement = b_tafila } #Falls to the Ayyubids

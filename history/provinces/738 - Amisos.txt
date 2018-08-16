@@ -6,10 +6,13 @@
 title = c_amisos
 
 # Settlements
-max_settlements = 3
-b_amisos = city
-b_kastronamisos = castle
-b_paurai = castle
+max_settlements = 5
+
+b_amisos = tribal
+b_kastronamisos = tribal
+b_paurai = tribal
+b_ibora = tribal
+#b_komanapontica = tribal
 
 # Misc
 culture = greek
@@ -17,9 +20,3 @@ religion = orthodox
 terrain = mountain
 
 # History
-
-
-
-1214.1.1 = { culture = turkmen }
-1214.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }

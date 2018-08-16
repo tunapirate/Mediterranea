@@ -7,16 +7,12 @@ title = c_kakheti
 
 # Settlements
  max_settlements = 5
-b_ujarma = castle
-#b_alaverdi = temple
-b_davidgareja = temple
-b_telavi = city
-b_kelatsminda = temple
-#b_sighnaghi = castle
-#b_bochorma = castle
-#b_kvetera = temple
-#b_gremi = castle
- 
+
+b_ujarma = tribal
+#b_alaverdi = tribal
+#b_davidgareja = tribal
+#b_telavi = tribal
+#b_kelatsminda = tribal
 
 # Misc
 culture = georgian

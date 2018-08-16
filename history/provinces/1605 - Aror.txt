@@ -7,16 +7,15 @@ title = c_aror
 
 # Settlements
 max_settlements = 4
-b_aror = castle
-b_sukkur = city
-#b_chak = temple
-#b_basmak = city
-#b_siraj_ji_takri = temple
-#b_allah_abad = temple
+
+b_aror = tribal
+b_sukkur = tribal
+b_chak = tribal
+#b_basmak = tribal
 
 # Misc
 culture = sindhi
 religion = hindu
 
 # History
-1010.1.1 = {	religion = sunni }
+

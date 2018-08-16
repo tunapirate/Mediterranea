@@ -1,4 +1,4 @@
-# Carthaginense / Baetica
+# Carthaginense / Baetica / Lower Ebro
 
 584000 = { # Pyrenees
     name="Flavius"
@@ -69,6 +69,7 @@
     dynasty=59100
     religion="mercurial"
     culture="hispanic"
+	father=584042
 	
 	#History
 	 
@@ -463,8 +464,431 @@
 		add_matrilineal_spouse=584029
 	}
 }
+584031 = {
+    name="Jacint" # Urgell
+    religion="mercurial"
+    culture="aragonese"
+	dynasty=59141
+	
+	add_trait=ambitious
+	add_trait=bastard
+	add_trait=skilled_tactician
+	
+	#History
+	
+	818.3.02={
+		birth=yes
+	}
+	843.1.1={
+		add_spouse=584032
+	}
+}
+584032 = {
+    name="Estefanía"
+    religion="mercurial"
+    culture="aragonese"
+	female=yes
 
-# Bardulia
+	#History
+	
+	823.3.02={
+		birth=yes
+	}
+	843.1.1={
+		add_spouse=584031
+	}
+}
+584033 = {
+    name="Fèlix"
+    religion="mercurial"
+    culture="aragonese"
+	dynasty=59141
+	father=584031
+	mother=584032
+	
+	#History
+	
+	847.3.19={
+		birth=yes
+	}
+}
+584034 = {
+    name="Beatriz"
+    religion="mercurial"
+    culture="aragonese"
+	dynasty=59141
+	father=584031
+	mother=584032
+	female=yes
+	
+	#History
+	
+	849.10.3={
+		birth=yes
+	}
+}
+584035 = {
+    name="Simplicius"
+    religion="mercurial"
+    culture="aragonese"
+	dynasty=59141
+	father=584031
+	mother=584032
+	
+	#History
+	
+	851.4.26={
+		birth=yes
+	}
+}
+584036 = {
+    name="Funisulanus" # Lleida / Ilerda
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59142
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584037
+	}
+}
+584037 = {
+    name="Blanca"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584036
+	}
+}
+584038 = {
+    name="Julius" # Teruel
+	dynasty=59100
+    religion="mercurial"
+    culture="hispanic"
+	father=584041
+	
+	#History
+	
+	840.5.12={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584039
+	}
+}
+584039 = {
+    name="Inés"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	842.9.21={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584038
+	}
+}
+584040 = {
+    name="Julius"
+	dynasty=59100
+    religion="mercurial"
+    culture="hispanic"
+	
+	#History
+	
+	760.1.1={
+		birth=yes
+	}
+	825.1.1={
+		death=yes
+	}
+}
+584041 = {
+    name="Hydatius"
+	dynasty=59100
+    religion="mercurial"
+    culture="hispanic"
+	father=584040
+	
+	#History
+	
+	810.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+584042 = {
+    name="Potamius"
+	dynasty=59100
+    religion="mercurial"
+    culture="hispanic"
+	father=584040
+	
+	#History
+	
+	800.1.1={
+		birth=yes
+	}
+	860.1.1={
+		death=yes
+	}
+}
+584043 = {
+    name="Aurelius" # Valencia / Valentia
+	dynasty=59143
+    religion="mercurial"
+    culture="hispanic"
+	
+	add_trait=greedy
+	add_trait=diligent
+	add_trait=fortune_builder
+	
+	#History
+	
+	835.5.2={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=584044
+	}
+}
+584044 = {
+    name="Livia"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	838.11.19={
+		birth=yes
+	}
+	858.1.1={
+		add_spouse=584043
+	}
+}
+584045 = {
+    name="Aelia"
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59143
+	female=yes
+	father=584043
+	mother=584044
+	
+	#History
+	
+	860.1.1={
+		birth=yes
+	}
+}
+584046 = {
+    name="Hospitalius" # Villena
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59144
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584047
+	}
+}
+584047 = {
+    name="Gaia"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584046
+	}
+}
+584048 = {
+    name="Dominicus" # Malaga
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59145
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584049
+	}
+}
+584049 = {
+    name="Sofia"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584048
+	}
+}
+584050 = {
+    name="Petronius" # Gades
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59146
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584051
+	}
+}
+584051 = {
+    name="Virginia"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	842.1.1={
+		birth=yes
+	}
+	862.1.1={
+		add_spouse=584050
+	}
+}
+584052 = {
+    name="Virgilius"
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59146
+	father=584050
+	mother=584051
+	
+	#History
+	
+	865.1.1={
+		birth=yes
+	}
+}
+584053 = {
+    name="Faltonius" # Calatrava
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59147
+	
+	add_trait = brilliant_strategist
+	add_trait = master_warrior
+	add_trait = impaler
+	add_trait = paranoid
+	add_trait = stubborn
+	add_trait = diligent
+	
+	#History
+	
+	835.2.19={
+		birth=yes
+	}
+	855.1.1={
+		add_spouse=584054
+	}
+}
+584054 = {
+    name="Fabiola"
+    religion="mercurial"
+    culture="hispanic"
+	female=yes
+	
+	#History
+	
+	834.11.7={
+		birth=yes
+	}
+	855.1.1={
+		add_spouse=584053
+	}
+}
+584055 = {
+    name="Felicia"
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59147
+	father=584053
+	mother=584054
+	female=yes
+	
+	add_trait=twin
+	
+	#History
+	
+	858.12.3={
+		birth=yes
+	}
+}
+584056 = {
+    name="Firmina"
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59147
+	father=584053
+	mother=584054
+	female=yes
+	
+	add_trait=twin
+	
+	#History
+	
+	858.12.3={
+		birth=yes
+	}
+}
+584057 = {
+    name="Faustinus"
+    religion="mercurial"
+    culture="hispanic"
+	dynasty=59147
+	father=584053
+	mother=584054
+	
+	#History
+	
+	862.4.10={
+		birth=yes
+	}
+}
+
+### BARDULIA
 
 584075 = {
     name="Eulogius" # Toledo

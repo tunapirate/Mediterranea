@@ -6,12 +6,15 @@
 title = c_idhaj
 
 # Settlements
-max_settlements = 5
-b_ramhurmuz = castle
-b_idhadj = city
-b_askar-mukram = temple
-#b_tustar = castle
-#b_sus-khuzestani = temple
+max_settlements = 7
+
+b_sus-khuzestani = city
+b_ramhurmuz = tribal
+b_idhadj = tribal
+b_askar-mukram = tribal
+b_tustar = tribal
+b_tisiyan = tribal
+b_shami = tribal
 
 # Misc
 culture = pahlavi

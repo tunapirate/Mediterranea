@@ -6,25 +6,18 @@
 title = c_kirkuk
 
 # Settlements
-max_settlements = 4
-b_daquq = castle
-b_kirkuk = city
-b_hanijar = temple
-#b_lashom = temple
+max_settlements = 7
+
+b_qaleh-i_yazdigird = castle
+b_daquq = tribal
+b_kirkuk = tribal
+b_hanijar = tribal
+b_lashom = tribal
+b_deh_bozan = tribal
+b_qasr-i_shirin = tribal
 
 #Misc
-culture = kurdish
-religion = nestorian
+culture = assyrian
+religion = mazdaki
 
 # History
-
-867.1.1 = { 
-	b_daquq = ca_keep_1
-	b_daquq = ca_training_grounds_1
-	b_daquq = ca_keep_2
-	b_daquq = ca_stable_1
-	b_daquq = ca_barracks_1
-	b_daquq = ca_militia_barracks_1
-	b_daquq = ca_wall_1
-	b_daquq = ca_wall_2
-}

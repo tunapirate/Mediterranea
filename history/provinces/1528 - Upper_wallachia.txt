@@ -6,12 +6,11 @@
 title = c_upper_wallachia
 
 # Settlements
-max_settlements = 4
-b_kalabaka = castle
-b_trikala = city
-b_grevena = temple
-#b_porta = city
+max_settlements = 3
 
+b_kalabaka = tribal
+b_trikala = tribal
+b_grevena = tribal
 
 # Misc
 culture = greek

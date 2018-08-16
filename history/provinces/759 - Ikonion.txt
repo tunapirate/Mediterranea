@@ -6,14 +6,14 @@
 title = c_ikonion
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 
-b_ikonion = castle
-b_mistheia = city
-b_lisdra = temple
-#b_amblada = city
-#b_isauria = castle
-#b_ouasada = castle
+b_ikonion = tribal
+b_mistheia = tribal
+b_lisdra = tribal
+b_amblada = tribal
+#b_isauria = tribal
+#b_ouasada = tribal
 
 # Misc
 culture = greek
@@ -21,9 +21,3 @@ religion = orthodox
 
 # History
 
-900.8.26 = { remove_settlement = b_mistheia }
-1085.8.26 = { culture = turkmen }
-1085.8.26 = { religion = sunni }
-
-1100.8.26 = { b_mistheia = city }
-1256.1.1 = { culture = turkish }

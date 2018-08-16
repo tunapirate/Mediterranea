@@ -7,20 +7,15 @@ title = c_daman
 
 # Settlements
 max_settlements = 5
-b_daman = castle
-b_sanjan = castle
-b_surparaka = temple
-#b_nagar_haveli = castle
-#b_pardi = city
-#b_bulsar = castle
-#b_ramnagar = castle
+
+b_daman = tribal
+b_sanjan = tribal
+b_surparaka = tribal
+b_nagar_haveli = tribal
 
 # Misc
 culture = gujurati
-religion = jain
+religion = hindu
 
 # History
-1066.1.1 = {
-	religion = zoroastrian
-	capital = b_sanjan
-}
+

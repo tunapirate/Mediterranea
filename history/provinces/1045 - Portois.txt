@@ -15,7 +15,7 @@ b_luxeuil = temple
 #b_fondremand = castle
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

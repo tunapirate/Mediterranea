@@ -6,13 +6,11 @@
 title = c_aden
 
 # Settlements
-max_settlements = 6
-b_qalatsira = castle
-b_aden = city
-b_ahwar = city
-b_lahej = temple
-b_khadra = castle
-#b_zinjibar = city
+max_settlements = 4
+
+b_aden = tribal
+b_qalatsira = tribal
+b_ahwar = tribal
 
 # Misc
 culture = yemeni

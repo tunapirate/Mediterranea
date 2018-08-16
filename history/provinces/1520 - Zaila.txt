@@ -6,11 +6,10 @@
 title = c_zaila
 
 # Settlements
-max_settlements = 3
-b_zeila = castle
-b_djibouti = city
-
-#b_holhol = temple
+max_settlements = 4
+b_zeila = tribal
+b_djibouti = tribal
+b_holhol = tribal
 
 # Misc
 culture = somali

@@ -7,14 +7,12 @@ title = c_guzgan
 
 # Settlements
 max_settlements = 5
-b_faryab = castle
-b_gurzuvan = city
-b_taleqan = temple
-b_yahudan = city
 
-#b_anbar = temple
-#b_andkhud = castle
-#b_ushburqan = castle
+b_faryab = tribal
+b_gurzuvan = tribal
+b_taleqan = tribal
+b_yahudan = tribal
+b_anbar = tribal
 
 # Misc
 culture = khorasani
@@ -22,4 +20,3 @@ religion = zoroastrian
 
 # History
 
-960.1.1 = {	religion = sunni }

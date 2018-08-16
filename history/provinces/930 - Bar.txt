@@ -16,7 +16,7 @@ b_ligneybarroias = temple
 #b_commercy = city
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = gallic_rite
 
 # History

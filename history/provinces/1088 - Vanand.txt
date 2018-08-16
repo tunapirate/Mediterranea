@@ -6,14 +6,12 @@
 title = c_vanand
 
 # Settlements
- max_settlements = 5
-b_kars = castle
-b_kaghzvan = city
-b_surparakelots = temple
-b_zarishat = castle
-#b_kechran = castle
-#b_surpstephanos = temple
- 
+ max_settlements = 4
+
+b_kars = tribal
+b_kaghzvan = tribal
+b_surparakelots = tribal
+b_zarishat = tribal
 
 # Misc
 culture = armenian

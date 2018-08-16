@@ -6,13 +6,15 @@
 title = c_dipalpur
 
 # Settlements
-max_settlements = 5
-b_pancapura = castle
-b_dipalpur = temple
-b_abohar = city
-#b_ajodhan = castle
-#b_satghara = city
-#b_chichawatni = city
+max_settlements = 7
+
+b_pancapura = tribal
+b_dipalpur = tribal
+b_abohar = tribal
+b_ajodhan = tribal
+b_satghara = tribal
+#b_chichawatni = tribal
+#d_malka_hans = tribal
 
 # Misc
 culture = panjabi

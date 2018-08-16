@@ -14,8 +14,8 @@ b_chateaudelemperi = castle
 
 
 # Misc
-culture = occitan
-religion = hellenic_pagan
+culture = septiman
+religion = apollonian
 
 # History
 

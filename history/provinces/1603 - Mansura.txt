@@ -6,14 +6,12 @@
 title = c_mansura
 
 # Settlements
-max_settlements = 5
-b_mansura_mansura = castle
-b_mirpur_khas = temple
-b_hala = city
-#b_nerunkot = castle
-#b_matiari = temple
-#b_nasarpur = city
-#b_mirman = city
+max_settlements = 4
+
+b_mansura_mansura = tribal
+b_mirpur_khas = tribal
+b_hala = tribal
+#b_nerunkot = tribal
 
 # Misc
 culture = sindhi

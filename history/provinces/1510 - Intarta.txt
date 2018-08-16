@@ -7,11 +7,10 @@ title = c_intarta
 
 # Settlements
 max_settlements = 4
-b_wiqro = castle
-b_zarema = temple
-b_agowo = temple
 
-#b_qiha = castle
+b_wiqro = tribal
+b_zarema = tribal
+b_agowo = tribal
 
 # Misc
 culture = ethiopian

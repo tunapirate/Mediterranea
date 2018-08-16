@@ -6,12 +6,9 @@
 title = c_hebron
 
 # Settlements
-max_settlements = 4
-b_hebron = castle
-b_syrcarmel = city
-b_bethgibelin = castle
-#b_alsamoa = castle
-#b_syrsebbe = temple
+max_settlements = 2
+b_hebron = tribal
+b_bethgibelin = tribal
 
 # Misc
 culture = levantine_arabic

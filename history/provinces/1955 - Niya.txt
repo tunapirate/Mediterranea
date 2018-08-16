@@ -12,8 +12,8 @@ b_cherchen = city
 #b_endere = temple
 
 # Misc
-culture = han
-religion = taoist
+culture = saka
+religion = buddhist
 
 # History
 980.1.1 = {

@@ -6,14 +6,15 @@
 title = c_ahwaz
 
 # Settlements
-max_settlements = 5
+max_settlements = 7
 
-b_ahwaz = castle
-b_dawraq = temple
-b_mahruban = city
-
-#b_dawraqistan = castle
-#b_huwayza = city
+b_ahwaz = city
+b_dawraq = tribal
+b_mahruban = tribal
+b_dawraqistan = tribal
+b_huwayza = tribal
+b_surak = tribal
+b_rostag_kavad = tribal
 
 # Misc
 culture = pahlavi

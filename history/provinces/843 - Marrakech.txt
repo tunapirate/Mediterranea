@@ -6,36 +6,14 @@
 title = c_marrakech
 
 # Settlements
-max_settlements = 6
+max_settlements = 3
 
-#b_marrakech = castle
+b_marrakech = tribal
 b_aghmat = tribal
-b_dai = city
-
-#b_tasgimut = castle
-#b_naffis = temple
-#b_demnat = castle
-#b_asni = castle
-
-#b_elanakir = castle
+b_dai = tribal
 
 # Misc
 culture = masmuda
 religion = african_rite
 
 # History
-
-1062.1.1 = {
-	b_marrakech = castle
-	capital = b_marrakech
-}
-1066.1.1 = { 
-	b_marrakech = ca_keep_1
-	b_marrakech = ca_training_grounds_1
-	b_marrakech = ca_keep_2
-	b_marrakech = ca_stable_1
-	b_marrakech = ca_barracks_1
-	b_marrakech = ca_militia_barracks_1
-	b_marrakech = ca_wall_1
-	b_marrakech = ca_wall_2
-}

@@ -8,10 +8,11 @@ title = c_jiqeti
 # Settlements
  max_settlements = 2
  
-b_nicopsia = castle
-b_zikh = temple
+b_nicopsia = tribal
+#b_zikh = tribal
 
 # Misc
+
 culture = kasogi
 religion = slavic_pagan
 

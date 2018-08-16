@@ -1,6 +1,0 @@
-# -*- ck2.history.titles -*-
-
-# Really Altenburg
-20.1.1 = {
-	law = succ_ultimogeniture
-}

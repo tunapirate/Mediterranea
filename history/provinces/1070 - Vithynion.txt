@@ -6,11 +6,12 @@
 title = c_vithynion
 
 # Settlements
-max_settlements = 3
-b_modrene = castle
-b_flaviopolis = city
+max_settlements = 4
 
-b_klaudiopolis = temple
+b_modrene = tribal
+b_flaviopolis = tribal
+b_klaudiopolis = tribal
+#b_manoris = tribal
 
 # Misc
 culture = greek
@@ -18,8 +19,3 @@ religion = orthodox
 
 # History
 
-# The Seljuks take over Anatolia
-
-1205.1.1 = { culture = turkmen }
-1205.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }

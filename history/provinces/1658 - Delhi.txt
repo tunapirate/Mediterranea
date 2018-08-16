@@ -7,13 +7,14 @@ title = c_delhi
 
 # Settlements
 max_settlements = 7
-b_indraprastha = castle
+
 b_dhilika = city
-b_mehrauli = temple
-b_lalkot = castle
-b_narela = city
-#b_siri = city
-#b_jahanpanah = city
+b_indraprastha = tribal
+b_mehrauli = tribal
+b_lalkot = tribal
+b_narela = tribal
+#b_siri = tribal
+#b_jahanpanah = tribal
 
 # Misc
 culture = hindustani

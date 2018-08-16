@@ -6,12 +6,11 @@
 title = c_valona
 
 # Settlements
-max_settlements = 4
-b_kanina = castle
-b_valona = city
-b_himara = temple
+max_settlements = 3
 
-#b_sopot = castle
+b_kanina = tribal
+b_valona = tribal
+b_himara = tribal
 
 # Misc
 culture = arberian

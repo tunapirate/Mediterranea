@@ -10,8 +10,6 @@ max_settlements = 2
 
 b_sinkat = tribal
 
-#b_wadibaraka = city
-
 # Misc
 culture = beja
 religion = east_african_pagan

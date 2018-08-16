@@ -47,7 +47,7 @@
 	holder = 1600010
 }
 1065.1.1 = { #Alp Arslan keeps the ruler of Jand
-	liege = e_persia
+	liege = k_persia
 }
 1077.1.1 = {
 	liege = d_khwarazm
@@ -72,7 +72,7 @@
 	liege = k_khwarezmia
 }
 1147.1.1 = {
-	liege = e_persia
+	liege = k_persia
 	holder = 1231610
 }
 1152.1.1 = {

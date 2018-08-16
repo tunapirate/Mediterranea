@@ -6,15 +6,14 @@
 title = c_vairata
 
 # Settlements
-max_settlements = 5
-b_harshnath = castle
-b_vairata = city
-b_sanganer = temple
-#b_amer = castle
-#b_dhosi = temple
-#b_jhunjhunu = city
-#b_jeenmata = temple
-#b_khatushyam = temple
+max_settlements = 6
+
+b_harshnath = tribal
+b_vairata = tribal
+b_sanganer = tribal
+b_amer = tribal
+#b_dhosi = tribal
+#b_jhunjhunu = tribal
 
 # Misc
 culture = rajput

@@ -6,17 +6,14 @@
 title = c_mosynopolis
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-
-b_mosynopolis = castle
-b_polystylon = city
-#b_xanthia = city
+b_mosynopolis = tribal
+b_polystylon = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-879.1.1 = { b_xanthia = city }
-1189.1.1 = { trade_post = b_dandolo }
+

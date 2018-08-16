@@ -6,27 +6,18 @@
 title = c_hamadan
 
 # Settlements
-max_settlements = 5
-b_hamadan = castle
-b_bahar = temple
-b_asadabad = city
-b_karadj = castle
+max_settlements = 7
 
-#b_saruk = castle
+b_hamadan = city
+b_bahar = tribal
+b_asadabad = tribal
+b_karadj = tribal
+b_saruk = tribal
+b_nemavand = tribal
+b_kangavar = tribal
 
 # Misc
-culture = persian
+culture = pahlavi
 religion = zoroastrian
 
 # History
-
-867.1.1 = { 
-	b_hamadan = ca_keep_1
-	b_hamadan = ca_training_grounds_1
-	b_hamadan = ca_keep_2
-	b_hamadan = ca_stable_1
-	b_hamadan = ca_barracks_1
-	b_hamadan = ca_militia_barracks_1
-	b_hamadan = ca_wall_1
-	b_hamadan = ca_wall_2
-}

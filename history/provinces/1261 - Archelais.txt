@@ -8,22 +8,15 @@ title = c_archelais
 # Settlements
 max_settlements = 3
 
-b_archelais = castle
-b_nazianzos = city
-b_koron = castle
+b_archelais = tribal
+b_nazianzos = tribal
+b_koron = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
-# The Seljuks take over Anatolia
-
-1075.8.26 = { remove_settlement = b_koron }
-1097.8.26 = { culture = turkmen }
-1097.8.26 = { religion = sunni }
-1256.1.1 = { culture = turkish }
 
 
 

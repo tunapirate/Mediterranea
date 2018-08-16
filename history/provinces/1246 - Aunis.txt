@@ -20,7 +20,7 @@ b_godsgrace = temple
 
 
 
-culture = occitan
+culture = thifalian
 religion = hellenic_pagan
 
 # History

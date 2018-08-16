@@ -7,14 +7,14 @@ title = c_karor
 
 # Settlements
 max_settlements = 3
-b_karor = castle
-b_mankera = city
-#b_shadia = temple
-#b_wan_bhachran = city
+
+b_karor = tribal
+b_mankera = tribal
+b_shadia = tribal
 
 # Misc
 culture = panjabi
 religion = buddhist
 
 # History
-980.1.1 = { religion = sunni }
+

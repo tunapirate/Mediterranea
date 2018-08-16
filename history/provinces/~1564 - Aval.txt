@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1564 - Aval
+
+# County Title
+title = c_aval
+
+# Settlements
+max_settlements = 2
+b_sokh = castle
+b_marghinan = temple
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History
+1005.1.1 = {	culture = tajik }
+1005.1.1 = {	religion = sunni }

@@ -7,11 +7,10 @@ title = c_itfih
 
 # Settlements
 max_settlements = 4
-b_itfih = castle
-b_busir = temple
-
-#b_lahun = city
-#b_alqababt = castle #al-Qababt
+b_itfih = city
+b_busir = tribal
+b_lahun = tribal
+b_alqababt = tribal
 
 # Misc
 culture = coptic

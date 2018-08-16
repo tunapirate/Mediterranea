@@ -3457,6 +3457,8 @@ religious = {
         emf_cb_religious_reconquest_basic_can_use_title = no
         emf_cb_religious_basic_can_use_title = yes
         emf_cb_can_use_de_jure_title = yes
+		# No Steppes
+		FROM = { NOT = { location = { region = world_steppe_east } } }
     }
 
     is_valid = {

@@ -6,15 +6,15 @@
 title = c_khetaka
 
 # Settlements
-max_settlements = 5
-b_khetaka = castle
-b_khambhat = city
-b_dholka = temple
-#b_tarapur = temple
-#b_ashaval = castle
+max_settlements = 7
+
+b_khetaka = tribal
+b_khambhat = tribal
+b_dholka = tribal
+b_tarapur = tribal
+b_ashaval = tribal
 #b_nadiad = city
 #b_bhadran = city
-#b_sanand = castle
 
 # Misc
 culture = gujurati

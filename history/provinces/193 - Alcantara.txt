@@ -6,19 +6,14 @@
 title = c_alcantara
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_coria = castle
-b_caceres = city
-b_alcantara = castle
-#b_valenciadealcantara = city
-
+b_coria = tribal
+#b_caceres = tribal
+#b_alcantara = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-
-1236.1.1 = { culture = castillan }
-1236.1.1 = { religion = catholic }

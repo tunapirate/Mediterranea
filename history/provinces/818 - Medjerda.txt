@@ -6,21 +6,15 @@
 title = c_medjerda
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_monastir = castle
 b_sousse = city
-b_siliana = temple
-
-#b_lekef = city
-#b_kasserine = city
-#b_sidimubarak = castle
-#b_qaafur = castle
-#b_dougga = castle
-#b_elkrib = castle
+b_monastir = tribal
+b_siliana = tribal
+b_lekef = tribal
 
 # Misc
-culture = african
+culture = roman
 religion = mercurial
 
 # History

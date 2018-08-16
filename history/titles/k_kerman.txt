@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 1063.9.4 = {
-	liege = e_persia
+	liege = k_persia
 	holder = 3041
 }
 1073.1.1 = {

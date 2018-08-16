@@ -8,23 +8,13 @@ title = c_tobruk
 # Settlements
 max_settlements = 5
 
-b_tobruk = castle
-b_lakka = city
-#b_derna = castle
-
-#b_bardia = temple
-#b_alqardabah = castle
-#b_martuba = temple
-
-#b_acroma = castle
-#b_zanzur = castle
-#b_kambut = castle
-#b_rukbah = castle
+b_tobruk = tribal
+b_derna = tribal
+b_bardia = tribal
+b_acroma = tribal
 
 # Misc
 culture = greek
 religion = miaphysite
 
 # History
-
-1066.1.1 = { culture = bedouin_arabic }

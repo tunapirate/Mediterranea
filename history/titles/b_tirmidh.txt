@@ -1,8 +1,0 @@
-# -*- ck2.history.titles -*-
-
-1041.1.1 = {
-	liege = c_talekan
-}
-1045.1.1 = {
-	liege = c_balkh
-}

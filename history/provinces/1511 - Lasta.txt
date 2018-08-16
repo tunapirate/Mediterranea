@@ -7,11 +7,10 @@ title = c_lasta
 
 # Settlements
 max_settlements = 4
-b_kubar = castle
-b_debredamo = temple
-b_bugena = city
 
-#b_sekota = castle
+b_kubar = tribal
+b_debredamo = tribal
+b_bugena = tribal
 
 # Misc
 culture = ethiopian

@@ -6,13 +6,13 @@
 title = c_astorga
 
 # Settlements
-max_settlements = 4
-b_ulver = castle
-b_astorga = temple
-b_villafrancadelbierzo = city
-b_ponferrada = castle
-#b_villablino = city
-#b_carracedo = temple
+max_settlements = 5
+
+b_astorga = tribal
+b_ulver = tribal
+b_villafrancadelbierzo = tribal
+#b_ponferrada = tribal
+#b_villablino = tribal
 
 # Misc
 culture = leonese
@@ -20,7 +20,3 @@ religion = hispanic_rite
 
 # History
 
-1066.1.1 = { 
-	b_ulver = ca_keep_1
-	b_ulver = ca_wall_1
-}

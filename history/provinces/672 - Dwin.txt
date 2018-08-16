@@ -7,10 +7,10 @@ title = c_dwin
 
 # Settlements
  max_settlements = 3
-b_artashat = castle
-b_dvin = city
-b_surpgrigor = temple
- 
+
+b_artashat = tribal
+b_dvin = tribal
+b_surpgrigor = tribal
 
 # Misc
 culture = armenian
@@ -18,7 +18,3 @@ religion = apostolic
 
 # History
 
-1320.1.1 = { 
-	culture = kurdish 
-	religion = sunni 
-}

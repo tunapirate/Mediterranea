@@ -6,23 +6,13 @@
 title = c_teruel
 
 # Settlements
-max_settlements = 4
-b_mora_de_rubielos = castle
-b_teruel = city
-b_hijar = castle
-#b_utrillas = temple
-#b_calamocha = castle
-#b_montalban = castle
+max_settlements = 3
 
+b_mora_de_rubielos = tribal
+#b_utrillas = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-1066.1.1 = { 
-	#b_teruel = ca_keep_1
-	b_teruel = ct_wall_1
-}
-1150.1.1 = { culture = aragonese }
-1150.1.1 = { religion = catholic }

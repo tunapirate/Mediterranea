@@ -6,13 +6,10 @@
 title = c_nikopolis
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_kran = castle
-b_silven = city
-#b_tryavna = temple
-#b_kteina = castle
-
+b_kran = tribal
+b_silven = tribal
 
 # Misc
 culture = romanian

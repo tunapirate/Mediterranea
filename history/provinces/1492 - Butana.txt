@@ -6,12 +6,12 @@
 title = c_butana
 
 # Settlements
-max_settlements = 3
-b_meruwah = castle
-b_shendi = temple
+max_settlements = 5
 
-#b_naqa = city
-
+b_meruwah = tribal
+b_shendi = tribal
+b_naqa = tribal
+b_kabushiya = tribal
 
 # Misc
 culture = nubian

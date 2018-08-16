@@ -1,83 +1,14 @@
 # -*- ck2.history.technology -*-
 
-#Romanesque
+### NORTH AFRICA
+
+# Mauretania
 
 technology = {
 	titles = {
-	# Egypt
-		d_augustamnica
-		d_arcadia
-		d_marmarica
-		d_aswan
-		d_cyrenaica
-		d_sinai
-	# Africa
-		d_carthage
-		d_byzacena
-	# Numidia
-		d_alger
-		d_aures
-		d_kabylia
-	}  
-    
-	769 = {
-		military = 1.2
-		economy = 1.5
-		culture = 1.5
-		
-		TECH_CASTLE_CONSTRUCTION = 2.0
-		TECH_TEMPLE_CONSTRUCTION = 2.0
-		TECH_LEGALISM = 2.0
-	}
-	   
-	1337 = {
-		military = 4.0
-		economy = 4.0
-		culture = 4.0
-	}  
-}   
-
-#EAST AFRICA
-
-technology = {
-	titles = {
-		d_afar
-		d_gondar
-		d_damot
-		d_nobatia
-		d_nubia
-		d_sennar
-		d_berbera 
-		d_ifat    
-		d_tedjoura
-		d_amhara  
-		d_alodia  
-		d_badi
-		d_axum
-		d_aydhab
-		d_kassala       
-	}  
-    
-	769 = {
-		military = 0.3
-		economy = 0.2
-		culture = 0.2
-		  
-	}  
-	   
-	1337 = {
-		military = 3.5
-		economy = 3.7
-		culture = 3.9
-	}  
-}   
-    
-# Berbera
-    
-technology = {
-	titles = {
-		d_tripolitania
-		d_tlemcen
+		#d_tlemcen
+		c_tlemcen
+		c_hanyan
 		d_fes
 		d_marrakech
 		d_draa
@@ -89,7 +20,6 @@ technology = {
 		culture = 0.1
 
     TECH_CAVALRY = 1.6
-     		
 	}
 	
 	1337 = {
@@ -99,38 +29,340 @@ technology = {
 	}
 }
 
-#WEST AFRICA
-    
+# Tangier
+
 technology = {
 	titles = {
-		d_ghana
-		d_mali
-		d_songhay
-		d_mema   
-		d_bambuk 
-		d_kala   
-		d_wolof  
-		d_takrur 
-		d_mossi  
-		d_bornu  
-		d_kanem  
-		d_kano   
-		d_kebbi  
-		d_gobir
+		d_tangiers
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_LEGALISM = 2.0
+	}
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}  
+}
+
+# Coastal Numidia
+
+technology = {
+	titles = {
+		#d_tlemcen
+		c_orania
+		#d_alger
+		c_snassen
+		c_al_djazair
+		#d_kabylia
+		c_bejaija
+		c_setif
+		#d_aures
+		c_beni_yanni
+		c_constantine
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 1
+		TECH_LEGALISM = 2.0
+	}
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}  
+}
+
+# Inland Numidia
+
+technology = {
+	titles = {
+		#d_alger
+		c_atlas_mnt
+		c_lemdiyya
+		#d_kabylia
+		c_tell_atlas
+		c_ouled_nail
+		c_biskra
+		#d_aures
+		c_tabassa
+		c_arigh
+		c_qashtiliya
+		c_nafzawa
+	}
+	
+	769 = {
+		military = 0.6
+		economy = 0.2
+		culture = 0.1
+
+    TECH_CAVALRY = 1.6
+	}
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}  
+}
+
+# Africa
+
+technology = {
+	titles = {
+		d_carthage
+		d_byzacena
+	}  
+    
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 3
+		TECH_LEGALISM = 2.0
+	}
+	   
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}  
+}
+
+# Tripoli
+
+technology = {
+	titles = {
+		d_tripolitania
 	}  
 	
 	769 = {
-		military = 0.1
-		economy = 0.7
-		culture = 0.3
-    
-    TECH_TRADE_PRACTICES = 1.2
-		
+		military = 0.6
+		economy = 0.2
+		culture = 0.1
+
+    TECH_CAVALRY = 1.6
 	}
 	
 	1337 = {
-		military = 3.5
-		economy = 3.9
-		culture = 3.7
+		military = 3.9
+		economy = 3.7
+		culture = 3.5
 	}
+}
+
+# Egypt
+
+technology = {
+	titles = {
+		d_alexandria
+		d_augustamnica
+		d_arcadia
+		#d_marmarica
+		c_bahriya
+		d_aswan
+		#d_cyrenaica
+		c_ajadabiya
+		c_benghazi
+		c_tobruk
+		d_sinai
+	}  
+    
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 3
+		TECH_LEGALISM = 2.0
+	}
+	   
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}  
+}
+
+# Egyptian Desert
+
+technology = {
+	titles = {
+		#d_marmarica
+		c_al_alamayn
+		c_quattara
+		c_dakhila
+		c_kharija
+		#d_cyrenaica
+		c_senoussi
+	}  
+	
+	769 = {
+		military = 0.6
+		economy = 0.2
+		culture = 0.1
+		
+		TECH_CITY_CONSTRUCTION = 3
+		TECH_CAVALRY = 1.6
+	}
+	
+	1337 = {
+		military = 3.9
+		economy = 3.7
+		culture = 3.5
+	}
+}
+
+### EAST AFRICA
+
+# Nubia
+
+technology = {
+	titles = {
+		d_alodia
+		d_nubia
+		d_nobatia
+	}  
+    
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		 
+		TECH_CITY_CONSTRUCTION = 2
+		TECH_LEGALISM = 1
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
+}  
+
+# Beja
+
+technology = {
+	titles = {
+		d_aydhab
+		d_badi
+		d_kassala
+	}  
+    
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		 
+		TECH_CITY_CONSTRUCTION = 2
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
+}  
+
+# Sennar
+
+technology = {
+	titles = {
+		d_sennar
+		d_darfur
+	}  
+    
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		 
+		TECH_CITY_CONSTRUCTION = 1
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
+}  
+
+# Abyssinia
+
+technology = {
+	titles = {
+		d_damot
+		d_amhara
+	}  
+    
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		 
+		TECH_CITY_CONSTRUCTION = 2
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
+}
+
+technology = {
+	titles = {
+		d_axum
+		d_gondar
+	}  
+    
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		 
+		TECH_CITY_CONSTRUCTION = 2
+		TECH_LEGALISM = 1
+		
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
+} 
+
+# Adal
+
+technology = {
+	titles = {
+		d_berbera
+		d_ifat
+		d_tedjoura
+		d_afar
+	}  
+    
+	769 = {
+		military = 0.3
+		economy = 0.2
+		culture = 0.2
+		 
+		TECH_CITY_CONSTRUCTION = 1
+	}  
+	   
+	1337 = {
+		military = 3.5
+		economy = 3.7
+		culture = 3.9
+	}  
 }

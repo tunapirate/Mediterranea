@@ -49,7 +49,7 @@
 1118.1.1 = {
 	holder = 144137 # Bahram Shah
 	set_tribute_suzerain = { # Ghaznavid vassalage under Seljuks
-		who = e_persia
+		who = k_persia
 		percentage = 0.4
 	}
 }
@@ -57,7 +57,7 @@
 	holder = 144138 # Khusraw Shah
 }
 1157.5.8 = {
-	clear_tribute_suzerain = e_persia
+	clear_tribute_suzerain = k_persia
 }
 1160.1.1 = {
 	holder = 144139 # Khusraw Malik

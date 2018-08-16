@@ -43,7 +43,7 @@
 1055.1.1 = {
 	clear_tribute_suzerain = k_khorasan
 	set_tribute_suzerain = {
-		who = e_persia
+		who = k_persia
 		percentage = 0.4
 	}
 }
@@ -57,7 +57,7 @@
 	holder = 1230152
 }
 1125.1.1 = {
-	clear_tribute_suzerain = e_persia
+	clear_tribute_suzerain = k_persia
 	holder = 0
 }
 #1142.1.1 = {
@@ -65,13 +65,13 @@
 #}
 1146.1.1 = {
 	set_tribute_suzerain = {
-		who = e_persia
+		who = k_persia
 		percentage = 0.4
 	}
 	holder = 1230154
 }
 1153.1.1 = {
-	clear_tribute_suzerain = e_persia
+	clear_tribute_suzerain = k_persia
 }
 1173.1.1 = {
 	holder = 1230155

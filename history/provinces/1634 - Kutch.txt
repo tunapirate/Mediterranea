@@ -7,13 +7,13 @@ title = c_kutch
 
 # Settlements
 max_settlements = 3
-b_kanthakota = castle
-b_anjar = temple
-#b_dhaneti = city
-#b_bhuj = city
+
+b_kanthakota = tribal
+b_anjar = tribal
+#b_dhaneti = tribal
 
 # Misc
 culture = gujurati
-religion = jain
+religion = hindu
 
 # History

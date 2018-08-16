@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 902 - Harazasp
+
+# County Title
+title = c_harazasp
+
+# Settlements
+max_settlements = 4
+b_harazasp = castle
+b_sadvar = city
+b_darghan = temple
+
+#b_jigirband = castle
+
+# Misc
+culture = khwarezmi
+religion = zoroastrian
+
+# History
+920.1.1 = {
+	religion = sunni
+}
+
+1230.1.1 = { culture = turkmen }

@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1353 - Sfax
+
+# County Title
+title = c_sfax
+
+# Settlements
+max_settlements = 4
+
+b_mahdia = city
+b_sfax = tribal
+b_alhamma = tribal
+b_slakta = tribal
+
+# Misc
+culture = african
+religion = hellenic_pagan
+
+# History
+1067.1.1 = { remove_settlement = b_alhamma  }
+

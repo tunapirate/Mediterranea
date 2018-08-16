@@ -14,7 +14,7 @@ b_vertus = temple
 #b_montmort = castle
 
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

@@ -6,12 +6,11 @@
 title = c_edessa
 
 # Settlements
-max_settlements = 5
-b_edessa = castle
-b_sruk = city
-b_samsat = city
-b_bile = temple
-#b_hromgla = castle
+max_settlements = 4
+b_edessa = tribal
+b_sruk = tribal
+b_samsat = tribal
+b_bile = tribal
 
 # Misc
 culture = aramean
@@ -19,11 +18,4 @@ religion = syriac
 
 
 # History
-1030.1.1 = { 
-	culture = armenian 
-	religion = apostolic
-}
-1164.1.1 = { 
-	culture = kurdish 
-	religion = sunni 
-}
+

@@ -6,21 +6,16 @@
 title = c_lugo
 
 # Settlements
-max_settlements = 4
-b_lugo = castle
-b_villalba = city
-b_mondonedo= temple
-#b_sarria = castle
-#b_ribadeo = city
-#b_ocebreiro= temple
+max_settlements = 5
 
+b_lugo = tribal
+b_villalba = tribal
+#b_mondonedo= tribal
+#b_ribadeo = tribal
+#b_ocebreiro= tribal
 
 # Misc
 culture = galician
 religion = hispanic_rite
 
 # History
-1066.1.1 = { 
-	b_lugo = ca_keep_1
-	b_lugo = ca_wall_1
-}

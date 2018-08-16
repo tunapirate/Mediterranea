@@ -6,22 +6,13 @@
 title = c_amorion
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-b_amorion = castle
-b_pessinos = city
-b_philomelion = castle
-#b_germa = temple
+b_amorion = tribal
+b_pessinos = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
-1095.8.26 = { culture = turkmen }
-1095.8.26 = { religion = sunni }
-1100.8.26 = { b_pessinos = castle }
-1100.8.26 = { capital = b_pessinos }
-1100.8.26 = { remove_settlement = b_amorion }
-1256.1.1 = { culture = turkish }

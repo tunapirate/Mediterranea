@@ -6,14 +6,10 @@
 title = c_suwaida
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-b_suwaida = castle
 b_busra = city
-#b_salkhard = castle
-b_shahba = temple
-b_shaqqa = city
-
+b_suwaida = tribal
 
 # Misc
 culture = aramean

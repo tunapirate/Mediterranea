@@ -18,7 +18,7 @@ b_saulieu = city
 
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

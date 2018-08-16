@@ -17,7 +17,7 @@ b_maglic = castle
 
 
 # Misc
-culture = arberian
+culture = romanian
 religion = hellenic_pagan
 
 # History

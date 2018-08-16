@@ -6,16 +6,15 @@
 title = c_kandail
 
 # Settlements
-max_settlements = 5
-b_kandail = castle
-b_dadu = city
-b_quzdar = castle
-#b_bodein = city
-#b_jhal = temple
+max_settlements = 3
+
+b_kandail = tribal
+b_dadu = tribal
+#b_quzdar = tribal
 
 # Misc
 culture = sindhi
 religion = hindu
 
 # History
-980.1.1 = {	religion = sunni }
+

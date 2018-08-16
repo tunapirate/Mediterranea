@@ -6,19 +6,16 @@
 title = c_arghiyan
 
 # Settlements
-max_settlements = 5
-b_azadvar = castle
-b_bayhaq = temple
-b_mazinan = city
-b_fayrumad = castle
+max_settlements = 4
 
-#b_isfarain = castle
-#b_asadabad_arghiyan = city
-#b_jajarm_arghyian = temple
+b_azadvar = tribal
+b_bayhaq = tribal
+b_mazinan = tribal
+b_fayrumad = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-980.1.1 = {	religion = sunni }
+

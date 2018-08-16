@@ -6,10 +6,9 @@
 title = c_dhofar
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
+
 b_salalah = tribal
-b_mirbat = city
-#b_raysut = city
 
 # Misc
 culture = bedouin_arabic

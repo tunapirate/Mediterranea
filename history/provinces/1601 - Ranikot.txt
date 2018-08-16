@@ -7,16 +7,15 @@ title = c_ranikot
 
 # Settlements
 max_settlements = 4
-b_ranikot = castle
-b_sharusan = city
-#b_paat = temple
-#b_khudabad = city
-#b_manhabari = city
-#b_jandar = city
+
+b_ranikot = tribal
+b_sharusan = tribal
+b_paat = tribal
+#b_khudabad = tribal
 
 # Misc
 culture = sindhi
 religion = hindu
 
 # History
-980.1.1 = {	religion = sunni }
+

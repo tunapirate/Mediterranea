@@ -18,7 +18,7 @@ b_argenta = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = plains # could be marshland
 # History
 #1115.7.24 = { capital = b_ferrara } # ct

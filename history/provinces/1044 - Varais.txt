@@ -15,8 +15,8 @@ b_pontarlier = city
 #b_clairvauox = temple
 
 # Misc
-culture = frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
 

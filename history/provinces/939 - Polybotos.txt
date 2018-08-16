@@ -6,22 +6,15 @@
 title = c_polybotos
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_akroinon = castle
-b_synnada = temple
-b_polybotos = castle
+b_akroinon = tribal
+b_synnada = tribal
+b_polybotos = tribal
+#b_temenothyrai = tribal
 
-#b_temenothyrai = city
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
-
-1185.1.1 = { culture = turkmen }
-1185.1.1 = { religion = sunni }
-1210.1.1 = { remove_settlement = b_synnada }
-1250.1.1 = { b_temenothyrai = city }
-1256.1.1 = { culture = turkish }

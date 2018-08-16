@@ -6,23 +6,16 @@
 title = c_soria
 
 # Settlements
-max_settlements = 4
-b_gormaz = castle
-b_soria = temple
-b_osma = castle
-#b_medinaceli = castle
-#b_almazan = city
-#b_huerta = temple
+max_settlements = 3
+
+b_soria = tribal
+#b_osma = tribal
+#b_gormaz = tribal
+
+# Misc
 
 culture = castillan
 religion = hispanic_rite
 
 # History
 
-1066.1.1 = { 
-	b_gormaz = ca_keep_1
-	b_gormaz = ca_stable_1
-	b_gormaz = ca_militia_barracks_1
-	b_gormaz = ca_wall_1
-	b_gormaz = ca_wall_2
-}

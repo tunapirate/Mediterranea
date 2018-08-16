@@ -6,12 +6,14 @@
 title = c_mahra
 
 # Settlements
-max_settlements = 2
-b_shihr = castle
-#b_qishn = city
+max_settlements = 3
+
+b_shihr = tribal
+b_qishn = tribal
 
 # Misc
 culture = yemeni
 religion = jewish
+
 # History
 

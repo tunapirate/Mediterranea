@@ -6,12 +6,15 @@
 title = c_kota
 
 # Settlements
-max_settlements = 4
-b_kota = castle
-b_koshvardhan = city
-#b_ramgarh = temple
-#b_bundi = castle
-#b_taragarh = castle
+max_settlements = 7
+
+b_kota = tribal
+b_koshvardhan = tribal
+b_ramgarh = tribal
+b_bundi = tribal
+b_taragarh = tribal
+#b_mandsour = tribal
+#b_chittorgarh = tribal
 
 # Misc
 culture = rajput

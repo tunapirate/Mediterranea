@@ -24,7 +24,7 @@ b_jumieges = temple
 
 
 # Misc
-culture = frankish
+culture = gallic
 religion = saturnal
 
 # History

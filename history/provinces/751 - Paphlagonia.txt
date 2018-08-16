@@ -8,9 +8,9 @@ title = c_paphlagonia
 # Settlements
 max_settlements = 3
 
-b_kastamonu = castle
-b_dadybra = city
-b_pompeiopolis = temple
+b_kastamonu = tribal
+b_dadybra = tribal
+b_pompeiopolis = tribal
 
 # Misc
 culture = greek
@@ -18,11 +18,6 @@ religion = orthodox
 
 # History
 
-# The Seljuks take over Anatolia
-
-1205.1.1 = { culture = turkmen }
-1205.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }
 
 
 

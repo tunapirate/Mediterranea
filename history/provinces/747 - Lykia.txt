@@ -6,19 +6,13 @@
 title = c_lykia
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-b_myra = castle
-b_telmissos = city
-b_patara = temple
-
-#b_phaselis = castle
+b_myra = tribal
+b_telmissos = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-1175.1.1 = { trade_post = b_morosini }
-1328.1.1 = { culture = turkish }
-1328.1.1 = { religion = sunni }

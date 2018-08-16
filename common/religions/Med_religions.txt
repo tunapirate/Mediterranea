@@ -42,7 +42,7 @@ greco-italic = {
 	mercurial = {
 		graphical_culture = westerngfx
 
-		icon = 73
+		icon = 83
 		
 		color = { 0.93 0.81 0.09 }
 		

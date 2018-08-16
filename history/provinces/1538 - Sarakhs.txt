@@ -7,20 +7,14 @@ title = c_sarakhs
 
 # Settlements
 max_settlements = 4
-b_sarakhs = castle
-b_mayhana = city
-b_dandankan = city
 
-#b_mazduran = temple
-
+b_sarakhs = tribal
+b_mayhana = tribal
+b_dandankan = tribal
+b_mazduran = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-
-960.1.1 = {	religion = sunni }
-
-#1020.1.1 = { b_dandankan = city }
-1210.1.1 = { remove_settlement = b_dandankan } #abandoned due to desertification

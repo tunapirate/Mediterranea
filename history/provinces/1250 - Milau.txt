@@ -16,7 +16,7 @@ b_nantmillau = temple
 #b_saintromedecernon = castle
 
 # Misc
-culture = occitan
+culture = auvergnat
 religion = hellenic_pagan
 
 # History

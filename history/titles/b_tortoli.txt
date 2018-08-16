@@ -1,7 +1,0 @@
-#conti di Quirra
-1324.1.1 = {
-	holder = 10651404 # Berengario I Carroz
-}
-1336.1.1 = {
-	holder = 10651405 # Berengario II Carroz
-}

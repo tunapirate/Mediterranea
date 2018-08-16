@@ -6,9 +6,9 @@
 title = c_danakil
 
 # Settlements
-max_settlements = 2
-b_afera = castle
-#b_assale = temple
+max_settlements = 3
+b_afera = tribal
+b_assale = tribal
 
 # Misc
 culture = afar

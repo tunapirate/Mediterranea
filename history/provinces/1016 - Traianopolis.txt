@@ -6,12 +6,10 @@
 title = c_traianopolis
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_traianopolis = castle
-b_didymoteichon = temple
-b_maroneia = city
-#b_makri = city
+b_traianopolis = tribal
+b_didymoteichon = tribal
 
 # Misc
 culture = greek
@@ -19,6 +17,3 @@ religion = orthodox
 
 # History
 
-# Catalan Company ravages the province
-
-1305.1.1 = { remove_settlement = b_maroneia }

@@ -7,13 +7,12 @@ title = c_vidisa
 
 # Settlements
 max_settlements = 5
-b_vidisa = castle
-b_sanchi = temple # Buddhist Holy Site
-b_sironj = city
-#b_bijamandal = temple
-#b_raisin = castle
-#b_bhojpur = temple
-#b_mangla_devi = temple
+
+b_vidisa = tribal
+b_sanchi = tribal # Buddhist Holy Site
+b_sironj = tribal
+b_bijamandal = tribal
+#b_raisin = tribal
 
 # Misc
 culture = hindustani
@@ -21,6 +20,4 @@ religion = jain
 terrain = jungle
 
 # History
-1066.1.1 = {
-	religion = hindu
-}
+

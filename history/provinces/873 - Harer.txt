@@ -9,14 +9,8 @@ title = c_harer
 max_settlements = 4
 
 b_jijiga = tribal
-b_harar = temple
-#b_hargeysa = city
-#b_diridawa = castle
-#b_jijiga = castle
-#b_kurfachele = castle
-#b_kombolcha = city
-#b_babile = castle
-
+b_harar = tribal
+b_hargeysa = tribal
 # Misc
 culture = somali
 religion = miaphysite

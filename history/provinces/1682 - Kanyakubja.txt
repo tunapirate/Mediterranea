@@ -6,14 +6,13 @@
 title = c_kanyakubja
 
 # Settlements
-max_settlements = 6
-b_kanyakubja = castle
-b_jajmau = city
-b_bithor = temple
-#b_etawah = city
-#b_swargdwari = castle
-#b_kampil = temple
-#b_jai_chandra = castle
+max_settlements = 5
+
+b_kanyakubja = city
+b_jajmau = tribal
+b_bithor = tribal
+b_etawah = tribal
+#b_swargdwari = tribal
 
 # Misc
 culture = hindustani

@@ -7,13 +7,12 @@ title = c_bagrewand
 
 # Settlements
 max_settlements = 5
-b_bagaran = castle
-b_armavir = city
-b_daroynk = castle
-b_vaghaskert = city
-b_bagawan = temple
-#b_tsolakert = city
-#b_varazkert = city
+
+b_bagaran = tribal
+b_armavir = tribal
+b_daroynk = tribal
+b_vaghaskert = tribal
+b_bagawan = tribal
 
 # Misc
 culture = armenian

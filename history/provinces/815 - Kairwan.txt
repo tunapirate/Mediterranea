@@ -6,15 +6,11 @@
 title = c_kairwan
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 
-b_kairouan = castle
-b_alabbasiyaifr = city #Al-Abbasiya-Ifriqi
-b_rakkada = temple
-b_sabiba = city
-
-#b_eljem = castle #El Jem
-#b_subaytila = castle
+b_alabbasiyaifr = tribal
+b_rakkada = tribal
+b_sabiba = tribal
 
 # Misc
 culture = african

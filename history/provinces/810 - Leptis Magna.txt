@@ -6,18 +6,12 @@
 title = c_leptis_magna
 
 # Settlements
-max_settlements = 2
+max_settlements = 5
 
-b_misratah = castle
-
-#b_leptismagna = castle
-#b_alhasun = temple
-
-#b_abunujaym = castle
-#b_alghiran = castle
-#b_qirdah = castle
-#b_naimah = castle
-#b_gioda = castle
+b_misratah = tribal
+b_leptismagna = tribal
+b_alhasun = tribal
+b_abunujaym = tribal
 
 # Misc
 culture = zanata

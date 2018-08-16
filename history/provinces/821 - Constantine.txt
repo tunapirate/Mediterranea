@@ -6,21 +6,15 @@
 title = c_constantine
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
-b_constantine = castle
-b_elkhroub = temple
-b_guerrah = city
-b_guelma = castle
-
-#b_oumelbouaghi = castle
-#b_tadjenanet = castle
-#b_mechtakebira = castle
+b_constantine = tribal
+b_elkhroub = tribal
+b_guerrah = tribal
+b_guelma = tribal
 
 # Misc
 culture = african
 religion = african_rite
 
 # History
-1054.1.1 = { b_constantine = tribal }
-1152.1.1 = { b_constantine = castle }

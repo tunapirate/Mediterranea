@@ -8,17 +8,11 @@ title = c_sous
 # Settlements
 max_settlements = 3
 b_thineghir = tribal
-b_alnif = temple
-
-#b_ouarzazate = city
+b_alnif = tribal
+b_ouarzazate = tribal
 
 # Misc
 culture = tagelmust
 religion = west_african_pagan
 
 # History
-990.1.1 = { culture = masmuda }
-1030.1.1 = { religion = sunni }
-#1056.1.1 = { b_thineghir = tribal }
-1140.1.1 = { religion = mahdiyya }
-1260.1.1 = { religion = sunni }

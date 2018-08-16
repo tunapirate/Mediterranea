@@ -16,7 +16,7 @@ b_monevarchi = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = forest
 
 # History

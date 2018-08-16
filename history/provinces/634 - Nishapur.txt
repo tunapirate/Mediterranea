@@ -6,19 +6,15 @@
 title = c_nishapur
 
 # Settlements
-max_settlements = 7
-b_neshapur = castle
-b_kundur = city
-b_jajarm = temple
-b_kishmar = city
+max_settlements = 3
 
-#b_buzgan = temple
-#b_farhagird = castle
-#b_khusrugird = castle
+b_neshapur = tribal
+b_kundur = tribal
+b_jajarm = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-980.1.1 = {	religion = sunni }
+

@@ -7,10 +7,11 @@ title = c_hisn_kayf
 
 # Settlements
 max_settlements = 4
-b_hisnkayf = castle
-b_siird = temple
-b_mayyafarikin = city
-#b_arzan = city
+
+b_hisnkayf = tribal
+b_siird = tribal
+b_mayyafarikin = tribal
+b_arzan = tribal
 
 # Misc
 culture = assyrian
@@ -18,7 +19,3 @@ religion = nestorian
 
 # History
 
-1110.1.1 = { 
-	culture = kurdish
-	religion = sunni
-}

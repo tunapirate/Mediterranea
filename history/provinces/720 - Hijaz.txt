@@ -6,11 +6,10 @@
 title = c_hijaz
 
 # Settlements
-max_settlements = 4
-b_al_ola = castle
-b_tayma = city
-b_alwajh = city
-#b_higra = temple
+max_settlements = 3
+b_al_ola = tribal
+b_tayma = tribal
+#b_alwajh = tribal
 
 # Misc
 culture = bedouin_arabic

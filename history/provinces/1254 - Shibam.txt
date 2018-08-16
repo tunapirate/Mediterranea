@@ -6,10 +6,12 @@
 title = c_shibam
 
 # Settlements
-max_settlements = 3
-b_shibamsanaa = castle
-b_thula = castle
-#b_kahlan = castle
+max_settlements = 6
+
+b_shibamsanaa = tribal
+b_thula = tribal
+b_kahlan = tribal
+b_raymah = tribal
 
 # Misc
 culture = yemeni

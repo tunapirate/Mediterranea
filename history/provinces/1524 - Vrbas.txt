@@ -14,8 +14,8 @@ b_vrbaski_grad = castle
 
 
 # Misc
-culture = dalmatian
-religion = hellenic_pagan
+culture = romanian
+religion = orthodox
 
 
 # History

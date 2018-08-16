@@ -13,7 +13,7 @@ b_brod = city
 #b_kutjevo = temple
 
 # Misc
-culture = east_gothic
+culture = romanian
 religion = orthodox
 
 # History

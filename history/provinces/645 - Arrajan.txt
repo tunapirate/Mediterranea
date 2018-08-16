@@ -7,18 +7,15 @@ title = c_arrajan
 
 # Settlements
 max_settlements = 5
-b_arrajan = castle
-b_ganava = temple
-b_kazarun = city
-b_khubdhan = castle
 
-#b_siniz = city
-#b_tavvadj = castle
+b_arrajan = tribal
+b_ganava = tribal
+b_kazarun = tribal
+b_khubdhan = tribal
+b_siniz = tribal
 
 # Misc
 culture = pahlavi
 religion = zoroastrian
 
 # History
-947.1.1 = { religion = sunni }
-1066.1.1 = { b_siniz = city }

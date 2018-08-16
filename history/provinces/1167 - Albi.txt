@@ -16,7 +16,7 @@ b_lombers = castle
 #b_brusque = city
 #b_castres = city
 
-culture = occitan
+culture = septiman
 religion = hellenic_pagan
 
 # History

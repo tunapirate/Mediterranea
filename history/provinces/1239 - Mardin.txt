@@ -6,13 +6,12 @@
 title = c_mardin
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_maridin = castle								
-b_resaina = city
-b_dunaysir = temple
-b_dairodmorhannanyo = temple
-#b_alsywaydaturkey = castle
+b_maridin = tribal							
+b_resaina = tribal
+b_dunaysir = tribal
+b_dairodmorhannanyo = tribal
 	
 # Misc
 culture = assyrian

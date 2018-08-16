@@ -6,18 +6,11 @@
 title = c_pelusia
 
 # Settlements
-max_settlements = 3
-b_ushmuntan = castle
-b_tinis = city
-
-#b_faqus = temple
-
-#b_pelusia = castle
-#b_alsalihiyah = temple
-#b_sile = castle
-#b_said = city
-#b_pithom = castle
-#b_serapeum = castle
+max_settlements = 5
+b_ushmuntan = tribal
+b_tinis = tribal
+b_faqus = tribal
+b_sile = tribal
 
 # Misc
 culture = greek

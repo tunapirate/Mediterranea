@@ -1,5 +1,0 @@
-# -*- ck2.history.titles -*-
-
-867.1.1 = {
-	liege = c_siracusa
-}

@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 861 - Asir
+
+# County Title
+title = c_asir
+
+# Settlements
+max_settlements = 6
+b_qunfudhah = tribal
+b_bariq = tribal
+b_jurash = tribal
+b_hali = tribal
+b_jurash = tribal
+b_sabya = tribal
+#b_bisha = tribal
+
+# Misc
+culture = bedouin_arabic
+religion = sunni
+
+# History

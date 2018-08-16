@@ -22,7 +22,7 @@ b_laujuzan = castle
 #b_terraube = castle
 
 #Misc
-religion = hellenic_pagan
+religion = dianic
 culture = occitan
 
 # History

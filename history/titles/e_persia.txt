@@ -1,5 +1,5 @@
 867.1.1={
-	holder = 524230
+	holder = 524000
 		effect = {
 		set_variable = { which = "imperial_decay" value = 50 }
 	}

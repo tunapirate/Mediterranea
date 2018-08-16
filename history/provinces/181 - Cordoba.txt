@@ -6,25 +6,17 @@
 title = c_cordoba
 
 # Settlements
-max_settlements = 7
-b_cordoba = castle
-b_alcolea = castle
-b_cabra = temple
-b_lucena = city
-b_baena = city
-#b_montilla = city
-#b_iznajar = castle
-#b_guadalcazar = castle
-#b_adamuz = city
+max_settlements = 6
 
-
-#b_belalcazar = castle
-#b_canetedelastorres = castle
+b_cordoba = city
+b_alcolea = tribal
+b_cabra = tribal
+b_lucena = tribal
+#b_baena = tribal
+#b_montilla = tribal
 
 # Misc
 culture = hispanic
 religion = mercurial
 
 # History
-1251.1.1 = { culture = castillan }
-1251.1.1 = { religion = catholic }

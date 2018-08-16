@@ -6,12 +6,13 @@
 title = c_mohadavasaka
 
 # Settlements
-max_settlements = 3
-b_mohadavasaka = castle
-b_jhalod = city
-#b_lunawada = temple
-#b_shamlaji = temple
-#b_idar = castle
+max_settlements = 7
+
+b_mohadavasaka = tribal
+b_jhalod = tribal
+b_lunawada = tribal
+b_shamlaji = tribal
+b_idar = tribal
 #b_unjha = temple
 #b_danta = castle
 

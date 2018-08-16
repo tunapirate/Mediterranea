@@ -6,22 +6,17 @@
 title = c_tangiers
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 
-b_tangiers = castle
-b_asilah = city
-b_kasrkutama = temple
-b_laraiche = castle
-b_mulaybuselham = city
-#b_alcazarquivir = city
-#b_ainbenamar = castle
-
-#b_charkia = castle
-#b_barrha = castle
+b_tangiers = city
+b_asilah = tribal
+b_kasrkutama = tribal
+b_laraiche = tribal
+#b_mulaybuselham = tribal
 
 # Misc
 culture = tangieran
-religion = hellenic_pagan
+religion = mercurial
 
 # History
 

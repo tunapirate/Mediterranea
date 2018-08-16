@@ -6,13 +6,14 @@
 title = c_vodamayutja
 
 # Settlements
-max_settlements = 5
-b_vodamayutja = castle
-b_ahichatra = city
-b_tilokpur = temple
-#b_anwala = city
-#b_bareily = castle
-#b_sheikhupur = city
+max_settlements = 6
+
+b_vodamayutja = tribal
+b_ahichatra = tribal
+b_tilokpur = tribal
+b_anwala = tribal
+#b_bareily = tribal
+#b_sheikhupur = tribal
 
 # Misc
 culture = hindustani

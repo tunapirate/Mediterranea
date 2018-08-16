@@ -16,7 +16,7 @@ b_bardi = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = apollonian
 terrain = hills
 # History
 1025.1.1 = { b_scipione = castle}

@@ -6,13 +6,13 @@
 title = c_ani
 
 # Settlements
-max_settlements = 6
-b_kumayri = castle
-b_ani = city
-b_erazgewors = city
-b_surpasdvadzadzin = temple
-#b_marmashen = temple
-b_horomos = temple
+max_settlements = 5
+
+b_kumayri = tribal
+b_ani = tribal
+b_erazgewors = tribal
+b_surpasdvadzadzin = tribal
+b_horomos = tribal
 
 # Misc
 culture = armenian

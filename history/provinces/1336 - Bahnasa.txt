@@ -6,13 +6,12 @@
 title = c_bahnasa
 
 # Settlements
-max_settlements = 5
-b_bahnasa = castle
-b_saft = temple
-b_alqays = city
-b_ansina = castle
-
-#b_ahnas = castle
+max_settlements = 6
+b_bahnasa = city
+b_saft = tribal
+b_alqays = tribal
+b_ansina = tribal
+b_ahnas = tribal
 
 # Misc
 culture = greek

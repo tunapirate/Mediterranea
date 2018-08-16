@@ -6,20 +6,14 @@
 title = c_tudela
 
 # Settlements
-max_settlements = 4
-b_tudela = castle
-b_cascante = city
-b_carcastillo = temple
-#b_valtierra = city
+max_settlements = 3
+
+b_tudela = tribal
+b_cascante = tribal
+#b_valtierra = tribal
 
 # Misc
 culture = basque
 religion = hellenic_pagan
 
 # History
-
-1066.1.1 = { 
-	b_tudela = ca_town_1
-	b_tudela = ca_wall_1
-}
-1131.1.1 = { religion = catholic }

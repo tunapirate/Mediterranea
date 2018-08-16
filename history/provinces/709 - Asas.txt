@@ -6,24 +6,15 @@
 title = c_asas
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 
-b_ar-rafiqa = castle
-b_rakka = city
-b_resafa = temple
-b_qalatjabar = castle
-#b_zarzakka = temple
-#b_bizunasyria = temple
-#b_talabyad = castle
-
-
-
-
+b_ar-rafiqa = tribal
+b_rakka = tribal
+b_resafa = tribal
+b_qalatjabar = tribal
 
 # Misc
 culture = aramean
 religion = syriac
 
 # History
-1120.1.1 = { religion = sunni }
-1187.1.1 = { b_talabyad = castle } 

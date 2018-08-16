@@ -6,17 +6,14 @@
 title = c_shewa
 
 # Settlements
-max_settlements = 3
-b_shewa = tribal
-b_antsokia = city
+max_settlements = 4
 
-#b_debreberhan = temple
+b_shewa = tribal
+b_antsokia = tribal
 
 # Misc
 culture = ethiopian
 religion = east_african_pagan
 
 # History
-
-1190.1.1 = { religion = sunni }
   

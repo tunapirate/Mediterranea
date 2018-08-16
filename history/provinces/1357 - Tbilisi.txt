@@ -7,10 +7,11 @@ title = c_tbilisi
 
 # Settlements
 max_settlements = 4
-b_narikala = castle
-b_tbilisi = city
-b_sioni = temple
-b_rustavi = city
+
+b_narikala = tribal
+#b_tbilisi = tribal
+#b_sioni = tribal
+#b_rustavi = tribal
 
 # Misc
 culture = georgian

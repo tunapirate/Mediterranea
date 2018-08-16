@@ -6,19 +6,14 @@
 title = c_hajar
 
 # Settlements
-max_settlements = 5
-b_qalatnizwa = tribal
-b_nizwa = temple #was city
-#b_bahla = castle
-#b_nakhal = castle
-#b_rustaq_nizwa = castle
+max_settlements = 2
+
+b_nizwa = tribal
+b_bahla = tribal
 
 # Misc
 culture = bedouin_arabic
 religion = hindu
 
 # History
-1250.1.1 = {
-	b_qalatnizwa = castle
-	b_bahla = castle
-}
+

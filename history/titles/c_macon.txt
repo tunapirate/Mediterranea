@@ -5,7 +5,7 @@
 	holder = 144986 # Childebrand
 }
 864.1.1 = {
-	liege = k_aquitaine
+	liege = "k_auvergne"
 	holder = 167924
 }
 865.1.1 = {

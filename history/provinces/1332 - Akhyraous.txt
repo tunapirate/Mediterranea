@@ -7,13 +7,11 @@ title = c_akhyraous
 
 # Settlements
 max_settlements = 4
-b_poimanenos = castle
-b_akhyraous = city
-b_synaos = castle
 
-#b_pegadia = city
-#b_lentiana = city
-#b_adrianeia = temple
+b_poimanenos = tribal
+b_akhyraous = tribal
+b_synaos = tribal
+#b_pegadia = tribal
 
 # Misc
 culture = greek
@@ -21,8 +19,3 @@ religion = orthodox
 terrain = hills
 
 # History
-
-1326.1.1 = { culture = turkish }
-1326.1.1 = { religion = sunni }
-1326.1.1 = { b_akhyraous = castle }
-1326.1.1 = { capital = b_akhyraous }

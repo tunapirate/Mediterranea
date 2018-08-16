@@ -3,34 +3,6 @@
 namespace = emf_startup
 # event IDs emf_startup.30-emf_startup.39 are free to use in this file
 
-# emf_startup.31 [Isis]
-#
-# Persian/Levant/African troop balance modifiers (counteract overrepresentation of Europe in terms of levy output in SWMH)
-character_event = {
-	id = emf_startup.31
-	
-	is_triggered_only = yes
-	hide_window = yes
-	
-	trigger = {
-		has_landed_title = e_hip
-	}
-	
-	immediate = {
-		any_province = {
-			limit = {
-				region = emf_region_levy_boost
-				has_owner = yes
-			}
-			add_province_modifier = {
-				name = emf_levy_boost_local
-				hidden = yes
-				duration = -1
-			}
-		}
-	}
-}
-
 # emf_startup.32 [Isis]
 #
 # Setup William Iron-Arm and descendent(s) in years [1043,1066)

@@ -6,30 +6,14 @@
 title = c_alto_aragon
 
 # Settlements
-max_settlements = 4
-b_jaca = castle
-b_borau = temple
-b_canfranc = city
-#b_anso = castle
+max_settlements = 3
 
+b_jaca = tribal
+b_borau = tribal
+#b_canfranc = tribal
 
 # Misc
 culture = basque
 religion = hellenic_pagan
 
 # History
-
-1066.1.1 = { 
-	b_jaca = ca_town_1
-	b_jaca = ca_town_2
-	b_jaca = ca_keep_1
-	b_jaca = ca_keep_2
-	b_jaca = ca_stable_1
-	b_jaca = ca_stable_2
-	b_jaca = ca_militia_barracks_1
-	b_jaca = ca_militia_barracks_2
-	b_jaca = ca_wall_1
-	b_jaca = ca_wall_2
-	b_jaca = ca_barracks_1
-	b_jaca = ca_barracks_2
-}

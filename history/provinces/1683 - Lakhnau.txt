@@ -7,11 +7,12 @@ title = c_lakhnau
 
 # Settlements
 max_settlements = 5
-b_lakhnau = castle
-b_jasnaul = city
-b_satrikh = temple
-#b_hardoi = city
-#b_zaidpur = castle
+
+b_lakhnau = tribal
+b_jasnaul = tribal
+b_satrikh = tribal
+b_hardoi = tribal
+#b_zaidpur = tribal
 
 # Misc
 culture = hindustani

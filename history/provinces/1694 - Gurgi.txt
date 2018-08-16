@@ -6,14 +6,16 @@
 title = c_gurgi
 
 # Settlements
-max_settlements = 3
-b_gurgi = castle
-#b_satna = temple
-#b_bathgahora = castle
-#b_chandrehi = temple
+max_settlements = 5
+
+b_gurgi = tribal
+b_satna = tribal
+b_bathgahora = tribal
+b_chandrehi = tribal
+#b_devendranagar = tribal
 
 # Misc
 culture = hindustani
-religion = buddhist
+religion = jain
 
 # History

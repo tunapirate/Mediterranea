@@ -17,7 +17,7 @@ b_dubica = temple
 
 
 # Misc
-culture = dalmatian
+culture = romanian
 religion = hellenic_pagan
 
 

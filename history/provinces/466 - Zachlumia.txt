@@ -19,7 +19,7 @@ b_biskup = temple
 
 
 # Misc
-culture = dalmatian
+culture = romanian
 religion = hellenic_pagan
 
 # History

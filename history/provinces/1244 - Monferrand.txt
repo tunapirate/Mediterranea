@@ -5,27 +5,14 @@
 title = c_monferrand
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
-
-b_krakdeschevaliers = castle
-b_zweitina = temple
-#b_raphania = city
-b_chastelblanc = castle
-#b_chastelrouge = castle
+b_krakdeschevaliers = tribal
+b_zweitina = tribal
 
 # Misc
 culture = aramean
 religion = syriac
 
 # History
-
-1030.1.1 = { 
-	culture = kurdish
-}
-1090.1.1 = { b_chastelrouge = castle }
-1105.1.1 = {
-	religion = maronite
-}
-
 

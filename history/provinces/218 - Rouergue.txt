@@ -25,7 +25,7 @@ b_villefranche = city
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = auvergnat
 
 # History
 

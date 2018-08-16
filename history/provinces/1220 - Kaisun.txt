@@ -6,23 +6,15 @@
 title = c_kaisun
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_kaisun = castle
-b_raban = city
-b_behetselin = temple
-#b_hartanedessa = castle
-b_karkaron = castle
-
-
-
+b_kaisun = tribal
+b_raban = tribal
+b_behetselin = tribal
 
 # Misc
 culture = aramean
 religion = syriac
 
 # History
-1240.1.1 = { 
-	culture = kurdish 
-	religion = sunni
-}
+

@@ -19,7 +19,7 @@ b_perpinya = city
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = septiman
 
 # History
 1066.1.1 = { 

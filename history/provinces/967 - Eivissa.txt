@@ -8,8 +8,8 @@ title = c_eivissa
 # Settlements
 max_settlements = 2
 
-b_formentera = castle
-b_eivissa = city
+b_formentera = tribal
+b_eivissa = tribal
 
 # Misc
 culture = hispanic
@@ -17,7 +17,4 @@ religion = hellenic_pagan
 terrain = mountain
 
 # History
-902.1.1 = { culture = andalusian_arabic }
-902.1.1 = { religion = sunni }
-1245.1.1 = { culture = catalan }
-1245.1.1 = { religion = catholic }
+

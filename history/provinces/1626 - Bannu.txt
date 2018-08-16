@@ -6,13 +6,14 @@
 title = c_bannu
 
 # Settlements
-max_settlements = 4
-b_bannu = castle
-b_hangu = city
-#b_karrak = temple
-#b_kohat = castle
-#b_dinkot = castle
-#b_kalabagh = castle
+max_settlements = 6
+
+b_bannu = tribal
+b_hangu = tribal
+b_karrak = tribal
+b_kohat = tribal
+#b_dinkot = tribal
+#b_kalabagh = tribal
 
 # Misc
 culture = panjabi

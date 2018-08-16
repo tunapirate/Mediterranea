@@ -6,25 +6,14 @@
 title = c_ribagorza
 
 # Settlements
-max_settlements = 4
-b_benabarre = castle
-b_graus = city
-b_laguarres = temple
-#b_benasque = castle
+max_settlements = 2
 
+b_benabarre = tribal
+#b_graus = tribal
 
 # Misc
 culture = aragonese
 religion = hellenic_pagan
 
 # History
-
-1066.1.1 = { 
-	b_benabarre = ca_keep_1
-	b_benabarre = ca_wall_1
-	b_benabarre = ca_stable_1
-	b_benabarre = ca_militia_barracks_1
-	b_benabarre = ca_wall_2
-	b_benabarre = ca_barracks_1
-}
 

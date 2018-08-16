@@ -13,7 +13,7 @@
 	holder = 0
 }
 997.1.1 = {
-	liege = k_mesopotamia
+	liege = e_persia
 	holder = 159482
 }
 1017.1.1 = {
@@ -23,7 +23,7 @@
 	liege = 0
 }
 1060.1.1 = {
-	liege = e_persia
+	liege = k_persia
 }
 1082.1.1 = {
 	holder = 159484

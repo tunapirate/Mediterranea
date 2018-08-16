@@ -6,16 +6,17 @@
 title = c_rivsharan
 
 # Settlements
-max_settlements = 3
-b_rivsharan = castle
-b_gurzivan = temple
+max_settlements = 5
 
-#b_manshan = city
-
+b_rivsharan = tribal
+b_gurzivan = tribal
+b_manshan = tribal
+b_ushburqan = tribal
+b_andkhud = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-987.1.1 = {	religion = sunni }
+

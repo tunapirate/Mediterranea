@@ -7,15 +7,13 @@ title = c_arran
 
 # Settlements
  max_settlements = 2
-b_barda = castle
-b_baylakan = city
+
+b_barda = tribal
+#b_baylakan = tribal
  
 # Misc
 culture = udi
 religion = apostolic
 
 # History
-950.1.1 = { 
-	culture = adhari
-	religion = sunni
-}
+

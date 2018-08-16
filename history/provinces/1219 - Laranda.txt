@@ -6,18 +6,13 @@
 title = c_laranda
 
 # Settlements
-max_settlements = 3
-b_laranda = castle
-b_barata = city
-#b_derbe = temple
+max_settlements = 2
 
+b_laranda = tribal
+b_barata = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
-1097.1.1 = { culture = turkmen }
-1097.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }

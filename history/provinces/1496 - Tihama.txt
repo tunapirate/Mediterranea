@@ -6,15 +6,15 @@
 title = c_tihama
 
 # Settlements
-max_settlements = 3
-b_jizan = castle
-b_kamaran = city
-#b_harad = temple
+max_settlements = 4
+
+b_jizan = tribal
+b_kamaran = tribal
+b_harad = tribal
 
 # Misc
 culture = yemeni
 religion = jewish
+
 # History
-1200.1.1 = { 
-	religion = shiite
-}
+

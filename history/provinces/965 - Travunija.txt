@@ -14,7 +14,7 @@ b_onogost = city
 
 
 # Misc
-culture = arberian
+culture = romanian
 religion = hellenic_pagan
 
 # History

@@ -6,17 +6,17 @@
 title = c_muscat
 
 # Settlements
-max_settlements = 5
-b_qalatmirani = castle
-b_muscat = city
-b_sur = city
-b_qalhat = city
-#b_quryat = city
+max_settlements = 4
+
+b_muscat = tribal
+b_qalatmirani = tribal
+b_sur = tribal
+b_qalhat = tribal
 
 # Misc
 culture = pahlavi
 religion = zoroastrian
 
 # History
-#1066.1.1 = { trade_post = b_qalhati }
+
 

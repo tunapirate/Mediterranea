@@ -4,22 +4,12 @@
 
 technology = {
 	titles = {
-	# Morea
-		d_athens
-		d_achaia
-		d_krete
-	# Macedonia
-		d_thessalonika
-		d_neopatras
-		d_dyrrachion
-		d_epirus
-		d_cephalonia
-		d_macedonia
 	# Moesia
 		d_serdica
 		d_dardania
 		d_macva
 	# Thrace
+		d_thrace
 		d_strymon
 		d_turnovo
 		d_karvuna
@@ -28,46 +18,6 @@ technology = {
 		d_wallachia
 		d_oltenia
 		d_basarabia
-	# Pontus
-		d_paphlagonia
-		d_boukellarion
-		d_opsikon
-		d_optimatoi
-		d_trebizond
-		d_cherson
-		d_tmutarakan
-		d_armeniacon
-		d_charsianon
-		d_cappadocia
-		d_coloneia
-		d_sebasteia
-		d_lykandos
-	# Asia
-		d_anatolia
-		d_cibyrrhaeot
-		d_seleukeia
-		d_samos
-		d_aegean_islands
-		d_thracesia
-	# Armenia
-		d_artsakh
-		d_suenik
-		d_vaspurakan
-		d_armenia
-		d_lori
-		d_taron
-		d_mesopotamia
-		d_dzopk
-		d_amida
-	# Georgia
-		d_kartli
-		d_tao
-		d_klarjeti
-		d_kakheti
-		d_abkhazia
-		d_imeretia
-		d_racha
-		d_hereti
 	}
 	
 	769 = {
@@ -83,38 +33,225 @@ technology = {
 	}
 }
 
+# Macedonia
+
 technology = {
 	titles = {
-		d_thrace
-		d_alexandria
-		d_lombardia
-		d_baghdad
-		d_antioch
+		d_thessalonika
+		d_neopatras
+		d_dyrrachion
+		d_epirus
+		d_cephalonia
+		d_macedonia
 	}
-
+	
 	769 = {
 		military = 1.2
 		economy = 1.5
 		culture = 1.5
 		
-		TECH_FORTIFICATIONS_CONSTRUCTION = 3.0
-		TECH_CASTLE_CONSTRUCTION = 2.0
-		TECH_TEMPLE_CONSTRUCTION = 2.0
-		TECH_LEGALISM = 2.0
+		TECH_CITY_CONSTRUCTION = 1
 	}
 		
 	1337 = {
 		military = 4.5
 		economy = 4.5
 		culture = 4.5
-		
-		TECH_FORTIFICATIONS_CONSTRUCTION = 4.5
-		TECH_CASTLE_CONSTRUCTION = 4.5
-		TECH_TEMPLE_CONSTRUCTION = 4.5
-		TECH_LEGALISM = 4.5
 	}
 }
 
+# Morea
 
+technology = {
+	titles = {
+		d_athens
+		d_achaia
+		d_krete
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
 
+# Pontus
 
+technology = {
+	titles = {
+		d_paphlagonia
+		d_boukellarion
+		d_opsikon
+		d_optimatoi
+		d_trebizond
+		d_cherson
+		d_tmutarakan
+		d_armeniacon
+		d_charsianon
+		d_cappadocia
+		d_coloneia
+		d_sebasteia
+		d_lykandos
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Asia
+
+technology = {
+	titles = {
+		d_anatolia
+		d_seleukeia
+		d_samos
+		d_thracesia
+		c_abydos
+		c_kyzikos
+		c_mylasa
+		c_lykia
+		c_attaleia
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 3
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Aegean Islands
+
+technology = {
+	titles = {
+		c_rhodos
+		c_naxos
+		c_chios
+		c_lesbos
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Armenia
+
+technology = {
+	titles = {
+		d_artsakh
+		d_suenik
+		d_vaspurakan
+		d_armenia
+		d_lori
+		d_taron
+		d_mesopotamia
+		d_dzopk
+		d_amida
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 1
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Georgia
+
+technology = {
+	titles = {
+		d_kartli
+		d_tao
+		d_klarjeti
+		d_kakheti
+		d_abkhazia
+		d_imeretia
+		d_racha
+		d_hereti
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 1
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Caucasian Iberia
+
+technology = {
+	titles = {
+		d_albania
+		d_derbent
+		d_shirvan
+	}
+	
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}

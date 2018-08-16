@@ -6,10 +6,11 @@
 title = c_sala
 
 # Settlements
-max_settlements = 2
+max_settlements = 4 
 
-b_sale = castle
-b_albasra = city
+b_sale = tribal
+b_albasra = tribal
+b_khedis = tribal
 
 # Misc
 culture = tangieran

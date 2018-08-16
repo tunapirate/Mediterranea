@@ -7,10 +7,11 @@ title = c_kufa
 
 # Settlements
 max_settlements = 4
-b_qalatkufa = castle
-b_kufa = city
-b_nadjaf = temple
-#b_alhirah = castle
+
+b_alhirah = city
+b_qalatkufa = tribal
+b_kufa = tribal
+b_nadjaf = tribal
 
 # Misc
 culture = levantine_arabic

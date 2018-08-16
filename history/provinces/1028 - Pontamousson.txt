@@ -15,7 +15,7 @@ b_toul = temple
 
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = gallic_rite
 
 # History

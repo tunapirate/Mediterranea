@@ -8,10 +8,9 @@ title = c_sinai
 # Settlements
 max_settlements = 4
 
-b_qalaatalgindi = castle
-b_rassidr = temple
-b_nekhel = city
-#b_nekhelcastle = castle
+b_qalaatalgindi = tribal
+b_rassidr = tribal
+b_nekhel = tribal
 
 # Misc
 culture = levantine_arabic

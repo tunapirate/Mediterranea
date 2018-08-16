@@ -6,14 +6,11 @@
 title = c_hazart
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_hazart = castle
-b_sarmada = city
-b_zerdana = city
-b_harimantiochia = temple
-
-
+b_hazart = tribal
+b_sarmada = tribal
+b_zerdana = tribal
 
 # Misc
 culture = aramean
@@ -21,13 +18,6 @@ religion = syriac
 
 # History
 
-
-# Mongol invasion 
-
-# Conquered by the Mamluks
-
-1268.1.1 = { culture = levantine_arabic }
-1268.1.1 = { religion = sunni } 
 
 
 

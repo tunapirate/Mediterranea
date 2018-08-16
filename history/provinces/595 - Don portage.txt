@@ -6,12 +6,14 @@
 title = c_don_portage
 
 # Settlements
-max_settlements = 2
-b_terek = castle
-#b_sunzha = city
-# Misc
+max_settlements = 3
+
+b_terek = tribal
+#b_sunzha = tribal
+#b_mozdok = tribal
+
 culture = alan
 religion = tengri_pagan
 
 # History
-1050.1.1 = { b_sunzha = city }
+

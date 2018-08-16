@@ -6,17 +6,11 @@
 title = c_gizeh
 
 # Settlements
-max_settlements = 3
-b_gizeh = castle
-b_saqqara = temple
-
-#b_abusir = city
-
-#b_aburowash = castle
-#b_dashur = city
-#b_zawyetalayran = castle
-#b_abughorob = castle
-#b_ellisht = castle
+max_settlements = 5
+b_gizeh = city
+b_saqqara = tribal
+b_abusir = tribal
+b_aburowash = tribal
 
 # Misc
 culture = greek

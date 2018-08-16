@@ -19,7 +19,7 @@ b_durbancorbires = castle
 
 #Misc
 religion = apollonian
-culture = occitan
+culture = septiman
 
 # History
 1079.1.1 = { trade_post = b_grimaldi }

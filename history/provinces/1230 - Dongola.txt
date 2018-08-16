@@ -6,20 +6,14 @@
 title = c_dongola
 
 # Settlements
-max_settlements = 6
+max_settlements = 4
 
 b_dongola = castle
-b_tumbus = temple
-b_kerma = city
-
-#b_eddeba = castle
-#b_old_dongola = city
-#b_grnetti = castle
+b_tumbus = tribal
+b_kerma = tribal
 
 # Misc
 culture = nubian
 religion = miaphysite
 
 # History
-
-1325.1.1 = { religion = sunni }

@@ -6,9 +6,10 @@
 title = c_ajadabiya
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_ajdabiya = tribal
-#b_alaghaila = city
+b_alaghaila = tribal
+b_tabbibi = tribal
 
 # Misc
 culture = zanata

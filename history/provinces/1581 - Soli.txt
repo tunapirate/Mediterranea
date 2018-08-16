@@ -11,17 +11,9 @@ max_settlements = 2
 b_srebenik = castle
 b_soli = city
 
-
-
-
-
-
- 
-
 # Misc
-culture = dalmatian
+culture = romanian
 religion = orthodox
 
 # History
 
-1232.1.1= { religion = bogomilist } 

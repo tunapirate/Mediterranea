@@ -11,7 +11,7 @@ b_orval = temple
 #b_orchimont = castle
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = germanic_rite
 
 # History

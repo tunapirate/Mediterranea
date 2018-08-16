@@ -6,23 +6,16 @@
 title = c_bizerte
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_bizerte = castle
-b_tunbeja = temple
-b_tabarqa = city
-b_marsaalkharaz = castle #Marsa al-Kharaz
-
-#b_jendouba = city
-#b_ghezala = castle
-#b_almatin = castle
-#b_manziljamal = castle
-#b_tamra = castle
-#b_netza = castle
+b_bizerte = tribal
+b_tunbeja = tribal
+b_tabarqa = tribal
+b_marsaalkharaz = tribal
 
 # Misc
 culture = african
-religion = hellenic_pagan
+religion = mercurial
 
 # History
 

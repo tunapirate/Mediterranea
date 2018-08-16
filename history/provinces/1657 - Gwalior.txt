@@ -7,13 +7,12 @@ title = c_gwalior
 
 # Settlements
 max_settlements = 5
-b_gwalior = castle
-b_sahastrabahu = temple
-b_dabra = city
-#b_bateshwar = temple
-#b_narwar = castle
-#b_sabalgarh = castle
-#b_vijaypur = castle
+
+b_gwalior = tribal
+b_sahastrabahu = tribal
+b_dabra = tribal
+b_bateshwar = tribal
+#b_narwar = tribal
 
 # Misc
 culture = hindustani

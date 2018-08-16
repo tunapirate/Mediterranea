@@ -6,9 +6,13 @@
 title = c_al_nasiryah
 
 # Settlements
-max_settlements = 2
-b_assaliq = castle
-b_niffar = city
+max_settlements = 5
+
+b_kashkar = city
+b_assaliq = tribal
+b_niffar = tribal
+b_sankarah = tribal
+b_ekur = tribal
 
 #Misc
 culture = pahlavi

@@ -1470,6 +1470,50 @@
 	culture="hispanic"
 	religion="catholic"
 }
+59141=
+{
+	name="Orgiana"
+	culture="hispanic"
+	religion="mercurial"
+}
+59142=
+{
+	name="Antistiana"
+	culture="hispanic"
+	religion="mercurial"
+}
+59143=
+{
+	name="Oleastra"
+	culture="hispanic"
+	religion="mercurial"
+}
+59144=
+{
+	name="Celsina"
+	culture="hispanic"
+	religion="mercurial"
+}
+59145=
+{
+	name="Ilounon"
+	culture="hispanic"
+	religion="mercurial"
+}
+59146=
+{
+	name="Maurocella" # PLRE vol2 738
+	culture="hispanic"
+	religion="mercurial"
+}
+59147=
+{
+	name="Marciana" # PLRE vol2 716
+	culture="hispanic"
+	religion="mercurial"
+}
+
+
 
 # Lusitanian/Gallaecian
 
@@ -1608,6 +1652,12 @@
 59272=
 {
 	name="Aspidia" # Ribatejo
+	culture="hispanic"
+	religion="hellenic_pagan"
+}
+59273=
+{
+	name="Lusidia" # Setubal
 	culture="hispanic"
 	religion="hellenic_pagan"
 }

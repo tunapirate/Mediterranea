@@ -7,8 +7,9 @@ title = c_utik
 
 # Settlements
  max_settlements = 2
-b_shamkhor = castle
-b_ganja = city
+
+b_shamkhor = tribal
+#b_ganja = tribal
 
 # Misc
 culture = udi
@@ -16,7 +17,3 @@ religion = apostolic
 
 # History
 
-990.1.1 = {
-	culture = adhari
-	religion = sunni
-}

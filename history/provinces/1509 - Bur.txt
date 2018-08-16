@@ -6,21 +6,12 @@
 title = c_bur
 
 # Settlements
-max_settlements = 5
-b_matara = castle
-b_dahlak = city
-#b_adel = city
-#b_kohaito = city
-
-#b_saho = temple
+max_settlements = 3
+b_matara = tribal
+b_dahlak = tribal
 
 # Misc
 culture = ethiopian
 religion = miaphysite
 
 # History
-
-#1057.1.1 = { capital = b_dahlak }
-#1066.1.1 = { trade_post = b_assadad }
-#1262.1.1 = { capital = b_matara }
-1262.1.1 = { religion = miaphysite }

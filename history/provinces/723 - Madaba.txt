@@ -6,26 +6,14 @@
 title = c_madaba
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 
-b_aljun = castle
-b_irbid = city
-b_qasr_al_hallabat = castle
-b_jerash = city
-#b_russeifa = city
-#b_deir_alla = temple
-#b_muwaqqar = castle
-
-
-
-
+b_irbid = tribal
+b_aljun = tribal
+b_qasr_al_hallabat = tribal
 
 # Misc
 culture = aramean
 religion = miaphysite
 
 # History
-
-974.1.1 = { remove_settlement = b_jerash } #Tribalisation/Nomadization of al-Urdunn
-974.1.1 = { remove_settlement = b_qasr_al_hallabat } #Tribalisation/Nomadization of al-Urdunn
-974.1.1 = { b_aljun = tribal } #Tribalisation/Nomadization of al-Urdunn

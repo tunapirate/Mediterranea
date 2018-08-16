@@ -6,14 +6,12 @@
 title = c_al_amarah
 
 # Settlements
-max_settlements = 6
-b_bandanijin = castle
-b_baqubah = city
-b_daskara = city
-b_jalula = castle
+max_settlements = 4
 
-#b_barazarruz = city
-#b_iskaf_nahrawan = city
+b_daskara = city
+b_bandanijin = tribal
+b_baqubah = tribal
+b_jalula = tribal
 
 #Misc
 culture = pahlavi

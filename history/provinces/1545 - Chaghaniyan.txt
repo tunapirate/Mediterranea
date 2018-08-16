@@ -7,18 +7,16 @@ title = c_chaghaniyan
 
 # Settlements
 max_settlements = 5
-b_chaghaniyan = castle
-b_charmangan = temple
-b_basand = city
-b_darzangi = temple
 
-#b_hashimgird = castle
-#b_hamvaran = city
+b_chaghaniyan = tribal
+b_charmangan = tribal
+b_basand = tribal
+b_darzangi = tribal
+b_hashimgird = tribal
 
 # Misc
 culture = sogdian
-religion = buddhist
+religion = zoroastrian
 
 # History
-987.1.1 = {	religion = sunni }
-1007.1.1 = {	culture = tajik }
+

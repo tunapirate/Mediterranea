@@ -6,16 +6,17 @@
 title = c_valabhi
 
 # Settlements
-max_settlements = 5
-b_valabhi = castle
-b_gundigar = city
-b_sihor = temple
-#b_palatina = castle
-#b_shatrunjaya = temple
-#b_dhandhuka = city
+max_settlements = 6
+
+b_valabhi = tribal
+b_gundigar = tribal
+b_sihor = tribal
+b_paromana = tribal
+#b_shatrunjaya = tribal
+#b_dhandhuka = tribal
 
 # Misc
 culture = gujurati
-religion = jain
+religion = hindu
 
 # History

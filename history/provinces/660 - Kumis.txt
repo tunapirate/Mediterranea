@@ -6,18 +6,17 @@
 title = c_kumis
 
 # Settlements
-max_settlements = 6
-b_damghan = castle
-b_ahuvan = city
-b_ras-al-kalb = castle
-b_vanda = temple
+max_settlements = 5
 
-#b_simnan = city
-#b_shalamba = castle
+b_damghan = tribal
+b_ahuvan = tribal
+b_ras-al-kalb = tribal
+b_vanda = tribal
+b_simnan = tribal
 
 #Misc
-culture = persian
+culture = daylamite
 religion = zoroastrian
 
 # History
-887.1.1 = {	religion = sunni }
+

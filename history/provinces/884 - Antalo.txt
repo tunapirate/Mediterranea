@@ -6,13 +6,11 @@
 title = c_antalo
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_entoto = tribal
-b_hayq = temple
-
-#b_bale = city
-#b_oromos = castle
+b_hayq = tribal
+b_bale = tribal
 
 # Misc
 culture = ethiopian
@@ -20,4 +18,3 @@ religion = miaphysite
 
 # History
 
-1187.1.1 = { b_bale = city } 

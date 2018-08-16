@@ -6,23 +6,16 @@
 title = c_rayy
 
 # Settlements
-max_settlements = 7
+max_settlements = 5
 
 b_rayy = castle
-b_varamin = temple # holy_site = nestorian
-b_sava = castle
-b_tehran = city
-
-#b_mazdakan = temple
-#b_damavand = city
-#b_khuvar = castle
+b_varamin = tribal # holy_site = nestorian
+b_tehran = tribal
+b_mazdakan = tribal
+b_damavand = tribal
 
 # Misc
-culture = persian
+culture = pahlavi
 religion = zoroastrian
 
 # History
-1066.1.1 = { 
-	b_damavand = city
-	b_mazdakan = temple
-}

@@ -19,7 +19,7 @@ b_altavilla_irpina = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = orthodox
 terrain = forest
 # History
 1100.1.1={ b_avellino = castle }

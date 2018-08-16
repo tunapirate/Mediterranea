@@ -7,24 +7,16 @@ title = c_almansa
 
 # Settlements
 max_settlements = 5
-b_villena = castle
-#b_almansa = castle
-b_albacete = city
-b_hellin = temple
-#b_alcaladeljucar = castle
-#b_villarrobledo = city
-#b_pozocanada = castle
-#b_tobarra = castle
-#b_caudete = castle
-#b_jorquera = castle
-#b_lagineta = castle
-#b_laroda = castle
 
+b_villena = tribal
+b_almansa = tribal
+b_albacete = tribal
+b_hellin = tribal
+#b_villarrobledo = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History
-1280.1.1 = { culture = castillan }
-1280.1.1 = { religion = catholic }
+

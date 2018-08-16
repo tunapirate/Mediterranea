@@ -185,58 +185,10 @@ technology = {
 	}
 }
 
-
-
-#NORTHERN IBERIA
+# Tarraconensis
 
 technology = {
 	titles = {
-	# Galicia
-		d_porto
-		d_galicia
-		d_leon
-		d_salamanca
-	# Castilla
-		d_toledo
-		d_castilla
-		d_segovia
-	}
-
-	769 = {
-		military = 0.5
-		economy = 1.0
-		culture = 1.0
-	}
-		
-	1337 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
-}
-
-
-
-#SOUTHERN IBERIA
-
-technology = {
-	titles = {
-	# Lusitania
-		d_ribatejo
-		d_beira
-		d_alentejo
-		d_beja
-		d_badajoz
-	# Baetica
-		d_cordoba
-		d_gades
-		d_sevilla
-		d_tangiers
-	# Carthaginensis
-		d_la_mancha
-		d_murcia
-		d_mallorca
-	# Tarraconensis
 		d_aragon
 		d_zaragoza
 		d_barcelona
@@ -250,6 +202,8 @@ technology = {
 		military = 1.2
 		economy = 1.5
 		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
 	}
 		
 	1337 = {
@@ -259,4 +213,126 @@ technology = {
 	}
 }
 
+# Lusitania
+
+technology = {
+	titles = {
+		d_ribatejo
+		d_beira
+		d_alentejo
+		d_beja
+		d_badajoz
+		d_salamanca
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+# Galicia
+
+technology = {
+	titles = {
+		d_porto
+		d_galicia
+		d_leon
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+
+# Castille
+
+technology = {
+	titles = {
+		d_toledo
+		d_castilla
+		d_segovia
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Baetica
+
+technology = {
+	titles = {
+		d_cordoba
+		d_gades
+		d_sevilla
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 3
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
+
+# Carthaginensis
+
+technology = {
+	titles = {
+		d_la_mancha
+		d_murcia
+		d_mallorca
+	}
+
+	769 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_CITY_CONSTRUCTION = 2
+	}
+		
+	1337 = {
+		military = 4.5
+		economy = 4.5
+		culture = 4.5
+	}
+}
 

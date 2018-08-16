@@ -8,14 +8,9 @@ title = c_gondar
 # Settlements
 max_settlements = 4
 
-b_fasilghebbi = castle
-b_gondar = city
-
-#b_dembiya = castle
-#b_ambassel = castle
-#b_bahirdar = castle
-#b_tanaqirqos = temple
-#b_magdala = city
+b_fasilghebbi = tribal
+b_gondar = tribal
+b_dembiya = tribal
 
 # Misc
 culture = falashim

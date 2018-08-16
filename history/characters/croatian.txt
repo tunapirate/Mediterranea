@@ -6,7 +6,7 @@
 	intrigue=4
 	stewardship=4
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="greedy"
 	trait="flamboyant_schemer"
 	1046.1.1={
@@ -25,7 +25,7 @@
 	intrigue=4
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="zealous"
 	trait="flamboyant_schemer"
 	1150.1.1={
@@ -45,7 +45,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="chaste"
 	trait="scholarly_theologian"
 	father=470002
@@ -65,7 +65,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="charitable"
 	trait="flamboyant_schemer"
 	father=146001
@@ -85,7 +85,7 @@
 	intrigue=7
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="patient"
 	trait="tough_soldier"
 	father=8600
@@ -105,7 +105,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="wroth"
 	trait="intricate_webweaver"
 	father=8600
@@ -125,7 +125,7 @@
 	intrigue=7
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="brave"
 	trait="underhanded_rogue"
 	father=8600
@@ -145,7 +145,7 @@
 	intrigue=7
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="patient"
 	trait="kind"
 	trait="brilliant_strategist"
@@ -166,7 +166,7 @@
 	intrigue=6
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="zealous"
 	trait="martial_cleric"
 	father=8603
@@ -186,7 +186,7 @@
 	intrigue=8
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="gluttonous"
 	trait="thrifty_clerk"
 	father=8605
@@ -206,7 +206,7 @@
 	intrigue=6
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="cynical"
 	trait="flamboyant_schemer"
 	father=8606
@@ -226,7 +226,7 @@
 	intrigue=6
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="craven"
 	trait="skilled_tactician"
 	father=8614
@@ -247,7 +247,7 @@
 	intrigue=5
 	stewardship=4
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="charismatic_negotiator"
 	father=8634
 	mother=8635
@@ -268,7 +268,7 @@
 	intrigue=7
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="diligent"
 	trait="underhanded_rogue"
 	father=8612
@@ -288,7 +288,7 @@
 	intrigue=7
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="greedy"
 	trait="skilled_tactician"
 	father=8612
@@ -308,7 +308,7 @@
 	intrigue=6
 	stewardship=4
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="humble"
 	trait="zealous"
 	trait="tough_soldier"
@@ -329,7 +329,7 @@
 	intrigue=4
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="diligent"
 	trait="brave"
 	trait="martial_cleric"
@@ -354,7 +354,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="just"
 	trait="patient"
 	trait="strong"
@@ -384,7 +384,7 @@
 	stewardship=7
 	trait="ill"
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=8622
 	mother=8630
 	1064.1.1={
@@ -403,7 +403,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="cynical"
 	trait="envious"
 	trait="flamboyant_schemer"
@@ -425,7 +425,7 @@
 	intrigue=6
 	stewardship=4
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="chaste"
 	trait="weak"
 	trait="temperate"
@@ -451,7 +451,7 @@
 	intrigue=5
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="diligent"
 	trait="zealous"
 	trait="charitable"
@@ -481,7 +481,7 @@
 	intrigue=6
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="underhanded_rogue"
 	1045.1.1={
 		birth="1045.1.1"
@@ -500,7 +500,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="scholarly_theologian"
 	father=8606
@@ -523,7 +523,7 @@
 	intrigue=7
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="just"
 	trait="kind"
 	trait="charismatic_negotiator"
@@ -543,7 +543,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="charitable"
 	trait="flamboyant_schemer"
 	father=8634
@@ -564,7 +564,7 @@
 	intrigue=7
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="patient"
 	trait="ill"
 	trait="tough_soldier"
@@ -585,7 +585,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="wroth"
 	trait="amateurish_plotter"
 	father=8636
@@ -601,7 +601,7 @@
 	name="Budec" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	1020.1.1={
 		birth="1020.1.1"
 	}
@@ -614,7 +614,7 @@
 	name="Strezinja" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32590
 	1039.1.1={
 		birth="1039.1.1"
@@ -628,7 +628,7 @@
 	name="Vukilo" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32591
 	1055.1.1={
 		birth="1055.1.1"
@@ -641,7 +641,7 @@
 	name="Marmonja" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32592
 	1072.1.1={
 		birth="1072.1.1"
@@ -655,7 +655,7 @@
 	name="Bogdan" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32593
 	1090.1.1={
 		birth="1090.1.1"
@@ -669,7 +669,7 @@
 	name="Grgur" #bishop of Knin
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=220002
 	1165.1.1={
 		birth="1165.1.1"
@@ -683,7 +683,7 @@
 	name="Vuicin" #count of Split
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=220002
 	1166.1.1={
 		birth="1166.1.1"
@@ -696,7 +696,7 @@
 	name="Pribina" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=220002
 	1167.1.1={
 		birth="1167.1.1"
@@ -709,7 +709,7 @@
 	name="Marko" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=220002
 	1168.1.1={
 		birth="1168.1.1"
@@ -723,7 +723,7 @@
 	name="Budislav" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32598
 	1185.1.1={
 		birth="1185.1.1"
@@ -736,7 +736,7 @@
 	name="Obrad" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32598
 	1186.1.1={
 		birth="1186.1.1"
@@ -750,7 +750,7 @@
 	name="Vukesa" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32599
 	1220.1.1={
 		birth="1220.1.1"
@@ -764,7 +764,7 @@
 	name="Ugrin" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32599
 	1225.1.1={
 		birth="1225.1.1"
@@ -778,7 +778,7 @@
 	name="Juraj" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32597
 	1185.1.1={
 		birth="1185.1.1"
@@ -792,7 +792,7 @@
 	name="Grgur" #count of Split
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32597
 	1186.1.1={
 		birth="1186.1.1"
@@ -805,7 +805,7 @@
 	name="Stjepan" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32597
 	1187.1.1={
 		birth="1187.1.1"
@@ -819,7 +819,7 @@
 	name="Vucina" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32597
 	1188.1.1={
 		birth="1188.1.1"
@@ -833,7 +833,7 @@
 	name="Miroslav" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32604
 	1230.1.1={
 		birth="1230.1.1"
@@ -846,7 +846,7 @@
 	name="Marko" #count of Split
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32604
 	1232.1.1={
 		birth="1232.1.1"
@@ -859,7 +859,7 @@
 	name="Martin" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32604
 	1233.1.1={
 		birth="1233.1.1"
@@ -873,7 +873,7 @@
 	name="Stjepan" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32605
 	1208.1.1={
 		birth="1208.1.1"
@@ -887,7 +887,7 @@
 	name="Jakov" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32605
 	1210.1.1={
 		birth="1210.1.1"
@@ -901,7 +901,7 @@
 	name="Stjepan" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32607
 	1250.1.1={
 		birth="1250.1.1"
@@ -915,7 +915,7 @@
 	name="Illija" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32607
 	1252.1.1={
 		birth="1252.1.1"
@@ -929,7 +929,7 @@
 	name="Slavogost" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32607
 	1254.1.1={
 		birth="1254.1.1"
@@ -943,7 +943,7 @@
 	name="Mihajlo" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32614
 	1274.1.1={
 		birth="1274.1.1"
@@ -957,7 +957,7 @@
 	name="Pavao" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32614
 	1275.1.1={
 		birth="1275.1.1"
@@ -971,7 +971,7 @@
 	name="Grgur" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32614
 	1276.1.1={
 		birth="1276.1.1"
@@ -985,7 +985,7 @@
 	name="Juraj" #count of Zadar
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32610
 	1246.1.1={
 		birth="1246.1.1"
@@ -999,7 +999,7 @@
 	name="Mladen" #count of Split
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32610
 	1247.1.1={
 		birth="1247.1.1"
@@ -1014,7 +1014,7 @@
 	female=yes
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32610
 	1258.1.1={
 		birth="1258.1.1"
@@ -1028,7 +1028,7 @@
 	name="Ivan"
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32610
 	1265.1.1={
 		birth="1265.1.1"
@@ -1042,7 +1042,7 @@
 	name="Daniel" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32611
 	1230.1.1={
 		birth="1230.1.1"
@@ -1056,7 +1056,7 @@
 	name="Radoslav" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32611
 	1232.1.1={
 		birth="1232.1.1"
@@ -1070,7 +1070,7 @@
 	name="Mladen" #count of Zagreb, duke of Croatia
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=470001
 	1270.1.1={
 		birth="1270.1.1"
@@ -1084,7 +1084,7 @@
 	name="Marko" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=470004
 	mother=470005
 	1312.1.1={
@@ -1099,7 +1099,7 @@
 	name="Mikula" 
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32626
 	1330.1.1={
 		birth="1330.1.1"
@@ -1114,7 +1114,7 @@
 	female=yes
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=470004
 	mother=470005
 	1316.1.1={
@@ -1129,7 +1129,7 @@
 	name="Pribko"
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=470003
 	mother=470023
 	1332.1.1={
@@ -1145,7 +1145,7 @@
 	female=yes
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=470003
 	mother=470023
 	1333.1.1={
@@ -1162,7 +1162,7 @@
 	name="Vid" #count of Veglia
 	dynasty=19024
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=219991
 	1172.1.1={
 		birth="1172.1.1"
@@ -1176,7 +1176,7 @@
 	name="Henrik" 
 	dynasty=19024
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=219991
 	1175.1.1={
 		birth="1175.1.1"
@@ -1191,7 +1191,7 @@
 	name="Vid" 
 	dynasty=19024
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32631
 	1192.1.1={
 		birth="1192.1.1"
@@ -1205,7 +1205,7 @@
 	name="Treci" #count of Veglia
 	dynasty=19024
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32631
 	1190.1.1={
 		birth="1190.1.1"
@@ -1219,7 +1219,7 @@
 	name="Treci" #count of Veglia
 	dynasty=19024
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32633
 	1212.1.1={
 		birth="1212.1.1"
@@ -1233,7 +1233,7 @@
 	name="Dujma" #count of Veglia
 	dynasty=19024
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=32635
 	1255.1.1={
 		birth="1255.1.1"
@@ -1251,7 +1251,7 @@
 	intrigue=6
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="greedy"
 	trait="proud"
 	trait="thrifty_clerk"
@@ -1272,7 +1272,7 @@
 	intrigue=6
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="greedy"
 	trait="lustful"
 	trait="tough_soldier"
@@ -1293,7 +1293,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="clubfooted"
 	trait="patient"
 	trait="tough_soldier"
@@ -1317,7 +1317,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="flamboyant_schemer"
 	father=470001
@@ -1337,7 +1337,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="proud"
 	trait="flamboyant_schemer"
 	father=470001
@@ -1360,7 +1360,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="proud"
 	trait="tough_soldier"
 	father=470002
@@ -1384,7 +1384,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="brave"
 	trait="tough_soldier"
 	1289.1.1={
@@ -1406,7 +1406,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="zealous"
 	trait="scholarly_theologian"
@@ -1427,7 +1427,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="zealous"
 	trait="scholarly_theologian"
@@ -1452,7 +1452,7 @@
 	intrigue=4
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="proud"
 	trait="thrifty_clerk"
@@ -1473,7 +1473,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="tough_soldier"
 	father=470003
 	mother=470023
@@ -1493,7 +1493,7 @@
 	intrigue=4
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="chaste"
 	trait="proud"
 	trait="scholarly_theologian"
@@ -1512,7 +1512,7 @@
 	female = yes
 	dynasty=18005
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="chaste"
 	trait="proud"
 	trait="flamboyant_schemer"
@@ -1535,7 +1535,7 @@
 	intrigue=4
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="gluttonous"
 	trait="greedy"
 	trait="flamboyant_schemer"
@@ -1556,7 +1556,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="flamboyant_schemer"
 	1113.1.1={
 		birth="1113.1.1"
@@ -1574,7 +1574,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="thrifty_clerk"
 	father=219990
 	1148.1.1={
@@ -1593,7 +1593,7 @@
 	intrigue=8
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=219990
 	1159.1.1={
 		birth="1159.1.1"
@@ -1611,7 +1611,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="tough_soldier"
 	father=32636
 	1272.1.1={
@@ -1630,7 +1630,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="chaste"
 	trait="slothful"
 	trait="charismatic_negotiator"
@@ -1655,7 +1655,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="envious"
 	trait="temperate"
 	trait="naive_appeaser"
@@ -1677,7 +1677,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="zealous"
 	trait="martial_cleric"
@@ -1694,7 +1694,7 @@
 	name="Ninoslav"
 	dynasty=183
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=218801
 	1205.1.1={
 		birth="1205.1.1"
@@ -1711,7 +1711,7 @@
 	name="Radonja"
 	dynasty=183
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=218801
 	1203.1.1={
 		birth="1203.1.1"
@@ -1725,7 +1725,7 @@
 	name="Ugrin"
 	dynasty=183
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=218801
 	1208.1.1={
 		birth="1208.1.1"
@@ -1739,7 +1739,7 @@
 	name="Prijezda"
 	dynasty=34
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	1211.1.1={
 		birth="1211.1.1"
 	}
@@ -1755,7 +1755,7 @@
 	name="Prijezda"
 	dynasty=34
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=34148
 	1233.1.1={
 		birth="1233.1.1"
@@ -1772,7 +1772,7 @@
 	name="Vuk"
 	dynasty=34
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=34148
 	1243.1.1={
 		birth="1243.1.1"
@@ -1789,7 +1789,7 @@
 	name="Ninoslav"
 	dynasty=34
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=468810
 	1291.1.1={
 		birth="1291.1.1"
@@ -1803,7 +1803,7 @@
 	name="Stjepan"
 	dynasty=34
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="bastard"
 	father=34151
 	1312.1.1={
@@ -1822,7 +1822,7 @@
 	intrigue=4
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="flamboyant_schemer"
 	father=468810
 	mother=34120
@@ -1846,7 +1846,7 @@
 	intrigue=6
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=468800
 	mother=471538
 	1336.1.1={
@@ -1865,7 +1865,7 @@
 	intrigue=4
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="tough_soldier"
 	father=468810
@@ -1890,7 +1890,7 @@
 	intrigue=7
 	stewardship=5
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="flamboyant_schemer"
 	father=468810
 	mother=34120
@@ -1911,7 +1911,7 @@
 	intrigue=7
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="fortune_builder"
 	father=468810
 	mother=34120
@@ -1931,7 +1931,7 @@
 	intrigue=5
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="charitable"
 	trait="amateurish_plotter"
 	father=34148
@@ -1960,7 +1960,7 @@
 	intrigue=8
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="humble"
 	trait="brave"
@@ -1981,7 +1981,7 @@
 	intrigue=5
 	stewardship=7
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="charitable"
 	trait="tough_soldier"
 	father=218800
@@ -1997,7 +1997,7 @@
 	name="Ugra"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	1050.1.1={
 		birth="1050.1.1"
 	}
@@ -2010,7 +2010,7 @@
 	name="Sergije"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93539
 	1070.1.1={
 		birth="1070.1.1"
@@ -2024,7 +2024,7 @@
 	name="Ugrin"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93539
 	1072.1.1={
 		birth="1072.1.1"
@@ -2038,7 +2038,7 @@
 	name="Klaudije"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93539
 	1075.1.1={
 		birth="1075.1.1"
@@ -2052,7 +2052,7 @@
 	name="Dominik"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93542
 	1093.1.1={
 		birth="1093.1.1"
@@ -2066,7 +2066,7 @@
 	name="Ampudin"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93543
 	1125.1.1={
 		birth="1125.1.1"
@@ -2080,7 +2080,7 @@
 	name="Mavro"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93544
 	1145.1.1={
 		birth="1145.1.1"
@@ -2094,7 +2094,7 @@
 	name="Suban"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93544
 	1147.1.1={
 		birth="1147.1.1"
@@ -2108,7 +2108,7 @@
 	name="Kálán"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93544
 	1149.1.1={
 		birth="1149.1.1"
@@ -2122,7 +2122,7 @@
 	name="Dominik"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93545
 	1165.1.1={
 		birth="1165.1.1"
@@ -2136,7 +2136,7 @@
 	name="Andrija"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93545
 	1166.1.1={
 		birth="1166.1.1"
@@ -2150,7 +2150,7 @@
 	name="Branko"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93545
 	1167.1.1={
 		birth="1167.1.1"
@@ -2164,7 +2164,7 @@
 	name="Merkurije"
 	dynasty=100464
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93550
 	1185.1.1={
 		birth="1185.1.1"
@@ -2178,7 +2178,7 @@
 	name="Stjepan"
 	dynasty=7376
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	1150.1.1={
 		birth="1150.1.1"
 	}
@@ -2191,7 +2191,7 @@
 	name="Branko"
 	dynasty=7376
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93554
 	1170.1.1={
 		birth="1170.1.1"
@@ -2207,7 +2207,7 @@
 	#placeholder
 	dynasty=7376
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	1080.1.1={
 		birth="1080.1.1"
 	}
@@ -2221,7 +2221,7 @@
 	#placeholder
 	dynasty=7376
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93556
 	1100.1.1={
 		birth="1100.1.1"
@@ -2237,7 +2237,7 @@
 	#placeholder
 	dynasty=7376
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93557
 	1120.1.1={
 		birth="1120.1.1"
@@ -2252,7 +2252,7 @@
 	#placeholder
 	dynasty=7376
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=93558
 	1140.1.1={
 		birth="1140.1.1"
@@ -2270,7 +2270,7 @@
 	intrigue=4
 	stewardship=6
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="chaste"
 	trait="craven"
 	trait="skilled_tactician"
@@ -2290,7 +2290,7 @@
 	name="Gostomil"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146179
 	826.1.1={
 		birth="826.1.1"
@@ -2307,7 +2307,7 @@
 	name="Ljutomisl"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=74045
 	851.1.1={
 		birth="851.1.1"
@@ -2324,7 +2324,7 @@
 	name="Domagoj"
 	dynasty=100462
 	religion="orthodox"
-	culture="croatian"
+	culture="slavonic"
 	father=146006
 	820.1.1 = {
 		birth="820.1.1"
@@ -2370,7 +2370,7 @@
 	name="Iljko"
 	dynasty=100462
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=167855
 	845.1.1 = {
 		birth="845.1.1"
@@ -2384,7 +2384,7 @@
 	name="Branimir"
 	dynasty=100462
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=167855
 	850.1.1 = {
 		birth="850.1.1"
@@ -2398,7 +2398,7 @@
 	name="Senulat"
 	dynasty=9586
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	730.1.1 = {
 		birth="730.1.1"
 	}
@@ -2412,7 +2412,7 @@
 	name="Silimir"
 	dynasty=9586
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=168292
 	750.1.1 = {
 		birth="750.1.1"
@@ -2429,7 +2429,7 @@
 	name="Vojnomir"
 	dynasty=9586
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=168292
 	752.1.1 = {
 		birth="752.1.1"
@@ -2446,7 +2446,7 @@
 	name="Ljudevit"
 	dynasty=9586
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=168294
 	775.1.1 = {
 		birth="775.1.1"
@@ -2460,7 +2460,7 @@
 	name="Vladin"
 	dynasty=9586
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=168293
 	780.1.1 = {
 		birth="780.1.1"
@@ -2475,7 +2475,7 @@
 	name="Visedrag"
 	dynasty=9586
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=168293
 	785.1.1 = {
 		birth="785.1.1"
@@ -2489,7 +2489,7 @@
 	name="Ratimir"
 	dynasty=9586
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=168297
 	805.1.1 = {
 		birth="805.1.1"
@@ -2503,7 +2503,7 @@
 	name="Braslav"
 	dynasty=9586
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=168296
 	825.1.1 = {
 		birth="825.1.1"
@@ -2517,7 +2517,7 @@
 	name="Pribunja"
 	dynasty=9586
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=168299
 	850.1.1 = {
 		birth="850.1.1"
@@ -2536,7 +2536,7 @@
 	intrigue=8
 	stewardship=8
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="lustful"
 	trait="wroth"
 	trait="envious"
@@ -2559,7 +2559,7 @@
 	female = yes
 	dynasty=512
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="intricate_webweaver"
 	father=8628
 	mother=475
@@ -2575,7 +2575,7 @@
 	name="Radovan"
 	dynasty=512
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	trait="underhanded_rogue"
 	father=8628
 	mother=475
@@ -2590,7 +2590,7 @@
 	name="Mislav"
 	dynasty=512
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=146001
 	800.1.1={
 		birth="800.1.1"
@@ -2604,7 +2604,7 @@
 	name="Vladislav"
 	dynasty=512
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=146002
 	780.1.1={
 		birth="780.1.1"
@@ -2618,7 +2618,7 @@
 	name="Klonimir"
 	dynasty=512
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146004
 	760.1.1={
 		birth="760.1.1"
@@ -2635,7 +2635,7 @@
 	name="Borna"
 	dynasty=512
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146004
 	758.1.1={
 		birth="758.1.1"
@@ -2652,7 +2652,7 @@
 	name="Viseslav"
 	dynasty=512
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146005
 	738.1.1={
 		birth="738.1.1"
@@ -2669,7 +2669,7 @@
 	name="Budimir"
 	dynasty=512
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 
 	718.1.1={
 		birth="718.1.1"
@@ -2683,7 +2683,7 @@
 	name="Dobimir"
 	dynasty=100462
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=146007
 	790.1.1 = {
 		birth="760.1.1"
@@ -2697,7 +2697,7 @@
 	name="Krepimir"
 	dynasty=100462
 	religion="catholic"
-	culture="croatian"
+	culture="slavonic"
 	father=146008
 	759.1.1 = {
 		birth="759.1.1"
@@ -2711,7 +2711,7 @@
 	name="Pridislav"
 	dynasty=100462
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 
 	731.1.1 = {
 		birth="731.1.1"
@@ -2727,7 +2727,7 @@
 	name="Vitimir"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146180
 	798.1.1={
 		birth=yes
@@ -2741,7 +2741,7 @@
 	name="Drzislav"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146181
 	777.1.1={
 		birth=yes
@@ -2755,7 +2755,7 @@
 	name="Sebeslav"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146182
 	759.1.1={
 		birth=yes
@@ -2769,7 +2769,7 @@
 	name="Hranislav"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146184
 	741.1.1={
 		birth=yes
@@ -2783,7 +2783,7 @@
 	name="Dragomir"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146184
 	743.1.1={
 		birth=yes
@@ -2797,7 +2797,7 @@
 	name="Tvrdoslav"
 	dynasty=12284
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 
 	719.1.1={
 		birth=yes
@@ -2810,7 +2810,7 @@
 	name="Petar"
 	dynasty=9560
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146010
 	761.1.1 = {
 		birth="761.1.1"
@@ -2824,7 +2824,7 @@
 	name="Beloje"
 	dynasty=9560
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 
 	729.1.1 = {
 		birth="729.1.1"
@@ -2838,7 +2838,7 @@
 	name="Mislav"
 	dynasty=1022356
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 
 	725.1.1 = {
 		birth="725.1.1"
@@ -2852,7 +2852,7 @@
 	name="Miroslav"
 	dynasty=1022356
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146011
 	755.1.1 = {
 		birth="755.1.1"
@@ -2866,7 +2866,7 @@
 	name="Milorad"
 	dynasty=1022356
 	religion="slavic_pagan"
-	culture="croatian"
+	culture="slavonic"
 	father=146012
 	790.1.1 = {
 		birth="790.1.1"

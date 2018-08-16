@@ -8,10 +8,10 @@ title = c_syria
 # Settlements
 max_settlements = 4
 
-b_daraa = castle
-b_nawasyria = temple
-b_izra = city
-b_sanamayn = city
+b_daraa = tribal
+b_nawasyria = tribal
+b_izra = tribal
+b_sanamayn = tribal
 
 # Misc
 culture = aramean

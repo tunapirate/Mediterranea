@@ -6,14 +6,12 @@
 title = c_snassen
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 
-b_tanas = castle
-b_sidiakacha = temple
-b_tendrara = city
-
-#b_ahfir = castle
-
+b_tanas = tribal
+b_sidiakacha = tribal
+b_tendrara = tribal
+b_ahfir = tribal
 
 # Misc
 culture = zanata

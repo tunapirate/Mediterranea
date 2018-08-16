@@ -6,24 +6,11 @@
 title = c_anti-atlas
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_tinmallal = tribal
-
-#b_ribatshakir = temple
-#b_igiradyatuf = city
-#b_agadir = castle
-#b_tata = city
-#b_taroudaut = temple
-#b_biourga = castle
-
-#b_essaouira = castle
-#b_akermoud = temple
-#b_agouidir = castle
-#b_kasbaeljoua = castle
-#b_argana = castle
-#b_illrh = castle
-#b_alogoum = castle
+b_ribatshakir = tribal
+b_igiradyatuf = tribal
 
 # Misc
 culture = masmuda

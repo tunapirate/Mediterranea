@@ -8,13 +8,11 @@ title = c_baalbek
 # Settlements
 max_settlements = 5
 
-b_nimrodcastle = castle
-b_baalbek = city
-b_rasbaalek = temple
-#b_alzabadani = castle
-#b_fakiha = city
-#b_deirelahmar = temple
-
+b_nimrodcastle = tribal
+b_baalbek = tribal
+b_rasbaalek = tribal
+b_alzabadani = tribal
+b_fakiha = tribal
 
 # Misc
 culture = aramean
@@ -22,6 +20,3 @@ religion = miaphysite
 
 # History
 
-1040.1.1 = {
-	religion = druze
-}

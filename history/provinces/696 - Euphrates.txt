@@ -6,16 +6,16 @@
 title = c_euphrates
 
 # Settlements
-max_settlements = 6
-b_alqadisiyyah = castle
-b_samarra = city
-b_ukbara = temple
-b_balad = castle
-b_harba = city
-#b_aldur = city
+max_settlements = 5
+
+b_samarra = tribal
+b_alqadisiyyah = tribal
+b_ukbara = tribal
+b_balad = tribal
+b_harba = tribal
 
 #Misc
-culture = assyrian
-religion = nestorian
+culture = pahlavi
+religion = zoroastrian
 
 # History

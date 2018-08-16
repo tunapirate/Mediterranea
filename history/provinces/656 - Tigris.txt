@@ -6,13 +6,13 @@
 title = c_tigris
 
 # Settlements
-max_settlements = 6
-b_wasit = castle
-b_fammassilh = city
-b_almadar = city
-b_arrushafa = city
-b_alfarut = temple
-#b_nahrsabus = city
+max_settlements = 4
+
+b_wasit = city
+b_fammassilh = tribal
+b_almadar = tribal
+b_arrushafa = tribal
+
 
 #Misc
 culture = pahlavi

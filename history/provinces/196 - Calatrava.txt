@@ -7,17 +7,14 @@ title = c_calatrava
 
 # Settlements
 max_settlements = 4
-b_calatrava = castle
-b_caracuel = temple
-b_tomelloso = castle
-#b_puertollano = city
-#b_almagro = temple
-#b_alcazardesanjuan = castle
+
+b_calatrava = tribal
+b_caracuel = tribal
+b_tomelloso = tribal
+#b_puertollano = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-1212.1.1 = { culture = castillan }
-1212.1.1 = { religion = catholic }

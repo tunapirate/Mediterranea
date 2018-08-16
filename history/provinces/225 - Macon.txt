@@ -18,8 +18,7 @@ b_beaujeu = city
 #b_berze = temple
 
 # Misc
-culture = old_frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
-790.1.1 = { culture = frankish }

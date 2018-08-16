@@ -6,28 +6,15 @@
 title = c_gilan
 
 # Settlements
-max_settlements = 5
-b_hawsam = castle
-b_rasht_gilan = city
-b_lahidjan = temple
+max_settlements = 4
 
-#b_fumin = castle
-#b_kutum = castle
+b_hawsam = tribal
+b_rasht_gilan = tribal
+b_lahidjan = tribal
+b_fumin = tribal
 
 #Misc
 culture = daylamite
-religion = zoroastrian
+religion = mazdaki
 
 # History
-651.1.1 = {
-	b_hawsam = ca_town_1
-	b_hawsam = ca_wall_1
-	b_hawsam= ca_wall_q_1
-	b_hawsam = ca_keep_1
-	b_hawsam = ca_militia_barracks_1
-	b_rasht_gilan = ct_marketplace_1
-	b_lahidjan = tp_town_1
-}
-
-900.1.1 = { religion = zaydi }
-1187.1.1 = { b_fumin = castle }

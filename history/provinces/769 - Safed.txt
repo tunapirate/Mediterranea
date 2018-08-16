@@ -6,16 +6,9 @@
 title = c_safed
 
 # Settlements
-max_settlements = 5
-b_toron = castle
-b_safed = city
-b_banyas = castle
-#b_meronisreal = temple
-#b_chastelet = castle
-
-
-
- 
+max_settlements = 2
+b_toron = tribal
+b_safed = tribal
 
 # Misc
 culture = aramean

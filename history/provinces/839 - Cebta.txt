@@ -8,15 +8,10 @@ title = c_cebta
 # Settlements
 max_settlements = 4
 
-b_cueta = castle
-b_tetouan = city
-b_mdiq = temple
-
-#b_martil = castle
-#b_aulef = castle
-#b_Xauen = temple
-#b_babtaza = castle
-#b_targuist = castle
+b_cueta = tribal
+b_tetouan = tribal
+b_mdiq = tribal
+b_martil = tribal
 
 # Misc
 culture = tangieran

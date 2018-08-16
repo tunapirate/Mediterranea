@@ -6,28 +6,16 @@
 title = c_ifni
 
 # Settlements
-max_settlements = 3 
+max_settlements = 3
 
 b_nullamta = tribal
-#b_tamdult = city
-
-#b_ifni = city
-#b_guelmim = temple
-
-#b_ouaouteit = temple
-#b_rgab = castle
-#b_mihrleft = castle
-#b_belkassem = castle
-#b_tizgui = castle
+b_tamdult = tribal
+b_ifni = tribal
 
 # Misc
 culture = tagelmust
 religion = west_african_pagan
 
 # History
-1030.1.1 = { religion = sunni }
-1060.1.1 = { b_tamdult = city }
-1140.1.1 = { religion = mahdiyya }
-1260.1.1 = { religion = sunni }
 
 

@@ -6,22 +6,18 @@
 title = c_nyssa
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
-b_nyssa = castle
-b_aspona = castle
+b_nyssa = tribal
+b_aspona = tribal
+b_parnassos = tribal
+#b_sadagolthina = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
-# The Seljuks take over Anatolia
-
-1097.8.26 = { culture = turkmen }
-1097.8.26 = { religion = sunni }
-1256.1.1 = { culture = turkish }
 
 
 

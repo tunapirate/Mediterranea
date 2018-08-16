@@ -8,9 +8,7 @@ title = c_mora
 # Settlements
 max_settlements = 3
 b_mora_mora = tribal
-b_galafi = temple
-
-#b_dikhil = castle
+b_galafi = tribal
 
 # Misc
 culture = somali

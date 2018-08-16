@@ -7,10 +7,8 @@ title = c_assab
 
 # Settlements
 max_settlements = 3
-b_assab = castle
-#b_edd = city
-
-#b_halib = temple
+b_assab = tribal
+b_edd = tribal
 
 # Misc
 culture = afar

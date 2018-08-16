@@ -6,27 +6,15 @@
 title = c_darabjird
 
 # Settlements
-max_settlements = 5
-b_darabjird = castle
-b_darkan = city
-b_furg = temple
-b_qutruh = castle
+max_settlements = 3
 
-#b_niriz = city
-#b_istahbanat = castle
+b_darabjird = tribal
+b_darkan = tribal
+b_furg = tribal
 
 # Misc
 culture = pahlavi
 religion = zoroastrian
 
 # History
-967.1.1 = { culture = persian }
-967.1.1 = { religion = sunni }
-1055.1.1 = { culture = kurdish }
-1055.1.1 = { b_darabjird = tribal }
-1055.10.10 = {
-      #remove_settlement = b_furg
-      remove_settlement = b_qutruh
-}
-#1066.1.1 = { b_niriz = city }
-#1149.1.1 = { b_furg = temple }
+

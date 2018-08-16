@@ -7,14 +7,16 @@ title = c_sripatha
 
 # Settlements
 max_settlements = 4
-b_sripatha = castle
-b_bayana = city
-#b_dhavalapuri = castle
-#b_dholeshwar_mahadev = temple
-#b_abanhagari = city
+
+b_sripatha = tribal
+b_bayana = tribal
+#b_dhavalapuri = tribal
+#b_dholeshwar_mahadev = tribal
+#b_abanhagari = tribal
+#b_usha_mandir = tribal
 
 # Misc
 culture = hindustani
-religion = jain
+religion = buddhist
 
 # History

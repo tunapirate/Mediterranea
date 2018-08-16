@@ -82,16 +82,16 @@
 	holder = 0
 }
 1043.5.5 = {
-	liege = e_persia
+	liege = k_persia
 }
 1045.1.1 = {
 	liege = 0
 }
 #1047.5.5 = {
-#	liege = e_persia
+#	liege = k_persia
 #}
 1097.1.1 = {
-	liege = e_persia
+	liege = k_persia
 	holder = 1230140
 }
 1097.3.3 = {
@@ -104,7 +104,7 @@
 	liege = 0
 }
 1147.1.1 = {
-	liege = e_persia
+	liege = k_persia
 }
 1154.1.1 = {
 	liege = 0

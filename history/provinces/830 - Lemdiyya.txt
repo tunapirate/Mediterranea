@@ -6,19 +6,11 @@
 title = c_lemdiyya  # Achir
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
-b_achir = castle
-b_djelfa = city
-
-#b_elyourh = temple
-#b_selmana = castle
-#b_ainzmila = castle
-
-#b_relizane = city
-#b_elrhenb = castle
-#b_sidimohammed = castle
-#b_elhachem = castle
+b_achir = tribal
+b_djelfa = tribal
+b_elyourh = tribal
 
 # Misc
 culture = zanata

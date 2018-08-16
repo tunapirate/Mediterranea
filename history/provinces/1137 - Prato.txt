@@ -16,7 +16,7 @@ b_certaldo = castle
 
 # Misc
 culture = roman
-religion = catholic
+religion = apollonian
 terrain = farmlands
 # History
 

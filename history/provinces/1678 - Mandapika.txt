@@ -7,11 +7,12 @@ title = c_mandapika
 
 # Settlements
 max_settlements = 5
-b_mandapika = castle
-b_bawangaja = temple
-b_maheshwar = city
-#b_borgarh = castle
-#b_avasgarh = city
+
+b_mandapika = tribal
+b_bawangaja = tribal
+b_maheshwar = tribal
+b_borgarh = tribal
+#b_avasgarh = tribal
 
 # Misc
 culture = hindustani

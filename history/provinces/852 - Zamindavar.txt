@@ -6,20 +6,14 @@
 title = c_zamindavar
 
 # Settlements
-max_settlements = 5
-b_bust = castle
-b_sarvan = city
-b_till = temple
-b_baghnin = city
+max_settlements = 3
 
-#b_durghash = castle
-#b_bishlang = castle
-#b_muaskar = city
+b_bust = tribal
+b_sarvan = tribal
+b_till = tribal
 
 # Misc
 culture = afghan
 religion = buddhist
 
 # History
-990.1.1 = {	religion = sunni }
-#1050.1.1 = {	culture = afghan }

@@ -6,16 +6,13 @@
 title = c_aleppo
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 
-b_aleppocastle = castle
 b_aleppo = city
-b_qinnasrin = city
-b_khanasir = temple
-#b_buzaa = city
-#b_alsafira = city
-#b_zardana = city
-
+b_qinnasrin = tribal
+b_khanasir = tribal
+b_buzaa = tribal
+b_alsafira = tribal
 
 # Misc
 culture = aramean
@@ -23,6 +20,5 @@ religion = miaphysite
 
 # History
 
-#1110.1.1 = { b_sarmin = castle } 
 
 

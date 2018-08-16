@@ -7,11 +7,11 @@ title = c_shirvan
 
 # Settlements
  max_settlements = 4
-b_ahemakha = castle 
-b_gulistan = city
-b_bardij = city
-#b_arabsaki = castle
-#b_agsu = castle
+
+b_ahemakha = tribal
+#b_gulistan = tribal
+#b_bardij = tribal
+#b_arabsaki = tribal
  
 # Misc
 culture = adhari

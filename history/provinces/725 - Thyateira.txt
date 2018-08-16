@@ -6,11 +6,15 @@
 title = c_thyateira
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 
-b_thyateira = castle
-b_khliara = city
-b_kalamos = temple
+b_thyateira = tribal
+b_khliara = tribal
+b_kalamos = tribal
+b_stratonikeia = tribal
+b_tabala = tribal
+b_bageis = tribal
+#b_anaeitis = tribal
 
 # Misc
 culture = greek
@@ -18,5 +22,3 @@ religion = orthodox
 
 # History
 
-1305.1.1 = { culture = turkish }
-1305.1.1 = { religion = sunni }

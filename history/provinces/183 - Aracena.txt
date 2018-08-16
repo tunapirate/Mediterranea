@@ -6,18 +6,14 @@
 title = c_aracena
 
 # Settlements
-max_settlements = 6
-b_merida = castle
-b_llerena = temple
-b_azuaga = city
-b_medellin = castle
-b_almendralejo = city
-#b_zalamea = temple
-#b_monesterio = temple
+max_settlements = 3
 
+b_merida = city
+b_medellin = tribal
+#b_llerena = tribal
+
+# Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = neptunal
 
 # History
-1246.1.1 = { religion = catholic }
-1255.1.1 = { culture = castillan }

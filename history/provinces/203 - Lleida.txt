@@ -6,23 +6,14 @@
 title = c_lleida
 
 # Settlements
-max_settlements = 4
-b_aitona = castle
-b_lleida = temple
-b_cervera = city
-b_bell_lloch = castle
-#b_prades = castle
-#b_granyena = castle
+max_settlements = 3
+
+b_lleida = tribal
+b_cervera = tribal
+#b_bell_lloch = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History
-
-1066.1.1 = { 
-	b_aitona = ca_keep_1
-	b_aitona = ca_wall_1
-}
-1131.1.1 = { culture = catalan }
-1131.1.1 = { religion = catholic }

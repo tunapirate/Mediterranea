@@ -6,30 +6,15 @@
 title = c_nubia
 
 # Settlements
-max_settlements = 6
-b_faras = castle
-b_meinarti = city
-b_arramal = temple
+max_settlements = 5
 
-#b_gebeladda = castle
-#b_qasrelwizz = temple
-#b_arminna = castle
-#b_debeira = castle
-
-
-# original holdings which were not moved elswhere
-#b_salala = city
-#b_komelshokafa = temple
-#b_dradate = castle
-#b_dubarua = castle
-#b_derkin = castle
-#b_farata = castle
-#b_derri = castle
+b_faras = tribal
+b_meinarti = tribal
+b_arramal = tribal
+b_gebeladda = tribal
 
 # Misc
 culture = nubian
 religion = miaphysite
 
 # History
-
-1300.1.1 = { religion = sunni }

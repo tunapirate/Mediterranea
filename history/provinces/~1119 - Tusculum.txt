@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1119 - Tusculum
+
+# County Title
+title = c_tusculum
+
+# Settlements
+max_settlements = 5
+
+b_tusculum = castle
+b_velletri = city
+b_palestrina = temple
+#b_albano = castle
+#b_molara = castle
+#b_subiaco = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan
+terrain = farmlands
+# History

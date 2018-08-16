@@ -6,18 +6,16 @@
 title = c_druz
 
 # Settlements
-max_settlements = 4
-b_qalattagrit = castle
-b_tagrit = temple
-b_jabulta = city
-#b_barimma = temple
+max_settlements = 5
+
+b_tagrit = city
+b_qalattagrit = tribal
+b_jabulta = tribal
+b_barimma = tribal
+b_mukeshefah = tribal
 
 # Misc
 culture = assyrian
 religion = nestorian
 
 # History
-980.1.1 = { 
-	culture = levantine_arabic
-	religion = sunni
-}

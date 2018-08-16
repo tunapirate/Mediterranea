@@ -7,19 +7,12 @@ title = c_adulis
 
 # Settlements
 max_settlements = 3
-b_adulis = castle
-b_misiwwa = city
-#b_debarwa = castle
+
+b_adulis = tribal
+b_misiwwa = tribal
 
 # Misc
 culture = ethiopian
 religion = miaphysite
 
 # History
-950.1.1 = { remove_settlement = b_misiwwa }
-#1066.1.1 = { trade_post = b_misiwwa }
-1127.1.1 = { #was 1093
-	b_debarwa = castle
-	capital = b_debarwa
-	remove_settlement = b_adulis
-} 

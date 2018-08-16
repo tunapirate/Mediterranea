@@ -17,7 +17,7 @@ b_castelnaudeguers = castle
 #b_faugeres = castle
 
 
-culture = occitan
+culture = septiman
 religion = hellenic_pagan
 
 # History

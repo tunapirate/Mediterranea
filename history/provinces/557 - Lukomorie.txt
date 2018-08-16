@@ -12,7 +12,7 @@ b_kakhovka = tribal
 #b_kalmius = castle
 
 # Misc
-culture = serbian
+culture = slavonic
 religion = slavic_pagan
 terrain = steppe
 

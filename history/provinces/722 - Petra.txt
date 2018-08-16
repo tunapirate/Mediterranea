@@ -6,11 +6,10 @@
 title = c_petra
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_pharaohosisland = castle
-b_jordanaqba = city
-b_syrarandal = temple
+b_jordanaqba = tribal
+b_syrarandal = tribal
 
 
 # Misc
@@ -18,10 +17,3 @@ culture = levantine_arabic
 religion = miaphysite
 
 # History
-
-974.1.1 = { remove_settlement = b_syrarandal } #Tribalisation/Nomadization of al-Urdunn
-974.1.1 = { b_pharaohosisland = tribal } #Tribalisation/Nomadization of al-Urdunn
-1115.1.1 = { b_syrarandal = temple } #Crusader Conquest
-1115.1.1 = { b_pharaohosisland = castle } #Crusader Conquest
-1187.10.2 = { b_pharaohosisland = tribal } #Falls to the Ayyubids
-1187.10.2 = { remove_settlement = b_syrarandal } #Falls to the Ayyubids

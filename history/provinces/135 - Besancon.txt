@@ -11,7 +11,7 @@ b_stferjeux = castle
 b_besancon = city
 
 # Misc
-culture = frankish
+culture = gallic
 religion = saturnal
 
 # History

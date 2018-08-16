@@ -1,41 +1,23 @@
 # -*- ck2.history.technology -*-
 
+## "Sparsely" Populated India
 
-#INDIA
+# Gujarat
 
 technology = {
 	titles = {
-		d_sauvira
-		d_bhakkar
-		d_multan
-		d_lahore
-		d_gandhara
-		d_kuru
-		d_haritanaka
-		d_mathura
-		d_vodamayutja
 		d_gurjara_mandala
 		d_anartta
 		d_saurashtra
 		d_lata
-		d_maru
-		d_jangladesh
-		d_stravani
-		d_medapata
-		d_ajmer
-		d_dadhipadra
-		d_akara_dasarna
-		d_anupa
-		d_kanyakubja
-		d_saryupara
-		d_jejakabhukti
-
 	}
 
 	769 = {
 		military = 0.5
 		economy = 1.0
 		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 3
 	}
 		
 	1337 = {
@@ -45,4 +27,151 @@ technology = {
 	}
 }
 
+# Rajputana
+
+technology = {
+	titles = {
+		d_maru
+		d_jangladesh
+		d_stravani
+		d_medapata
+		d_ajmer
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 3
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+# Malwa
+
+technology = {
+	titles = {
+		d_dadhipadra
+		d_akara_dasarna
+		d_anupa
+		d_jejakabhukti
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 3
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+## Heavily Populated India
+
+# Sindh
+
+technology = {
+	titles = {
+		d_sauvira
+		d_bhakkar
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 4
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+# Punjab
+
+technology = {
+	titles = {
+		d_multan
+		d_lahore
+		d_gandhara
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 4
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+# Delhi
+
+technology = {
+	titles = {
+		d_kuru
+		d_haritanaka
+		d_mathura
+		d_vodamayutja
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 4
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
+
+# Kosala
+
+technology = {
+	titles = {
+		d_kanyakubja
+		d_saryupara
+	}
+
+	769 = {
+		military = 0.5
+		economy = 1.0
+		culture = 1.0
+		
+		TECH_CITY_CONSTRUCTION = 4
+	}
+		
+	1337 = {
+		military = 4.0
+		economy = 4.0
+		culture = 4.0
+	}
+}
 

@@ -7,16 +7,15 @@ title = c_chanderi
 
 # Settlements
 max_settlements = 5
-b_chanderi = castle
-b_jhansi = city
-b_luacchagiri = temple
-#b_garh_kundar = castle
-#b_jarai_ka_math = temple
-#b_khurai = temple
-#b_aharji = temple
+
+b_chanderi = tribal
+b_jhansi = tribal
+b_luacchagiri = tribal
+b_garh_kundar = tribal
+#b_jarai_ka_math = tribal
 
 # Misc
 culture = hindustani
-religion = hindu
+religion = jain
 
 # History

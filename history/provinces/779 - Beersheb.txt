@@ -6,15 +6,11 @@
 title = c_beersheb
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_bethsan = castle
-b_nablus = city
-b_jericho = temple
-#b_syrsebastia = temple
-#b_lafeve = castle
-#b_aynjalut = city
-
+b_bethsan = tribal
+b_nablus = tribal
+b_jericho = tribal
 
 # Misc
 culture = ashkenazi

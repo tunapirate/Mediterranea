@@ -6,17 +6,13 @@
 title = c_salamiyah
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
-b_shmemiscastle = castle
-b_salamiyah = city
-#b_qasralhayralgharbi = castle
-
+b_shmemiscastle = tribal
+b_salamiyah = tribal
 
 # Misc
 culture = aramean
 religion = syriac
 
 # History
-
-1282.1.1 = { b_shmemiscastle = tribal } #Tribalisation/Nomadization of Palmyra and Salamiyya

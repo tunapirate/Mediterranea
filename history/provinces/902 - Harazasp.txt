@@ -6,20 +6,14 @@
 title = c_harazasp
 
 # Settlements
-max_settlements = 4
-b_harazasp = castle
-b_sadvar = city
-b_darghan = temple
+max_settlements = 3
 
-#b_jigirband = castle
+b_harazasp = tribal
+b_sadvar = tribal
+b_darghan = tribal
 
 # Misc
 culture = khwarezmi
 religion = zoroastrian
 
 # History
-920.1.1 = {
-	religion = sunni
-}
-
-1230.1.1 = { culture = turkmen }

@@ -6,14 +6,15 @@
 title = c_trigarta
 
 # Settlements
-max_settlements = 6
-b_jalandhar = castle
-b_rahon = temple
-b_pathankot = castle
-#b_kaparthula = city
-#b_milwat = castle
-#b_sarwmanpur = temple
-#b_kangra = castle
+max_settlements = 7
+
+b_jalandhar = tribal
+b_rahon = tribal
+b_pathankot = tribal
+b_kaparthula = tribal
+b_milwat = tribal
+#b_sarwmanpur = tribal
+#b_kangra = tribal
 
 # Misc
 culture = panjabi

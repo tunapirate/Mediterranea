@@ -6,14 +6,11 @@
 title = c_hama
 
 # Settlements
-max_settlements = 5
-b_hama = castle
-b_shayzar = city
-b_barinsyria = castle
-#b_mhardeh = city
-#b_kafroun = city
-
-
+max_settlements = 4
+b_hama = tribal
+b_shayzar = tribal
+b_barinsyria = tribal
+b_mhardeh = tribal
 
 # Misc
 culture = aramean

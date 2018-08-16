@@ -6,14 +6,10 @@
 title = c_artsakh
 
 # Settlements
- max_settlements = 5
-b_khachen = castle
-b_vararakn = city
-b_jrvshtik = temple
-b_haterk = castle
-#b_vaykunik = castle
-#b_gandzasar = temple
- 
+ max_settlements = 2
+
+b_khachen = tribal
+b_vararakn = tribal
 
 # Misc
 culture = armenian

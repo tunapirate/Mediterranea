@@ -22,7 +22,7 @@ b_lislejourdain = castle
 
 #Misc
 religion = dianic
-culture = occitan
+culture = septiman
 
 # History
 1144.1.1 = { b_montauban = city }

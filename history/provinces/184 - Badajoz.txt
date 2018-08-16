@@ -6,18 +6,14 @@
 title = c_badajoz
 
 # Settlements
-max_settlements = 5
-b_badajoz = castle
-b_jerezdeloscaballeros = temple
-b_olivenza = city
-b_zafra = castle
-#b_alburquerque = castle
-#b_montijo = city
+max_settlements = 3
+
+b_olivenza = tribal
+#b_badajoz = tribal
+#b_jerezdeloscaballeros = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = neptunal
 
 # History
-1245.3.19 = { culture = castillan }
-1245.3.19 = { religion = catholic }

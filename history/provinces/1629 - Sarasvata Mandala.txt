@@ -7,14 +7,12 @@ title = c_sarasvata_mandala
 
 # Settlements
 max_settlements = 6
-b_anahilapataka = castle
-b_vadnagar = temple # Jain Holy Site
-b_siddhapura = city
-b_kamboika = temple
-#b_modhera = temple
-#b_idar = castle
-#b_kheralu = city
-#b_shertha = city
+
+b_anahilapataka = tribal
+b_vadnagar = tribal
+b_siddhapura = tribal
+b_kamboika = tribal
+b_modhera = tribal
 
 # Misc
 culture = gujurati

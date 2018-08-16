@@ -6,13 +6,11 @@
 title = c_kafrtab
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_kafr_tab = castle
-#b_maaratannuman = city
-#b_bara = castle
-#b_serjilla = castle
-
+b_kafr_tab = tribal
+b_maaratannuman = tribal
+b_bara = tribal
 
 # Misc
 culture = aramean

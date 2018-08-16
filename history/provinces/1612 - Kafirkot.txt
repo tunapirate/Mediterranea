@@ -6,18 +6,19 @@
 title = c_kafirkot
 
 # Settlements
-max_settlements = 3
-b_kafirkot = castle
-b_malot = temple
-#b_bilot = castle
-#b_maniot = castle
-#b_dera_ghazi_khan = city
+max_settlements = 7
+
+b_kafirkot = tribal
+b_malot = tribal
+b_bilot = tribal
+b_maniot = tribal
+b_dera_ghazi_khan = tribal
+#b_daraban = tribal
+#b_taunsa = tribal
 
 # Misc
 culture = panjabi
-religion = buddhist
+religion = hindu
 
 # History
-950.1.1 = {	religion = sunni }
-980.1.1 = { religion = ismaili }
-1040.1.1 = { religion = sunni }
+

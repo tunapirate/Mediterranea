@@ -6,14 +6,15 @@
 title = c_shorkot
 
 # Settlements
-max_settlements = 4
-b_bhirr = castle
-b_shorkot = city
-#b_kamalia = temple
-#b_chandrod = castle
-#b_bhawana = city
-#b_jhang = city
-#b_rabwah = city
+max_settlements = 7
+
+b_bhirr = tribal
+b_shorkot = tribal
+b_kamalia = tribal
+b_chandrod = tribal
+b_bhawana = tribal
+#b_jhang = tribal
+#b_rabwah = tribal
 
 # Misc
 culture = panjabi

@@ -7,13 +7,11 @@ title = c_maan
 
 # Settlements
 max_settlements = 2
-b_maan = castle
-#b_madyan = temple
+b_maan = tribal
+b_madyan = tribal
 
 # Misc
 culture = levantine_arabic
 religion = miaphysite
 
 # History
-
-974.1.1 = { b_maan = tribal } #Tribalisation/Nomadization of al-Urdunn

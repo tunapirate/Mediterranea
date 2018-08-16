@@ -6,13 +6,14 @@
 title = c_sambhal
 
 # Settlements
-max_settlements = 5
-b_sambhal = castle
-b_tattandapura = city
-#b_ujhani = temple
-#b_amroha = castle
-#b_sirsi = city
-#b_bachhraon = city
+max_settlements = 7
+b_sambhal = tribal
+b_tattandapura = tribal
+b_bhadaunlak = tribal
+b_ujhani = tribal
+b_amroha = tribal
+#b_sirsi = tribal
+#b_bachhraon = tribal
 
 # Misc
 culture = hindustani

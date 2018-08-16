@@ -6,12 +6,13 @@
 title = c_dasapura
 
 # Settlements
-max_settlements = 4
-b_dasapura = castle
-b_sondani = city
-#b_dharmrajeshwar = temple
-#b_hinglajgarh = castle
-#b_taxakeshwar = temple
+max_settlements = 5
+
+b_dasapura = tribal
+b_sondani = tribal
+b_dharmrajeshwar = tribal
+b_hinglajgarh = tribal
+#b_taxakeshwar = tribal
 
 # Misc
 culture = rajput

@@ -4,7 +4,7 @@
     name="Pèire"
     dynasty=59775
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	
 	#History
 	 
@@ -18,7 +18,7 @@
 594001 = {
     name="Juliana"
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	female=yes
 	
 	#History
@@ -34,7 +34,7 @@
     name="Serenus"
     dynasty=59775
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594000
 	mother=594001
 	
@@ -50,7 +50,7 @@
 594003 = {
     name="Eisabèu"
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	female=yes
 	
 	#History
@@ -66,7 +66,7 @@
     name="Constància"
     dynasty=59775
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594000
 	mother=594001
 	female=yes
@@ -82,7 +82,7 @@
     name="Elena"
     dynasty=59775
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594000
 	mother=594001
 	female=yes
@@ -98,7 +98,7 @@
     name="Leon"
     dynasty=59775
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594000
 	mother=594001
 	
@@ -114,7 +114,7 @@
     name="Julian"
     dynasty=59776
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	
 	#History
 	 
@@ -128,7 +128,7 @@
 594008 = {
     name="Cecilia"
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	female=yes
 	
 	#History
@@ -144,7 +144,7 @@
     name="Julia"
     dynasty=59776
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594007
 	mother=594008
 	female=yes
@@ -159,7 +159,7 @@
     name="Vicenç"
     dynasty=59516
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	
 	#History
 	 
@@ -173,7 +173,7 @@
 594011 = {
     name="Camila"
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	female=yes
 	
 	#History
@@ -189,7 +189,7 @@
     name="Vicenç"
     dynasty=59516
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594010
 	mother=594011
 	
@@ -206,7 +206,7 @@
     name="Martin"
     dynasty=59516
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594010
 	mother=594011
 	
@@ -220,7 +220,7 @@
     name="Patricia"
     dynasty=59516
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594010
 	mother=594011
 	female=yes
@@ -235,7 +235,7 @@
     name="Laurènç"
     dynasty=59777
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	
 	#History
 	 
@@ -249,7 +249,7 @@
 594016 = {
     name="Alpaïs"
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	female=yes
 	
 	#History
@@ -265,7 +265,7 @@
     name="Dolça"
     dynasty=59777
     religion="apollonian"
-    culture="occitan"
+    culture="septiman"
 	father=594015
 	mother=594016
 	female=yes
@@ -283,7 +283,7 @@
     name="Rainaud"
     dynasty=59778
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	
 	#History
 	 
@@ -295,7 +295,7 @@
     name="Felix"
     dynasty=59779
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	
 	#History
 	 
@@ -309,7 +309,7 @@
 594020 = {
     name="Livia"
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	female=yes
 	
 	#History
@@ -325,7 +325,7 @@
     name="Ricard"
     dynasty=59779
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	father=594019
 	mother=594020
 	
@@ -339,7 +339,7 @@
     name="Eisabèu"
     dynasty=59779
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	father=594019
 	mother=594020
 	female=yes
@@ -354,7 +354,7 @@
     name="Eufèmia"
     dynasty=59779
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	father=594019
 	mother=594020
 	female=yes
@@ -369,7 +369,7 @@
     name="Jordan"
     dynasty=59779
     religion="dianic"
-    culture="occitan"
+    culture="septiman"
 	father=594019
 	mother=594020
 	
@@ -516,7 +516,7 @@
     name="Victor" 
     dynasty=59781
     religion="saturnal"
-    culture="occitan"
+    culture="auvergnat"
 	
 	#History
 	 
@@ -530,7 +530,7 @@
 594035 = {
     name="Cornelia"
     religion="saturnal"
-    culture="occitan"
+    culture="auvergnat"
 	female=yes
 	
 	#History
@@ -546,7 +546,7 @@
     name="Marcus" 
     dynasty=59782
     religion="saturnal"
-    culture="occitan"
+    culture="auvergnat"
 	
 	#History
 	 
@@ -560,7 +560,7 @@
 594037 = {
     name="Victoria"
     religion="saturnal"
-    culture="occitan"
+    culture="auvergnat"
 	female=yes
 	
 	#History
@@ -576,7 +576,7 @@
     name="Paulus" 
     dynasty=59783
     religion="saturnal"
-    culture="occitan"
+    culture="auvergnat"
 	
 	#History
 	 
@@ -590,7 +590,7 @@
 594039 = {
     name="Victoria"
     religion="saturnal"
-    culture="occitan"
+    culture="auvergnat"
 	female=yes
 	
 	#History

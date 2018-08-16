@@ -26,7 +26,7 @@ b_banbury = city
 
 # Misc
 culture = brittonic
-religion = hellenic_pagan
+religion = saturnal
 
 # History
 1066.10.14 = { b_hook_norton = castle } 

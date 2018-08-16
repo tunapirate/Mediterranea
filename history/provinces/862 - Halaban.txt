@@ -6,9 +6,11 @@
 title = c_halaban
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 b_ranyah = tribal
-#b_dawasir = city
+b_dawasir = tribal
+b_layla = tribal
+b_as_sulayyil = tribal
 
 # Misc
 culture = bedouin_arabic

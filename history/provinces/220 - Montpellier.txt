@@ -21,7 +21,7 @@ b_lodeve = temple
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = septiman
 
 # History
 1066.1.1 = { trade_post = b_grimaldi }

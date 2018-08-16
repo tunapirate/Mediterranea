@@ -6,15 +6,12 @@
 title = c_tripolitana
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_libtripoli = castle
-b_nalut = temple
-b_baniwaled = city
-
-#b_gherlan = castle
-#b_funduq = castle
-#b_mazuzah = castle
+b_libtripoli = tribal
+b_nalut = tribal
+b_baniwaled = tribal
+b_gherlan = tribal
 
 # Misc
 culture = zanata

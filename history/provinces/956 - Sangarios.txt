@@ -8,9 +8,9 @@ title = c_sangarios
 # Settlements
 max_settlements = 3
 
-b_kibaia = castle
-b_thebasion = city
-b_bilekomis = castle
+b_kibaia = tribal
+b_thebasion = tribal
+b_bilekomis = tribal
 
 # Misc
 culture = greek
@@ -18,9 +18,3 @@ religion = orthodox
 
 # History
 
-
-1265.1.1 = { culture = turkish }
-1265.1.1 = { religion = sunni }
-1265.1.1 = { b_thebasion = castle }
-1265.1.1 = { b_bilekomis = city }
-1265.1.1 = { capital = b_thebasion }

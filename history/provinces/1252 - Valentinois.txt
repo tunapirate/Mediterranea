@@ -19,7 +19,7 @@ b_die = city
 #b_chateaudecrest = castle
 
 # Misc
-culture = occitan
+culture = septiman
 religion = hellenic_pagan
 
 # History

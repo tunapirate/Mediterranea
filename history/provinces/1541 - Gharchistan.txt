@@ -6,15 +6,14 @@
 title = c_gharchistan
 
 # Settlements
-max_settlements = 2
-b_bashin = castle
-b_shurmin = city
+max_settlements = 3
+
+b_bashin = tribal
+b_shurmin = tribal
+b_balikan = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-987.1.1 = {
-	religion = sunni
-}

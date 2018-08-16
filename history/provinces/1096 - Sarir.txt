@@ -6,17 +6,16 @@
 title = c_sarir
 
 # Settlements
- max_settlements = 3
-b_arkas = castle
-b_humraj = temple
-#b_khunzakh = castle
+max_settlements = 3
 
+b_arkas = tribal
+b_humraj = tribal
+#b_khunzakh = tribal
+#b_gergebil = tribal
 
 # Misc
 culture = caucasian_avar
 religion = tengri_pagan
 
 # History
-740.1.1 = { religion = orthodox }
-1260.1.1 = { b_khunzakh = city } #was tribal
-1260.1.1 = { religion = sunni }
+

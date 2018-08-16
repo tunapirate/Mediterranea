@@ -6,10 +6,12 @@
 title = c_rummah
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_hafaralbatin = tribal
-#b_nibaj = city
+b_nibaj = tribal
+b_harmah = tribal
+b_az_zulfi = tribal
 
 culture = bedouin_arabic
 religion = sunni

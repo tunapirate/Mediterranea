@@ -6,20 +6,16 @@
 title = c_makuria
 
 # Settlements
-max_settlements = 7
-b_meroe = castle
-b_nuri = temple
-b_kareima = city
-b_djebel_barka = temple
-b_ghazali = temple
+max_settlements = 5
 
-#b_korti = castle
-#b_tankasi = castle
-
+b_meroe = tribal
+b_nuri = tribal
+b_kareima = tribal
+b_djebel_barka = tribal
 
 # Misc
 culture = nubian
 religion = miaphysite
 
 # History
-1337.1.1 = { b_korti = castle }
+

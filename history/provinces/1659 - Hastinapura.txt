@@ -6,14 +6,15 @@
 title = c_hastinapura
 
 # Settlements
-max_settlements = 6
-b_hastinapura = castle
-b_pandeshwar = temple
-b_indrasthana = city
-b_pankot = castle
-#b_mirath = city
-#b_baran = castle
-#b_hapur = temple
+max_settlements = 7
+
+b_hastinapura = tribal
+b_pandeshwar = tribal
+b_indrasthana = tribal
+b_pankot = tribal
+b_mirath = tribal
+#b_baran = tribal
+#b_hapur = tribal
 
 # Misc
 culture = hindustani

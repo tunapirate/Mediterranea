@@ -7,27 +7,15 @@ title = c_girona
 
 # Settlements
 max_settlements = 4
-b_cabrera = castle
-b_girona = city
-b_la_bisbal = temple
-#b_besalu = castle
-#b_bas = castle
-#b_ripoll = temple
-#b_figueres = city
-#b_mataplana = castle
 
+b_girona = tribal
+b_cabrera = tribal
+b_la_bisbal = tribal
+#b_besalu = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-1066.1.1 = { 
-	b_cabrera = ca_keep_1
-	b_cabrera = ca_wall_1
-	b_cabrera = ca_stable_1
-	b_cabrera = ca_militia_barracks_1
-	b_cabrera = ca_wall_2
-	b_cabrera = ca_barracks_1
-	}
 

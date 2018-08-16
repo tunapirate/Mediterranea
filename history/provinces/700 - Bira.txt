@@ -6,20 +6,15 @@
 title = c_bira
 
 # Settlements
-max_settlements = 4
-b_nasibin = castle
-b_araban = city
-b_dara = temple
+max_settlements = 3
 
-#b_amuda = castle
+b_nasibin = castle
+b_araban = tribal
+b_dara = tribal
 
 #Misc
-	culture = assyrian
-	religion = nestorian
+
+culture = assyrian
+religion = nestorian
 
 # History
-
-1060.1.1 = { 
-	culture = levantine_arabic
-	religion = sunni
-}

@@ -17,9 +17,9 @@ b_amboise = city
 #b_montbazon = castle
 #b_fierbois = temple
 
-culture = old_frankish
-religion = hellenic_pagan
+culture = andegavian
+religion = gallic_rite
 
 # History
-790.1.1 = { culture = frankish }
+
 

@@ -7,24 +7,14 @@ title = c_braga
 
 # Settlements
 max_settlements = 5
-b_vianadocastelo = castle
-b_guimaraes = city
-b_braga = temple
-b_pontedelima = castle
-#b_barcelos = castle
-#b_arcosdevaldevez = castle
-#b_moncao = castle
 
+b_braga = tribal
+b_vianadocastelo = tribal
+b_guimaraes = tribal
+#b_pontedelima = tribal
+#b_moncao = tribal
 # Misc
 culture = galician
 religion = hispanic_rite
 
 # History
-1066.1.1 = {
-	b_vianadocastelo = ca_town_1
-	b_vianadocastelo = ca_keep_1
-	b_vianadocastelo = ca_stable_1
-	b_vianadocastelo = ca_militia_barracks_1
-	b_vianadocastelo = ca_wall_1
-	b_vianadocastelo = ca_wall_2
-}

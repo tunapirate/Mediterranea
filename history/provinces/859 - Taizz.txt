@@ -6,12 +6,12 @@
 title = c_taizz
 
 # Settlements
-max_settlements = 5
-b_jibla = castle
-b_taizz = temple
-b_ibb = city
-b_janad = temple
-#b_yarim = castle
+max_settlements = 6
+
+b_jibla = tribal
+b_taizz = tribal
+b_ibb = tribal
+b_janad = tribal
  
 # Misc
 culture = yemeni

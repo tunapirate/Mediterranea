@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 602 - Kasogs
+
+# County Title
+title = c_kasogs
+
+# Settlements
+max_settlements = 2
+b_khumar = tribal
+#b_sambalut = tribal
+
+
+
+# Misc
+culture = kasogi
+religion = slavic_pagan
+
+# History

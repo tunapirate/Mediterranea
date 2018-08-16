@@ -6,25 +6,14 @@
 title = c_gibelet
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_gibeletcastle = castle
-b_gibelet = city
-b_boutron = temple
-#b_besmedin = castle
-#b_msheilfort = castle
-
-
-
-
+b_gibeletcastle = tribal
+b_gibelet = tribal
+b_boutron = tribal
 
 # Misc
 culture = greek
 religion = miaphysite
 
 # History
-
-1030.1.1 = { 
-	culture = levantine_arabic
-}
-1220.1.1 = { b_besmedin = castle }

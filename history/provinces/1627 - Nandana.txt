@@ -6,14 +6,14 @@
 title = c_nandana
 
 # Settlements
-max_settlements = 3
-b_nandana = castle
-b_hund = city
-#b_lund2 = temple
-#b_simhapura = city
-#b_khushab = city
-#b_tulaja = castle
-#b_khewra = city
+max_settlements = 6
+
+b_nandana = tribal
+b_hund = tribal
+b_lund2 = tribal
+b_simhapura = tribal
+#b_khushab = tribal
+#b_tulaja = tribal
 
 # Misc
 culture = panjabi

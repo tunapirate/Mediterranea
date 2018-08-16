@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 649 - Basra
+
+# County Title
+title = c_basra
+
+# Settlements
+max_settlements = 6
+b_qalatbasra = castle
+b_basra = city
+b_abbadan = city
+b_alubulla = city
+b_bayan = temple
+#b_kazima = tribal
+
+culture = levantine_arabic
+religion = nestorian
+
+# History

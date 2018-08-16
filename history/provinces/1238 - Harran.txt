@@ -6,22 +6,15 @@
 title = c_harran
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_tallmazwan = castle
-b_harran = city
-#b_ceylanpinar = castle
-#b_akcakale  castle
-
-
+b_tallmazwan = tribal
+b_harran = tribal
+b_ceylanpinar = tribal
+b_akcakale = tribal
 
 # Misc
 culture = aramean
 religion = syriac
 
 # History
-
-1030.1.1 = { 
-	culture = levantine_arabic
-}
-1150.1.1 = { religion = sunni }

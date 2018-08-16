@@ -6,16 +6,17 @@
 title = c_denia
 
 # Settlements
-max_settlements = 4
-b_denia = castle
-b_elche = temple
-#b_castalla = castle
-b_benissa = city
+max_settlements = 6
 
+b_denia = tribal
+b_elche = tribal
+b_jativa = tribal
+b_sucro = tribal
+b_castalla = tribal
+#b_benissa = tribal
 
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History
-1259.1.1 = { culture = catalan }
-1259.1.1 = { religion = catholic }
+

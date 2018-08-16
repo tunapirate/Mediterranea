@@ -6,13 +6,11 @@
 title = c_amasia
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 
-b_amaseia = castle
-b_sebastopolis = city
-b_zela = temple
-b_ibora = temple
-#b_komanapontica = city
+b_amaseia = tribal
+b_sebastopolis = tribal
+b_zela = tribal
 
 # Misc
 culture = greek
@@ -20,9 +18,3 @@ religion = orthodox
 terrain = mountain
 
 # History
-
-
-
-1099.1.1 = { culture = turkmen }
-1099.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }

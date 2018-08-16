@@ -5,20 +5,14 @@
 title = c_logrono
 
 # Settlements
-max_settlements = 4
-b_logronyo = castle
-b_alfaro = castle
-b_calahorra = temple
-#b_arnedo = castle
+max_settlements = 3
 
+b_logronyo = tribal
+b_calahorra = tribal
+#b_arnedo = tribal
 
 # Misc
 culture = basque
 religion = hellenic_pagan
 
 # History
-
-1066.1.1 = { 
-	b_logronyo = ca_keep_1
-	b_logronyo = ca_wall_1
-}

@@ -16,7 +16,7 @@ b_grasse = city
 #b_tarascon = castle
 
 # Misc
-culture = occitan
+culture = septiman
 religion = apollonian
 
 # History

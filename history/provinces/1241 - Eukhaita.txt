@@ -8,9 +8,9 @@ title = c_eukhaita
 # Settlements
 max_settlements = 3
 
-b_asklepios = castle
-b_eukhaita = city
-b_andrapa = temple
+b_asklepios = tribal
+b_eukhaita = tribal
+b_andrapa = tribal
 
 # Misc
 culture = greek
@@ -18,9 +18,3 @@ religion = orthodox
 terrain = mountain
 
 # History
-
-
-
-1099.1.1 = { culture = turkmen }
-1099.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }

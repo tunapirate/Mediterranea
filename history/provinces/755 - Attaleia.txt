@@ -8,23 +8,15 @@ title = c_attaleia
 # Settlements
 max_settlements = 4
 
-b_attaleia = castle
-b_kalonoros = castle
-b_perge = temple
-b_aspendos = city
-#b_side = city
+b_attaleia = tribal
+b_kalonoros = tribal
+b_perge = tribal
+b_aspendos = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-1090.1.1 = { b_side = city }
-1149.1.1 = { trade_post = b_faliero }
-1210.1.1 = { remove_settlement = b_side }
-1210.1.1 = { remove_settlement = b_aspendos }
-1225.1.1 = { culture = turkmen }
-1225.1.1 = { religion = sunni }
-1256.1.1 = { culture = turkish }
 
 

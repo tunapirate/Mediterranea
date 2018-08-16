@@ -6,14 +6,15 @@
 title = c_lahur
 
 # Settlements
-max_settlements = 6
-b_lahur = castle
-b_sangla = city
-b_kasur = temple
-b_samnabad = city
-#b_mehdiabad = city
-#b_chunian = city
-#b_data_darbar = temple
+max_settlements = 7
+
+b_lahur = city
+b_sangla = tribal
+b_kasur = tribal
+b_samnabad = tribal
+b_mehdiabad = tribal
+#b_chunian = tribal
+#b_data_darbar = tribal
 
 # Misc
 culture = panjabi

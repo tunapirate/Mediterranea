@@ -7,16 +7,11 @@ title = c_guadalajara
 
 # Settlements
 max_settlements = 4
-b_guadalajara = castle
-b_madrid = city
-#b_alcala = temple
-b_manzanares = castle
-#b_buitrago = city
-#b_elpaular = temple
-#b_brihuega = castle
-#b_hita = city
-#b_santuy= temple
 
+b_madrid = tribal
+b_manzanares = tribal
+#b_brihuega = tribal
+#b_santuy= tribal
 
 # Misc
 culture = castillan
@@ -24,5 +19,3 @@ religion = hispanic_rite
 
 # History
 
-1131.1.1 = { culture = castillan }
-1131.1.1 = { religion = catholic }

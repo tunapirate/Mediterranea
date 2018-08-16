@@ -6,18 +6,18 @@
 title = c_la_mancha
 
 # Settlements
-max_settlements = 4
-b_alarcon = castle
-b_tarancon = castle
-b_sanclemente = temple
-#b_ucles = castle
-#b_laspedroneras = castle
-#b_motadelcuervo = castle
+max_settlements = 5
 
+b_alarcon = tribal
+b_tarancon = tribal
+b_sanclemente = tribal
+b_ucles = tribal
+#b_laspedroneras = tribal
+
+# Misc
 culture = castillan
 religion = hellenic_pagan
 
 # History
-1235.1.1 = { culture = castillan }
-1235.1.1 = { religion = catholic }
+
 

@@ -6,18 +6,15 @@
 title = c_abkhazia
 
 # Settlements
-max_settlements = 4
-b_anakopia = castle
-b_tskhoumi = city
-b_pitsunda = temple
-#b_ilori = temple
-#b_gagra = castle
-#b_bzyb = castle
+max_settlements = 3
+
+b_anakopia = tribal
+#b_tskhoumi = tribal
+#b_pitsunda = tribal
 
 # Misc
 culture = georgian
 religion = orthodox
 
-
 # History
-1286.1.1 = { trade_post = b_spinola }
+

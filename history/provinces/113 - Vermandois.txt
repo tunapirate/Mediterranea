@@ -16,7 +16,7 @@ b_stquentin = city
 #b_coucy = castle
 #b_marlesaisnes = castle
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

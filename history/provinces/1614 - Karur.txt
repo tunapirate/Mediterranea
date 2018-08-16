@@ -6,16 +6,17 @@
 title = c_karur
 
 # Settlements
-max_settlements = 4
-b_karur = castle
-b_askhanda = city
-#b_vehari = temple
-#b_chishtian = temple
-#b_marot = city
+max_settlements = 6
+
+b_karur = tribal
+b_askhanda = tribal
+b_vehari = tribal
+b_chishtian = tribal
+#b_marot = tribal
+#b_piplan = tribal
 
 # Misc
 culture = panjabi
 religion = hindu
 
 # History
-980.1.1 = {	religion = sunni }

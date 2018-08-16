@@ -6,24 +6,20 @@
 title = c_nakur
 
 # Settlements
-max_settlements = 6
+max_settlements = 4 
 
-b_nakur = castle
-b_ghumira = city
-b_melilla = castle
-#b_midar = temple
-#b_alhoceima = city
-#b_driouch = castle
-#b_geurcif = castle
+b_nakur = tribal
+b_ghumira = tribal
+b_melilla = tribal
+b_midar = tribal
 
 # Misc
 culture = tangieran
-religion = hellenic_pagan
+religion = mercurial
 
 
 # History
-1066.1.1 = { religion = nabawiyya }
-1090.1.1 = { religion = sunni }
+
 
 
 

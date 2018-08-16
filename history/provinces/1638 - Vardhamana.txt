@@ -6,14 +6,15 @@
 title = c_vardhamana
 
 # Settlements
-max_settlements = 3
-b_vardhamana = castle
-#b_amarvalli = city
-#b_halvad = temple
-#b_ranpur = castle
+max_settlements = 4
+
+b_vardhamana = tribal
+b_amarvalli = tribal
+b_halvad = tribal
+b_ranpur = tribal
 
 # Misc
 culture = gujurati
-religion = jain
+religion = hindu
 
 # History

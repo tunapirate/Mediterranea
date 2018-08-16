@@ -6,11 +6,15 @@
 title = c_sarasvati
 
 # Settlements
-max_settlements = 3
-b_sarasvati = castle
-b_bhadra = city
-#b_bhatnir = castle
-#b_tarain = castle
+max_settlements = 7
+
+b_sarasvati = tribal
+b_bhadra = tribal
+b_karanpura = tribal
+b_gogamedi = tribal
+b_nohar = tribal
+#b_bhatnir = tribal
+#b_tarain = tribal
 
 # Misc
 culture = hindustani

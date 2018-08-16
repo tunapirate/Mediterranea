@@ -7,12 +7,10 @@ title = c_hereti
 
 # Settlements
  max_settlements = 4
-b_khornabuji = castle
-b_shaki = city
-b_gishi = temple
-#b_bodbe = temple
-#b_areshi = castle
-#b_vezhini = castle
+
+b_khornabuji = tribal
+#b_shaki = city
+#b_gishi = temple
 #b_dedoplistsqaro = castle #(Dedoplis Tsgaro)
 
 # Misc
@@ -20,8 +18,3 @@ culture = udi
 religion = apostolic
 
 # History
-
-950.1.1 = {
-	culture = georgian
-	religion = orthodox
-}

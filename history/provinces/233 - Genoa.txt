@@ -20,7 +20,7 @@ b_la_spezia = city
 
 # Misc
 culture = ligurian
-religion = hellenic_pagan
+religion = apollonian
 terrain = farmlands
 # History
 

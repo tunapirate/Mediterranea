@@ -6,19 +6,17 @@
 title = c_kabul
 
 # Settlements
-max_settlements = 6
-b_kabul = castle
-b_pervan = temple
-b_panjhir = city
-b_jarbaya = castle
-#b_mundjan = city
-#b_chitral = castle
+max_settlements = 5
 
+b_kabul = city
+b_pervan = tribal
+b_panjhir = tribal
+b_jarbaya = tribal
+b_mundjan = tribal
 
 # Misc
 culture = afghan
 religion = buddhist
 
 # History
-987.1.1 = {	religion = sunni }
-#1007.1.1 = {	culture = afghan }
+

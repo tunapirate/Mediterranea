@@ -19,7 +19,7 @@ b_thionville = temple
 #b_ettelbruck = city
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = germanic_rite
 
 # History

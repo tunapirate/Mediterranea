@@ -6,36 +6,17 @@
 title = c_tharasset
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
 b_taroudaut = tribal
-b_massa = city
-#b_tinmel = temple
-#b_igilliz = castle
-
-#b_tharasset = castle
-#b_tiznit = castle
-#b_tantan = city
-#b_tartaya = temple
-#b_akhfennir = castle
-#b_chbika = castle
-#b_tidergit = castle
-#b_amot = castle
-#b_tiglit = castle
+b_massa = tribal
+b_tinmel = tribal
 
 # Misc
 culture = tagelmust
 religion = west_african_pagan
 
 # History
-888.1.1 = {
-	b_taroudaut = castle
-	culture = masmuda
-}
-1120.1.1 = { religion = mahdiyya }
-1124.1.1 = { b_tinmel = temple }
-#1126.1.2 = { b_taroudaut = castle }
-1260.1.1 = { religion = sunni }
 
 
 

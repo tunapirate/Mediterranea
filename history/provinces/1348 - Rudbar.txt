@@ -8,14 +8,13 @@ title = c_rudbar
 # Settlements
 max_settlements = 2
 
-b_rudbar = castle
-b_kish = city
+b_rudbar = tribal
+b_kish = tribal
 
 # Misc
 culture = qufs
-religion = manichean
+religion =  zoroastrian
 
 # History
-950.1.1 = {	religion = sunni }
-1100.1.1 = {	culture = baloch }
+
 

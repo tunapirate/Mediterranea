@@ -7,9 +7,10 @@ title = c_begemder
 
 # Settlements
 max_settlements = 3
-b_begemdir = castle
-b_sana = temple
-b_debrelibanos = temple
+
+b_begemdir = tribal
+b_sana = tribal
+b_debrelibanos = tribal
 
 # Misc
 culture = falashim
@@ -17,5 +18,3 @@ religion = jewish
 
 # History
 
-1270.1.1 = { culture = ethiopian }
-1270.1.1 = { religion = miaphysite }  

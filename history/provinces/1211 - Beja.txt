@@ -6,20 +6,13 @@
 title = c_beja
 
 # Settlements
-max_settlements = 5
-b_beja = castle
-b_aljustrel = city
-b_almodovar = temple
-b_alvito_beja = city
-#b_odemira = castle
-#b_ourique = castle
+max_settlements = 2
 
+b_beja = tribal
+#b_alvito_beja = tribal
 
 # Misc
 culture = hispanic
 religion = neptunal
 
 # History
-
-1235.1.1 = { culture = portuguese }
-1235.1.1 = { religion = catholic }

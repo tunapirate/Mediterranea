@@ -7,19 +7,13 @@ title = c_amadiya
 
 # Settlements
 max_settlements = 3
-b_amadiyah = castle
-b_hakkari = city
-b_alki = castle
+
+b_amadiyah = tribal
+b_hakkari = tribal
+b_alki = tribal
 
 # Misc
 culture = assyrian
 religion = nestorian
 
 # History
-
-900.1.1 = { 
-	religion = sunni
-}
-1162.1.1 = {
-	religion = yazidi
-}

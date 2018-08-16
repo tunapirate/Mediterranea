@@ -6,12 +6,13 @@
 title = c_dorylaion
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_dorylaion = castle
-b_kotyaion = city
-b_nakoleia = temple
-#b_midaion = city
+b_dorylaion = tribal
+b_kotyaion = tribal
+b_nakoleia = tribal
+b_midaion = tribal
+#b_eiokome = tribal
 
 # Misc
 culture = greek
@@ -19,10 +20,3 @@ religion = orthodox
 
 # History
 
-
-1185.1.1 = { culture = turkmen }
-1185.1.1 = { religion = sunni }
-1250.1.1 = { b_kotyaion = castle }
-1250.1.1 = { b_dorylaion = city }
-1250.1.1 = { capital = b_kotyaion }
-1256.1.1 = { culture = turkish }

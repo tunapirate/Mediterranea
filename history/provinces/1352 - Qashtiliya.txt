@@ -8,20 +8,11 @@ title = c_qashtiliya
 # Settlements
 max_settlements = 3
 
-b_qamuda = castle
-b_qafsa = temple
-b_tazwir = city
+b_qamuda = tribal
+b_qafsa = tribal
 
 # Misc
 culture = sanhaja
 religion = african_rite
 
 # History
-
-#1056.1.1 = { remove_settlement = b_qafsa  }
-#1062.1.1 = { b_qamuda = tribal }
-#1070.1.1 = { remove_settlement = b_qamuda  }
-#1070.1.1 = { remove_settlement = b_tazwir  }
-#1070.1.1 = { culture = bedouin_arabic }
-1100.1.1 = { culture = maghreb_arabic }
-#1159.7.1 = { b_qamuda = castle }

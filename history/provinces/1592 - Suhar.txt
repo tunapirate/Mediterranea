@@ -7,10 +7,11 @@ title = c_suhar
 
 # Settlements
 max_settlements = 4
-b_qalatsuhar = castle
+
 b_sohar = city
-b_dibba = city
-#b_khorfakkan = city
+b_qalatsuhar = tribal
+b_dibba = tribal
+b_khorfakkan = tribal
 
 # Misc
 culture = pahlavi

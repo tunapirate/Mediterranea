@@ -18,7 +18,7 @@ b_autun = temple
 #b_beaune = city
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

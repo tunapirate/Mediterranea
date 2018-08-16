@@ -18,7 +18,7 @@ b_pican = temple
 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 

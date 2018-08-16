@@ -6,16 +6,10 @@
 title = c_az_zarqa
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
 b_amrah = tribal
-b_azraq = city
-#b_kharana = castle
-#b_tuba = castle
-#b_mshatta = castle
-#b_amratamad = city
-
-#
+b_azraq = tribal
 
 # Misc
 culture = levantine_arabic

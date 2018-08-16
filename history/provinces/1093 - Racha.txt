@@ -6,12 +6,10 @@
 title = c_racha
 
 # Settlements
- max_settlements = 3
-b_kasriskari = castle
-b_gebi = city
-#b_tsageri = temple
-#b_oni = city
- 
+max_settlements = 2
+
+b_kasriskari = tribal
+#b_gebi = tribal
 
 # Misc
 culture = georgian

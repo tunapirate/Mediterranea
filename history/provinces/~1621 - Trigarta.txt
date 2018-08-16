@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1621 - Trigarta
+
+# County Title
+title = c_trigarta
+
+# Settlements
+max_settlements = 6
+b_jalandhar = castle
+b_rahon = temple
+b_pathankot = castle
+#b_kaparthula = city
+#b_milwat = castle
+#b_sarwmanpur = temple
+#b_kangra = castle
+
+# Misc
+culture = panjabi
+religion = buddhist
+
+# History

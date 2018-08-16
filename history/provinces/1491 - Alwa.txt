@@ -6,12 +6,12 @@
 title = c_alwa
 
 # Settlements
-max_settlements = 3
-b_alwa = castle
-b_omdurman = city
+max_settlements = 5
 
-#b_kadero = temple
-
+b_alwa = tribal
+b_omdurman = tribal
+b_kadero = tribal
+b_gherri = tribal
 
 # Misc
 culture = nubian

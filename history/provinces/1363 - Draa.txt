@@ -6,17 +6,15 @@
 title = c_draa
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
 b_tata = tribal
-#b_wadidraa = temple  # Wadi Draa
+b_wadidraa = tribal
+b_tagmadert = tribal
 
 # Misc
 culture = tagelmust
 religion = west_african_pagan
 
 # History
-990.1.1 = { culture = zanata }
-1030.1.1 = { religion = sunni }
-1060.1.1 = { b_wadidraa = temple }
-1100.1.1 = { culture = tagelmust }
+

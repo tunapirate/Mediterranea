@@ -6,19 +6,16 @@
 title = c_demetrias
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
-b_demetrias = castle
-b_halmyros = city
-b_velestino = city
-
-#b_lekhonia = city
+b_demetrias = tribal
+b_halmyros = tribal
+b_velestino = tribal
+b_lekhonia = tribal
+b_pyrasos = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-1147.1.1 = { trade_post = b_dandolo }
-
-# 4th crusade

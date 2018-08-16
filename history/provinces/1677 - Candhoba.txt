@@ -6,17 +6,15 @@
 title = c_candhoba
 
 # Settlements
-max_settlements = 3
-b_candhoba = castle
-#b_sipri = temple
-#b_guna = city
-#b_kadwaya = temple
+max_settlements = 5
+b_candhoba = tribal
+b_sipri = tribal
+b_guna = tribal
+b_kadwaya = tribal
+#b_aharji = tribal
 
 # Misc
 culture = hindustani
 religion = jain
 
 # History
-1066.1.1 = {
-	religion = hindu
-}

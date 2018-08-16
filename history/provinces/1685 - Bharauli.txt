@@ -6,11 +6,13 @@
 title = c_bharauli
 
 # Settlements
-max_settlements = 3
-b_manikpur = castle
-b_bharauli = city
-#b_lalganj = temple
-#b_bhadri = city
+max_settlements = 5
+
+b_manikpur = tribal
+b_bharauli = tribal
+b_lalganj = tribal
+b_bhadri = tribal
+#b_dariyabad = tribal
 
 # Misc
 culture = hindustani

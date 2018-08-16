@@ -8,15 +8,12 @@ title = c_aydhab
 # Settlements
 max_settlements = 3
 
+b_aydhab = tribal
 b_halaib = tribal
-#b_aydhab = city
-
-#b_birshalatayn = temple
+b_birshalatayn = tribal
 
 # Misc
 culture = beja
 religion = sunni
 
 # History
-950.1.1 = { b_aydhab = city }
-1050.1.1 = { religion = sunni }

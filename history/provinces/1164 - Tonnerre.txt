@@ -17,7 +17,7 @@ b_saintflorentin = temple
 #b_ervy = castle
 
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

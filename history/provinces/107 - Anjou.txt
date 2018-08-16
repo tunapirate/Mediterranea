@@ -18,10 +18,10 @@ b_fontevraud = temple
 #b_chateaugontier = castle
 #b_treves = temple
 
-culture = old_frankish
+culture = andegavian
 religion = gallic_rite
 
 # History
-790.1.1 = { culture = frankish }
+
 
 

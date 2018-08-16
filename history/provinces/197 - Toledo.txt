@@ -6,19 +6,15 @@
 title = c_toledo
 
 # Settlements
-max_settlements = 6
-b_toledo = castle
-b_orgaz = temple
-b_illescas = castle
-b_tolemora = city
-#b_consuegra = castle
-#b_fuensalida = castle
+max_settlements = 4
+
+b_toledo = city
+b_orgaz = tribal
+#b_illescas = tribal
+#b_tolemora = tribal
 
 # Misc
 culture = castillan
 religion = hispanic_rite
 
 # History
-
-1120.5.25 = { culture = castillan }
-1100.5.25 = { religion = catholic }

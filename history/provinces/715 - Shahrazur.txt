@@ -6,19 +6,19 @@
 title = c_shahrazur
 
 # Settlements
-max_settlements = 3
+max_settlements = 7
 
-b_shahrazur = castle
-b_tiranshah = castle
-#b_sine = city
-
+b_shahrazur = tribal
+b_tiranshah = tribal
+b_sine = tribal
+b_giaur = tribal
+b_chahar_taq = tribal
+b_takht-i_bilqis = tribal
+b_amardos = tribal
 
 # Misc
-culture = kurdish
-religion = zoroastrian
+culture = pahlavi
+religion = mazdaki
 
 # History
 
-910.1.1 = {
-	religion = sunni
-}

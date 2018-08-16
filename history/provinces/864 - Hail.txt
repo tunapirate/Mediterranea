@@ -9,9 +9,9 @@ title = c_hail
 max_settlements = 5
 
 b_hail = tribal
-#b_fadak = city
-#b_unayzah = city
-#b_samira = castle
+b_fadak = tribal
+b_unayzah = tribal
+b_samira = tribal
 #b_naqra = city
 
 # Misc

@@ -20,7 +20,7 @@ b_redon = temple
 
 # Misc
 culture = breton
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 1200.1.1  = { b_clisson = city }

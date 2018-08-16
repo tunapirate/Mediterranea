@@ -6,11 +6,12 @@
 title = c_al_nadjaf
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_qadisiyyah = castle
-b_waqisa = temple #was city
-#b_masjidsad = city
+b_qadisiyyah = tribal
+b_waqisa = tribal
+b_masjidsad = tribal
+b_amghishiya = tribal
 
 # Misc
 culture = levantine_arabic

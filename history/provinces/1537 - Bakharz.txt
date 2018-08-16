@@ -6,17 +6,15 @@
 title = c_bakharz
 
 # Settlements
-max_settlements = 5
-b_zavzan = castle
-b_malin-bakharz = temple
-b_khwaf = city
+max_settlements = 2
 
-#b_bunabid = castle
-#b_zava = city
+b_zavzan = tribal
+b_malin-bakharz = tribal
+
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-980.1.1 = { religion = sunni }
+

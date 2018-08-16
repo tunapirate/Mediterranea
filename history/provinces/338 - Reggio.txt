@@ -15,7 +15,7 @@ b_scyllaeum = castle
 #b_locri = city
 
 # Misc
-culture = roman
+culture = greek
 religion = mercurial
 terrain = hills
 

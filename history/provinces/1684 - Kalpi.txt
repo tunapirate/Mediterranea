@@ -6,19 +6,16 @@
 title = c_kalpi
 
 # Settlements
-max_settlements = 5
-b_kalpi = castle
-b_jalaun = city
-#b_lahar = temple
-#b_oirai = city
-#b_kurara = city
-#b_konch = city
+max_settlements = 4
+
+b_kalpi = tribal
+b_jalaun = tribal
+b_lahar = tribal
+#b_oirai = tribal
 
 # Misc
 culture = hindustani
-religion = jain
+religion = buddhist
 
 # History
-1066.1.1 = {
-	religion = buddhist
-}
+

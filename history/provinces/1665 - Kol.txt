@@ -6,13 +6,15 @@
 title = c_kol
 
 # Settlements
-max_settlements = 5
-b_dor = castle
-b_kol = city
-b_soron = temple
-#b_nilavati = temple
-#b_etah = city
-#b_barauli = castle
+max_settlements = 7
+
+b_dor = tribal
+b_kol = tribal
+b_soron = tribal
+b_nilavati = tribal
+b_etah = tribal
+#b_barauli = tribal
+#b_khair = tribal
 
 
 # Misc

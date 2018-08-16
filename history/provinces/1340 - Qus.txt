@@ -6,21 +6,14 @@
 title = c_qus
 
 # Settlements
-max_settlements = 6
-b_qus = castle
-b_qina = city
-b_luxor = temple # al-Uqsur
-b_dandara = city
-
-#b_quft = castle
-#b_faw = castle
+max_settlements = 5
+b_quft = city
+b_qus = tribal
+b_qina = tribal
+b_luxor = tribal
 
 # Misc
 culture = coptic
 religion = miaphysite
 
 # History
-
-1171.1.1 = { 
-	culture = egyptian_arabic
-}

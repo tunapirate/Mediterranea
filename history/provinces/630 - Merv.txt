@@ -6,16 +6,12 @@
 title = c_merv
 
 # Settlements
-max_settlements = 7
-b_merv = castle
-b_zarq = castle
-b_diza = city
-b_panjih = temple
+max_settlements = 4
 
-#b_barakdiz = castle
-#b_hurmuzferra = city
-#b_kirang = castle
-
+b_merv = city
+b_zarq = tribal
+b_diza = tribal
+b_panjih = tribal
 
 # Misc
 culture = khorasani
@@ -23,8 +19,3 @@ religion = zoroastrian
 
 # History
 
-960.1.1 = {
-	religion = sunni
-}
-
-#1230.1.1 = { culture = turkish }

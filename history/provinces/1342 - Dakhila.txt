@@ -8,7 +8,7 @@ title = c_dakhila
 # Settlements
 max_settlements = 2
 b_dakhila = tribal
-#b_farfarun = city
+b_farfarun = tribal
 
 # Misc
 culture = tuareg

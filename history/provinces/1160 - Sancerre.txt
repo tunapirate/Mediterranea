@@ -15,7 +15,7 @@ b_stbrisson = temple
 
 
 # Misc
-culture = frankish
+culture = andegavian
 religion = hellenic_pagan
 
 # History

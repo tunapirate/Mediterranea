@@ -7,13 +7,12 @@ title = c_ayodhya
 
 # Settlements
 max_settlements = 5
-b_ramkot = castle
-b_ayodhya = city
+
+b_ramkot = tribal
+b_ayodhya = tribal
 b_ram_janmabhoomi = temple # Hindu Holy Site
-#b_nageshwarnath = temple
-#b_hanuman_garhi = castle
-#b_faizabad = city
-#b_sarairasi = city
+b_nageshwarnath = tribal
+#b_hanuman_garhi = tribal
 
 # Misc
 culture = hindustani

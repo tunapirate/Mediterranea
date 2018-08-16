@@ -6,18 +6,13 @@
 title = c_ciudad_rodrigo
 
 # Settlements
-max_settlements = 3
-b_ciudadrodrigo = castle
-#b_ledesma = city
-#b_sanctispiritus = temple
+max_settlements = 2
 
+b_ciudadrodrigo = tribal
+#b_ledesma = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-1066.1.1 = { 
-	b_ciudadrodrigo = ca_keep_1
-	b_ciudadrodrigo = ca_wall_1
-}

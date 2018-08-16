@@ -6,19 +6,15 @@
 title = c_qasribrim
 
 # Settlements
-max_settlements = 6
-b_qasribrim = castle
-b_qurta = city
-b_aniba = temple
-b_ikhmindi = castle
+max_settlements = 5
 
-#b_sheikhdaud = castle
-#b_mahareaka = temple
+b_qasribrim = tribal
+b_qurta = tribal
+b_aniba = tribal
+b_ikhmindi = tribal
 
 # Misc
 culture = nubian
 religion = miaphysite
 
 # History
-
-1300.1.1 = { religion = sunni }

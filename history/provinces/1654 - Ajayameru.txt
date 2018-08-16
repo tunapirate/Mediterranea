@@ -6,14 +6,14 @@
 title = c_ajayameru
 
 # Settlements
-max_settlements = 5
-b_shakambhari = castle
-b_pushkar = temple
-b_ajayameru = city
-#b_taragarh = castle
-#b_dhanop = temple
-#b_nareli = temple
-#b_lawah = castle
+max_settlements = 6
+
+b_shakambhari = tribal
+b_pushkar = tribal
+b_lawah = tribal
+b_taragarh = tribal
+#b_dhanop = tribal
+#b_nareli = tribal
 
 # Misc
 culture = rajput

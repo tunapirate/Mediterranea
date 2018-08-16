@@ -6,18 +6,20 @@
 title = c_veria
 
 # Settlements
-max_settlements = 3
-b_servia = castle
-b_veria = city
-b_kitros = castle
-#b_dion = temple
+max_settlements = 5
+
+b_servia = tribal
+b_veria = tribal
+b_kitros = tribal
+b_dion = tribal
+b_leibethra = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-1155.1.1 = { trade_post = b_dandolo }
+
 
 
 

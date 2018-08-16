@@ -6,9 +6,12 @@
 title = c_dhu_zabi
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
+
 b_julfar = tribal
-#b_tawam = city
+b_tawam = tribal
+b_sharjah = tribal
+b_al-ayn = tribal
 
 # Misc
 culture = bedouin_arabic

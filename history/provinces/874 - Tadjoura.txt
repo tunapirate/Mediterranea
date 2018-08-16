@@ -9,13 +9,12 @@ title = c_tadjoura
 max_settlements = 3
 
 b_tadjoura = tribal
-b_obock = city
-
-#b_randa = temple
+b_obock = tribal
 
 # Misc
 culture = afar
 religion = jewish
+
 # History
 
 

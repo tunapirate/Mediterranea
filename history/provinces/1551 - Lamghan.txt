@@ -8,13 +8,15 @@ title = c_lamghan
 # Settlements
 max_settlements = 2
 
-b_lamghan = castle
-b_nagarahara = city
+b_lamghan = tribal
+b_nagarahara = tribal
+b_adinapur = tribal
+b_chagasaray = tribal
 
 # Misc
+
 culture = panjabi
 religion = buddhist
 
 # History
-987.1.1 = {	religion = sunni }
-1007.1.1 = {	culture = afghan }
+

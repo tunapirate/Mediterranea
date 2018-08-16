@@ -6,11 +6,12 @@
 title = c_el_rif
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
-b_taza = castle
-b_ketama = temple
-b_saka = city
+b_taza = tribal
+b_ketama = tribal
+b_saka = tribal
+b_nador = tribal
 
 # Misc
 culture = sanhaja

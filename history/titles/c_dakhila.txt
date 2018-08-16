@@ -1,4 +1,8 @@
 867.1.1 = {
 	holder = 504332
-	liege = "d_marmarica"
+	set_tribute_suzerain = {
+		who = k_egypt
+		percentage = 0.4
+		type = permanent
+	}
 }

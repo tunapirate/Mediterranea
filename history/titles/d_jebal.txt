@@ -27,7 +27,7 @@
 }
 # Buyids
 930.1.1 = {
-	liege = k_mesopotamia
+	liege = e_persia
 	holder = 1231062
 }
 949.12.12 = {
@@ -89,7 +89,7 @@
 	holder = 3038
 }
 1055.1.1 = {
-	liege = e_persia
+	liege = k_persia
 }
 1063.9.4 = {
 	liege = k_persia

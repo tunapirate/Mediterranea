@@ -7,10 +7,9 @@ title = c_svaneti
 
 # Settlements
  max_settlements = 2
-b_lentekhi = castle
-b_seti = city
-#b_leksuri = city
- 
+
+b_lentekhi = tribal
+#b_seti = tribal
 
 # Misc
 culture = georgian

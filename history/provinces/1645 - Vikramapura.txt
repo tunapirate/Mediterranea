@@ -7,11 +7,10 @@ title = c_vikramapura
 
 # Settlements
 max_settlements = 3
-b_vikramapura = castle
-b_kolayat = temple
-#b_bhurupal = city
-#b_bhandasar = temple
-#b_shekhsar = castle
+
+b_vikramapura = tribal
+b_kolayat = tribal
+#b_bhurupal = tribal
 
 # Misc
 culture = rajput

@@ -6,16 +6,14 @@
 title = c_mashkel
 
 # Settlements
-max_settlements = 3
-b_saravan = castle
-b_djalk = city
-b_dizak = temple
+max_settlements = 2
 
+b_saravan = tribal
+b_djalk = tribal
 
 # Misc
-culture = brahui
-religion = manichean
+culture = qufs
+religion =  zoroastrian
 
 # History
-1050.1.1 = {	religion = sunni }
-1090.1.1 = {	culture = baloch }
+

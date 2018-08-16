@@ -5,14 +5,15 @@
 title = c_lekia
 
 # Settlements
- max_settlements = 3
+max_settlements = 3
+
 b_kumukh = tribal
-#b_tsakhur = city
-b_tabarsaran = castle
+#b_tsakhur = tribal
+#b_tabarsaran = tribal
 
 # Misc
 culture = caucasian_avar
 religion = orthodox
 
 # History
-1064.1.1 = { religion = sunni } 
+

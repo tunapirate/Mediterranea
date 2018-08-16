@@ -15,8 +15,8 @@ b_pontoise = city
 #b_mantes = city
 #b_fontenay = city
 
-culture = frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
 

@@ -21,7 +21,7 @@ b_honfleur = city
 #b_verneuil = temple
 
 # Misc
-culture = frankish
+culture = gallic
 religion = gallic_rite
 
 # History

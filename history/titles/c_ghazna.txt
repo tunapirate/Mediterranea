@@ -86,7 +86,7 @@
 #}
 1216.2.15 = {
 	holder = 93053
-	#liege = e_persia
+	#liege = k_persia
 }
 1222.1.1 = {
 	liege = e_mongol_empire

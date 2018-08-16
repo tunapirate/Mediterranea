@@ -6,14 +6,11 @@
 title = c_bilbays
 
 # Settlements
-max_settlements = 6
-b_bilbays = castle
-b_basta = city
-b_san_bilbays = temple
-b_samannud = city
-
-#b_abbasiya = castle
-#b_banha = city
+max_settlements = 5
+b_bilbays = tribal
+b_basta = tribal
+b_san_bilbays = tribal
+b_samannud = tribal
 
 # Misc
 culture = coptic

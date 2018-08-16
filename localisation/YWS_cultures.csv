@@ -1,35 +1,55 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 #Hispanic
 lusitanian;Lusitano;Lusitano;Lusitano;;Lusitano;;;;;;;;;x
-septimanian;Septimani;Septimani;Septimani;;Septimani;;;;;;;;;x
 hispanic;Hispanus;Hispanus;Hispanus;;Hispanus;;;;;;;;;x
+occitan;Aquitan;Aquitan;Aquitan;;Aquitan;;;;;;;;;x
+
 #Italic
 apennine;Romano;Romano;Romano;;Romano;;;;;;;;;x
+italian;Padano;Padano;Padano;;Padano;;;;;;;;;x
+roman;Romanus;Romanus;Romanus;;Romanus;;;;;;;;;x
+septiman;Septimanus;Septimanus;Septimanus;;Septimanus;;;;;;;;;x
+
 #African
 african_romance;African Romance;African Romance;African Romance;;African Romance;;;;;;;;;x
-african;Afriganu;Afriganu;Afriganu;;Afriganu;;;;;;;;;x
-tangieran;Tingianu;Tingianu;Tingianu;;Tingianu;;;;;;;;;x
-egyptian;Egyptian;Egyptian;Egyptian;;Egyptian;;;;;;;;;x
-coptic;Remenkhemi;Remenkhemi;Remenkhemi;;Remenkhemi;;;;;;;;;x
+
+african;Poenicus;Poenicus;Poenicus;;Poenicus;;;;;;;;;x
+tangieran;Tingitanu;Tingitanu;Tingitanu;;Tingitanu;;;;;;;;;x
+
 #Gallic
 gaulish;Gallic;Gallic;Gallic;;Gallic;;;;;;;;;x
-gallic;Gaulois;Gaulois;Gaulois;;Gaulois;;;;;;;;;x
+
+andegavian;Andegavinus;Andegavinus;Andegavinus;;Andegavinus;;;;;;;;;x
+arpitan;Burgonde;Burgonde;Burgonde;;Burgonde;;;;;;;;;x
+auvergnat;Arvernius;Arvernius;Arvernius;;Arvernius;;;;;;;;;x
 brittonic;Brithenig;Brithenig;Brithenig;;Brithenig;;;;;;;;;x
+gallic;Gallicus;Gallicus;Gallicus;;Gallicus;;;;;;;;;x
 rhaetic;Retic;Retic;Retic;;Retic;;;;;;;;;x
-#Eastern Romance
-eastern_romance;Eastern Romance;Eastern Romance;Eastern Romance;;Eastern Romance;;;;;;;;;x
+rhenish;Rhénan;Rhénan;Rhénan;;Rhénan;;;;;;;;;x
+thifalian;Taifalius;Taifalius;Taifalius;;Taifalius;;;;;;;;;x
+
 #Hellenic
 aegyptian;Aegyptoi;Aegyptoi;Aegyptoi;;Aegyptoi;;;;;;;;;x
 anatolian;Anatoloi;Anatoloi;Anatoloi;;Anatoloi;;;;;;;;;x
+
 #Northwest Semitic
 northwest_semitic;Northwest Semitic;Northwest Semitic;Northwest Semitic;;Northwest Semitic;;;;;;;;;x
+
 aramean;Aramáyé;Aramáyé;Aramáyé;;Aramáyé;;;;;;;;;x
+
 #Israelite
 mizrahi;Mizrahi;Mizrahi;Mizrahi;;Mizrahi;;;;;;;;;x
+
 #Iranian
 assyrian;Asorig;Asorig;Asorig;;Asorig;;;;;;;;;x
+
 #Germanic
 ostrogothic;Gothi;Gothi;Gothi;;Gothi;;;;;;;;;x
+
+#South Slavic
+slavonic;Slovenskji;Slovenskji;Slovenskji;;Slovenskji;;;;;;;;;x
+
+#Balkan
+balkan_group;Balkan;Balkan;Balkan;;Balkan;;;;;;;;;x
 
 #Localized Titles
 count_aramean;Ras;Ras;Ras;;Ras;;;;;;;;;x

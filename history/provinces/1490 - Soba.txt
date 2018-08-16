@@ -7,12 +7,10 @@ title = c_soba
 
 # Settlements
 max_settlements = 4
-b_soba = castle
-b_altekaina = temple
 
-#b_rufaa = city
-#b_arbagi = castle
-
+b_soba = tribal
+b_altekaina = tribal
+b_rufaa = tribal
 
 # Misc
 culture = nubian

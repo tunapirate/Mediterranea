@@ -15,7 +15,7 @@ b_forges = city
 
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

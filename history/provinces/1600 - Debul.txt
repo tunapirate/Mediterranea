@@ -6,19 +6,16 @@
 title = c_debul
 
 # Settlements
-max_settlements = 6
-b_debul = castle
-b_banbhore = city
-b_landhi = temple
-b_thatta = castle
-#b_makli = temple
-#b_shahbandar = city
-#b_kolachi = city
-#b_lari_bandar = castle
+max_settlements = 4
+
+b_debul = tribal
+b_banbhore = tribal
+b_landhi = tribal
+#b_thatta = tribal
 
 # Misc
 culture = sindhi
 religion = hindu
 
 # History
-#1066.1.1 = { trade_post = b_lafti }
+

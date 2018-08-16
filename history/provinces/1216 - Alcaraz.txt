@@ -6,16 +6,15 @@
 title = c_alcaraz
 
 # Settlements
-max_settlements = 3
-b_alcaraz = castle
-b_barrax = city
-b_munera = temple
+max_settlements = 4
+
+b_consabura = tribal
+b_alcaraz = tribal
+b_barrax = tribal
+b_munera = tribal
 
 # Misc
 culture = hispanic
 religion = hellenic_pagan
 
 # History
-
-1215.1.1 = { culture = castillan }
-1215.1.1 = { religion = catholic }

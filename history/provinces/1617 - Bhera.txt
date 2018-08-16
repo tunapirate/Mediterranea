@@ -6,13 +6,15 @@
 title = c_bhera
 
 # Settlements
-max_settlements = 5
-b_bhera = castle
-b_rampur = city
-b_katasraj = temple
-#b_girjakh = temple
-#b_behak_maken = castle
-#b_phalia = temple
+max_settlements = 7
+
+b_bhera = tribal
+b_rampur = tribal
+b_katasraj = tribal
+b_girjakh = tribal
+b_behak_maken = tribal
+#b_phalia = tribal
+#b_bhalwal = tribal
 
 # Misc
 culture = panjabi

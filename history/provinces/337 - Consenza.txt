@@ -16,7 +16,7 @@ b_rossano = temple
 
 # Misc
 culture = greek
-religion = hellenic_pagan
+religion = mercurial
 terrain = hills
 
 # History

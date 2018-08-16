@@ -6,32 +6,14 @@
 title = c_manupura  #Bahnasa
 
 # Settlements
-max_settlements = 6
-b_manuf = castle
-b_quwaysina = city
-b_ibyar = temple
-
-#b_saa = temple
-#b_shatanul = city
-#b_almahallah = city
-
-#b_athribis = castle
-#b_zagazig = castle
-#b_bubastis = city
-#b_qantir = castle
-#b_busiris = castle
+max_settlements = 5
+b_manuf = tribal
+b_quwaysina = tribal
+b_ibyar = tribal
+b_shatanul = tribal
 
 # Misc
 culture = coptic
 religion = miaphysite
 
 # History
-
-1066.1.1 = { 
-	b_manuf = ca_keep_1
-	b_manuf = ca_training_grounds_1
-	b_manuf = ca_stable_1
-	b_manuf = ca_wall_1
-	b_manuf = ca_wall_2
-	b_manuf = ca_militia_barracks_1
-}

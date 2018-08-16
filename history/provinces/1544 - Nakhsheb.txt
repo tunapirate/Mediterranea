@@ -8,12 +8,12 @@ title = c_nakhsheb
 # Settlements
 max_settlements = 5
 
-b_nakhsheb = castle
-b_kasba = city
-b_kandak = temple
-b_nawqad-kureysh = castle
-#b_bezda = castle
-#b_subakh = city
+b_nakhsheb = tribal
+b_kasba = tribal
+b_kandak = tribal
+b_nawqad-kureysh = tribal
+b_bezda = tribal
+b_subakh = tribal
 
 
 # Misc
@@ -22,7 +22,4 @@ religion = zoroastrian
 terrain = steppe
 
 # History
-990.1.1 = { religion = sunni }
 
-1000.1.1 = { culture = tajik }
-1000.1.1 = { b_subakh = city }

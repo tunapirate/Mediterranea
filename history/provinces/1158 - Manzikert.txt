@@ -6,19 +6,15 @@
 title = c_manzikert
 
 # Settlements
-max_settlements = 5
-b_manzikert = castle
-b_khnus = city
-b_glak = temple
-b_olnoutin = castle
-#b_tondrak = city
+max_settlements = 3
+
+b_manzikert = tribal
+b_khnus = tribal
+b_glak = tribal
 
 # Misc
 culture = armenian
 religion = apostolic
 
 # History
-1160.1.1 = { 
-	culture = kurdish 
-	religion = sunni 
-}
+

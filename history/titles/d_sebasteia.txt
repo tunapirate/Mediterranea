@@ -16,7 +16,7 @@
 	holder = 41580
 }
 1072.1.1 = {
-	liege = e_persia
+	liege = k_persia
 	holder = 41704
 }
 1076.1.1 = {

@@ -17,7 +17,7 @@ b_montbeliard = castle
 #b_clemontm = castle
 # Misc
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

@@ -16,7 +16,7 @@ b_saarbrucken = city
 #b_homburg = city
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = germanic_rite
 
 # History

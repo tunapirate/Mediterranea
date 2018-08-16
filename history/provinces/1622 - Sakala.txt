@@ -6,14 +6,15 @@
 title = c_sakala
 
 # Settlements
-max_settlements = 4
-b_sakala = castle
-b_jammu = city
-b_bhuttar = temple
-#b_bahu = castle
-#b_vallapura = castle
-#b_puran_nagar = city
-#b_pasrur = city
+max_settlements = 7
+
+b_sakala = tribal
+b_jammu = tribal
+b_bhuttar = tribal
+b_bahu = tribal
+b_vallapura = tribal
+#b_puran_nagar = tribal
+#b_pasrur = tribal
 
 # Misc
 culture = panjabi

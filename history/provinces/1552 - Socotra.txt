@@ -6,14 +6,9 @@
 title = c_socotra
 
 # Settlements
-max_settlements = 3
-b_qualnsiyah = castle
-b_tamrida = city
-b_qadub = temple
-#b_steroh = castle
-#b_asma = castle
-#b_siqirah = castle
-#b_qashiu = castle
+max_settlements = 1
+
+b_qualnsiyah = tribal
 
 # Misc
 culture = yemeni

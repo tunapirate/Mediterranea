@@ -6,16 +6,9 @@
 title = c_quattara
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 b_siwa = tribal
-#b_santariya = city
-#b_quattara = temple
-
-#b_qaretagnes = castle
-#b_abdannabi = castle
-#b_dayr = castle
-#b_alamelshwawish = castle
-#b_ziwaelbahari = castle
+b_santariya = tribal
 
 # Misc
 culture = tuareg

@@ -19,7 +19,7 @@ b_saintois = temple
 #b_saulnois = castle
 #b_dompaire = castle
 # Misc
-culture = frankish
+culture = rhenish
 religion = gallic_rite
 
 # History

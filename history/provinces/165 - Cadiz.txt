@@ -6,18 +6,16 @@
 title = c_cadiz
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
-b_osuna = castle
-b_carmona = temple
-b_ecija = city
-b_lora_del_rio = temple
-#b_sevimoron = city
-
+b_carmona = city
+b_osuna = tribal
+b_ecija = tribal
+b_lora_del_rio = tribal
+#b_sevimoron = tribal
 
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History
-1279.1.1 = { culture = castillan }
-1279.1.1 = { religion = catholic }
+

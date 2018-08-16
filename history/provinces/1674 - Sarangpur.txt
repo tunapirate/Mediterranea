@@ -6,19 +6,16 @@
 title = c_sarangpur
 
 # Settlements
-max_settlements = 4
-b_sarangpur = castle
-b_ashta = city
-#b_sidhhapur = temple
-#b_gagraun = castle
-#b_rajgarh = city
-#b_jhalawar = castle
+max_settlements = 5
+
+b_sarangpur = tribal
+b_ashta = tribal
+b_sidhhapur = tribal
+b_gagraun = tribal
+#b_rajgarh = tribal
 
 # Misc
 culture = hindustani
 religion = jain
 
 # History
-1066.1.1 = {
-	religion = hindu
-}

@@ -7,12 +7,13 @@ title = c_ranthambore
 
 # Settlements
 max_settlements = 5
-b_ranthambore = castle
-b_gangapur = city
-b_tonkra = temple
-#b_utgir = castle
-#b_mandrael = castle
-#b_sheopur = castle
+
+b_ranthambore = tribal
+b_gangapur = tribal
+b_tonkra = tribal
+#b_utgir = tribal
+#b_mandrael = tribal
+
 
 # Misc
 culture = rajput

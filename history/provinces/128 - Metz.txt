@@ -19,7 +19,7 @@ b_hingsingen = castle
 #b_bouzonville = city
 
 # Misc
-culture = frankish
+culture = rhenish
 religion = gallic_rite
 
 # History

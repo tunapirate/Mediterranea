@@ -17,7 +17,7 @@ b_saintantonin = temple
 
 #Misc
 religion = hellenic_pagan
-culture = occitan
+culture = auvergnat
 
 # History
 1150.1.1 = { religion = cathar }

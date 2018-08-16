@@ -6,11 +6,14 @@
 title = c_balkh
 
 # Settlements
-max_settlements = 4
-b_balkh = castle
-b_tirmidh = city
-b_navida = temple
-#b_kalif = castle
+max_settlements = 6
+
+b_balkh = city
+b_tirmidh = tribal
+b_navida = tribal
+b_kalif = tribal
+b_naw_bahar = tribal
+b_mazar = tribal
 
 # Misc
 culture = khorasani

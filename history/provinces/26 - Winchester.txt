@@ -24,7 +24,7 @@ b_wolvesey = temple
 
 # Misc
 culture = brittonic
-religion = hellenic_pagan
+religion = saturnal
 
 # History
 1070.1.1 = { capital = b_wolvesey}

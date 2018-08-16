@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 784 - Qatar
+
+# County Title
+title = c_qatar
+
+# Settlements
+max_settlements = 3
+b_murwab = tribal
+b_ath_thaqab = tribal
+
+# Misc
+culture = bedouin_arabic
+religion = zoroastrian
+
+# History
+

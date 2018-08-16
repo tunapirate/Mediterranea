@@ -118,7 +118,7 @@
 	holder = 34025
 }
 949.12.12 = {
-	liege = 0 #k_mesopotamia
+	liege = 0 #e_persia
 	holder = 0
 }
 #974.1.1 = {
@@ -131,7 +131,7 @@
 #	holder = 3084
 #}
 #1055.1.1 = {
-#	liege = e_persia
+#	liege = k_persia
 #}
 
 #1066.1.1 = {
@@ -154,7 +154,7 @@
 #	holder = 144061
 #}
 1138.1.1 = { #Caliph al-Muqtafi kicks out Seljuk shina of Baghdad
-	liege = e_persia
+	liege = k_persia
 	holder = 144062
 }
 1157.5.8 = {

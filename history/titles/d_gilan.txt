@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 1062.1.1 = {
-	liege = e_persia
+	liege = k_persia
 	holder = 93160 #Yaquti b. Chagri
 }
 1072.11.1 = {

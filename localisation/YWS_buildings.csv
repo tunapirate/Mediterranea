@@ -1,0 +1,11 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+# Population Buildings
+tb_rural_pop_625k;Meager Settlement;;;;;;;;;;;;;x
+tb_rural_pop_625k_desc;This territory is only lightly settled, with scattered hamlets spread over large distances. With such low population, trade is minimal at best and few troops can be levied.
+tb_rural_pop_125k;Sparse Settlement;;;;;;;;;;;;;x
+tb_rural_pop_125k_desc;While this territory bears some larger towns that function as centers of trade and administration, settlements are divided by swathes of wilderness 
+tb_rural_pop_25k;Frequent Settlement;;;;;;;;;;;;;x
+tb_rural_pop_25k_desc;Towns dot the countryside of this territory, and even the more distant hamlets have access to a larger market town within a manageable distance of travel.
+tb_rural_pop_50k;Dense Settlement;;;;;;;;;;;;;x
+tb_rural_pop_50k_desc;The territory is filled with well-populated urban centers that each serve their own rural, agricultural hinterland. While there are still stretches of wilderness and moors, much of the environment is managed by human populations.;;;;;;;;;;;;;x

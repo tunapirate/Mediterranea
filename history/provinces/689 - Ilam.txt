@@ -6,23 +6,18 @@
 title = c_igharayn
 
 # Settlements
-max_settlements = 6
-b_nihavand = castle
-b_khurramabad = city
-b_burujerd = temple
-b_dorood = city
+max_settlements = 7
 
-#b_alashtar = castle
-#b_aligoodarz = castle
-
-#b_burdj = castle
-#b_lishtar = temple
+b_nihavand = tribal
+b_khurramabad = tribal
+b_burujerd = tribal
+b_dorood = tribal
+b_alashtar = tribal
+b_aligoodarz = tribal
+b_burdj = tribal
 
 #Misc
 culture = pahlavi
 religion = zoroastrian
 
 # History
-#1066.1.1 = {
-#	b_alashtar = castle
-#}

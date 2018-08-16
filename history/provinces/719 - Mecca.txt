@@ -7,11 +7,11 @@ title = c_mecca
 
 # Settlements
 max_settlements = 5
-b_taif = castle
 b_mecca = temple
-b_jeddah = city
-b_turubah = city
-b_khulays = city
+b_taif = tribal
+b_jeddah = tribal
+b_turubah = tribal
+#b_khulays = tribal
 
 # Misc
 culture = hijazi

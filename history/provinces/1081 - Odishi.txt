@@ -6,20 +6,13 @@
 title = c_odishi
 
 # Settlements
- max_settlements = 4
-b_zugdidi = castle
-b_poti = city
-#b_martvili = temple
-#b_anaklia = castle
-#b_khobi = castle
-#b_tsalenjikha = temple
-#b_jvari = temple
- 
+ max_settlements = 2
+
+b_zugdidi = tribal
+#b_poti = tribal
 
 # Misc
 culture = georgian
 religion = orthodox
 
 # History
-
-1000.1.1 = { b_martvili = temple }

@@ -6,22 +6,15 @@
 title = c_famagusta
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_kantara = castle
-b_famagusta = city
-b_salamiscyprus = temple
-
-#b_karpasia = temple
-
+b_kantara = tribal
+b_famagusta = tribal
+b_salamiscyprus = tribal
 
 # Misc
 culture = greek
 religion = orthodox
 
 # History
-
-1165.1.1 = { trade_post = b_faliero }
-1214.1.1 = { remove_settlement = b_salamiscyprus }
-1214.1.1 = { b_karpasia = temple }
 

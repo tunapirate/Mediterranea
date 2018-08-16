@@ -14,8 +14,8 @@ b_clermont = castle
 #b_creil = city
 
 
-culture = frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
 #1123.1.1  = { b_xxx = castle }

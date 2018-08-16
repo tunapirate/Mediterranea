@@ -7,16 +7,15 @@ title = c_erbil
 
 # Settlements
 max_settlements = 4
-b_arbil = castle
-b_shaqlawa = city
-b_darabad = temple
-#b_tellhaftun = city
+
+b_arbil = tribal
+b_shaqlawa = tribal
+b_darabad = tribal
+b_tellhaftun = tribal
 
 #Misc
-culture = kurdish
-religion = nestorian
+culture = assyrian
+religion = mazdaki
 
 # History
-1200.1.1 = {
-	religion = yazidi
-}
+

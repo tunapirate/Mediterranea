@@ -6,28 +6,14 @@
 title = c_tyrus
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 
-b_syrbelfort = castle
-b_sidon = city
-b_sarafand = temple
-#b_schuf = castle
-
-
+b_sidon = tribal
+b_syrbelfort = tribal
+b_sarafand = tribal
 
 # Misc
 culture = aramean
 religion = miaphysite
 
 # History
-1030.1.1 = { 
-	culture = levantine_arabic
-}
-1105.1.1 = {
-    religion = maronite
-}
-1170.1.1 = { b_schuf = castle } # lordship of Schuf
-1291.1.1 = { trade_post = b_contarini }
-1305.1.1 = {
-	religion = sunni
-}

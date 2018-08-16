@@ -7,10 +7,11 @@ title = c_deir
 
 # Settlements
 max_settlements = 4
-b_anah = castle
-b_haditha_anbar = city
-b_hit = city
-#b_anbar_iraq = city
+
+b_daskara = city
+b_anah = tribal
+b_haditha_anbar = tribal
+b_hit = tribal
 
 #Misc
 culture = assyrian

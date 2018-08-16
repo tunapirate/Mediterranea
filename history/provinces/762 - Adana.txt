@@ -7,12 +7,12 @@ title = c_adana
 
 # Settlements
 max_settlements = 5
-b_alharuniya = castle
-b_adana = city
-b_mamistra = temple
-b_lajazzo = city
-#b_yilankale = castle
-#b_savrandacastle = castle
+
+b_alharuniya = tribal
+b_adana = tribal
+b_mamistra = tribal
+b_lajazzo = tribal
+b_yilankale = tribal
 
 # Misc
 culture = greek
@@ -20,9 +20,3 @@ religion = miaphysite
 
 # History
 
-1010.1.1 = {
-	culture = armenian
-	religion = apostolic }
-
-1203.1.1 = { b_yilankale = castle }
-1240.1.1 = { trade_post = b_faliero }

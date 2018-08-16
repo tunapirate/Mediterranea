@@ -6,17 +6,16 @@
 title = c_tus
 
 # Settlements
-max_settlements = 5
-b_tus = castle
-b_dizbad = city
-b_sandabad = temple
+max_settlements = 4
 
-#b_radkan = castle
-#b_khuchan = castle
+b_tus = tribal
+b_dizbad = tribal
+b_sandabad = tribal
+b_radkan = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-980.1.1 = { religion = sunni }
+

@@ -1,4 +1,4 @@
 867.1.1 = {
 	holder = 594034
-	liege = "k_aquitaine"
+	liege = "k_auvergne"
 }

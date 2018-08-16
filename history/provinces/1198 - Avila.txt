@@ -6,22 +6,13 @@
 title = c_avila
 
 # Settlements
-max_settlements = 4
-b_avila = castle
-#b_arevalo = city
-#b_valdeiglesias = temple
-#b_valdecorneja = castle
-#b_piedrahita = city
-#b_bonilla = temple
+max_settlements = 2
 
+b_avila = tribal
+#b_arevalo = tribal
 
 # Misc
 culture = castillan
 religion = hispanic_rite
 
 # History
-
-1066.1.1 = { 
-	b_avila = ca_keep_1
-	b_avila = ca_wall_1
-}

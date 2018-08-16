@@ -6,18 +6,16 @@
 title = c_guria
 
 # Settlements
-max_settlements = 3
-b_bukistsikhe = castle
-b_batum = city
+max_settlements = 4
+
+b_bukistsikhe = tribal
+b_batum = tribal
 #b_gonio = castle
 #b_ozurgeti = castle
-#b_tsikhisdziri = castle
-#b_skhalta = temple
-#b_khula = temple
 
 # Misc
 culture = georgian
 religion = orthodox
 
 # History
-1259.1.1 = { trade_post = b_spinola }
+

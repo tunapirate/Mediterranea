@@ -6,22 +6,14 @@
 title = c_larestan
 
 # Settlements
-max_settlements = 4
-b_lar = castle
-b_huzu = city
-b_kariyan = temple
-#b_hisn-ibn-umara = city
+max_settlements = 3
+
+b_lar = tribal
+b_huzu = tribal
+b_kariyan = tribal
 
 # Misc
 culture = pahlavi
 religion = zoroastrian
 
 # History
-977.1.1 = { culture = persian }
-977.1.1 = { religion = sunni }
-#1062.1.1 = { culture = kurdish }
-#1062.1.1 = { b_lar = tribal }
-#1065.10.10 = {
-#      remove_settlement = b_kariyan
-#      }
-#1150.1.1 = { b_lar = castle }

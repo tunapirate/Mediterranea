@@ -16,7 +16,7 @@ b_koper = temple
 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 1077.1.1 = { b_duino = castle }

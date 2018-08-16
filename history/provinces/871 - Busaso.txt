@@ -8,19 +8,11 @@ title = c_busaso
 # Settlements
 max_settlements = 3
 
-b_mosylon = castle
-b_lasanod = temple
-#b_bandaraassim = city
-#b_garoowe = castle
-#b_qardho = castle
-#b_erigavo = city
-#b_buraan = castle
-#b_hadaftimo = castle
+b_mosylon = tribal
+b_lasanod = tribal
 
 # Misc
 culture = somali
 religion = jewish
 
 # History
-
-1337.1.1 = { b_bandaraassim = city }

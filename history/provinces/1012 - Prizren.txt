@@ -17,7 +17,7 @@ b_pristina = city
 
 
 # Misc
-culture = arberian
+culture = romanian
 religion = hellenic_pagan
 
 # History

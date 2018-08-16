@@ -6,17 +6,16 @@
 title = c_tokharestan
 
 # Settlements
-max_settlements = 4
-b_khulm = castle
-b_samangan = city
-b_san = temple
+max_settlements = 3
 
-#b_ruy = castle
+b_khulm = tribal
+b_samangan = tribal
+b_san = tribal
 
 # Misc
 culture = khorasani
-religion = zoroastrian
+religion = buddhist
 
 # History
-990.1.1 = { religion = sunni }
+
 

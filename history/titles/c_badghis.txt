@@ -82,7 +82,7 @@
 }
 1215.1.1 = {
 	holder = 93053
-	#liege = e_persia
+	#liege = k_persia
 }
 1222.1.1 = {
 	holder = 125501

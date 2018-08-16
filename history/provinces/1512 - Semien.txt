@@ -6,11 +6,10 @@
 title = c_semien
 
 # Settlements
-max_settlements = 3
-b_semien = castle
-b_debarq = city
-
-#b_deguma = temple
+max_settlements = 4
+b_semien = tribal
+b_debarq = tribal
+b_deguma = tribal
 
 # Misc
 culture = falashim

@@ -8,7 +8,7 @@ k_germany;Deutschland;;;;;;;;;;;;;x
 k_germany_adj;Deutsche;;;;;;;;;;;;;x
 k_lotharingia;Lotharingen;;;;;;;;;;;;;x
 k_lotharingia_adj;Lotharingi;;;;;;;;;;;;;x
-#Lower Lothringa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#Lower Lotharingia;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 k_lower_lorraine;Niederlothringen;;;;;;;;;;;;;x
 k_lower_lorraine_adj;Niederlothringische;;;;;;;;;;;;;x
 d_julich;Jülich;;;;;;;;;;;;;x
@@ -439,19 +439,27 @@ d_lithuanians_adj;Lietuvos;;;;;;;;;;;;;x
 #################;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 e_france;Gallia;;;;;;;;;;;;;x
 e_france_adj;Gallique;;;;;;;;;;;;;x
+#Septimania;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+k_septimania;Septimania;;;;;;;;;;;;;x
+k_septimania_adj;Septiman;;;;;;;;;;;;;x
+d_toulouse;Tolosa;;;;;;;;;;;;;x
+d_toulouse_adj;Tolosa;;;;;;;;;;;;;x
+d_septimania;Septimania;;;;;;;;;;;;;x
+d_septimania_adj;Septiman;;;;;;;;;;;;;x
+#Auvergne;;;;;;;;;;;;;x
+k_auvergne;Auvèrnhe;;;;;;;;;;;;;x
+k_auvergne_adj;Auvèrnhenan;;;;;;;;;;;;;x
+d_auvergne;Auvèrnhe;;;;;;;;;;;;;x
+d_auvergne_adj;Auvèrnhenan;;;;;;;;;;;;;x
+d_avairon;Avairon;;;;;;;;;;;;;x
+d_avairon_adj;Avaironès;;;;;;;;;;;;;x
 #Aquitaine;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 k_aquitaine;Aquitània;;;;;;;;;;;;;x
 k_aquitaine_adj;Aquitaina;;;;;;;;;;;;;x
 d_aquitaine;Aquitània;;;;;;;;;;;;;x
 d_aquitaine_adj;Aquitain;;;;;;;;;;;;;x
-d_auvergne;Auvèrnhe;;;;;;;;;;;;;x
-d_auvergne_adj;Auvèrnhenan;;;;;;;;;;;;;x
 d_limousin;Lemosin;;;;;;;;;;;;;x
 d_limousin_adj;Lemosinan;;;;;;;;;;;;;x
-d_toulouse;Tolosa;;;;;;;;;;;;;x
-d_toulouse_adj;Tolosa;;;;;;;;;;;;;x
-d_septimania;Septimania;;;;;;;;;;;;;x
-d_septimania_adj;Septimania;;;;;;;;;;;;;x
 d_archberry;Berry;;;;;;;;;;;;;x
 d_archberry_adj;Berrichon;;;;;;;;;;;;;x
 d_foix;Pirenèus;;;;;;;;;;;;;x

@@ -6,13 +6,14 @@
 title = c_chitrakut
 
 # Settlements
-max_settlements = 5
-b_chitrakut = castle
-b_rampura = city
-#b_baroli = temple
-#b_bhainsrorgarh = castle
-#b_mandalgarh = castle
-#b_nagari = city
+max_settlements = 6
+
+b_chitrakut = tribal
+b_rampura = tribal
+b_baroli = tribal
+b_bhainsrorgarh = tribal
+#b_mandalgarh = tribal
+#b_nagari = tribal
 
 # Misc
 culture = rajput

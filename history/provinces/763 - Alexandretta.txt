@@ -8,11 +8,10 @@ title = c_alexandretta
 # Settlements
 max_settlements = 4
 
-b_alexandretta = castle
-b_rhosus = temple
-b_payas = city
-b_portella = city
-#b_myriandus = city
+b_alexandretta = tribal
+b_rhosus = tribal
+b_payas = tribal
+b_portella = tribal
 
 # Misc
 culture = greek
@@ -21,20 +20,6 @@ terrain = mountain
 
 # History
 
-1010.1.1 = {
-	religion = apostolic }
-
-1190.1.1 = { culture = armenian }
-
-# Mongol Invasion
-
-1220.1.1 = { remove_settlement = b_rhosus }
-1220.1.1 = { b_portella = city }
-
-# Conquered by the Mamluks
-
-1268.1.1 = { culture = levantine_arabic }
-1268.1.1 = { religion = sunni } 
 
 
 

@@ -17,7 +17,7 @@ b_sault = castle
 #b_riez = temple
 
 # Misc
-culture = occitan
+culture = septiman
 religion = hellenic_pagan
 
 # History

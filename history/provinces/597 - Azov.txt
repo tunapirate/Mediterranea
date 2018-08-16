@@ -13,7 +13,7 @@ b_kagalnik = city
 #b_cherkassk = castle
 
 
-culture = croatian
+culture = slavonic
 religion = slavic_pagan
 
 # History

@@ -9,7 +9,7 @@ title = c_kassala
 max_settlements = 2
 
 b_djarin = tribal
-#b_kassala = castle
+b_kassala = tribal
 
 # Misc
 culture = beja

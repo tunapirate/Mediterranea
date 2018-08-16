@@ -6,11 +6,11 @@
 title = c_tigre
 
 # Settlements
-max_settlements = 3
-b_tigre = castle
-b_wegera = temple
+max_settlements = 4
 
-#b_weldibba = city
+b_tigre = tribal
+b_wegera = tribal
+b_weldibba = tribal
 
 # Misc
 culture = ethiopian

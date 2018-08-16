@@ -8,15 +8,14 @@ title = c_biyar
 # Settlements
 max_settlements = 4
 
-b_biyar = castle
-b_bistam = temple
-b_badhash = city
-
-#b_kharkan = castle
+b_biyar = tribal
+b_bistam = tribal
+b_badhash = tribal
+b_kharkan = tribal
 
 # Misc
-culture = persian
+culture = daylamite
 religion = zoroastrian
 
 # History
-900.1.1 = { religion = sunni }
+

@@ -15,7 +15,7 @@ b_kaptol = temple
 b_sisak = castle
 
 # Misc
-culture = east_gothic
+culture = romanian
 religion = orthodox
 
 # History

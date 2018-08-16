@@ -16,8 +16,8 @@ b_abbayedemortemer = temple
 #b_vandrimare = city
 
 
-culture = frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
 

@@ -16,7 +16,7 @@ b_berane = temple
 
 
 # Misc
-culture = arberian
+culture = romanian
 religion = hellenic_pagan
 
 # History

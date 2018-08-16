@@ -13,10 +13,7 @@ b_rumigny = city
 #b_signylabbeye = temple
 #b_sedan = castle
 
-
-
-
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

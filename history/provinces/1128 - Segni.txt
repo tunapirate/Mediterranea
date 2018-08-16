@@ -17,7 +17,7 @@ b_piperno = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = plains
 # History
 1042.1.1 = { b_anagni = castle }

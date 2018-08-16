@@ -7,14 +7,14 @@ title = c_damoh
 
 # Settlements
 max_settlements = 4
-b_damoh = castle
-b_dhamoni = city
-#b_nohta = temple
-#b_singrampur = castle
-#b_narsinghgarh = castle
+
+b_damoh = tribal
+b_dhamoni = tribal
+b_nohta = tribal
+#b_singrampur = tribal
 
 # Misc
 culture = hindustani
-religion = hindu
+religion = jain
 
 # History

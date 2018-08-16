@@ -6,10 +6,8 @@
 title = c_kharija
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 b_kharija = tribal
-#b_alkalamun = city
-#b_alkasr = temple
 
 # Misc
 culture = nubian

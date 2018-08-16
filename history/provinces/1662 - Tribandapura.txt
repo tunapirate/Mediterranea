@@ -6,12 +6,15 @@
 title = c_tribandapura
 
 # Settlements
-max_settlements = 5
-b_tribandapura = castle
-b_sunam = city
-#b_jaintpuri = temple
-#b_kartikeya = temple
-#b_amin = castle
+max_settlements = 7
+
+b_tribandapura = tribal
+b_sunam = tribal
+b_jaintpuri = tribal
+b_kartikeya = tribal
+b_amin = tribal
+#b_akalgarh = tribal
+#b_dhode = tribal
 
 # Misc
 culture = hindustani

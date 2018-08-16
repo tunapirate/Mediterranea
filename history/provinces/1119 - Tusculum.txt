@@ -17,6 +17,6 @@ b_palestrina = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = farmlands
 # History

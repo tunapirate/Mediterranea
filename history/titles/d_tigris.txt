@@ -11,7 +11,7 @@
 	holder = 0
 }
 945.1.1 = {
-	liege = k_mesopotamia
+	liege = e_persia
 	holder = 1231064
 }
 967.4.8 = {
@@ -46,7 +46,7 @@
 	holder = 0
 }
 1066.1.1 = {
-	liege = e_persia
+	liege = k_persia
 	holder = 1230242 #appointed shihna of Baghdad in 1060; duration of tenure unknown
 }
 1071.5.5 = {

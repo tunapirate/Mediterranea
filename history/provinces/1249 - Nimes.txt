@@ -20,7 +20,7 @@ b_saingilles = temple
 
 
 #Misc
-religion = hellenic_pagan
-culture = occitan
+religion = apollonian
+culture = septiman
 
 1120.1.1   = { b_chateaudebeucaire = castle }

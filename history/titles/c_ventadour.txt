@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 778.1.1 = {
-	liege = k_aquitaine
+	liege = "k_auvergne"
 	holder = 6392
 }
 781.1.1 = {

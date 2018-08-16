@@ -1,5 +1,0 @@
-# -*- ck2.history.titles -*-
-
-1040.1.1 = {
-	holder = 1226410 # "Eóin", Bishop of Raphoe
-}

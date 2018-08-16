@@ -6,13 +6,13 @@
 title = c_dadhipadra
 
 # Settlements
-max_settlements = 3
-b_dadhipadra = castle
-b_pavagadh = castle
-#b_champaner = city
-#b_godhra = temple
-#b_kalika_mata = temple
-#b_jawad = city
+max_settlements = 5
+
+b_dadhipadra = tribal
+b_pavagadh = tribal
+b_champaner = tribal
+b_godhra = tribal
+#b_kalika_mata = tribal
 
 # Misc
 culture = rajput

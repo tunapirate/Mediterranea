@@ -7,14 +7,15 @@ title = c_ganj-rustaq
 
 # Settlements
 max_settlements = 3
-b_baghshur = castle
-b_djebel-fidda = city
-b_dihistan-ganj = temple
+
+b_baghshur = tribal
+b_djebel-fidda = tribal
+b_dihistan-ganj = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-990.1.1 = { religion = sunni }
+
 

@@ -18,7 +18,7 @@ b_pontigny = temple
 
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

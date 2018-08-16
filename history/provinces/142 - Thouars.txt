@@ -16,7 +16,7 @@ b_lucon = temple
 #b_mauleon = temple
 #b_fontenay = castle
 
-culture = occitan
+culture = thifalian
 religion = hellenic_pagan
 
 # History

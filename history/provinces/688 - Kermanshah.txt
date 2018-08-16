@@ -6,17 +6,18 @@
 title = c_kermanshah
 
 # Settlements
-max_settlements = 4
-b_kermanshah = castle
-b_hulwan = city
-b_kangivar = temple
-b_mahalkufa = castle
+max_settlements = 7
+
+b_hulwan = castle
+b_kermanshah = tribal
+b_kangivar = tribal
+b_mahalkufa = tribal
+b_khurmal = tribal
+b_vindirni = tribal
+b_jameh_shuran = tribal
 
 #Misc
-culture = kurdish
+culture = pahlavi
 religion = zoroastrian
 
 # History
-1180.1.1 = {
-	remove_settlement = b_mahalkufa
-}

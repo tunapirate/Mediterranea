@@ -6,13 +6,10 @@
 title = c_chandax
 
 # Settlements
-max_settlements = 4
-b_iraklio = castle
-b_ierapetra = temple
-b_sitia = castle
+max_settlements = 2
 
-#b_agiosnikolaos = city
-#b_palaeokastro = castle
+b_iraklio = tribal
+b_ierapetra = tribal
 
 # Misc
 culture = greek
@@ -20,10 +17,5 @@ religion = orthodox
 terrain = mountain
 
 # History
-1189.1.1 = { trade_post = b_morosini }
-#4th crusade
-
-
-1337.1.1 = { b_palaeokastro = castle }
 
 

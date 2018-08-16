@@ -6,21 +6,14 @@
 title = c_setubal
 
 # Settlements
-max_settlements = 4
-b_setubal = castle
-b_benavente_setubal = temple
-b_salvaterra_de_magos = city
-#b_coruche = castle
-#b_almada = castle
-#b_palmela = castle
-#b_sesimbra = castle
+max_settlements = 3
 
+b_setubal = tribal
+b_benavente_setubal = tribal
+#b_salvaterra_de_magos = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = neptunal
 
 # History
-
-1235.1.1 = { culture = portuguese }
-1235.1.1 = { religion = catholic }

@@ -7,11 +7,12 @@ title = c_tadmor
 
 # Settlements
 max_settlements = 5
-b_numaniya = castle
-b_hillah = city
-b_annil = city
-b_jarjaraya = city
-#b_birmallaha = city
+
+b_numaniya = tribal
+b_hillah = tribal
+b_annil = tribal
+b_jarjaraya = tribal
+b_birmallaha = tribal
 
 # Misc
 culture = pahlavi
@@ -19,4 +20,3 @@ religion = zoroastrian
 
 # History
 
-1101.1.1 = { b_hillah = city }

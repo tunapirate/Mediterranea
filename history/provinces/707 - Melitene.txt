@@ -6,21 +6,14 @@
 title = c_melitene
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
+
 b_melitene = castle
-b_arca = temple
-b_samosata = city
-b_qlaudia = temple
-#b_gubos = temple
+b_arca = tribal
+b_samosata = tribal
 
 # Misc
 culture = greek
 religion = paulician
 
 # History
-
-1121.1.1 = { 
-	culture = turkmen
-	religion = sunni
-}
-1256.1.1 = { culture = turkish }

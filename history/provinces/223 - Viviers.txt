@@ -19,9 +19,9 @@ b_largentiere = city
 #b_joyeuse = castle
 
 # Misc
-culture = visigothic
-religion = hellenic_pagan
+culture = auvergnat
+religion = apollonian
 
 # History
-867.1.1 = { culture = occitan }
+
 

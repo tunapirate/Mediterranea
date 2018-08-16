@@ -6,20 +6,14 @@
 title = c_tabriz
 
 # Settlements
-max_settlements = 5
-b_babak = castle
-b_tabriz = city
-b_ahar = castle
-b_marand = city
-#b_ujan = castle
-#b_shabestar = temple
+max_settlements = 3
+
+b_babak = tribal
+b_tabriz = tribal
+b_ahar = tribal
 
 #Misc
 culture = kurdish
 religion = mazdaki
 
 # History
-
-1150.1.1 = { 
-	culture = adhari 
-}

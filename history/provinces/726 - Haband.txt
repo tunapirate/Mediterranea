@@ -7,10 +7,9 @@ title = c_haband
 
 # Settlements
  max_settlements = 2
-b_ktish = castle
-b_amaras = temple
-#b_nakorzan = city
- 
+
+b_ktish = tribal
+b_amaras = tribal
 
 # Misc
 culture = armenian

@@ -6,26 +6,12 @@
 title = c_tzamandos
 
 # Settlements
-max_settlements = 4
-b_tzamandos = castle
-b_malandara = city
-b_ariaratheia = temple
-#b_armaxa = city
+max_settlements = 3
+
+b_tzamandos = tribal
+b_malandara = tribal
+#b_ariaratheia = tribal
 
 # Misc
 culture = greek
 religion = paulician
-
-# History
-890.8.26 = { 
-	religion = orthodox
-}
-1021.1.1 = { 
-	culture = armenian
-	religion = apostolic
-}
-1100.1.1 = { 
-	culture = turkmen
-	religion = sunni
-}
-1256.1.1 = { culture = turkish }

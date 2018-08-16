@@ -17,7 +17,7 @@ b_argentan = city
 
 
 # Misc
-culture = frankish
+culture = andegavian
 religion = gallic_rite
 
 # History

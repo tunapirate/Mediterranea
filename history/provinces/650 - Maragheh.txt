@@ -8,14 +8,13 @@ title = c_maragheh
 # Settlements
 max_settlements = 3
 
-b_maragheh = castle
-b_laylan = temple
-b_dakharraqan = city
-#b_shiz = city
+b_maragheh = tribal
+b_laylan = tribal
+b_dakharraqan = tribal
 
 # Misc
 culture = kurdish
-religion = zoroastrian
+religion = mazdaki
 
 # History
 

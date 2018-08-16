@@ -6,18 +6,15 @@
 title = c_ifat
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 b_ifat = tribal
-b_hayk = city
-
-#b_gidim = temple
-#b_bati = castle
+b_hayk = tribal
 
 # Misc
 culture = afar
 religion = miaphysite
 
 # History
-1093.1.1 = { b_ifat = castle }
+
 
   

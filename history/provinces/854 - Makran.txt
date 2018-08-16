@@ -6,28 +6,14 @@
 title = c_makran
 
 # Settlements
-max_settlements = 6
+max_settlements = 3
 
 b_bampur = tribal
-#b_fahraj = castle
-b_tiz = city
-#b_iskaf = temple
-
-#b_khwash = castle
-#b_bih = city
-#b_rask = temple
-#b_kasr-i-kand = castle
-#b_bint = castle
+b_fahraj = tribal
+b_tiz = tribal
 
 # Misc
 culture = qufs
-religion = manichean
+religion =  zoroastrian
 
 # History
-1090.1.1 = {	culture = baloch }
-1090.1.1 = { religion = sunni }
-1209.1.1 = {
-	b_bampur = castle
-	b_fahraj = castle
-	b_iskaf = temple
-}

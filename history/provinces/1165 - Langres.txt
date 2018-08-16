@@ -15,7 +15,7 @@ b_chaumont = city
 #b_chalindrey = city
 
 
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

@@ -18,7 +18,7 @@ b_brindas = castle
 #b_irigny = castle
 
 # Misc
-culture = frankish
+culture = gallic
 religion = saturnal
 
 # History

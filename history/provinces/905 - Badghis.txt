@@ -6,28 +6,14 @@
 title = c_badghis
 
 # Settlements
-max_settlements = 6
-b_herat = castle
-b_malin = temple
-b_pushang = city
-b_kusuy = city
+max_settlements = 2
 
-#b_karukh = castle
-#b_esfezar = castle
+b_herat = castle
+b_malin = tribal
 
 # Misc
 culture = khorasani
 religion = zoroastrian
 
 # History
-950.1.1 = {
-	religion = sunni
-}
-1066.1.1 = { b_karukh = castle }
-1221.1.1 = { capital = b_karukh }
-1221.1.1 = {
-      remove_settlement = b_herat
-      remove_settlement = b_kusuy
-      }
-1236.1.1 = { b_herat = castle }
-1236.1.1 = { capital = b_herat }
+

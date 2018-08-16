@@ -6,17 +6,14 @@
 title = c_charpete
 
 # Settlements
- max_settlements = 4
-b_charpete = castle
-b_chozanon = city
-b_chosomachon = castle
-#b_mertikerton = castle
-#b_pertek = castle
+ max_settlements = 3
+
+b_charpete = tribal
+b_chozanon = tribal
+b_chosomachon = tribal
  
 # Misc
 culture = armenian
-religion = apostolic
+religion = paulician
 
 # History
-
-1110.1.1 = { b_pertek = castle }

@@ -7,9 +7,9 @@ title = c_duqm
 
 # Settlements
 max_settlements = 2
-b_duqm = tribal
 
-#b_surmasirah = city
+b_duqm = tribal
+b_surmasirah = tribal
 
 # Misc
 culture = bedouin_arabic

@@ -21,6 +21,6 @@ b_lavant = temple
 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = orthodox
 
 # History

@@ -15,7 +15,7 @@ b_imotski = temple
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 900.1.1 = {religion = catholic }

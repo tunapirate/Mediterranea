@@ -6,17 +6,16 @@
 title = c_sfax
 
 # Settlements
-max_settlements = 5
+max_settlements = 4
 
-b_sfax = castle
 b_mahdia = city
-b_haydaran = castle
-b_slakta = temple
-b_alhamma = temple
+b_sfax = tribal
+b_alhamma = tribal
+b_slakta = tribal
 
 # Misc
 culture = african
-religion = hellenic_pagan
+religion = mercurial
 
 # History
 1067.1.1 = { remove_settlement = b_alhamma  }

@@ -18,8 +18,8 @@ b_chevreuse = castle
 #b_etampes = castle
 #b_montlhery = castle
 
-culture = frankish
-religion = hellenic_pagan
+culture = gallic
+religion = saturnal
 
 # History
 1123.1.1  = { b_etampes = castle }

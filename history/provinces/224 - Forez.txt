@@ -21,7 +21,7 @@ b_montbrison = city
 #b_stetienne = city
 
 # Misc
-culture = frankish
+culture = gallic
 religion = hellenic_pagan
 
 # History

@@ -17,7 +17,7 @@ b_fleury = temple
 #b_meung = temple
 
 
-culture = frankish
+culture = andegavian
 religion = gallic_rite
 
 # History
