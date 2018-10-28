@@ -6,9 +6,11 @@
 title = c_monreal
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
+
 b_petra = tribal
 b_monreal = tribal
+#b_wadi_musa = tribal
 
 # Misc
 culture = levantine_arabic

@@ -14,7 +14,7 @@ b_abohar = tribal
 b_ajodhan = tribal
 b_satghara = tribal
 #b_chichawatni = tribal
-#d_malka_hans = tribal
+#b_malka_hans = tribal
 
 # Misc
 culture = panjabi

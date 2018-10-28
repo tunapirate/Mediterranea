@@ -847,67 +847,66 @@
 
 57001=
 {
-	name="Vahrezid"
+	name="Wehrezí"
 	culture="kurdish"
 	religion="zoroastrian"
 }
 57002=
 {
-	name="Hormuzdid"
+	name="Hurmoghí"
 	culture="persian"
 	religion="zoroastrian"
 }
 57003=
 {
-	name="Fasanjus"
+	name="Fasanjas"
 	culture="persian"
 	religion="zoroastrian"
 }
 57004=
 {
-	name="Sassanid"
+	name="Sasaní"
 	culture="persian"
 	religion="zoroastrian"
 }
 57005=
-{
-	name="Aspahbadid" #Tabarestan
+	name="Aspahbadí" #Tabarestan
 	culture="persian"
 	religion="zoroastrian"
 }
 57006=
 {
-	name="Varazid" #Khorasan
+	name="Varazí" #Khorasan
 	culture="persian"
 	religion="zoroastrian"
 }
 57007=
 {
-	name="Mehranid" #Esfahan
+	name="Mihraní" #Esfahan
 	culture="persian"
 	religion="zoroastrian"
 }
 57008=
 {
-	name="Spandiyadid" #Hamadan
+	name="Spandiyadhí" #Hamadan
 	culture="persian"
 	religion="zoroastrian"
 }
 57009=
 {
-	name="Zikid" #Tabriz
+	name="Žik" #Tabriz
 	culture="persian"
 	religion="zoroastrian"
 }
 57010=
 {
-	name="Surenid" #Sistan
+	name="Surení" #Sistan
 	culture="persian"
 	religion="zoroastrian"
 }
 57011=
 {
-	name="Gushnaspid"
+	name="Xandan-e Gushnasp"
 	culture="persian"
 	religion="zoroastrian"
 }
@@ -931,25 +930,25 @@
 }
 57015=
 {
-	name="Shahragid" #Fars
+	name="Shahragí" #Fars
 	culture="persian"
 	religion="zoroastrian"
 }
 57016=
 {
-	name="Varhranid" #Balochistan
+	name="Varhraní" #Balochistan
 	culture="persian"
 	religion="zoroastrian"
 }
 57017=
 {
-	name="Xušnawazid" #Dihistan
+	name="Xušnawazí" #Dihistan
 	culture="persian"
 	religion="zoroastrian"
 }
 57018=
 {
-	name="Samanid"
+	name="Samaní"
 	culture="persian"
 	religion="zoroastrian"
 	coat_of_arms=
@@ -962,7 +961,7 @@
 }
 57019=
 {
-	name="Tahirid"
+	name="Tâhiriyâní"
 	culture="persian"
 	religion="zoroastrian"
 	coat_of_arms=

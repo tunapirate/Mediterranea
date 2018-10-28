@@ -1,4 +1,4 @@
 867.1.1 = {
-	holder = 524010
-	liege = "d_jazira"
+	holder = 534029
+	liege = "d_aleppo"
 }

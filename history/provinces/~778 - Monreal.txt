@@ -1,0 +1,17 @@
+# -*- ck2.history.provinces -*-
+
+# 778 - Monreal
+
+# County Title
+title = c_monreal
+
+# Settlements
+max_settlements = 2
+b_petra = tribal
+b_monreal = tribal
+
+# Misc
+culture = levantine_arabic
+religion = miaphysite
+
+# History

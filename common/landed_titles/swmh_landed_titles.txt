@@ -4318,7 +4318,7 @@ e_byzantium = {
 		capital = 496 # Byzantium
 		culture = greek
 		d_thrace = {
-			color = { 194 129 1 }
+			color = { 214 129 227 }
 			color2 = { 255 255 255 }
 			capital = 496
 			norman = "Thrace"
@@ -4598,7 +4598,7 @@ e_byzantium = {
 			}
 		}
 		d_strymon = {
-			color = { 0 86 148 }
+			color = { 135 57 142 }
 			color2 = { 255 255 255 }
 			oghuz = "Serez"
 			turkmen = "Serez"
@@ -4672,7 +4672,7 @@ e_byzantium = {
 			}
 		}
 		d_adrianopolis = {
-			color = { 146 0 5 }
+			color = { 75 40 105 }
 			color2 = { 255 255 20 }
 			capital = 494
 			culture = greek
@@ -5080,7 +5080,7 @@ e_byzantium = {
 			}
 		}
 		d_turnovo = {
-			color = { 88 80 112 }
+			color = { 91 75 125 }
 			color2 = { 255 255 255 }
 			capital = 499
 			greek = "Paristrion"
@@ -5237,7 +5237,7 @@ e_byzantium = {
 			}
 		}
 		d_karvuna = {
-			color = { 63 127 98 }
+			color = { 106 35 121 }
 			color2 = { 255 255 255 }
 			greek = "Mikrá Skythia"
 			east_gothic = "Mikrá Skythia"
@@ -5405,7 +5405,7 @@ e_byzantium = {
 		catholic = 2000
 		zoroastrian_group = 100
 		d_thessalonika = {
-			color = { 205 22 30 }
+			color = { 198 30 93 }
 			color2 = { 255 255 255 }
 			capital = 490
 			frankish = "Thessalonique"
@@ -5607,7 +5607,7 @@ e_byzantium = {
 			}
 		}
 		d_neopatras = {
-			color = { 64 90 64 }
+			color = { 164 69 108 }
 			color2 = { 255 255 20 }
 			capital = 1224
 			sardinian = "Neopatras"
@@ -5887,7 +5887,7 @@ e_byzantium = {
 			}
 		}
 		d_dyrrachion = {
-			color = { 38 38 38 }
+			color = { 64 34 50 }
 			color2 = { 255 255 255 }
 			capital = 470
 			serbian = "Drac"
@@ -6105,7 +6105,7 @@ e_byzantium = {
 			}
 		}
 		d_epirus = {
-			color = { 48 111 135 }
+			color = { 232 71 136 }
 			color2 = { 255 255 20 }
 			capital = 473
 			frankish = "Épire"
@@ -6420,7 +6420,7 @@ e_byzantium = {
 			}
 		}
 		d_cephalonia = {
-			color = { 48 111 135 }
+			color = { 156 82 203 }
 			color2 = { 255 255 255 }
 			capital = 474
 			sardinian = "Cefalonia"
@@ -6624,7 +6624,7 @@ e_byzantium = {
 			}
 		}
 		d_macedonia = {
-			color = { 249 254 214 }
+			color = { 135 17 76 }
 			color2 = { 255 255 255 }
 			culture = greek
 			east_gothic = "Bulgaria"
@@ -6925,7 +6925,7 @@ e_byzantium = {
 		ligurian = "Achaia"
 		venetian = "Achaia"
 		d_athens = {
-			color = { 186 206 253 }
+			color = { 200 42 100 }
 			color2 = { 255 255 255 }
 			capital = 482
 			frankish = "Athènes"
@@ -7274,7 +7274,7 @@ e_byzantium = {
 			}
 		}
 		d_achaia = {
-			color = { 246 188 0 }
+			color = { 216 79 255 }
 			color2 = { 255 255 255 }
 			capital = 481
 			frankish = "Achaïe"
@@ -7767,7 +7767,7 @@ e_byzantium = {
 			}
 		}
 		d_krete = {
-			color = { 45 34 77 }
+			color = { 208 78 188 }
 			color2 = { 255 255 255 }
 			capital = 480
 			frankish = "Candie"
@@ -8076,7 +8076,7 @@ e_byzantium = {
 		orthodox = 400
 		muslim = 75
 		d_paphlagonia = {
-			color = { 112 109 67 }
+			color = { 191 50 163 }
 			color2 = { 255 255 255 }
 			capital = 751
 			frankish = "Paphlagonie"
@@ -8189,7 +8189,7 @@ e_byzantium = {
 			}
 		}
 		d_boukellarion = {
-			color = { 80 159 20 }
+			color = { 154 43 116 }
 			color2 = { 255 255 255 }
 			capital = 753
 			frankish = "Bucellaires"
@@ -8356,7 +8356,7 @@ e_byzantium = {
 			}
 		}
 		d_opsikon = {
-			color = { 36 83 169 }
+			color = { 123 37 138 }
 			color2 = { 255 255 255 }
 			capital = 750
 			frankish = "Nicée"
@@ -8675,7 +8675,7 @@ e_byzantium = {
 			}
 		}
 		d_optimatoi = {
-			color = { 136 83 69 }
+			color = { 169 93 176 }
 			color2 = { 255 255 20 }
 			capital = 741
 			frankish = "Nicomédie"
@@ -8840,7 +8840,7 @@ e_byzantium = {
 			}
 		}
 		d_trebizond = {
-			color = { 99 150 32 }
+			color = { 163 79 142 }
 			color2 = { 255 255 255 }
 			capital = 678
 			oghuz = "Trabzun"
@@ -8989,7 +8989,7 @@ e_byzantium = {
 			}
 		}
 		d_cherson = {
-			color = { 225 187 34 }
+			color = { 132 96 142 }
 			color2 = { 255 255 255 }
 			capital = 560
 			italian = "Gothia"
@@ -9700,7 +9700,7 @@ e_byzantium = {
 			}
 		}
 		d_armeniacon = {
-			color = { 188 191 175 }
+			color = { 247 128 240 }
 			color2 = { 255 255 255 }
 			capital = 941
 			oghuz = "Amasiyya"
@@ -9888,7 +9888,7 @@ e_byzantium = {
 			}
 		}
 		d_cappadocia = {
-			color = { 109 95 80 }
+			color = { 126 61 128 }
 			color2 = { 255 255 255 }
 			capital = 760
 			oghuz = "Nigde"
@@ -9974,7 +9974,7 @@ e_byzantium = {
 			}
 		}
 		d_coloneia = {
-			color = { 217 127 61 }
+			color = { 159 22 103 }
 			color2 = { 255 255 255 }
 			capital = 706
 			norman = "Colonée"
@@ -10064,7 +10064,7 @@ e_byzantium = {
 			}
 		}
 		d_sebasteia = {
-			color = { 17 50 61 }
+			color = { 81 25 82 }
 			color2 = { 255 255 255 }
 			capital = 1218
 			armenian = "Sebasta"
@@ -10138,7 +10138,7 @@ e_byzantium = {
 			}
 		}
 		d_lykandos = {
-			color = { 30 220 31 }
+			color = { 178 123 185 }
 			color2 = { 255 255 255 }
 			capital = 736
 			bedouin_arabic = "Ablustain"
@@ -10540,7 +10540,7 @@ e_oriens = {
 			}
 		}
 		d_armenia_minor = {
-			color = { 36 41 65 }
+			color = { 163 89 129 }
 			color2 = { 255 255 255 }
 			capital = 969
 			oghuz = "Ataná"
@@ -10859,7 +10859,7 @@ e_oriens = {
 			}
 		}
 		d_antioch = {
-			color = { 91 139 188 }
+			color = { 157 3 196 }
 			color2 = { 255 255 255 }
 			short_name = yes
 			capital = 764
@@ -11138,7 +11138,7 @@ e_oriens = {
 			}
 		}
 		d_tripoli = {
-			color = { 154 39 39 }
+			color = { 132 65 142 }
 			color2 = { 255 255 255 }
 			name_tier = count
 			capital = 767
@@ -11425,7 +11425,7 @@ e_oriens = {
 			}
 		}
 		d_phoenice = {
-			color = { 235 224 73 }
+			color = { 159 22 125 }
 			color2 = { 255 255 255 }
 			bedouin_arabic = "Akka"
 			maghreb_arabic = "Akka"
@@ -11623,7 +11623,7 @@ e_oriens = {
 			}
 		}
 		d_cyprus = {
-			color = { 85 138 236 }
+			color = { 106 70 126 }
 			color2 = { 255 255 255 }
 			capital = 1069
 			bedouin_arabic = "Qubrus"
@@ -11891,7 +11891,7 @@ e_oriens = {
 			}
 		}
 		d_aleppo = {
-			color = { 85 232 20 }
+			color = { 176 42 196 }
 			color2 = { 255 255 255 }
 			title_prefix = JUND_OF
 			roman = "Syria Prima"
@@ -12022,7 +12022,7 @@ e_oriens = {
 			}
 		}
 		d_homs = {
-			color = { 107 75 13 }
+			color = { 196 99 162 }
 			color2 = { 255 255 255 }
 			title_prefix = JUND_OF
 			roman = "Syria Salutaris"
@@ -12076,6 +12076,60 @@ e_oriens = {
 				}
 				b_qasralhayralgharbi = {}
 				b_shmemiscastle = {}
+			}
+		}
+		d_jazira = {
+			color = { 96 92 248 }
+			color2 = { 255 255 255 }
+			capital = 709
+			roman = "Euphratensis"
+			greek = "Euphratensis"
+			c_asas = {
+				color = { 87 234 22 }
+				color2 = { 255 255 255 }
+				roman = "Callinicum"
+				greek = "Kallinikos"
+				assyrian = "Qaliniqos"
+				b_rakka = {
+					roman = "Callinicum"
+					greek = "Kallinikos"
+					assyrian = "Qaliniqos"
+				}
+				b_qalatjabar = {
+					roman = "Dausara"
+					greek = "Dausara"
+					oghuz = "Caber Hisar"
+					turkmen = "Caber Hisar"
+					turkish = "Caber Hisar"
+				}
+				b_talabyad = {}
+				b_resafa = {
+					roman = "Sergiopolis"
+					greek = "Sergioupolis"
+				}
+				b_ar-rafiqa = {}
+				b_bizunasyria = {}
+				b_zarzakka = {}
+			}
+			c_harran = {
+				color = { 153 255 5 }
+				color2 = { 255 255 255 }
+				roman = "Carrhae"
+				greek = "Karrai"
+				b_harran = {
+					roman = "Carrhae"
+					greek = "Karrai"
+				}
+				b_tallmazwan = {
+					roman = "Constantina"
+					greek = "Konstantina"
+					assyrian = "Tella d'Mauzalath"
+					oghuz = "Viransehir"
+					turkmen = "Viransehir"
+					turkish = "Viransehir"
+				}
+				b_akcakale = {}
+				b_ceylanpinar = {}
 			}
 		}
 		d_damascus = {
@@ -12222,7 +12276,7 @@ e_oriens = {
 		greek = "Palaestina"
 		ethiopian = "Yerusalem"
 		d_jerusalem = {
-			color = { 223 224 199 }
+			color = { 133 17 120 }
 			color2 = { 255 255 255 }
 			christian = 500
 			muslim = 250
@@ -12471,7 +12525,7 @@ e_oriens = {
 			}
 		}
 		d_galilee = {
-			color = { 41 45 138 }
+			color = { 156 82 203 }
 			color2 = { 255 255 255 }
 			short_name = yes
 			capital = 773
@@ -12609,7 +12663,7 @@ e_oriens = {
 		catholic = 100
 		muslim = 250
 		d_anatolia = {
-			color = { 255 206 45 }
+			color = { 103 54 115 }
 			color2 = { 255 255 255 }
 			capital = 759
 			oghuz = "Rúm"
@@ -12748,7 +12802,7 @@ e_oriens = {
 			}
 		}
 		d_cibyrrhaeot = {
-			color = { 44 83 40 }
+			color = { 75 34 88 }
 			color2 = { 255 255 255 }
 			capital = 755
 			frankish = "Cibyrrhéotes"
@@ -12948,7 +13002,7 @@ e_oriens = {
 			}
 		}
 		d_seleukeia = {
-			color = { 26 13 107 }
+			color = { 104 8 103 }
 			color2 = { 255 255 255 }
 			oghuz = "Silifke"
 			turkmen = "Silifke"
@@ -13079,7 +13133,7 @@ e_oriens = {
 			}
 		}
 		d_samos = {
-			color = { 67 112 88 }
+			color = { 155 112 166 }
 			color2 = { 255 255 255 }
 			capital = 745
 			oghuz = "Izmir"
@@ -13477,7 +13531,7 @@ e_oriens = {
 			}
 		}
 		d_thracesia = {
-			color = { 154 43 116 }
+			color = { 137 85 208 }
 			color2 = { 255 255 255 }
 			capital = 748
 			oghuz = "Ala Šehir"
@@ -13657,7 +13711,7 @@ e_oriens = {
 		masmuda = "Igibt"
 		zanata = "Igibt"
 		d_alexandria = {
-			color = { 72 162 212 }
+			color = { 153 2 77 }
 			color2 = { 255 255 255 }
 			capital = 802
 			roman = "Aegyptus"
@@ -13831,7 +13885,7 @@ e_oriens = {
 			}
 		}
 		d_augustamnica = {
-			color = { 229 181 206 }
+			color = { 196 99 162 }
 			color2 = { 255 255 255 }
 			capital = 796 # Cairo / Babylon
 			roman = "Augustamnica"
@@ -13963,7 +14017,7 @@ e_oriens = {
 			}
 		}
 		d_arcadia = {
-			color = { 36 97 53 }
+			color = { 198 30 93 }
 			color2 = { 255 255 255 }
 			capital = 1336 # Bahnasa / Oxyrhynchus
 			roman = "Arcadia"
@@ -14072,7 +14126,7 @@ e_oriens = {
 			}
 		}
 		d_marmarica = {
-			color = { 229 181 32 }
+			color = { 188 100 121 }
 			color2 = { 255 255 255 }
 			capital = 1342
 			c_kharija = {
@@ -14164,7 +14218,7 @@ e_oriens = {
 			}
 		}
 		d_aswan = {
-			color = { 205 95 73 }
+			color = { 211 50 80 }
 			color2 = { 255 255 255 }
 			capital = 1339 # Ikhmin / Ptolemais
 			roman = "Thebais"
@@ -14326,7 +14380,7 @@ e_oriens = {
 			}
 		}
 		d_cyrenaica = {
-			color = { 32 150 63 }
+			color = { 196 31 124 }
 			color2 = { 255 255 255 }
 			capital = 808
 			roman = "Libya Pentapolis"
@@ -14459,7 +14513,7 @@ e_oriens = {
 			}
 		}
 		d_sinai = {
-			color = { 100 138 41 }
+			color = { 136 42 108 }
 			color2 = { 255 255 255 }
 			capital = 785
 			coptic = "Sina"
@@ -23961,7 +24015,7 @@ e_carpathia = {
 		muslim = 25
 
 		d_carinthia = {
-			color = { 98 120 93 }
+			color = { 109 2 3 }
 			color2 = { 255 255 255 }
 			culture = bavarian
 			capital = 456
@@ -24135,7 +24189,7 @@ e_arabia = {
 		culture = bedouin_arabic
 		muslim = 200
 		d_amman = {
-			color = { 32 127 30 }
+			color = { 43 249 91 }
 			color2 = { 255 255 255 }
 			capital = 651
 			c_damman = {
@@ -24176,7 +24230,7 @@ e_arabia = {
 			}
 		}
 		d_medina = {
-			color = { 0 51 218 }
+			color = { 26 139 42 }
 			color2 = { 255 255 255 }
 			capital = 719
 			muslim = 500
@@ -24247,7 +24301,7 @@ e_arabia = {
 			}
 		}
 		d_nefoud = {
-			color = { 150 249 43 }
+			color = { 70 158 58 }
 			color2 = { 255 255 255 }
 			capital = 864
 			roman = "Arabia Deserta"
@@ -24411,7 +24465,7 @@ e_arabia = {
 			}
 		}
 		d_sanaa = {
-			color = { 163 89 107 }
+			color = { 62 157 83 }
 			color2 = { 255 255 255 }
 			capital = 860
 			c_rafha = {
@@ -24459,7 +24513,7 @@ e_arabia = {
 			}
 		}
 		d_hadramaut = {
-			color = { 193 86 32 }
+			color = { 105 141 40 }
 			color2 = { 255 255 255 }
 			capital = 855
 			c_dhofar = {
@@ -24510,7 +24564,7 @@ e_arabia = {
 		orthodox = 200
 		muslim = 200
 		d_oultrejourdain = {
-			color = { 203 159 24 }
+			color = { 118 223 170 }
 			color2 = { 255 255 255 }
 			roman = "Palaestina Salutaris"
 			greek = "Palaestina Salutaris"
@@ -24589,7 +24643,7 @@ e_arabia = {
 			}
 		}
 		d_jordan = {
-			color = { 35 232 20 }
+			color = { 57 203 154 }
 			color2 = { 255 255 255 }
 			title_prefix = JUND_OF
 			roman = "Arabia Prima"
@@ -24719,18 +24773,12 @@ e_arabia = {
 			}
 		}
 		d_arabia_petrae = {
-			color = { 121 196 2 }
+			color = { 24 183 91 }
 			color2 = { 255 255 255 }
 			capital = 716
 			roman = "Arabia Petraea"
 			greek = "Arabia Petraea"
-			c_ar_ar = {
-				color = { 97 137 208 }
-				color2 = { 255 255 255 }
-				b_maridfortress = {}
-				b_sakakah = {}
-				b_dumat_al_jundal = {}
-			}
+			
 			c_maan = {
 				color = { 127 202 8 }
 				color2 = { 255 255 255 }
@@ -24760,7 +24808,7 @@ e_abyssinia = {
 		orthodox = 30
 		muslim = 150
 		d_berbera = {
-			color = { 153 2 59 }
+			color = { 169 201 70 }
 			color2 = { 255 255 255 }
 			capital = 872
 			c_busaso = {
@@ -24787,7 +24835,7 @@ e_abyssinia = {
 			}
 		}
 		d_ifat = {
-			color = { 165 10 20 }
+			color = { 210 196 44 }
 			color2 = { 255 255 255 }
 			capital = 873
 			c_harer = {
@@ -24810,7 +24858,7 @@ e_abyssinia = {
 			}
 		}
 		d_tedjoura = {
-			color = { 150 80 125 }
+			color = { 98 119 0 }
 			color2 = { 255 255 255 }
 			capital = 874
 			ethiopian = "Tagura"
@@ -24854,7 +24902,7 @@ e_abyssinia = {
 			}
 		}
 		d_afar = {
-			color = { 76 165 255 }
+			color = { 113 150 32 }
 			color2 = { 255 255 255 }
 			capital = 1518
 			c_bur = {
@@ -24904,7 +24952,7 @@ e_abyssinia = {
 		yemeni = "Habasha"
 		hijazi = "Habasha"
 		d_axum = {
-			color = { 198 30 93 }
+			color = { 195 110 11 }
 			color2 = { 255 255 255 }
 			capital = 875
 			c_aksum = {
@@ -24957,7 +25005,7 @@ e_abyssinia = {
 			}
 		}
 		d_damot = {
-			color = { 0 153 15 }
+			color = { 206 92 47 }
 			color2 = { 255 255 255 }
 			capital = 882
 			c_ankober = {
@@ -24994,7 +25042,7 @@ e_abyssinia = {
 			}
 		}
 		d_gondar = {
-			color = { 148 59 92 }
+			color = { 155 92 18 }
 			color2 = { 255 255 255 }
 			falashim = "Semien"
 			capital = 883
@@ -25027,7 +25075,7 @@ e_abyssinia = {
 			}
 		}
 		d_amhara = {
-			color = { 204 140 65 }
+			color = { 225 124 43 }
 			color2 = { 255 255 255 }
 			capital = 1514
 			c_antalo = {
@@ -25067,7 +25115,7 @@ e_abyssinia = {
 		catholic = 10
 		muslim = 25
 		d_alodia = {
-			color = { 128 100 40 }
+			color = { 103 40 111 }
 			color2 = { 255 255 255 }
 			capital = 1490
 			c_soba = {
@@ -25109,7 +25157,7 @@ e_abyssinia = {
 			}
 		}
 		d_nubia = {
-			color = { 141 162 79 }
+			color = { 104 8 103 }
 			capital = 793
 			c_makuria = {
 				color = { 135 168 70 }
@@ -25154,7 +25202,7 @@ e_abyssinia = {
 			}
 		}
 		d_nobatia = {
-			color = { 174 125 97 }
+			color = { 166 79 255 }
 			capital = 792
 			c_nubia = {
 				color = { 170 120 90 }
@@ -25223,7 +25271,7 @@ e_abyssinia = {
 		orthodox = 150
 		muslim = 10
 		d_sennar = {
-			color = { 200 42 100 }
+			color = { 110 62 72 }
 			color2 = { 255 255 255 }
 			capital = 880
 			c_sennar = {
@@ -25279,7 +25327,7 @@ e_abyssinia = {
 		capital = 1501
 		ethiopian = "Medri Bahri"
 		d_aydhab = {
-			color = { 250 60 15 }
+			color = { 201 73 76 }
 			color2 = { 255 255 255 }
 			capital = 1501
 			orthodox = 100
@@ -25324,7 +25372,7 @@ e_abyssinia = {
 			}
 		}
 		d_badi = {
-			color = { 240 75 15 }
+			color = { 175 36 63 }
 			color2 = { 255 255 255 }
 			capital = 878
 			c_hayya = {
@@ -25350,7 +25398,7 @@ e_abyssinia = {
 			}
 		}
 		d_kassala = {
-			color = { 215 43 28 }
+			color = { 211 37 54 }
 			color2 = { 255 255 255 }
 			capital = 877
 			c_kassala = {
@@ -33523,7 +33571,7 @@ e_italy = {
 		roman = "Italia Annonaria"
 		greek = "Annonaria"
 		d_ravenna = {
-			color = { 155 112 166 }
+			color = { 165 10 20 }
 			color2 = { 255 255 255 }
 			capital = 351
 			culture = italian
@@ -33629,7 +33677,7 @@ e_italy = {
 			}
 		}
 		d_lombardia = {
-			color = { 140 200 213 }
+			color = { 212 66 69 }
 			color2 = { 255 255 255 }
 			capital = 235
 			culture = italian
@@ -33750,7 +33798,7 @@ e_italy = {
 			}
 		}
 		d_verona = {
-			color = { 0 86 148 }
+			color = { 210 2 2 }
 			color2 = { 255 255 255 }
 			capital = 319
 			culture = venetian
@@ -33841,7 +33889,7 @@ e_italy = {
 			}
 		}
 		d_ivrea = {
-			color = { 0 66 145 }
+			color = { 121 29 29 }
 			color2 = { 255 255 255 }
 			capital = 236
 			culture = italian
@@ -33939,7 +33987,7 @@ e_italy = {
 			}
 		}
 		d_saluzzo = {
-			color = { 116 69 11 }
+			color = { 186 5 3 }
 			color2 = { 255 255 255 }
 			capital = 231
 			culture = italian
@@ -34010,7 +34058,7 @@ e_italy = {
 			}
 		}
 		d_genoa = {
-			color = { 255 194 10 }
+			color = { 237 28 36 }
 			color2 = { 255 255 255 }
 			culture = ligurian
 			capital = 233
@@ -34430,7 +34478,7 @@ e_italy = {
 			}
 		}
 		d_istria = {
-			color = { 59 51 164 }
+			color = { 227 105 93 }
 			color2 = { 255 255 255 }
 			culture = karantanci
 			capital = 458
@@ -34704,7 +34752,7 @@ e_italy = {
 			}
 		}
 		d_aquileia = {
-			color = { 167 136 62 }
+			color = { 154 39 39 }
 			color2 = { 255 255 255 }
 			capital = 358
 			culture = venetian
@@ -34925,7 +34973,7 @@ e_italy = {
 		culture = sardinian
 		christian = 4000
 		d_corsica = {
-			color = { 18 109 22 }
+			color = { 147 21 39 }
 			color2 = { 255 255 255 }
 			capital = 324
 			culture = umbrian
@@ -34956,7 +35004,7 @@ e_italy = {
 			}
 		}
 		d_sardinia = {
-			color = { 122 46 147 }
+			color = { 201 21 38 }
 			color2 = { 255 255 255 }
 			capital = 325
 			culture = sardinian
@@ -35081,7 +35129,7 @@ e_italy = {
 		roman = "Suburbicaria"
 		greek = "Italías"
 		d_latium = {
-			color = { 254 245 160 }
+			color = { 117 53 79 }
 			color2 = { 255 255 255 }
 			capital = 333
 			culture = laziale
@@ -35254,7 +35302,7 @@ e_italy = {
 			}
 		}
 		d_urbino = {
-			color = { 0 85 148 }
+			color = { 207 56 45 }
 			color2 = { 255 255 255 }
 			capital = 329
 			culture = laziale
@@ -35315,7 +35363,7 @@ e_italy = {
 			}
 		}
 		d_ancona = {
-			color = { 148 118 0 }
+			color = { 121 24 38 }
 			color2 = { 255 255 255 }
 			capital = 350
 			roman = "Picenum Suburbicarum"
@@ -35379,7 +35427,7 @@ e_italy = {
 			greek = "Beneuenton"
 		}
 		d_napoli = {
-			color = { 196 139 77 }
+			color = { 237 28 36 }
 			color2 = { 255 255 255 }
 			culture = greek
 			capital = 334
@@ -35417,7 +35465,7 @@ e_italy = {
 			}
 		}
 		d_capua = {
-			color = { 84 138 107 }
+			color = { 186 32 35 }
 			color2 = { 255 255 255 }
 			culture = langobardisch
 			capital = 851
@@ -35509,7 +35557,7 @@ e_italy = {
 			}
 		}
 		d_apulia = {
-			color = { 102 130 128 }
+			color = { 200 0 50 }
 			color2 = { 255 255 255 }
 			culture = neapolitan
 			capital = 1111 # Bari
@@ -35632,7 +35680,7 @@ e_italy = {
 			}
 		}
 		d_salerno = {
-			color = { 217 214 123 }
+			color = { 205 95 73 }
 			color2 = { 255 255 255 }
 			culture = langobardisch
 			greek = "Lukania"
@@ -35707,7 +35755,7 @@ e_italy = {
 			}
 		}
 		d_atri = {
-			color = { 128 194 2 }
+			color = { 194 75 77 }
 			color2 = { 255 255 255 }
 			christian = 300
 			culture = neapolitan
@@ -35763,7 +35811,7 @@ e_italy = {
 			}
 		}
 		d_calabria = {
-			color = { 195 161 44 }
+			color = { 205 22 30 }
 			color2 = { 255 255 255 }
 			culture = neapolitan
 			capital = 338
@@ -35859,7 +35907,7 @@ e_italy = {
 			}
 		}
 		d_sicily = {
-			color = { 46 94 147 }
+			color = { 210 55 55 }
 			color2 = { 255 255 255 }
 			name_tier = count
 			capital = 340
@@ -36121,7 +36169,7 @@ e_italy = {
 			}
 		}
 		d_toscana = {
-			color = { 241 193 26 }
+			color = { 210 95 55 }
 			color2 = { 255 255 255 }
 			culture = tuscan
 			capital = 328
@@ -36191,7 +36239,7 @@ e_italy = {
 			}
 		}
 		d_siena = {
-			color = { 61 45 131 }
+			color = { 183 40 40 }
 			color2 = { 255 255 255 }
 			culture = tuscan
 			capital = 330
@@ -36339,7 +36387,7 @@ e_italy = {
 		capital = 467 # Cetina / Salona
 		
 		d_dalmatia = {
-			color = { 69 66 128 }
+			color = { 173 34 34 }
 			color2 = { 255 255 255 }
 			capital = 467
 			c_split = {
@@ -36851,7 +36899,7 @@ e_italy = {
 			}
 		}
 		d_liburnia = {
-			color = { 208 186 170 }
+			color = { 210 55 55 }
 			color2 = { 255 255 255 }
 			german = "Vegl"
 			thuringian = "Vegl"
@@ -37334,7 +37382,7 @@ e_italy = {
 			}
 		}
 		d_dalmatian_islands = {
-			color = { 25 106 33 }
+			color = { 237 28 36 }
 			color2 = { 255 255 255 }
 			capital = 936
 			italian = "Lesina"
@@ -37603,7 +37651,7 @@ e_italy = {
 			}
 		}
 		d_bosnia = {
-			color = { 62 121 201 }
+			color = { 114 30 41 }
 			color2 = { 255 255 255 }
 			capital = 1001 # Zavrsje / Delminium
 			culture = bosnian
@@ -37732,7 +37780,7 @@ e_italy = {
 			}
 		}
 		d_pirustae = {
-			color = { 179 94 13 }
+			color = { 144 48 57 }
 			color2 = { 255 255 255 }
 			roman = "Hum"
 			greek = "Zachloumia"
@@ -37848,7 +37896,7 @@ e_italy = {
 			}
 		}
 		d_dioclea = {
-			color = { 170 184 115 }
+			color = { 121 24 38 }
 			color2 = { 255 255 255 }
 			greek = "Diokleia"
 			roman = "Dioclea"
@@ -38127,7 +38175,7 @@ e_france = {
 		german = "Burgund"
 		catholic = 4000
 		d_savoie = {
-			color = { 113 166 111 }
+			color = { 77 137 75 }
 			color2 = { 255 255 255 }
 			capital = 237
 			culture = arpitan
@@ -38190,7 +38238,7 @@ e_france = {
 			}
 		}
 		d_dauphine = {
-			color = { 75 50 50 }
+			color = { 115 156 67 }
 			color2 = { 255 255 255 }
 			capital = 228
 			culture = occitan
@@ -38297,7 +38345,7 @@ e_france = {
 		roman = "Galliae"
 		greek = "Gallia"
 		d_burgundy = {
-			color = { 77 0 107 }
+			color = { 88 165 4 }
 			color2 = { 255 255 255 }
 			capital = 136
 			culture = frankish
@@ -38367,7 +38415,7 @@ e_france = {
 			}
 		}
 		d_anjou = {
-			color = { 0 126 128 }
+			color = { 0 128 69}
 			color2 = { 255 255 255 }
 			capital = 107
 			c_anjou = {
@@ -38443,7 +38491,7 @@ e_france = {
 			}
 		}
 		d_normandy = {
-			color = { 121 24 38 }
+			color = { 100 121 75 }
 			color2 = { 255 255 255 }
 			culture = norman
 			norman = "Nourmaundie"
@@ -38562,7 +38610,7 @@ e_france = {
 			}
 		}
 		d_alencon = {
-			color = { 48 48 95 }
+			color = { 30 220 31 }
 			color2 = { 255 255 255 }
 			capital = 1171
 			c_alencon = {
@@ -38597,7 +38645,7 @@ e_france = {
 			}
 		}
 		d_orleans = {
-			color = { 250 250 250 }
+			color = { 80 180 20 }
 			color2 = { 255 255 255 }
 			capital = 138
 			c_orleans = {
@@ -38695,7 +38743,7 @@ e_france = {
 			}
 		}
 		d_nevers = {
-			color = { 98 104 29 }
+			color = { 70 104 29 }
 			color2 = { 255 255 255 }
 			name_tier = count
 			capital = 137
@@ -38741,7 +38789,7 @@ e_france = {
 			}
 		}
 		d_archreims = {
-			color = { 130 93 74 }
+			color = { 54 77 27 }
 			color2 = { 255 255 255 }
 			capital = 114
 			roman = "Remos"
@@ -38826,7 +38874,7 @@ e_france = {
 			}
 		}
 		d_champagne = {
-			color = { 60 87 97 }
+			color = { 118 225 110 }
 			color2 = { 255 255 255 }
 			capital = 130
 			name_tier = count
@@ -38866,7 +38914,7 @@ e_france = {
 			}
 		}
 		d_valois = {
-			color = { 0 50 155 }
+			color = { 104 147 54 }
 			color2 = { 255 255 255 }
 			capital = 112
 			c_valois = {
@@ -38948,7 +38996,7 @@ e_france = {
 			}
 		}
 		d_brittany = {
-			color = { 210 170 210 }
+			color = { 30 155 103 }
 			color2 = { 255 255 255 }
 			capital = 106
 			culture = breton
@@ -39123,7 +39171,7 @@ e_france = {
 			}
 		}
 		d_lyon = {
-			color = { 128 0 40 }
+			color = { 25 95 73 }
 			color2 = { 255 255 255 }
 			capital = 227
 			culture = arpitan
@@ -39174,7 +39222,7 @@ e_france = {
 			}
 		}
 		d_upper_burgundy = {
-			color = { 104 2 94 }
+			color = { 18 109 22 }
 			color2 = { 255 255 255 }
 			capital = 1044
 			culture = frankish
@@ -39248,7 +39296,7 @@ e_france = {
 			}
 		}
 		d_upper_lorraine = {
-			color = { 255 166 0 }
+			color = { 67 149 71 }
 			color2 = { 255 166 0 }
 			capital = 127
 			culture = frankish
@@ -39883,7 +39931,7 @@ e_france = {
 		greek = "Septem Provinciae"
 	
 		d_gascogne = {
-			color = { 107 102 68 }
+			color = { 128 194 2 }
 			color2 = { 255 255 255 }
 			capital = 209 # Armagnac / Elusa
 			culture = occitan
@@ -39975,7 +40023,7 @@ e_france = {
 			}
 		}
 		d_aquitaine = {
-			color = { 255 30 50 }
+			color = { 99 163 56 }
 			color2 = { 255 255 255 }
 			capital = 149
 			culture = occitan
@@ -40027,7 +40075,7 @@ e_france = {
 			}
 		}
 		d_poitou = {
-			color = { 30 80 200 }
+			color = { 18 109 22 }
 			color2 = { 255 255 255 }
 			capital = 141
 			culture = occitan
@@ -40108,7 +40156,7 @@ e_france = {
 			}
 		}
 		d_berry = {
-			color = { 200 49 110 }
+			color = { 38 172 57 }
 			color2 = { 255 255 255 }
 			capital = 139
 			c_bourges = {
@@ -40195,7 +40243,7 @@ e_france = {
 		greek = "Arvernia"
 		
 		d_auvergne = {
-			color = { 250 150 0 }
+			color = { 35 232 20 }
 			color2 = { 255 255 255 }
 			capital = 217
 			culture = occitan
@@ -40288,7 +40336,7 @@ e_france = {
 			}
 		}
 		d_avairon = {
-			color = { 200 0 50 }
+			color = { 118 225 110 }
 			color2 = { 255 255 255 }
 			capital = 218 # Roergue
 			culture = auvergnat
@@ -40329,7 +40377,7 @@ e_france = {
 		greek = "Septimania"
 		
 		d_toulouse = {
-			color = { 200 0 50 }
+			color = { 68 140 48 }
 			color2 = { 255 255 255 }
 			capital = 214
 			culture = occitan
@@ -40506,7 +40554,7 @@ e_france = {
 			}
 		}
 		d_septimania = {
-			color = { 0 50 180 }
+			color = { 15 177 19 }
 			color2 = { 255 255 255 }
 			capital = 212
 			culture = occitan
@@ -40590,7 +40638,7 @@ e_france = {
 			}
 		}
 		d_provence = {
-			color = { 92 127 157 }
+			color = { 32 150 63 }
 			color2 = { 255 255 255 }
 			capital = 221
 			culture = occitan
@@ -40735,7 +40783,7 @@ e_spain = {
 		catholic = 250
 		sunni = 25
 		d_toledo = {
-			color = { 210 134 124 }
+			color = { 208 191 5 }
 			color2 = { 255 255 255 }
 			capital = 197
 			bedouin_arabic = "Tulaytulah"
@@ -41003,7 +41051,7 @@ e_spain = {
 			}
 		}
 		d_castilla = {
-			color = { 152 25 50 }
+			color = { 229 197 18 }
 			color2 = { 255 255 255 }
 			name_tier = count
 			bedouin_arabic = "al-Qila"
@@ -41435,7 +41483,7 @@ e_spain = {
 			}
 		}
 		d_segovia = {
-			color = { 237 28 36 }
+			color = { 255 239 63 }
 			color2 = { 255 255 255 }
 			capital = 1199
 			bedouin_arabic = "Siqubiyyah"
@@ -41817,7 +41865,7 @@ e_spain = {
 		catholic = 250
 		sunni = 25
 		d_porto = {
-			color = { 221 230 255 }
+			color = { 203 152 74 }
 			color2 = { 255 255 255 }
 			capital = 158
 			bedouin_arabic = "Burtughal"
@@ -42124,7 +42172,7 @@ e_spain = {
 			}
 		}
 		d_galicia = {
-			color = { 81 170 227 }
+			color = { 203 186 114 }
 			color2 = { 255 255 255 }
 			capital = 157
 			bedouin_arabic = "Galisiyya"
@@ -42451,7 +42499,7 @@ e_spain = {
 			}
 		}
 		d_leon = {
-			color = { 227 228 229 }
+			color = { 167 136 62 }
 			color2 = { 255 255 255 }
 			capital = 190
 			bedouin_arabic = "al-Uyun"
@@ -42912,7 +42960,7 @@ e_spain = {
 		catholic = 250
 		sunni = 25
 		d_aragon = {
-			color = { 102 137 255 }
+			color = { 128 113 31 }
 			color2 = { 255 255 255 }
 			capital = 207
 			bedouin_arabic = "Aragu'un"
@@ -43097,7 +43145,7 @@ e_spain = {
 			}
 		}
 		d_zaragoza = {
-			color = { 84 95 149 }
+			color = { 229 181 32 }
 			color2 = { 255 255 255 }
 			capital = 202
 			bedouin_arabic = "Saraqusta"
@@ -43554,7 +43602,7 @@ e_spain = {
 			}
 		}
 		d_barcelona = {
-			color = { 167 39 0 }
+			color = { 195 174 34 }
 			color2 = { 255 255 255 }
 			capital = 204
 			culture = catalan
@@ -43945,7 +43993,7 @@ e_spain = {
 			}
 		}
 		d_catalunya_nova = {
-			color = { 228 77 21 }
+			color = { 240 209 56 }
 			color2 = { 255 255 255 }
 			capital = 173 # Tortosa / Tarragona
 			bedouin_arabic = "Turtusha"
@@ -44214,7 +44262,7 @@ e_spain = {
 			}
 		}
 		d_valencia = {
-			color = { 210 73 50 }
+			color = { 187 140 11 }
 			color2 = { 255 255 255 }
 			capital = 171
 			bedouin_arabic = "Balansiyya"
@@ -44409,7 +44457,7 @@ e_spain = {
 			}
 		}
 		d_navarra = {
-			color = { 46 114 59 }
+			color = { 214 222 7 }
 			color2 = { 255 255 255 }
 			capital = 152
 			bedouin_arabic = "Bashkiyya"
@@ -44772,7 +44820,7 @@ e_spain = {
 			}
 		}
 		d_najera = {
-			color = { 0 113 188 }
+			color = { 149 137 0 }
 			color2 = { 255 255 255 }
 			bedouin_arabic = "Náxara"
 			maghreb_arabic = "Náxara"
@@ -44945,7 +44993,7 @@ e_spain = {
 		catholic = 250
 		sunni = 25
 		d_ribatejo = {
-			color = { 0 76 127 }
+			color = { 217 186 64 }
 			color2 = { 255 255 255 }
 			capital = 160
 			maghreb_arabic = "Belatha"
@@ -45379,7 +45427,7 @@ e_spain = {
 			}
 		}
 		d_beira = {
-			color = { 19 83 180 }
+			color = { 155 115 9 }
 			color2 = { 255 255 255 }
 			capital = 159
 			bedouin_arabic = "Qulumriyah"
@@ -45687,7 +45735,7 @@ e_spain = {
 			}
 		}
 		d_salamanca = {
-			color = { 8 132 74 }
+			color = { 124 94 44 }
 			color2 = { 255 255 255 }
 			capital = 192
 			bedouin_arabic = "al-Mantiqa"
@@ -45828,7 +45876,7 @@ e_spain = {
 			}
 		}
 		d_alentejo = {
-			color = { 209 157 198 }
+			color = { 179 146 32 }
 			color2 = { 255 255 255 }
 			capital = 186
 			bedouin_arabic = "Taghr al-Adna"
@@ -46113,7 +46161,7 @@ e_spain = {
 			}
 		}
 		d_beja = {
-			color = { 157 189 212 }
+			color = { 147 110 29 }
 			color2 = { 255 255 255 }
 			capital = 163
 			bedouin_arabic = "al-Gharb"
@@ -46419,7 +46467,7 @@ e_spain = {
 			}
 		}
 		d_badajoz = {
-			color = { 203 186 114 }
+			color = { 149 124 8 }
 			color2 = { 255 255 255 }
 			capital = 184
 			bedouin_arabic = "Balad al-Iawz"
@@ -46776,7 +46824,7 @@ e_spain = {
 		catholic = 100
 		muslim = 50
 		d_cordoba = {
-			color = { 115 199 242 }
+			color = { 247 215 37 }
 			color2 = { 255 255 255 }
 			capital = 181
 			bedouin_arabic = "Qurtubah"
@@ -46976,7 +47024,7 @@ e_spain = {
 			}
 		}
 		d_gades = {
-			color = { 63 117 148 }
+			color = { 207 141 0 }
 			color2 = { 255 255 255 }
 			capital = 166 # Algeciras / Gades
 			bedouin_arabic = "Gharnaatah"
@@ -47459,7 +47507,7 @@ e_spain = {
 			}
 		}
 		d_sevilla = {
-			color = { 240 235 138 }
+			color = { 228 179 25 }
 			color2 = { 255 255 255 }
 			capital = 182
 			bedouin_arabic = "Isbiliya"
@@ -47725,7 +47773,7 @@ e_spain = {
 			}
 		}
 		d_tangiers = {
-			color = { 128 113 120 }
+			color = { 115 93 80 }
 			color2 = { 255 255 255 }
 			capital = 841
 			roman = "Mauretania Tingitana"
@@ -47804,7 +47852,7 @@ e_spain = {
 		greek = "Carthaginiensis"
 	
 		d_la_mancha = {
-			color = { 203 152 74 }
+			color = { 190 155 60 }
 			color2 = { 255 255 255 }
 			capital = 196
 			bedouin_arabic = "al-Mányà"
@@ -48087,7 +48135,7 @@ e_spain = {
 			}
 		}
 		d_murcia = {
-			color = { 240 201 101 }
+			color = { 223 181 13 }
 			color2 = { 255 255 255 }
 			capital = 169
 			bedouin_arabic = "Mursiya"
@@ -48375,7 +48423,7 @@ e_spain = {
 			}
 		}
 		d_mallorca = {
-			color = { 87 149 117 }
+			color = { 243 165 14 }
 			color2 = { 255 255 255 }
 			capital = 827
 			bedouin_arabic = "Mayurqa"
@@ -48836,7 +48884,7 @@ e_africa = {
 			}
 		}
 		d_aures = {
-			color = { 201 21 38 }
+			color = { 228 77 21 }
 			color2 = { 255 255 255 }
 			capital = 1355
 			roman = "Numidia Cirtensis"
@@ -48940,7 +48988,7 @@ e_africa = {
 			}
 		}
 		d_kabylia = {
-			color = { 61 21 38 }
+			color = { 167 39 0 }
 			color2 = { 255 255 255 }
 			capital = 822 # Bejaija/Saldae
 			roman = "Numidia Militiana"
@@ -49057,7 +49105,7 @@ e_africa = {
 		masmuda = "Tafrikt"
 		zanata = "Tafrikt"
 		d_carthage = {
-			color = { 116 116 177 }
+			color = { 200 56 37 }
 			color2 = { 255 255 255 }
 			capital = 817 # Tunis / Carthage
 			roman = "Africa Proconsularis"
@@ -49152,7 +49200,7 @@ e_africa = {
 			}
 		}
 		d_byzacena = {
-			color = { 116 177 156 }
+			color = { 171 71 52 }
 			color2 = { 255 255 255 }
 			capital = 1353 # Sfax / Thapsus
 			roman = "Byzacena"
@@ -49263,7 +49311,7 @@ e_africa = {
 			}
 		}
 		d_tripolitania = {
-			color = { 227 227 200 }
+			color = { 195 27 11 }
 			color2 = { 255 255 255 }
 			capital = 811
 			sanhaja = "Tripuli"
@@ -49420,7 +49468,7 @@ e_africa = {
 		catholic = 10
 		muslim = 100
 		d_tlemcen = {
-			color = { 128 113 31 }
+			color = { 165 79 45 }
 			color2 = { 255 255 255 }
 			capital = 834
 			roman = "Mauretania Siga"
@@ -49488,7 +49536,7 @@ e_africa = {
 			}
 		}
 		d_fes = {
-			color = { 128 18 73 }
+			color = { 146 53 34 }
 			color2 = { 255 255 255 }
 			capital = 840
 			roman = "Mauretania Volubilis"
@@ -49556,7 +49604,7 @@ e_africa = {
 			}
 		}
 		d_marrakech = {
-			color = { 25 95 73 }
+			color = { 98 51 33 }
 			color2 = { 255 255 255 }
 			capital = 843
 			c_marrakech = {
@@ -49626,7 +49674,7 @@ e_africa = {
 			}
 		}
 		d_draa = {
-			color = { 128 95 73 }
+			color = { 107 77 57 }
 			color2 = { 255 255 255 }
 			capital = 1363
 			c_draa = {
@@ -49837,11 +49885,6 @@ e_persia = {
 				b_aligoodarz = {}
 				b_burdj = {}
 			}
-		}
-		d_khoar = {
-			color = { 255 90 50 }
-			color2 = { 255 255 255 }
-			capital = 663
 			c_rayy = {
 				color = { 250 85 55 }
 				color2 = { 255 255 255 }
@@ -49860,29 +49903,6 @@ e_persia = {
 				b_mazdakan = {}
 				b_damavand = {}
 				b_khuvar = {}
-			}
-			c_kumis = {
-				color = { 250 95 45 }
-				color2 = { 255 255 255 }
-				pahlavi = "Komish"
-				greek = "Hekatompylos"
-				b_damghan = {
-					pahlavi = "Komish"
-					greek = "Hekatompylos"
-				}
-				b_ahuvan = {}
-				b_ras-al-kalb = {}
-				b_vanda = {}
-				b_simnan = {}
-				b_shalamba = {}
-			}
-			c_biyar = {
-				color = { 250 85 40 }
-				color2 = { 255 255 255 }
-				b_biyar = {}
-				b_bistam = {}
-				b_badhash = {}
-				b_kharkan = {}
 			}
 		}
 		d_fars = {
@@ -50112,116 +50132,6 @@ e_persia = {
 				b_shami = {}
 			}
 		}
-		d_kurdistan = {
-			color = { 115 148 55 }
-			color2 = { 255 255 255 }
-			capital = 687
-			oghuz = "Kürdistan"
-			turkmen = "Kürdistan"
-			turkish = "Kürdistan"
-			persian = "Kordestan"
-			khorasani = "Kordestan"
-			daylamite = "Kordestan"
-			adhari = "Kordestan"
-			pahlavi = "Garmagan"
-			c_kirkuk = {
-				color = { 141 181 254 }
-				color2 = { 255 255 255 }
-				roman = "Corcura"
-				greek = "Korkyra"
-				oghuz = "Dakuk"
-				turkmen = "Dakuk"
-				turkish = "Dakuk"
-				pahlavi = "Garmagan"
-				b_daquq = {
-					oghuz = "Dakuk"
-					turkmen = "Dakuk"
-					turkish = "Dakuk"
-				}
-				b_kirkuk = {
-					roman = "Corcura"
-					greek = "Korkyra"
-					kurdish = "Kerkûk"
-					oghuz = "Kerkük"
-					turkmen = "Kerkük"
-					turkish = "Kerkük"
-					assyrian = "Karka d-Beth Slokh"
-				}
-				b_hanijar = {}
-				b_lashom = {}
-				b_vindirni = {}
-				b_qaleh-i_yazdigird = {}
-				b_qasr-i_shirin = {}
-			}
-			c_shahrazur = {
-				color = { 141 181 254 }
-				color2 = { 255 255 255 }
-				kurdish = "Sehrezûr"
-				oghuz = "Šehr-i Zor"
-				turkmen = "Šehr-i Zor"
-				turkish = "Šehr-i Zor"
-				pahlavi = "Syarzur"
-				b_shahrazur = {
-					kurdish = "Sehrezûr"
-					oghuz = "Šehr-i Zor"
-					turkmen = "Šehr-i Zor"
-					turkish = "Šehr-i Zor"
-					pahlavi = "Syarzur"
-				}
-				b_tiranshah = {}
-				b_sine = {}
-				b_giaur = {}
-				b_chahar_taq = {}
-				b_takht-i_bilqis = {}
-				b_amardos = {}
-			}
-		}
-		d_kermanshah = {
-			color = { 58 83 130 }
-			color2 = { 255 255 255 }
-			capital = 688
-			c_luristan = {
-				color = { 76 113 182 }
-				color2 = { 255 255 255 }
-				b_sirawan = {}
-				b_saimara = {}
-				b_tarhan = {}
-				b_koohdasht = {}
-				b_poledokhtar = {}
-				b_abdanan = {}
-				b_khordeh_qeshm = {}
-			}
-			c_kermanshah = {
-				color = { 74 111 180 }
-				color2 = { 255 255 255 }
-				pahlavi = "Kirmanshah"
-				kurdish = "Qarmîsin"
-				b_kangivar = {}
-				b_kermanshah = {
-					pahlavi = "Kirmanshah"
-					kurdish = "Qarmîsin"
-				}
-				b_hulwan = {
-					pahlavi = "Peroz Kavad"
-				}
-				b_mahalkufa = {
-					pahlavi = "Dínavar"
-					persian = "Dînavar"
-					tajik = "Dínavar"
-					daylamite = "Dínavar"
-					khalaj = "Dínavar"
-					sogdian = "Dínavar"
-					khwarezmi = "Dínavar"
-					kurdish = "Dínavar"
-					afghan = "Dínavar"
-					qufs = "Dínavar"
-					baloch = "Dínavar"
-				}
-				b_khurmal = {}
-				b_deh_bozan = {}
-				b_jameh_shuran = {}
-			}
-		}
 		allow = {
 			title_king_basic_allow = yes
 		}
@@ -50301,27 +50211,6 @@ e_persia = {
 				b_suhravard = {}
 				b_khunaj = {}
 				b_shamiran = {}
-			}
-		}
-		d_gurgan = {
-			color = { 35 140 255 }
-			color2 = { 255 255 255 }
-			capital = 633
-			c_gurgan = {
-				color = { 38 148 250 }
-				color2 = { 255 255 255 }
-				b_gurgan = {}
-				b_ribat-i-hafs = {}
-				b_astarabad = {}
-				b_abaskun = {}
-				b_tammisha = {}
-			}
-			c_dihistan = {
-				color = { 30 135 255 }
-				color2 = { 255 255 255 }
-				b_dihistan = {}
-				b_akhor_dishistan = {}
-				b_okarem = {}
 			}
 		}
 		d_azerbaijan = {
@@ -50486,6 +50375,55 @@ e_persia = {
 			}
 			allow = { title_duke_basic_allow = yes }
 		} # end d_nishapur
+		d_khoar = {
+			color = { 255 90 50 }
+			color2 = { 255 255 255 }
+			capital = 663
+			c_kumis = {
+				color = { 250 95 45 }
+				color2 = { 255 255 255 }
+				pahlavi = "Komish"
+				greek = "Hekatompylos"
+				b_damghan = {
+					pahlavi = "Komish"
+					greek = "Hekatompylos"
+				}
+				b_ahuvan = {}
+				b_ras-al-kalb = {}
+				b_vanda = {}
+				b_simnan = {}
+				b_shalamba = {}
+			}
+			c_biyar = {
+				color = { 250 85 40 }
+				color2 = { 255 255 255 }
+				b_biyar = {}
+				b_bistam = {}
+				b_badhash = {}
+				b_kharkan = {}
+			}
+		}
+		d_gurgan = {
+			color = { 35 140 255 }
+			color2 = { 255 255 255 }
+			capital = 633
+			c_gurgan = {
+				color = { 38 148 250 }
+				color2 = { 255 255 255 }
+				b_gurgan = {}
+				b_ribat-i-hafs = {}
+				b_astarabad = {}
+				b_abaskun = {}
+				b_tammisha = {}
+			}
+			c_dihistan = {
+				color = { 30 135 255 }
+				color2 = { 255 255 255 }
+				b_dihistan = {}
+				b_akhor_dishistan = {}
+				b_okarem = {}
+			}
+		}
 		d_qohistan = { # Qohistán # Qohistan
 			color = { 115 150 18 }
 			color2 = { 255 255 255 }
@@ -50564,6 +50502,64 @@ e_persia = {
 			}
 			allow = { title_duke_basic_allow = yes }
 		} # end d_merv
+		d_khwarazm = {
+			color = { 174 192 91 }
+			color2 = { 255 255 255 }
+			capital = 626
+			culture = khwarezmi
+			pahlavi = "Khwarazm"
+			c_kerder = {
+				khwarezmi = "Kerder"
+				khorasani = "Kerder"
+				persian = "Kerder"
+				sogdian = "Kerder"
+				daylamite = "Kerder"
+				turkmen = "Kerder"
+				oghuz = "Kerder"
+				turkish = "Kerder"
+				karluk = "Kerder"
+				mongol = "Kerder"
+				color = { 178 190 98 }
+				color2 = { 255 255 255 }
+				b_gurganj = {
+					turkmen = "Ürgenç"
+					oghuz = "Ürgenç"
+					turkish = "Ürgenç"
+					karluk = "Ürgenç"
+					mongol = "Ürgenç"
+				}
+				b_madminiya = {}
+				b_barategin = {}
+				b_kalalygyr = {}
+				b_muynak = {}
+			}
+			c_kath = {
+				color = { 171 197 96 }
+				color2 = { 255 255 255 }
+				b_kath = {}
+				b_khiva = {}
+				b_zamakhshar = {}
+				b_ardakhushmithan = {}
+				b_mizdahkan = {}
+				b_dashoguz = {}
+			}
+			c_uzboy = {
+				color = { 1 79 206 }
+				color2 = { 255 255 255 }
+				greek = "Nisaia"
+				east_gothic = "Nisaia"
+				b_igdy_kala = {}
+				b_karakul = {}
+			}
+			c_harazasp = {
+				color = { 179 185 86 }
+				color2 = { 255 255 255 }
+				b_harazasp = {}
+				b_sadvar = {}
+				b_darghan = {}
+				b_jigirband = {}
+			}
+		}
 		d_herat = { # Herát
 			color = { 220 210 80 }
 			color2 = { 255 255 255 }
@@ -51021,64 +51017,6 @@ e_persia = {
 				b_sutkend = {}
 			}
 		}
-		d_khwarazm = {
-			color = { 174 192 91 }
-			color2 = { 255 255 255 }
-			capital = 626
-			culture = khwarezmi
-			pahlavi = "Khwarazm"
-			c_kerder = {
-				khwarezmi = "Kerder"
-				khorasani = "Kerder"
-				persian = "Kerder"
-				sogdian = "Kerder"
-				daylamite = "Kerder"
-				turkmen = "Kerder"
-				oghuz = "Kerder"
-				turkish = "Kerder"
-				karluk = "Kerder"
-				mongol = "Kerder"
-				color = { 178 190 98 }
-				color2 = { 255 255 255 }
-				b_gurganj = {
-					turkmen = "Ürgenç"
-					oghuz = "Ürgenç"
-					turkish = "Ürgenç"
-					karluk = "Ürgenç"
-					mongol = "Ürgenç"
-				}
-				b_madminiya = {}
-				b_barategin = {}
-				b_kalalygyr = {}
-				b_muynak = {}
-			}
-			c_kath = {
-				color = { 171 197 96 }
-				color2 = { 255 255 255 }
-				b_kath = {}
-				b_khiva = {}
-				b_zamakhshar = {}
-				b_ardakhushmithan = {}
-				b_mizdahkan = {}
-				b_dashoguz = {}
-			}
-			c_uzboy = {
-				color = { 1 79 206 }
-				color2 = { 255 255 255 }
-				greek = "Nisaia"
-				east_gothic = "Nisaia"
-				b_igdy_kala = {}
-				b_karakul = {}
-			}
-			c_harazasp = {
-				color = { 179 185 86 }
-				color2 = { 255 255 255 }
-				b_harazasp = {}
-				b_sadvar = {}
-				b_darghan = {}
-				b_jigirband = {}
-			}
-		}
 		allow = {
 			title_king_basic_allow = yes
 		}
@@ -51114,7 +51052,7 @@ e_persia = {
 			}
 		}
 		d_kufa = {
-			color = { 155 115 9 }
+			color = { 29 185 95 }
 			color2 = { 255 255 255 }
 			capital = 655
 			c_al_nadjaf = {
@@ -51151,11 +51089,11 @@ e_persia = {
 				}
 			}
 		}
-		d_baghdad = {
-			color = { 125 165 239 }
+		d_kermanshah = {
+			color = { 58 83 130 }
 			color2 = { 255 255 255 }
-			capital = 693
-			pahlavi = "Asoristan"
+			capital = 688
+			
 			c_baghdad = {
 				color = { 129 169 243 }
 				color2 = { 255 255 255 }
@@ -51197,6 +51135,23 @@ e_persia = {
 				b_barazarruz = {}
 				b_iskaf_nahrawan = {}
 			}
+			c_luristan = {
+				color = { 76 113 182 }
+				color2 = { 255 255 255 }
+				b_sirawan = {}
+				b_saimara = {}
+				b_tarhan = {}
+				b_koohdasht = {}
+				b_poledokhtar = {}
+				b_abdanan = {}
+				b_khordeh_qeshm = {}
+			}
+		}
+		d_baghdad = {
+			color = { 74 205 217 }
+			color2 = { 255 255 255 }
+			capital = 693
+			pahlavi = "Asoristan"
 			c_tadmor = {
 				color = { 43 240 28 }
 				color2 = { 255 255 255 }
@@ -51234,28 +51189,9 @@ e_persia = {
 			}
 		}
 		d_samarra = {
-			color = { 15 165 19 }
+			color = { 57 114 147 }
 			color2 = { 255 255 255 }
 			capital = 696
-			c_euphrates = {
-				color = { 137 177 250 }
-				color2 = { 255 255 255 }
-				roman = "Sumere"
-				greek = "Souma"
-				assyrian = "Sumra"
-				pahlavi = "Sumra"
-				b_alqadisiyyah = {}
-				b_samarra = {
-					roman = "Sumere"
-					greek = "Souma"
-					assyrian = "Sumra"
-					pahlavi = "Sumra"
-				}
-				b_ukbara = {}
-				b_balad = {}
-				b_harba = {}
-				b_aldur = {}
-			}
 			c_deir = {
 				color = { 133 173 247 }
 				color2 = { 255 255 255 }
@@ -51273,258 +51209,6 @@ e_persia = {
 					assyrian = "Peroz-Shapur"
 					pahlavi = "Peroz-Shapur"
 				}
-			}
-			c_druz = {
-				color = { 39 236 24 }
-				color2 = { 255 255 255 }
-				roman = "Birtha"
-				greek = "Birtha"
-				assyrian = "Tirhan"
-				pahlavi = "Tagrit"
-				b_qalattagrit = {}
-				b_tagrit = {
-					roman = "Birtha"
-					greek = "Birtha"
-					assyrian = "Tagrit"
-					pahlavi = "Tagrit"
-				}
-				b_jabulta = {
-					assyrian = "Gbiltha"
-				}
-				b_barimma = {}
-				b_mukeshefah = {}
-			}
-		}
-		allow = {
-			title_king_basic_allow = yes
-		}
-	}
-	k_aljazira = {
-		color = { 44 137 216 }
-		color2 = { 255 255 255 }
-		capital = 697
-		culture = levantine_arabic
-		roman = "Assyria"
-		greek = "Assyria"
-		armenian = "Arvastan"
-		pahlavi = "Arbayistan"
-		orthodox = 200
-		muslim = 400
-		d_amida = {
-			color = { 102 78 57 }
-			color2 = { 255 255 255 }
-			armenian = "Aghdznik"
-			greek = "Arzanene"
-			oghuz = "Diyar-i Bekr"
-			turkmen = "Diyar-i Bekr"
-			turkish = "Diyar-i Bekr"
-			maghreb_arabic = "Diyar Bakr"
-			levantine_arabic = "Diyar Bakr"
-			egyptian_arabic = "Diyar Bakr"
-			andalusian_arabic = "Diyar Bakr"
-			sicilian_arabic = "Diyar Bakr"
-			bedouin_arabic = "Diyar Bakr"
-			kurdish = "Amed"
-			capital = 683
-			c_amida = {
-				color = { 129 166 48 }
-				color2 = { 255 255 255 }
-				armenian = "Tigranakert"
-				oghuz = "Diyar-i Bekr"
-				turkmen = "Diyar-i Bekr"
-				turkish = "Diyar-i Bekr"
-				maghreb_arabic = "Ámid"
-				levantine_arabic = "Ámid"
-				egyptian_arabic = "Ámid"
-				andalusian_arabic = "Ámid"
-				sicilian_arabic = "Ámid"
-				bedouin_arabic = "Ámid"
-				assyrian = "Amid"
-				kurdish = "Amed"
-				holy_site = syriac
-				b_kiaburc = {}
-				b_amida = {
-					armenian = "Tigranakert"
-					oghuz = "Diyar-i Bekr"
-					turkmen = "Diyar-i Bekr"
-					turkish = "Diyar-i Bekr"
-					maghreb_arabic = "Ámid"
-					levantine_arabic = "Ámid"
-					egyptian_arabic = "Ámid"
-					andalusian_arabic = "Ámid"
-					sicilian_arabic = "Ámid"
-					bedouin_arabic = "Ámid"
-					assyrian = "Amid"
-					kurdish = "Amed"
-				}
-				b_ulucamii = {
-					armenian = "Surp Giragos"
-					greek = "Monì tìs Agios Giragos"
-				}
-				b_suraamede = {}
-				b_hazretisuleymancamii = {}
-				b_egil = {}
-				b_idtodyolataloho = {}
-			}
-			c_hisn_kayf = {
-				color = { 162 191 44 }
-				color2 = { 255 255 255 }
-				greek = "Martyropolis"
-				maghreb_arabic = "Mayyafariqin"
-				levantine_arabic = "Mayyafariqin"
-				egyptian_arabic = "Mayyafariqin"
-				andalusian_arabic = "Mayyafariqin"
-				sicilian_arabic = "Mayyafariqin"
-				bedouin_arabic = "Mayyafariqin"
-				oghuz = "Hasankeyf"
-				turkmen = "Hasankeyf"
-				turkish = "Hasankeyf"
-				kurdish = "Heskîf"
-				armenian = "Nprkert"
-				assyrian = "Mayperqit"
-				b_mayyafarikin = {
-					armenian = "Nprkert"
-					greek = "Martyropolis"
-					oghuz = "Meyafarikín"
-					turkmen = "Meyafarikín"
-					turkish = "Meyafarikín"
-					maghreb_arabic = "Mayyafariqin"
-					levantine_arabic = "Mayyafariqin"
-					egyptian_arabic = "Mayyafariqin"
-					andalusian_arabic = "Mayyafariqin"
-					sicilian_arabic = "Mayyafariqin"
-					bedouin_arabic = "Mayyafariqin"
-					kurdish = "Farqîn"
-					assyrian = "Mayperqit"
-				}
-				b_hisnkayf = {
-					greek = "Kiphas"
-					oghuz = "Hasankeyf"
-					turkmen = "Hasankeyf"
-					turkish = "Hasankeyf"
-					kurdish = "Heskîf"
-					armenian = "Harsenkev"
-					assyrian = "Hésn Kayfa"
-				}
-				b_siird = {
-					greek = "Sirte"
-					oghuz = "Si'irt"
-					turkmen = "Si'irt"
-					turkish = "Si'irt"
-					kurdish = "Sêrt"
-					armenian = "Sgert"
-					assyrian = "Si'reth"
-				}
-				b_arzan = {
-					greek = "Nikephorion"
-					oghuz = "Erzen"
-					turkmen = "Erzen"
-					turkish = "Erzen"
-					maghreb_arabic = "Arzan"
-					levantine_arabic = "Arzan"
-					egyptian_arabic = "Arzan"
-					andalusian_arabic = "Arzan"
-					sicilian_arabic = "Arzan"
-					bedouin_arabic = "Arzan"
-					kurdish = "Arzan"
-					assyrian = "Arzun"
-				}
-			}
-			c_mardin = {
-				color = { 129 166 48 }
-				color2 = { 255 255 255 }
-				greek = "Marida"
-				maghreb_arabic = "Máridín"
-				levantine_arabic = "Máridín"
-				egyptian_arabic = "Máridín"
-				andalusian_arabic = "Máridín"
-				sicilian_arabic = "Máridín"
-				bedouin_arabic = "Máridín"
-				kurdish = "Mêrdîn"
-				assyrian = "Merdô"
-				holy_site = syriac
-				holy_site = nestorian
-				b_maridin = {
-					greek = "Marida"
-					armenian = "Marida"
-					maghreb_arabic = "Máridín"
-					levantine_arabic = "Máridín"
-					egyptian_arabic = "Máridín"
-					andalusian_arabic = "Máridín"
-					sicilian_arabic = "Máridín"
-					bedouin_arabic = "Máridín"
-					kurdish = "Mêrdîn"
-					assyrian = "Merdô"
-				}
-				b_resaina = {
-					bedouin_arabic = "Ra's al-Ayn"
-					maghreb_arabic = "Ra's al-Ayn"
-					levantine_arabic = "Ra's al-Ayn"
-					egyptian_arabic = "Ra's al-Ayn"
-					andalusian_arabic = "Ra's al-Ayn"
-					sicilian_arabic = "Ra's al-Ayn"
-					oghuz = "Resulayn"
-					turkmen = "Resulayn"
-					turkish = "Resulayn"
-					assyrian = "Reš Ayna"
-				}
-				b_dunaysir = {
-					armenian = "Tyel-Armen"
-					greek = "Margdis"
-					oghuz = "Tell-Ermen"
-					turkmen = "Tell-Ermen"
-					turkish = "Tell-Ermen"
-					maghreb_arabic = "Dunaysir"
-					levantine_arabic = "Dunaysir"
-					egyptian_arabic = "Dunaysir"
-					andalusian_arabic = "Dunaysir"
-					sicilian_arabic = "Dunaysir"
-					bedouin_arabic = "Dunaysir"
-					kurdish = "Qoser"
-				}
-				b_dairodmorhannanyo = {}
-				b_alsywaydaturkey = {
-					oghuz = "Siverek"
-					turkmen = "Siverek"
-					turkish = "Siverek"
-					armenian = "Sevaverak"
-					greek = "Sevaverak"
-					assyrian = "Sibaberek"
-				}
-			}
-		}
-		d_jazira = {
-			color = { 96 115 255 }
-			color2 = { 255 255 255 }
-			capital = 709
-			roman = "Euphratensis"
-			greek = "Euphratensis"
-			c_asas = {
-				color = { 87 234 22 }
-				color2 = { 255 255 255 }
-				roman = "Callinicum"
-				greek = "Kallinikos"
-				assyrian = "Qaliniqos"
-				b_rakka = {
-					roman = "Callinicum"
-					greek = "Kallinikos"
-					assyrian = "Qaliniqos"
-				}
-				b_qalatjabar = {
-					roman = "Dausara"
-					greek = "Dausara"
-					oghuz = "Caber Hisar"
-					turkmen = "Caber Hisar"
-					turkish = "Caber Hisar"
-				}
-				b_talabyad = {}
-				b_resafa = {
-					roman = "Sergiopolis"
-					greek = "Sergioupolis"
-				}
-				b_ar-rafiqa = {}
-				b_bizunasyria = {}
-				b_zarzakka = {}
 			}
 			c_al_bichri = {
 				color = { 15 95 242 }
@@ -51549,29 +51233,196 @@ e_persia = {
 				b_sirhi = {}
 				b_mhaymidah = {}
 			}
-			c_harran = {
-				color = { 153 255 5 }
+		}
+		d_kurdistan = {
+			color = { 115 148 55 }
+			color2 = { 255 255 255 }
+			capital = 687
+			oghuz = "Kürdistan"
+			turkmen = "Kürdistan"
+			turkish = "Kürdistan"
+			persian = "Kordestan"
+			khorasani = "Kordestan"
+			daylamite = "Kordestan"
+			adhari = "Kordestan"
+			pahlavi = "Garmagan"
+			c_erbil = {
+				color = { 9 89 236 }
 				color2 = { 255 255 255 }
-				roman = "Carrhae"
-				greek = "Karrai"
-				b_harran = {
-					roman = "Carrhae"
-					greek = "Karrai"
+				maghreb_arabic = "Arbil"
+				levantine_arabic = "Arbil"
+				egyptian_arabic = "Arbil"
+				andalusian_arabic = "Arbil"
+				sicilian_arabic = "Arbil"
+				bedouin_arabic = "Arbil"
+				roman = "Arbela"
+				greek = "Arbela"
+				assyrian = "Arbel"
+				kurdish = "Erbil"
+				b_arbil = {
+					roman = "Arbela"
+					greek = "Arbela"
+					assyrian = "Arbel"
+					kurdish = "Erbil"
 				}
-				b_tallmazwan = {
-					roman = "Constantina"
-					greek = "Konstantina"
-					assyrian = "Tella d'Mauzalath"
-					oghuz = "Viransehir"
-					turkmen = "Viransehir"
-					turkish = "Viransehir"
+				b_shaqlawa = {}
+				b_darabad = {
+					assyrian = "Beth Wazik"
 				}
-				b_akcakale = {}
-				b_ceylanpinar = {}
+				b_tellhaftun = {
+					assyrian = "Hebton"
+				}
+			}
+			c_mosul = {
+				color = { 9 89 236 }
+				color2 = { 255 255 255 }
+				roman = "Mepsila"
+				greek = "Mepsila"
+				assyrian = "Nînwe"
+				kurdish = "Mûsil"
+				pahlavi = "Nod-Ardashir"
+				b_mosulcastle = {
+					roman = "Castrum Mepsila"
+					greek = "Kastron Mepsila"
+				}
+				b_mosul = {
+					roman = "Mepsila"
+					greek = "Mepsila"
+					assyrian = "Nînwe"
+					kurdish = "Mûsil"
+					pahlavi = "Nod-Ardashir"
+				}
+				b_baladmosul = {}
+				b_bawazij = {
+					assyrian = "Beth Wazik"
+				}
+				b_haditha = {
+					assyrian = "Hdatta"
+				}
+			}
+			c_kirkuk = {
+				color = { 141 181 254 }
+				color2 = { 255 255 255 }
+				roman = "Corcura"
+				greek = "Korkyra"
+				oghuz = "Dakuk"
+				turkmen = "Dakuk"
+				turkish = "Dakuk"
+				pahlavi = "Garmagan"
+				b_daquq = {
+					oghuz = "Dakuk"
+					turkmen = "Dakuk"
+					turkish = "Dakuk"
+				}
+				b_kirkuk = {
+					roman = "Corcura"
+					greek = "Korkyra"
+					kurdish = "Kerkûk"
+					oghuz = "Kerkük"
+					turkmen = "Kerkük"
+					turkish = "Kerkük"
+					assyrian = "Karka d-Beth Slokh"
+				}
+				b_hanijar = {}
+				b_lashom = {}
+				b_vindirni = {}
+				b_qaleh-i_yazdigird = {}
+				b_qasr-i_shirin = {}
+			}
+			c_shahrazur = {
+				color = { 141 181 254 }
+				color2 = { 255 255 255 }
+				kurdish = "Sehrezûr"
+				oghuz = "Šehr-i Zor"
+				turkmen = "Šehr-i Zor"
+				turkish = "Šehr-i Zor"
+				pahlavi = "Syarzur"
+				b_shahrazur = {
+					kurdish = "Sehrezûr"
+					oghuz = "Šehr-i Zor"
+					turkmen = "Šehr-i Zor"
+					turkish = "Šehr-i Zor"
+					pahlavi = "Syarzur"
+				}
+				b_tiranshah = {}
+				b_sine = {}
+				b_giaur = {}
+				b_chahar_taq = {}
+				b_takht-i_bilqis = {}
+				b_amardos = {}
+			}
+			c_euphrates = {
+				color = { 137 177 250 }
+				color2 = { 255 255 255 }
+				roman = "Sumere"
+				greek = "Souma"
+				assyrian = "Sumra"
+				pahlavi = "Sumra"
+				b_alqadisiyyah = {}
+				b_samarra = {
+					roman = "Sumere"
+					greek = "Souma"
+					assyrian = "Sumra"
+					pahlavi = "Sumra"
+				}
+				b_ukbara = {}
+				b_balad = {}
+				b_harba = {}
+				b_aldur = {}
+			}
+			c_druz = {
+				color = { 39 236 24 }
+				color2 = { 255 255 255 }
+				roman = "Birtha"
+				greek = "Birtha"
+				assyrian = "Tirhan"
+				pahlavi = "Tagrit"
+				b_qalattagrit = {}
+				b_tagrit = {
+					roman = "Birtha"
+					greek = "Birtha"
+					assyrian = "Tagrit"
+					pahlavi = "Tagrit"
+				}
+				b_jabulta = {
+					assyrian = "Gbiltha"
+				}
+				b_barimma = {}
+				b_mukeshefah = {}
+			}
+			c_kermanshah = {
+				color = { 74 111 180 }
+				color2 = { 255 255 255 }
+				pahlavi = "Kirmanshah"
+				kurdish = "Qarmîsin"
+				b_kangivar = {}
+				b_kermanshah = {
+					pahlavi = "Kirmanshah"
+					kurdish = "Qarmîsin"
+				}
+				b_hulwan = {
+					pahlavi = "Peroz Kavad"
+				}
+				b_mahalkufa = {
+					pahlavi = "Dínavar"
+					persian = "Dînavar"
+					tajik = "Dínavar"
+					daylamite = "Dínavar"
+					khalaj = "Dínavar"
+					sogdian = "Dínavar"
+					khwarezmi = "Dínavar"
+					kurdish = "Dínavar"
+					afghan = "Dínavar"
+					qufs = "Dínavar"
+					baloch = "Dínavar"
+				}
+				b_khurmal = {}
+				b_deh_bozan = {}
+				b_jameh_shuran = {}
 			}
 		}
 		d_diyareast = {
-			color = { 255 239 63 }
+			color = { 35 140 255 }
 			color2 = { 255 255 255 }
 			capital = 697
 			armenian = "Arvastan"
@@ -51720,61 +51571,23 @@ e_persia = {
 				b_maaltha = {}
 				b_marmattai = {}
 			}
-			c_erbil = {
-				color = { 9 89 236 }
-				color2 = { 255 255 255 }
-				maghreb_arabic = "Arbil"
-				levantine_arabic = "Arbil"
-				egyptian_arabic = "Arbil"
-				andalusian_arabic = "Arbil"
-				sicilian_arabic = "Arbil"
-				bedouin_arabic = "Arbil"
-				roman = "Arbela"
-				greek = "Arbela"
-				assyrian = "Arbel"
-				kurdish = "Erbil"
-				b_arbil = {
-					roman = "Arbela"
-					greek = "Arbela"
-					assyrian = "Arbel"
-					kurdish = "Erbil"
-				}
-				b_shaqlawa = {}
-				b_darabad = {
-					assyrian = "Beth Wazik"
-				}
-				b_tellhaftun = {
-					assyrian = "Hebton"
-				}
-			}
-			c_mosul = {
-				color = { 9 89 236 }
-				color2 = { 255 255 255 }
-				roman = "Mepsila"
-				greek = "Mepsila"
-				assyrian = "Nînwe"
-				kurdish = "Mûsil"
-				pahlavi = "Nod-Ardashir"
-				b_mosulcastle = {
-					roman = "Castrum Mepsila"
-					greek = "Kastron Mepsila"
-				}
-				b_mosul = {
-					roman = "Mepsila"
-					greek = "Mepsila"
-					assyrian = "Nînwe"
-					kurdish = "Mûsil"
-					pahlavi = "Nod-Ardashir"
-				}
-				b_baladmosul = {}
-				b_bawazij = {
-					assyrian = "Beth Wazik"
-				}
-				b_haditha = {
-					assyrian = "Hdatta"
-				}
-			}
 		}
+		allow = {
+			title_king_basic_allow = yes
+		}
+	}
+	k_aljazira = {
+		color = { 44 137 216 }
+		color2 = { 255 255 255 }
+		capital = 697
+		culture = levantine_arabic
+		roman = "Assyria"
+		greek = "Assyria"
+		armenian = "Arvastan"
+		pahlavi = "Arbayistan"
+		orthodox = 200
+		muslim = 400
+		
 		allow = {
 			title_king_basic_allow = yes
 			AND = {
@@ -52018,7 +51831,7 @@ e_rajastan = { # Rajastan
 				b_ajodhan = {}
 				b_satghara = {}
 				b_chichawatni = {}
-				d_malka_hans = {}
+				b_malka_hans = {}
 			}
 			c_bhera = { # Bhera (1617)
 				color = { 160 110 41 }
@@ -53266,7 +53079,7 @@ e_null = {
 		muslim = 25
 		capital = 500 # Sredets / Serdica
 		d_serdica = {
-			color = { 122 103 58 }
+			color = { 118 49 75 }
 			color2 = { 255 255 255 }
 			greek = "Bidyne"
 			east_gothic = "Bidyne"
@@ -53525,7 +53338,7 @@ e_null = {
 			}
 		}
 		d_dardania = {
-			color = { 168 135 57 }
+			color = { 83 42 75 }
 			color2 = { 255 255 255 }
 			capital = 502
 			greek = "Dardanía"
@@ -53609,7 +53422,7 @@ e_null = {
 			}
 		}
 		d_macva = {
-			color = { 215 207 123 }
+			color = { 146 73 102 }
 			color2 = { 255 255 255 }
 			capital = 1127
 			greek = "Kapedounon"
@@ -53778,7 +53591,7 @@ e_null = {
 		sicilian_arabic = "Arminiya"
 		bedouin_arabic = "Arminiya"
 		d_artsakh = {
-			color = { 48 111 75 }
+			color = { 62 51 102 }
 			color2 = { 255 255 255 }
 			culture = armenian
 			oghuz = "Qarabag"
@@ -53902,7 +53715,7 @@ e_null = {
 			}
 		}
 		d_vaspurakan = {
-			color = { 174 23 122 }
+			color = { 75 40 105 }
 			color2 = { 255 255 255 }
 			greek = "Vaasprakania"
 			maghreb_arabic = "Van"
@@ -54076,7 +53889,7 @@ e_null = {
 			}
 		}
 		d_armenia = {
-			color = { 88 87 52 }
+			color = { 85 61 165 }
 			color2 = { 255 255 255 }
 			armenian = "Ayrarat"
 			greek = "Anion"
@@ -54259,7 +54072,7 @@ e_null = {
 			}
 		}
 		d_lori = {
-			color = { 210 202 150 }
+			color = { 45 34 77 }
 			color2 = { 255 255 255 }
 			georgian = "Lore"
 			capital = 1080
@@ -54292,7 +54105,7 @@ e_null = {
 			}
 		}
 		d_taron = {
-			color = { 130 118 13 }
+			color = { 45 34 77 }
 			color2 = { 255 255 255 }
 			greek = "Taron"
 			armenian = "Daron"
@@ -54452,7 +54265,7 @@ e_null = {
 			}
 		}
 		d_mesopotamia = {
-			color = { 30 118 113 }
+			color = { 66 42 134 }
 			color2 = { 255 255 255 }
 			greek = "Theodosioupolis"
 			oghuz = "Erzen er-Rúm"
@@ -54549,8 +54362,191 @@ e_null = {
 				b_varzahan = {}
 			}
 		}
+		d_amida = {
+			color = { 61 45 131 }
+			color2 = { 255 255 255 }
+			armenian = "Aghdznik"
+			greek = "Arzanene"
+			oghuz = "Diyar-i Bekr"
+			turkmen = "Diyar-i Bekr"
+			turkish = "Diyar-i Bekr"
+			maghreb_arabic = "Diyar Bakr"
+			levantine_arabic = "Diyar Bakr"
+			egyptian_arabic = "Diyar Bakr"
+			andalusian_arabic = "Diyar Bakr"
+			sicilian_arabic = "Diyar Bakr"
+			bedouin_arabic = "Diyar Bakr"
+			kurdish = "Amed"
+			capital = 683
+			c_amida = {
+				color = { 129 166 48 }
+				color2 = { 255 255 255 }
+				armenian = "Tigranakert"
+				oghuz = "Diyar-i Bekr"
+				turkmen = "Diyar-i Bekr"
+				turkish = "Diyar-i Bekr"
+				maghreb_arabic = "Ámid"
+				levantine_arabic = "Ámid"
+				egyptian_arabic = "Ámid"
+				andalusian_arabic = "Ámid"
+				sicilian_arabic = "Ámid"
+				bedouin_arabic = "Ámid"
+				assyrian = "Amid"
+				kurdish = "Amed"
+				holy_site = syriac
+				b_kiaburc = {}
+				b_amida = {
+					armenian = "Tigranakert"
+					oghuz = "Diyar-i Bekr"
+					turkmen = "Diyar-i Bekr"
+					turkish = "Diyar-i Bekr"
+					maghreb_arabic = "Ámid"
+					levantine_arabic = "Ámid"
+					egyptian_arabic = "Ámid"
+					andalusian_arabic = "Ámid"
+					sicilian_arabic = "Ámid"
+					bedouin_arabic = "Ámid"
+					assyrian = "Amid"
+					kurdish = "Amed"
+				}
+				b_ulucamii = {
+					armenian = "Surp Giragos"
+					greek = "Monì tìs Agios Giragos"
+				}
+				b_suraamede = {}
+				b_hazretisuleymancamii = {}
+				b_egil = {}
+				b_idtodyolataloho = {}
+			}
+			c_hisn_kayf = {
+				color = { 162 191 44 }
+				color2 = { 255 255 255 }
+				greek = "Martyropolis"
+				maghreb_arabic = "Mayyafariqin"
+				levantine_arabic = "Mayyafariqin"
+				egyptian_arabic = "Mayyafariqin"
+				andalusian_arabic = "Mayyafariqin"
+				sicilian_arabic = "Mayyafariqin"
+				bedouin_arabic = "Mayyafariqin"
+				oghuz = "Hasankeyf"
+				turkmen = "Hasankeyf"
+				turkish = "Hasankeyf"
+				kurdish = "Heskîf"
+				armenian = "Nprkert"
+				assyrian = "Mayperqit"
+				b_mayyafarikin = {
+					armenian = "Nprkert"
+					greek = "Martyropolis"
+					oghuz = "Meyafarikín"
+					turkmen = "Meyafarikín"
+					turkish = "Meyafarikín"
+					maghreb_arabic = "Mayyafariqin"
+					levantine_arabic = "Mayyafariqin"
+					egyptian_arabic = "Mayyafariqin"
+					andalusian_arabic = "Mayyafariqin"
+					sicilian_arabic = "Mayyafariqin"
+					bedouin_arabic = "Mayyafariqin"
+					kurdish = "Farqîn"
+					assyrian = "Mayperqit"
+				}
+				b_hisnkayf = {
+					greek = "Kiphas"
+					oghuz = "Hasankeyf"
+					turkmen = "Hasankeyf"
+					turkish = "Hasankeyf"
+					kurdish = "Heskîf"
+					armenian = "Harsenkev"
+					assyrian = "Hésn Kayfa"
+				}
+				b_siird = {
+					greek = "Sirte"
+					oghuz = "Si'irt"
+					turkmen = "Si'irt"
+					turkish = "Si'irt"
+					kurdish = "Sêrt"
+					armenian = "Sgert"
+					assyrian = "Si'reth"
+				}
+				b_arzan = {
+					greek = "Nikephorion"
+					oghuz = "Erzen"
+					turkmen = "Erzen"
+					turkish = "Erzen"
+					maghreb_arabic = "Arzan"
+					levantine_arabic = "Arzan"
+					egyptian_arabic = "Arzan"
+					andalusian_arabic = "Arzan"
+					sicilian_arabic = "Arzan"
+					bedouin_arabic = "Arzan"
+					kurdish = "Arzan"
+					assyrian = "Arzun"
+				}
+			}
+			c_mardin = {
+				color = { 129 166 48 }
+				color2 = { 255 255 255 }
+				greek = "Marida"
+				maghreb_arabic = "Máridín"
+				levantine_arabic = "Máridín"
+				egyptian_arabic = "Máridín"
+				andalusian_arabic = "Máridín"
+				sicilian_arabic = "Máridín"
+				bedouin_arabic = "Máridín"
+				kurdish = "Mêrdîn"
+				assyrian = "Merdô"
+				holy_site = syriac
+				holy_site = nestorian
+				b_maridin = {
+					greek = "Marida"
+					armenian = "Marida"
+					maghreb_arabic = "Máridín"
+					levantine_arabic = "Máridín"
+					egyptian_arabic = "Máridín"
+					andalusian_arabic = "Máridín"
+					sicilian_arabic = "Máridín"
+					bedouin_arabic = "Máridín"
+					kurdish = "Mêrdîn"
+					assyrian = "Merdô"
+				}
+				b_resaina = {
+					bedouin_arabic = "Ra's al-Ayn"
+					maghreb_arabic = "Ra's al-Ayn"
+					levantine_arabic = "Ra's al-Ayn"
+					egyptian_arabic = "Ra's al-Ayn"
+					andalusian_arabic = "Ra's al-Ayn"
+					sicilian_arabic = "Ra's al-Ayn"
+					oghuz = "Resulayn"
+					turkmen = "Resulayn"
+					turkish = "Resulayn"
+					assyrian = "Reš Ayna"
+				}
+				b_dunaysir = {
+					armenian = "Tyel-Armen"
+					greek = "Margdis"
+					oghuz = "Tell-Ermen"
+					turkmen = "Tell-Ermen"
+					turkish = "Tell-Ermen"
+					maghreb_arabic = "Dunaysir"
+					levantine_arabic = "Dunaysir"
+					egyptian_arabic = "Dunaysir"
+					andalusian_arabic = "Dunaysir"
+					sicilian_arabic = "Dunaysir"
+					bedouin_arabic = "Dunaysir"
+					kurdish = "Qoser"
+				}
+				b_dairodmorhannanyo = {}
+				b_alsywaydaturkey = {
+					oghuz = "Siverek"
+					turkmen = "Siverek"
+					turkish = "Siverek"
+					armenian = "Sevaverak"
+					greek = "Sevaverak"
+					assyrian = "Sibaberek"
+				}
+			}
+		}
 		d_dzopk = {
-			color = { 9 12 119 }
+			color = { 111 45 98 }
 			color2 = { 255 255 255 }
 			greek = "Mesopotamias"
 			oghuz = "Harput"
