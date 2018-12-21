@@ -13,6 +13,6 @@ b_calahorra = tribal
 
 # Misc
 culture = basque
-religion = hellenic_pagan
+religion = hispanic_rite
 
 # History

@@ -12,7 +12,7 @@ b_avila = tribal
 #b_arevalo = tribal
 
 # Misc
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

@@ -18,7 +18,7 @@ b_san_marino = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = hills
 # History
 1140.1.1 = { b_montecopiolo = castle}

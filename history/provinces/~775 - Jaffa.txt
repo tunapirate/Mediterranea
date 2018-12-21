@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 775 - Jaffa
+
+# County Title
+title = c_jaffa
+
+# Settlements
+max_settlements = 4
+b_qula = tribal
+b_lydda = tribal
+b_mirabel = tribal
+b_jaffa = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History
+
+

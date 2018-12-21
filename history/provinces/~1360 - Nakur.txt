@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1360 - Nakur
+
+# County Title
+title = c_nakur
+
+# Settlements
+max_settlements = 4 
+
+b_nakur = tribal
+b_ghumira = tribal
+b_melilla = tribal
+b_midar = tribal
+
+# Misc
+culture = tangieran
+religion = mercurial
+
+
+# History
+
+
+
+
+

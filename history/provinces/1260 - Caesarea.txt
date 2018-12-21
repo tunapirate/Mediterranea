@@ -13,7 +13,7 @@ b_syrcaesarea = tribal
 b_arsuf = tribal
 
 # Misc
-culture = ashkenazi
-religion = jewish
+culture = greek
+religion = miaphysite
 
 # History

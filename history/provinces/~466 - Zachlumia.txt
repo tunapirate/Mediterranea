@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 466 - Zachlumia
+
+# County Title
+title = c_zachlumia
+
+# Settlements
+max_settlements = 5
+
+
+b_blagaj = castle
+#b_gacko = city
+b_kljuc = city
+#b_zaborani = castle
+b_biskup = temple
+#b_stolac = castle
+
+
+
+# Misc
+culture = romanian
+religion = hellenic_pagan
+
+# History
+
+880.1.1 = { religion = orthodox }
+
+
+ 

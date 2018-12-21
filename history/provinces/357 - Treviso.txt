@@ -18,7 +18,7 @@ b_feltre = temple
 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 
 # History

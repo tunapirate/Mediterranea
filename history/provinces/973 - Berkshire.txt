@@ -20,7 +20,7 @@ b_reading = city
 
 # Misc
 culture = brittonic
-religion = saturnal
+religion = gallic_rite
 
 # History
 1071.1.1 = { capital = b_wallingford } # d'Olliy

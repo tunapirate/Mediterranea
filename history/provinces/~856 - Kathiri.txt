@@ -1,0 +1,17 @@
+# -*- ck2.history.provinces -*-
+
+# 856 - Kathiri
+
+# County Title
+title = c_kathiri
+
+# Settlements
+max_settlements = 2
+
+b_shibam = tribal
+
+# Misc
+culture = bedouin_arabic
+religion = jewish
+
+# History

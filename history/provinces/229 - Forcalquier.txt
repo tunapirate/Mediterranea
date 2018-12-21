@@ -18,7 +18,7 @@ b_sault = castle
 
 # Misc
 culture = septiman
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 1187.1.1 = { b_sisteron = castle }

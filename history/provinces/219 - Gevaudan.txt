@@ -17,7 +17,7 @@ b_marvejols = city
 #b_tournel = castle
 
 #Misc
-religion = hellenic_pagan
+religion = gallic_rite
 culture = auvergnat
 
 # History

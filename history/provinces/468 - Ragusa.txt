@@ -17,7 +17,7 @@ b_cavtat = city
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 

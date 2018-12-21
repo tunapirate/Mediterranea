@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1210 - Girona
+
+# County Title
+title = c_girona
+
+# Settlements
+max_settlements = 4
+
+b_girona = tribal
+b_cabrera = tribal
+b_la_bisbal = tribal
+#b_besalu = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

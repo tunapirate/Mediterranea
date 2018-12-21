@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 176 - Molina
+
+# County Title
+title = c_molina
+
+# Settlements
+max_settlements = 3
+
+b_molina = tribal
+#b_siguenza = tribal
+#b_atienza = tribal
+
+culture = castillan
+religion = hispanic_rite
+
+# History

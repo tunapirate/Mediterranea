@@ -18,7 +18,7 @@ b_saintflorentin = temple
 
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 814.1.1 = { capital = b_saintflorentin }

@@ -16,6 +16,6 @@ b_blato = city
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = apollonian
 
 # History

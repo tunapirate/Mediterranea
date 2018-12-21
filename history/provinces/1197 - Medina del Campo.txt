@@ -13,7 +13,7 @@ b_portillo = tribal
 #b_tordesillas = tribal
 
 # Misc
-culture = aragonese
+culture = leonese
 religion = hispanic_rite
 
 # History

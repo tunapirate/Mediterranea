@@ -14,7 +14,7 @@ b_harderwijk = temple
 
 # Misc
 culture = low_frankish #northern parts could be low_saxon
-religion = gallic_rite
+religion = germanic_rite
 
 # History
 1150.1.1 = { culture = dutch }

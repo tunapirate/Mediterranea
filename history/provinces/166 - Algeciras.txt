@@ -15,6 +15,6 @@ b_tarifa = tribal
 #b_ronda = tribal
 
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History

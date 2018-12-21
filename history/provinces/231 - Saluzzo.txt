@@ -16,7 +16,7 @@ b_cuneo = city
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = mountain
 # History
 

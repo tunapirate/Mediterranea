@@ -25,7 +25,7 @@ b_bath = temple
 
 # Misc
 culture = brittonic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

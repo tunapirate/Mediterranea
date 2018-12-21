@@ -18,7 +18,7 @@ b_forlimpopoli = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = farmlands # could be marshland
 # History
 1160.1.1 = { b_polenta = castle}

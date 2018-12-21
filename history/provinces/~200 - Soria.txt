@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 200 - Soria
+
+# County Title
+title = c_soria
+
+# Settlements
+max_settlements = 3
+
+b_soria = tribal
+#b_osma = tribal
+#b_gormaz = tribal
+
+# Misc
+
+culture = castillan
+religion = hispanic_rite
+
+# History
+

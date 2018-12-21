@@ -16,7 +16,7 @@ b_valperga = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History
 1200.1.1 = { b_crescentino = castle }

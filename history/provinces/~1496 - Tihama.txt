@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1496 - Tihama
+
+# County Title
+title = c_tihama
+
+# Settlements
+max_settlements = 4
+
+b_jizan = tribal
+b_kamaran = tribal
+b_harad = tribal
+
+# Misc
+culture = yemeni
+religion = jewish
+
+# History
+

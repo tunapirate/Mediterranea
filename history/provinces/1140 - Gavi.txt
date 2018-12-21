@@ -17,7 +17,7 @@ b_voghera = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = forest
 # History
 1202.1.1 = { capital = b_voghera } 

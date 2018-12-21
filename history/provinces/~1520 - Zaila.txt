@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1520 - Zaila
+
+# County Title
+title = c_zaila
+
+# Settlements
+max_settlements = 4
+b_zeila = tribal
+b_djibouti = tribal
+b_holhol = tribal
+
+# Misc
+culture = somali
+religion = jewish
+
+# History
+
+  

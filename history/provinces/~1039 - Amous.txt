@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1039 - Amous
+
+# County Title
+title = c_amous
+
+# Settlements
+max_settlements = 3
+b_dole = castle
+b_gray = city
+#b_auxonne = castle
+
+
+# Misc
+culture = gallic
+religion = hellenic_pagan
+
+# History

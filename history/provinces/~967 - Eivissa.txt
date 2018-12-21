@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 967 - Eivissa
+
+# County Title
+title = c_eivissa
+
+# Settlements
+max_settlements = 2
+
+b_formentera = tribal
+b_eivissa = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+terrain = mountain
+
+# History
+

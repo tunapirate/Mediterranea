@@ -14,6 +14,6 @@ b_dai = tribal
 
 # Misc
 culture = masmuda
-religion = african_rite
+religion = west_african_pagan
 
 # History

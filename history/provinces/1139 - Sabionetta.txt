@@ -16,7 +16,7 @@ b_leno = temple
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = farmlands
 # History
 

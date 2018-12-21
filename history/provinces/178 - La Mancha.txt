@@ -15,8 +15,8 @@ b_ucles = tribal
 #b_laspedroneras = tribal
 
 # Misc
-culture = castillan
-religion = hellenic_pagan
+culture = hispanic
+religion = hispanic_rite
 
 # History
 

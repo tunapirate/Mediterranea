@@ -17,7 +17,7 @@ b_stquentin = city
 #b_marlesaisnes = castle
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

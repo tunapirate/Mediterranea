@@ -16,7 +16,7 @@ b_sant_severo = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = forest
 # History
 

@@ -18,7 +18,7 @@ b_neuchatel = castle
 
 # Misc
 culture = arpitan
-religion = hellenic_pagan
+religion = catholic
 
 # History
 

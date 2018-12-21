@@ -16,7 +16,7 @@ b_hvar_stari_grad = temple
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 

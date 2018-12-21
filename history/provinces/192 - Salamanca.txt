@@ -12,7 +12,7 @@ b_salamanca = tribal
 #b_bejar = tribal
 
 # Misc
-culture = leonese
+culture = hispanic
 religion = hispanic_rite
 
 # History

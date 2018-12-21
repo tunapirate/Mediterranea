@@ -17,7 +17,7 @@ b_nantmillau = temple
 
 # Misc
 culture = auvergnat
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

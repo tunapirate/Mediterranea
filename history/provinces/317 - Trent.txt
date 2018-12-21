@@ -22,6 +22,6 @@ b_rovereto = castle
 
 # Misc
 culture = venetian #moved from the march of Verona to the (stem) duchy of Bavaria in 1027
-religion = hellenic_pagan
+religion = catholic
 
 # History

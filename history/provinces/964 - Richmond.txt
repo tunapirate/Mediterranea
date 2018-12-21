@@ -15,14 +15,7 @@ b_middleham = city
 
 # Misc
 
-culture = saxon
+culture = welsh
 religion = celtic_rite
 
 # History
-400.1.1 = { culture = cumbric } 
-880.1.1 = { culture = norse } # Danes settle down
-880.1.1 = { religion = norse_pagan } # Danes settle down
-931.1.1 = { religion = catholic } # Wulfstan becomes Archbishop of York
-931.1.1 = { culture = anglonorse }
-1070.1.1 = { b_richmond = castle } 
-1100.11.11 = { culture = english } 

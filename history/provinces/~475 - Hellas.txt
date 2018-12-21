@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 475 - Hellas
+
+# County Title
+title = c_hellas
+
+# Settlements
+max_settlements = 5
+
+b_naupaktos = tribal
+b_lidoriki = tribal
+b_galaxidi = tribal
+b_vitrinitsa = tribal
+b_pleuron = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+terrain = hills
+
+# History
+
+
+  
+
+

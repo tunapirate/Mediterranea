@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 827 - Mallorca
+
+# County Title
+title = c_mallorca
+
+# Settlements
+max_settlements = 4
+
+b_alcudia = tribal
+b_palma = tribal
+b_santaponsa = tribal
+#b_felanitx = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+terrain = mountain
+
+# History

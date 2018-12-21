@@ -16,7 +16,7 @@ b_durbuy = castle
 
 # Misc
 culture = franconian
-religion = germanic_rite
+religion = gallic_rite
 
 # History
 1102.6.22   = { b_bastogne = city }

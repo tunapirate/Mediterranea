@@ -24,7 +24,7 @@ b_villefranche = city
 
 
 #Misc
-religion = hellenic_pagan
+religion = gallic_rite
 culture = auvergnat
 
 # History

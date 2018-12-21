@@ -16,7 +16,7 @@ b_ravello = temple
 
 # Misc
 culture = roman
-religion = orthodox
+religion = mercurial
 terrain = mountain
 
 # History

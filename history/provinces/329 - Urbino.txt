@@ -19,7 +19,7 @@ b_senigallia = castle
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = hills
 # History
 

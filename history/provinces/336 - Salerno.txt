@@ -17,7 +17,7 @@ b_salerno = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = forest
 
 # History

@@ -20,7 +20,7 @@ b_montone_in_chianti= castle
 
 # Misc
 culture = roman
-religion = catholic
+religion = apollonian
 terrain = farmlands
 
 # History

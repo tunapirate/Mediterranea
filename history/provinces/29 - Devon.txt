@@ -24,7 +24,7 @@ b_crediton = temple
 
 # Misc
 culture = cornish
-religion = celtic_rite
+religion = gallic_rite
 
 # History
 

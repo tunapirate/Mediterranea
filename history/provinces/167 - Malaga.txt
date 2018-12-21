@@ -15,7 +15,7 @@ b_mijas = tribal
 #b_torremolinos = tribal
 
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History
 

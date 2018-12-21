@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1061 - Chiny
+# County Title
+title = c_chiny
+
+# Settlements
+max_settlements = 3
+b_chiny = castle
+b_orval = temple
+#b_orchimont = castle
+
+# Misc
+culture = rhenish
+religion = germanic_rite
+
+# History
+
+
+
+

@@ -12,7 +12,7 @@ b_mangup = city
 b_inkerman = temple
 
 # Misc
-culture = greek
+culture = slavonic
 religion = orthodox
 
 # History

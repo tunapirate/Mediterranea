@@ -16,6 +16,6 @@ b_modena = city
 #b_bomporto = castle
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = apollonian
 terrain = farmlands
 # History

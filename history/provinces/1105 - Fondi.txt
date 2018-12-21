@@ -16,7 +16,7 @@ b_itri = castle
 
 # Misc
 culture = roman
-religion = orthodox
+religion = catholic
 terrain = plains
 # History
 1060.1.1={ culture = laziale religion = catholic }

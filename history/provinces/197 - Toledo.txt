@@ -14,7 +14,7 @@ b_orgaz = tribal
 #b_tolemora = tribal
 
 # Misc
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

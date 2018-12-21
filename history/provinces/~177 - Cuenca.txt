@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 177 - Cuenca
+
+# County Title
+title = c_cuenca
+
+# Settlements
+max_settlements = 5
+
+b_cuenca = tribal
+b_segobriga = tribal
+b_valeria = tribal
+b_villanuevadelajara = tribal
+#b_quintanardelrey = tribal
+
+culture = castillan
+religion = hellenic_pagan
+
+# History

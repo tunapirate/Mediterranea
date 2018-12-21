@@ -17,7 +17,7 @@ b_monopoli = city
 
 # Misc
 culture = greek
-religion = orthodox
+religion = catholic
 terrain = plains
 # History
 

@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 815 - Kairwan
+
+# County Title
+title = c_kairwan
+
+# Settlements
+max_settlements = 4
+
+b_alabbasiyaifr = tribal
+b_rakkada = tribal
+b_sabiba = tribal
+
+# Misc
+culture = african
+religion = hellenic_pagan
+
+# History
+
+1054.1.1 = { b_kairouan = tribal }
+1159.7.1 = { b_kairouan = castle }

@@ -17,6 +17,6 @@ b_lepuy = city
 
 # Misc
 culture = auvergnat
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History

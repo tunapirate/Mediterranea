@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 870 - Dhu Zabi
+
+# County Title
+title = c_dhu_zabi
+
+# Settlements
+max_settlements = 4
+
+b_julfar = tribal
+b_tawam = tribal
+b_sharjah = tribal
+b_al-ayn = tribal
+
+# Misc
+culture = bedouin_arabic
+religion = zoroastrian
+
+# History

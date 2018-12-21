@@ -15,8 +15,7 @@ b_midar = tribal
 
 # Misc
 culture = tangieran
-religion = mercurial
-
+religion = african_rite
 
 # History
 

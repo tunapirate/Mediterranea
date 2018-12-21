@@ -13,6 +13,6 @@ b_karystos = tribal
 
 # Misc
 culture = greek
-religion = hellenic_pagan
+religion = orthodox
 
 # History

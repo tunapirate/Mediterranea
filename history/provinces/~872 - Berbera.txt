@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 872 - Berbera
+
+# County Title
+title = c_berbera
+
+# Settlements
+max_settlements = 4
+
+b_berbera = city
+b_maydh = tribal
+b_amud = tribal
+
+# Misc
+culture = somali
+religion = jewish
+
+# History

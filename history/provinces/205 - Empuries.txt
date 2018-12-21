@@ -15,6 +15,6 @@ b_torroellademontgri = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 
 # History

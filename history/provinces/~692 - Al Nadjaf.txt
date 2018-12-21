@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 692 - Al Nadjaf
+
+# County Title
+title = c_al_nadjaf
+
+# Settlements
+max_settlements = 4
+
+b_qadisiyyah = tribal
+b_waqisa = tribal
+b_masjidsad = tribal
+b_amghishiya = tribal
+
+# Misc
+culture = levantine_arabic
+religion = nestorian
+
+# History

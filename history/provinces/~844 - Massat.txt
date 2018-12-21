@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 844 - Massat    #Asfi
+
+# County Title
+title = c_massat
+
+# Settlements
+max_settlements = 4 
+
+b_safi = tribal
+b_oualidia = tribal
+b_eljadida = tribal
+b_haddraa = tribal
+
+# Misc
+culture = masmuda
+religion = african_rite
+
+# History
+1066.1.1 = { religion = sunni }
+
+#1190.1.1 = { b_safi = castle }

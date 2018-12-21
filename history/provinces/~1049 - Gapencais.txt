@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1049 - Gapencais
+
+# County Title
+title = c_gapencais
+
+# Settlements
+max_settlements = 4
+b_briancon = castle
+b_embrun = temple
+b_gap = city
+
+#b_stbonnet = temple #en Champsaur
+#b_serresn = city
+#b_veynes = castle
+
+# Misc
+culture = septiman
+religion = hellenic_pagan
+
+# History
+
+#NPPT lige Provence puis dauphiné

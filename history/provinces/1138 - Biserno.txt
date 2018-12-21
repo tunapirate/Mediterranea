@@ -14,7 +14,7 @@ b_st_gimignano = city
 
 # Misc
 culture = roman
-religion = catholic
+religion = apollonian
 terrain = forest
 # History
 1005.1.1 = { 

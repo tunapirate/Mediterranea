@@ -14,8 +14,8 @@ b_montgisard = tribal
 b_ascalon = tribal
 
 # Misc
-culture = ashkenazi
-religion = jewish
+culture = levantine_arabic
+religion = miaphysite
 
 # History
 

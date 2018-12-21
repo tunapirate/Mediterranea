@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 168 - Almeria
+
+# County Title
+title = c_almeria
+
+# Settlements
+max_settlements = 4
+
+b_almeria = tribal
+b_adra = tribal
+#b_pechina = tribal
+#b_roquetasdemar = tribal
+
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

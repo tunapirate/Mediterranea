@@ -17,7 +17,7 @@ b_mistretta = city
 
 # Misc
 culture = greek
-religion = orthodox
+religion = mercurial
 terrain = hills
 
 # History

@@ -20,6 +20,6 @@ b_murat = castle
 
 # Misc
 culture = auvergnat
-religion = hellenic_pagan
+religion = saturnal
 
 # History

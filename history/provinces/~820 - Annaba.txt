@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 820 - Annaba
+
+# County Title
+title = c_annaba
+
+# Settlements
+max_settlements = 4
+
+b_annabah = city
+b_buna = tribal
+b_mila = tribal
+b_eltarf = tribal
+
+# Misc
+culture = roman
+religion = african_rite
+
+# History
+

@@ -13,7 +13,7 @@ b_eivissa = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = neptunal
 terrain = mountain
 
 # History

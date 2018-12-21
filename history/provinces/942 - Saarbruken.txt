@@ -17,7 +17,7 @@ b_saarbrucken = city
 
 # Misc
 culture = rhenish
-religion = germanic_rite
+religion = gallic_rite
 
 # History
 1170.1.1 = { culture = german }

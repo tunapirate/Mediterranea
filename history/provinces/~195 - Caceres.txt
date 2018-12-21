@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 195 - Caceres
+
+# County Title
+title = c_caceres
+
+# Settlements
+max_settlements = 3
+
+b_talavera = tribal
+#b_alia = tribal
+#b_oropesa = tribal
+
+# Misc
+culture = castillan
+religion = hispanic_rite
+
+# History

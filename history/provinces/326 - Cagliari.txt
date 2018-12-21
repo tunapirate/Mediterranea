@@ -17,7 +17,7 @@ b_sulci = temple # see of Sulci based on Sant'Antioco(aka Sulci) until 1218, bas
 
 # Misc
 culture = sardinian
-religion = hellenic_pagan
+religion = catholic
 terrain = plains
 
 # History

@@ -13,8 +13,8 @@ b_kodak = tribal
 
 
 # Misc
-culture = slavonic
-religion = slavic_pagan
+culture = pecheneg
+religion = tengri_pagan
 terrain = steppe
 
 # History

@@ -18,7 +18,7 @@ b_montbeliard = castle
 # Misc
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 1025.1.1 = { b_montfaucon = castle } 

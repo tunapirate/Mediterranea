@@ -16,6 +16,6 @@ b_jaen = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion =  hellenic_pagan
 
 # History

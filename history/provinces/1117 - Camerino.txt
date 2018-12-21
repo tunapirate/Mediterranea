@@ -16,7 +16,7 @@ b_ascoli_piceno = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History
 946.1.1 = { b_matelica = castle } 

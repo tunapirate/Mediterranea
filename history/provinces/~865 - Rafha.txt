@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 865 - Rafha
+
+# County Title
+title = c_rafha
+
+# Settlements
+max_settlements = 6
+
+b_sadah = tribal
+b_najran = tribal
+b_huth = tribal
+
+# Misc
+culture = yemeni
+religion = jewish
+
+# History
+

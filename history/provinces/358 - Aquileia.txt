@@ -17,7 +17,7 @@ b_motta = castle
 #b_portoguaro = castle 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = catholic
 
 # History
 

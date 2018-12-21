@@ -15,7 +15,7 @@ b_eltarf = tribal
 
 # Misc
 culture = roman
-religion = african_rite
+religion = mercurial
 
 # History
 

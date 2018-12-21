@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 343 - Siracusa # Paterno
+
+# County Title
+title = c_siracusa
+
+# Settlements
+max_settlements = 6
+
+b_paterno = castle
+b_catania = city
+b_messina = city
+b_milazzo = temple
+#b_agosta = city
+#b_taormina = temple
+# Misc
+culture = greek
+religion = orthodox
+terrain = hills
+
+# History
+
+1085.1.1={ culture = sicilian }
+1085.1.1={ religion = catholic }
+1089.1.1 = { trade_post = b_ziani }
+1116.1.1={ culture = sicilian }
+1116.1.1={ religion = catholic }
+
+1232.1.1 = { b_agosta = city}

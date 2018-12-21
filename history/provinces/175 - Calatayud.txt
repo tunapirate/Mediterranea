@@ -12,7 +12,7 @@ b_calatayud = tribal
 #b_piedra = tribal
 
 # Misc
-culture = castillan
+culture = hispanic
 religion = hellenic_pagan
 
 # History

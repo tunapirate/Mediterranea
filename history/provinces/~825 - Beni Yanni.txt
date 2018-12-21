@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 825 - Beni Yanni
+
+# County Title
+title = c_beni_yanni
+
+# Settlements
+max_settlements = 7
+
+b_jijel = tribal
+b_djimla = tribal
+b_bourmedes = tribal
+b_tafoughalt = tribal
+
+# Misc
+culture = african
+religion = african_rite
+
+# History
+
+

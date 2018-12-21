@@ -15,6 +15,6 @@ b_ahfir = tribal
 
 # Misc
 culture = zanata
-religion = african_rite
+religion = mercurial
 
 # History

@@ -15,6 +15,6 @@ b_monaco = castle
 
 # Misc
 culture = ligurian
-religion = hellenic_pagan
+religion = apollonian
 terrain = hills
 # History

@@ -16,7 +16,7 @@ b_citta_di_castello = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = forest
 # History
 1040.1.1 = { b_montauto_anghira = castle } 

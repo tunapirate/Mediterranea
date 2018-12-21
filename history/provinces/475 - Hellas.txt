@@ -16,7 +16,7 @@ b_pleuron = tribal
 
 # Misc
 culture = greek
-religion = hellenic_pagan
+religion = orthodox
 terrain = hills
 
 # History

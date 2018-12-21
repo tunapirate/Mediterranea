@@ -24,7 +24,5 @@ religion = hellenic_pagan
 
 # History
 
-880.1.1 = { religion = orthodox }
-
 
  

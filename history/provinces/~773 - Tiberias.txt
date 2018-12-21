@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 773 - Tiberias
+
+# County Title
+title = c_tiberias
+
+# Settlements
+max_settlements = 3
+
+b_tiberias = tribal
+b_sepphoria = tribal
+b_nazareth = tribal
+
+# Misc
+culture = aramean
+religion = miaphysite
+
+# History
+

@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 814 - Gabes
+
+# County Title
+title = c_gabes
+
+# Settlements
+max_settlements = 4
+
+b_haddej = tribal
+b_gabes = tribal
+b_tataouine = tribal
+
+# Misc
+culture = sanhaja
+religion = african_rite
+
+# History
+

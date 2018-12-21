@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1192 - Jaen
+
+# County Title
+title = c_jaen
+
+# Settlements
+max_settlements = 5
+
+b_andujar = tribal
+b_baeza = tribal
+b_jaen = tribal
+#b_ubeda = tribal
+#b_alcaudete = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

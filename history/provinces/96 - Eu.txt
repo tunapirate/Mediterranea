@@ -16,7 +16,7 @@ b_forges = city
 
 # Misc
 culture = gallic
-religion = hellenic_pagan
+religion = saturnal
 
 # History
 911.1.1 = { # Viking takeover

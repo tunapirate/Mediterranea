@@ -16,7 +16,7 @@ b_montfortlamaury = castle
 #b_brezolles = temple
 
 culture = gallic
-religion = gallic_rite
+religion = saturnal
 
 # History
 

@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 166 - Algeciras
+
+# County Title
+title = c_algeciras
+
+# Settlements
+max_settlements = 5
+
+b_cadiz = city
+b_gibraltar = tribal
+b_tarifa = tribal
+#b_algeciras = tribal
+#b_ronda = tribal
+
+culture = hispanic
+religion = hellenic_pagan
+
+# History

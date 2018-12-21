@@ -14,7 +14,7 @@ b_nizza = city
 
 # Misc
 culture = ligurian
-religion = hellenic_pagan
+religion = apollonian
 
 
 # History

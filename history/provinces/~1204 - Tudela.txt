@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1204 - Tudela
+
+# County Title
+title = c_tudela
+
+# Settlements
+max_settlements = 3
+
+b_tudela = tribal
+b_cascante = tribal
+#b_valtierra = tribal
+
+# Misc
+culture = basque
+religion = hellenic_pagan
+
+# History

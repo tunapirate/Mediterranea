@@ -22,7 +22,7 @@ b_selsey = temple
 
 
 # Misc
-culture = saxon
+culture = brittonic
 religion = gallic_rite
 
 # History

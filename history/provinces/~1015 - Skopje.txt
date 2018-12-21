@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1015 - Skopje
+
+# County Title
+title = c_skopje
+
+# Settlements
+max_settlements = 3
+
+b_prilep = tribal
+b_skopje = tribal
+b_kicevo = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History
+

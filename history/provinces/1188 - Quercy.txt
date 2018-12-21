@@ -16,7 +16,7 @@ b_saintantonin = temple
 #b_mondenard = city
 
 #Misc
-religion = hellenic_pagan
+religion = gallic_rite
 culture = auvergnat
 
 # History

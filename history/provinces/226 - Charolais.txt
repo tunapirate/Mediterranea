@@ -19,7 +19,7 @@ b_perrecy = temple
 
 # Misc
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

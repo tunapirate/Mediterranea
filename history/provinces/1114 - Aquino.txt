@@ -17,6 +17,6 @@ b_pontecorvo = castle
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History

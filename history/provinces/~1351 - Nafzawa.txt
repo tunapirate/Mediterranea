@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1351 - Nafzawa
+
+# County Title
+title = c_nafzawa
+
+# Settlements
+max_settlements = 3
+
+b_nafta = tribal
+b_alqalah = tribal
+
+# Misc
+culture = sanhaja
+religion = african_rite
+
+# History
+

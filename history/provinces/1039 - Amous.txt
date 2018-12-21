@@ -14,6 +14,6 @@ b_gray = city
 
 # Misc
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History

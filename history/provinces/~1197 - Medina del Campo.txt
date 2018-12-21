@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1197 - Medina del Campo
+
+# County Title
+title = c_medina_del_campo
+
+# Settlements
+max_settlements = 3
+
+b_portillo = tribal
+#b_medinadelcampo = tribal
+#b_tordesillas = tribal
+
+# Misc
+culture = aragonese
+religion = hispanic_rite
+
+# History

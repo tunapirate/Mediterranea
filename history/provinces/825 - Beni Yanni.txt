@@ -15,7 +15,7 @@ b_tafoughalt = tribal
 
 # Misc
 culture = african
-religion = african_rite
+religion = mercurial
 
 # History
 

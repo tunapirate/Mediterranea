@@ -20,7 +20,7 @@ b_st_pauls = temple
 
 # Misc
 culture = saxon
-religion = gallic_rite
+religion = germanic_rite
 
 
 # History

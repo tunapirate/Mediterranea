@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 831 - Al Djazair
+
+# County Title
+title = c_al_djazair
+
+# Settlements
+max_settlements = 7
+
+b_algiers = city
+b_mattija = tribal
+b_miliyana = tribal
+b_sharashal = tribal
+
+# Misc
+culture = african
+religion = african_rite
+
+# History

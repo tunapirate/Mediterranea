@@ -16,7 +16,7 @@ b_ortona = temple
 
 
 # Misc
-religion = hellenic_pagan
+religion = catholic
 culture = roman
 terrain = plains
 # History

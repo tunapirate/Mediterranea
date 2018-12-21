@@ -17,7 +17,7 @@ b_alatri = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = plains
 
 # History

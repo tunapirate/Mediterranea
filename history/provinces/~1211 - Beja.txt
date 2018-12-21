@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 1211 - Beja
+
+# County Title
+title = c_beja
+
+# Settlements
+max_settlements = 2
+
+b_beja = tribal
+#b_alvito_beja = tribal
+
+# Misc
+culture = hispanic
+religion = neptunal
+
+# History

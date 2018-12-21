@@ -25,7 +25,7 @@ b_saissac = castle
 
 
 #Misc
-religion = hellenic_pagan
+religion = apollonian
 culture = septiman
 
 # History

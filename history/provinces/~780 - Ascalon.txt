@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 780 - Ascalon/Ibelin
+
+# County Title
+title = c_ascalon
+
+# Settlements
+max_settlements = 4
+
+b_ibelin = tribal
+b_latrun = tribal
+b_montgisard = tribal
+b_ascalon = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History
+

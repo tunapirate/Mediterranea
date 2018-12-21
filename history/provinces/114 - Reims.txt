@@ -13,7 +13,7 @@ b_chalons = temple
 b_vitry = castle
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

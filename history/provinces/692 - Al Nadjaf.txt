@@ -15,6 +15,6 @@ b_amghishiya = tribal
 
 # Misc
 culture = levantine_arabic
-religion = nestorian
+religion = sunni
 
 # History

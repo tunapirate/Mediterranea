@@ -20,7 +20,7 @@ b_die = city
 
 # Misc
 culture = septiman
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 

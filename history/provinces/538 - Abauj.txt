@@ -20,7 +20,7 @@ b_abaujszanto = tribal
 
 # Misc
 culture = bulgarian
-religion = slavic_pagan
+religion = tengri_pagan
 
 # History
 

@@ -1,0 +1,17 @@
+# -*- ck2.history.provinces -*-
+
+# 866 - Dhofar
+
+# County Title
+title = c_dhofar
+
+# Settlements
+max_settlements = 2
+
+b_salalah = tribal
+
+# Misc
+culture = bedouin_arabic
+religion = hindu
+
+# History

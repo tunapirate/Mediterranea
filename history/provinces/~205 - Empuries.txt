@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 205 - Empuries
+
+# County Title
+title = c_empuries
+
+# Settlements
+max_settlements = 4
+
+b_castellodempuries = tribal
+b_santperederoda = tribal
+b_torroellademontgri = tribal
+#b_peralada = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

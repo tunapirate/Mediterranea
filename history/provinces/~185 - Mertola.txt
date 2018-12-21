@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 185 - Mértola
+
+# County Title
+title = c_mertola
+
+# Settlements
+max_settlements = 3
+
+b_mertola = tribal
+#b_moura = tribal
+#b_portel = tribal
+
+# Misc
+culture = hispanic
+religion = neptunal
+
+# History

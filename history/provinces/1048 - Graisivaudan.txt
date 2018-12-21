@@ -18,6 +18,6 @@ b_voreppe = temple
 
 # Misc
 culture = arpitan
-religion = hellenic_pagan
+religion = saturnal
 
 # History

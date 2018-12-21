@@ -18,7 +18,7 @@ b_faenza = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = plains
 # History
 1000.1.1 = { b_castel_del_rio = castle } 

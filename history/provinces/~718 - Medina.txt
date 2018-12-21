@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 718 - Medina
+
+# County Title
+title = c_medina
+
+# Settlements
+max_settlements = 5
+b_medina = city
+b_qalatmedina = tribal
+b_khaybar = tribal
+b_rabadha = tribal
+#b_madinabanusulaim = city
+
+# Misc
+culture = hijazi
+religion = sunni
+
+# History

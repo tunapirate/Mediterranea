@@ -18,7 +18,7 @@ b_sezzadio = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = farmlands
 # History
 1168.1.1 = { b_alessandria = city }

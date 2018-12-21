@@ -477,7 +477,7 @@
 514202 = {
 	name="Jabalah"
     dynasty=12277
-    religion="hindu"
+    religion="sunni"
     culture="bedouin_arabic"
 	 
 	#History
@@ -492,7 +492,7 @@
 }
 514203 = {
 	name="Sheeva"
-    religion="hindu"
+    religion="sunni"
     culture="bedouin_arabic"
 	female=yes
 	 
@@ -508,7 +508,7 @@
 514204 = {
 	name="Nizam"
     dynasty=12277
-    religion="hindu"
+    religion="sunni"
     culture="bedouin_arabic"
 	father=514202
 	mother=514203

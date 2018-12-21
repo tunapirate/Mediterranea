@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1122 - Frignano
+
+# County Title
+title = c_frignano
+
+# Settlements
+max_settlements = 4
+
+b_pelago = castle
+b_pistoia = temple
+#b_baiso = castle
+b_montecuccolo = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan
+terrain = mountain
+
+# History

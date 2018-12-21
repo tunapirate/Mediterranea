@@ -18,8 +18,8 @@ b_stjeandangely = temple
 #b_taillebourg = castle
 
 #Misc
-religion = hellenic_pagan
-culture = thifalian
+religion = dianic
+culture = occitan
 
 # History
 1214.1.1 = {

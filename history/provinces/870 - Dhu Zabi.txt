@@ -15,6 +15,6 @@ b_al-ayn = tribal
 
 # Misc
 culture = bedouin_arabic
-religion = zoroastrian
+religion = sunni
 
 # History

@@ -17,7 +17,7 @@ b_piombino = city
 #b_campiglia = castle
 # Misc
 culture = roman
-religion = catholic
+religion = apollonian
 terrain = farmlands
 1005.1.1 = { 
 	b_porto_pisano = ct_wall_1

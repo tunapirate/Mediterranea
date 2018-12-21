@@ -17,8 +17,8 @@ b_coblenz = city
 #b_bitburg = castle
 
 # Misc
-culture = franconian
-religion = germanic_rite
+culture = rhenish
+religion = gallic_rite
 
 # History
 1170.1.1 = { culture = german }

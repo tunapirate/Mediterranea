@@ -20,7 +20,7 @@ b_syracusa = city
 
 # Misc
 culture = sicilian
-religion = orthodox
+religion = catholic
 terrain = hills
 
 # History

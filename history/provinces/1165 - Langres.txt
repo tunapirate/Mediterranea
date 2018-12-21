@@ -16,7 +16,7 @@ b_chaumont = city
 
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

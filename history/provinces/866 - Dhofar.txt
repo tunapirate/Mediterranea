@@ -12,6 +12,6 @@ b_salalah = tribal
 
 # Misc
 culture = bedouin_arabic
-religion = hindu
+religion = sunni
 
 # History

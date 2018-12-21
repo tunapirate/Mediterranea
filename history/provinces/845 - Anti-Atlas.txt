@@ -14,7 +14,7 @@ b_igiradyatuf = tribal
 
 # Misc
 culture = masmuda
-religion = african_rite
+religion = west_african_pagan
 
 # History
 1066.1.1 = { religion = sunni }

@@ -15,6 +15,6 @@ b_barbiano = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = plains # should be marshlands
 # History

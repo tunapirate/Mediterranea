@@ -20,8 +20,8 @@ b_godsgrace = temple
 
 
 
-culture = thifalian
-religion = hellenic_pagan
+culture = occitan
+religion = dianic
 
 # History
 #1137.1.1   = { b_vauclaircastle = castle }

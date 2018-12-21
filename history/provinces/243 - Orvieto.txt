@@ -18,7 +18,7 @@ b_sutri = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = plains
 # History
 

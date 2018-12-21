@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 198 - Valladolid
+
+# County Title
+title = c_valladolid
+
+# Settlements
+max_settlements = 4
+
+b_penyafiel = tribal
+b_valladolid = tribal
+#b_hornija = tribal
+#b_uruenya = tribal
+
+# Misc
+culture = aragonese
+religion = hispanic_rite
+
+# History
+

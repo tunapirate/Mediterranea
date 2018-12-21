@@ -15,7 +15,7 @@ b_castrogiovanni = city
 
 # Misc
 culture = sicilian
-religion = hellenic_pagan
+religion = catholic
 terrain = mountain
 
 # History

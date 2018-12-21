@@ -18,7 +18,7 @@ b_bassac = temple
 #b_fontdouce = temple
 
 #Misc
-religion = hellenic_pagan
-culture = thifalian
+religion = gallic_rite
+culture = occitan
 
 # History

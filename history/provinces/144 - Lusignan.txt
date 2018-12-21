@@ -18,8 +18,8 @@ b_niort = city
 #b_stmaixent = temple
 
 #Misc
-religion = hellenic_pagan
-culture = thifalian
+religion = gallic_rite
+culture = occitan
 
 # History
 1214.1.1 = {

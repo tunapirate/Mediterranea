@@ -16,9 +16,8 @@ b_gap = city
 #b_veynes = castle
 
 # Misc
-culture = septiman
-religion = hellenic_pagan
-
+culture = arpitan
+religion = apollonian
 # History
 
 #NPPT lige Provence puis dauphiné

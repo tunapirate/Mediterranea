@@ -21,8 +21,8 @@ b_st_albans = temple
 
 
 # Misc
-culture = brittonic
-religion = hellenic_pagan
+culture = saxon
+religion = germanic_rite
 
 # History
 1100.11.11 = { culture = english } 

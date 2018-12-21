@@ -15,6 +15,6 @@ b_bayan = tribal
 b_kazima = tribal
 
 culture = levantine_arabic
-religion = nestorian
+religion = sunni
 
 # History

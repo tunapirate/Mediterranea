@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 162 - Silves
+
+# County Title
+title = c_silves
+
+# Settlements
+max_settlements = 3
+
+b_silves = tribal
+#b_lagos = tribal
+#b_aljezur = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

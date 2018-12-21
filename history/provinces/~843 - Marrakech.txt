@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 843 - Marrakech
+
+# County Title
+title = c_marrakech
+
+# Settlements
+max_settlements = 3
+
+b_marrakech = tribal
+b_aghmat = tribal
+b_dai = tribal
+
+# Misc
+culture = masmuda
+religion = african_rite
+
+# History

@@ -15,7 +15,7 @@ b_rochechouart = castle
 #b_thiviers = castle
 
 #Misc
-religion = hellenic_pagan
+religion = saturnal
 culture = auvergnat
 
 # History

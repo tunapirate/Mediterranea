@@ -15,7 +15,7 @@ b_amiens = city
 #b_nesle = castle
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

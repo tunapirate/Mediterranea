@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 159 - Coimbra
+
+# County Title
+title = c_coimbra
+
+# Settlements
+max_settlements = 3
+
+b_coimbra = tribal
+#b_cantanhede = tribal
+#b_penela = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

@@ -21,7 +21,7 @@ b_ampthill = city
 
 # Misc
 culture = brittonic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

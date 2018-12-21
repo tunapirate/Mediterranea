@@ -13,7 +13,7 @@ b_surmasirah = tribal
 
 # Misc
 culture = bedouin_arabic
-religion = hindu
+religion = sunni
 
 # History
 

@@ -15,7 +15,7 @@ b_montecuccolo = castle
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = apollonian
 terrain = mountain
 
 # History

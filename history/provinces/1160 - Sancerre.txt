@@ -16,6 +16,6 @@ b_stbrisson = temple
 
 # Misc
 culture = andegavian
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History

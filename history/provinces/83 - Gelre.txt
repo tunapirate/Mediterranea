@@ -18,7 +18,7 @@ b_montfort_gelre = castle
 
 # Misc
 culture = low_frankish
-religion = gallic_rite
+religion = germanic_rite
 
 # History
 1150.1.1 = { culture = dutch }

@@ -16,8 +16,9 @@ b_alba = temple
 
 # Misc
 culture = ligurian
-religion = hellenic_pagan
+religion = catholic
 terrain = forest
+
 # History
 
 

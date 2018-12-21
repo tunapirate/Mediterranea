@@ -14,7 +14,7 @@ b_orbetello = city
 
 # Misc
 culture = roman
-religion = catholic
+religion = apollonian
 terrain = forest
 # History
 1096.1.1 = { trade_post = b_della_gherardesca }

@@ -18,6 +18,6 @@ b_fidenza_borgo_san_donnino = city
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History

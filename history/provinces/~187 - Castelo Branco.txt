@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 187 - Castelo Branco
+
+# County Title
+title = c_castelo_branco
+
+# Settlements
+max_settlements = 3
+
+b_covilha = tribal
+#b_castelobranco = tribal
+#b_belmonte = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

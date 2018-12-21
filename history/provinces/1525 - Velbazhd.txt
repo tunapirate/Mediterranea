@@ -16,7 +16,7 @@ b_velbazhd = castle
 
 
 # Misc
-culture = greek
+culture = romanian
 religion = orthodox
 
 # History

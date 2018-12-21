@@ -19,7 +19,7 @@ b_kotor = city
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = orthodox
 
 # History
 980.1.1 = { religion = orthodox }

@@ -16,6 +16,6 @@ b_clusone = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = apollonian
 terrain = hills
 # History

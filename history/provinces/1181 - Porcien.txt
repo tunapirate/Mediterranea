@@ -14,7 +14,7 @@ b_rumigny = city
 #b_sedan = castle
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 #1123.1.1  = { b_xxx = castle }

@@ -13,8 +13,8 @@ b_chyhyryn = tribal
 #b_mykytyn_nikopol = castle
 
 # Misc
-culture = russian
-religion = slavic_pagan
+culture = hungarian
+religion = tengri_pagan
 terrain = steppe
 
 # History

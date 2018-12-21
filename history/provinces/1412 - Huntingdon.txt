@@ -16,7 +16,7 @@ b_huntingdon = castle
 
 # Misc
 culture = brittonic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 880.1.1 = { culture = norse } # Danes settle down

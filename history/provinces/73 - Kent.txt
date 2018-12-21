@@ -28,8 +28,8 @@ b_saltwood = castle
 #b_gillingham = city
 
 # Misc
-culture = saxon
-religion = gallic_rite
+culture = brittonic
+religion = saturnal
 
 # History
 1100.11.11 = { culture = english }

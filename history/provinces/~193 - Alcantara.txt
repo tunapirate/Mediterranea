@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 193 - Alcantara
+
+# County Title
+title = c_alcantara
+
+# Settlements
+max_settlements = 3
+
+b_coria = tribal
+#b_caceres = tribal
+#b_alcantara = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

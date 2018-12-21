@@ -12,7 +12,7 @@ b_molina = tribal
 #b_siguenza = tribal
 #b_atienza = tribal
 
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

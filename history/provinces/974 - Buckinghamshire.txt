@@ -19,7 +19,7 @@ b_wycombe = city
 
 # Misc
 culture = brittonic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 1100.11.11 = { culture = english } 

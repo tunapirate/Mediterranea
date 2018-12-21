@@ -24,6 +24,6 @@ b_sittich = temple
 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = apollonian
 
 # History

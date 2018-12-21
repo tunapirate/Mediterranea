@@ -18,7 +18,7 @@ b_perpinya = city
 #b_cuixa = temple
 
 #Misc
-religion = hellenic_pagan
+religion = mercurial
 culture = septiman
 
 # History

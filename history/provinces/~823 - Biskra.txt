@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 823 - Biskra
+
+# County Title
+title = c_biskra
+
+# Settlements
+max_settlements = 3
+
+b_biskra = tribal
+b_badis = tribal
+
+# Misc
+culture = sanhaja
+religion = african_rite
+
+# History
+#1066.1.1 = { remove_settlement = b_biskra }
+1054.1.1 = { b_biskra = tribal }
+1152.1.1 = { b_biskra = castle }

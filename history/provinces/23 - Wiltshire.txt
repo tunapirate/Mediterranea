@@ -22,7 +22,7 @@ b_malmesbury = temple
 
 # Misc
 culture = brittonic
-religion = saturnal
+religion = gallic_rite
 
 # History
 1058.11.11 = { b_sarum = temple } # Bishopery moved from Ramsbury(since 909) to old Samrum

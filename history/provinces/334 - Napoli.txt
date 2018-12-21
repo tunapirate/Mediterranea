@@ -19,8 +19,9 @@ b_napoli = city
 
 # Misc
 culture = roman
-religion = orthodox
+religion = mercurial
 terrain=farmlands
+
 # History
 1040.1.1 = { b_procida = castle }
 1092.1.1 = { trade_post = b_alliata }

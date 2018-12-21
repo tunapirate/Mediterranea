@@ -15,7 +15,7 @@ b_asola = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History
 #1173.1.1 = { capital = b_montichiari } # ct

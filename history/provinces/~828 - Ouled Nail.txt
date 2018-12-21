@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 828 - Ouled Nail
+
+# County Title
+title = c_ouled_nail
+
+# Settlements
+max_settlements = 3
+
+b_bousaada = tribal
+b_sidiheg = tribal
+
+# Misc
+culture = sanhaja
+religion = african_rite
+
+# History
+
+
+
+

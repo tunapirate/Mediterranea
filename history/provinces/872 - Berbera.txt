@@ -14,6 +14,6 @@ b_amud = tribal
 
 # Misc
 culture = somali
-religion = jewish
+religion = east_african_pagan
 
 # History

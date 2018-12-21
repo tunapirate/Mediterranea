@@ -19,7 +19,7 @@ b_osor = temple
 
 # Misc
 culture = dalmatian
-religion = hellenic_pagan
+religion = apollonian
 
 # History
 

@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1214 - Trancoso
+
+# County Title
+title = c_trancoso
+
+# Settlements
+max_settlements = 3
+
+b_trancoso = tribal
+#b_guarda = tribal
+#b_seia = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

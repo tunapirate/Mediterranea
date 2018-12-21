@@ -16,7 +16,7 @@ b_serralunga = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = farmlands
 # History
 1162.1.1 = { b_ferrere = castle }

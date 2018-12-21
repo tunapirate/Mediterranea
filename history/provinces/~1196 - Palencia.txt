@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 1196 - Palencia
+
+# County Title
+title = c_palencia
+
+# Settlements
+max_settlements = 4
+
+b_palencia = tribal
+#b_duenyas = tribal
+#b_aguilardecampoo = tribal
+#b_astudillo = tribal
+
+
+# Misc
+culture = aragonese
+religion = hispanic_rite
+
+# History

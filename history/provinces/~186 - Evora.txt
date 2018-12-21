@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 186 - Évora
+
+# County Title
+title = c_evora
+
+# Settlements
+max_settlements = 3
+
+b_portalegre = tribal
+#b_evora = tribal
+#b_avis = tribal
+
+# Misc
+culture = hispanic
+religion = neptunal
+
+# History

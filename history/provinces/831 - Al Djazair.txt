@@ -15,6 +15,6 @@ b_sharashal = tribal
 
 # Misc
 culture = african
-religion = african_rite
+religion = mercurial
 
 # History

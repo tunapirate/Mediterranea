@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 1260 - Caesarea
+
+# County Title
+title = c_caesarea
+
+# Settlements
+max_settlements = 3
+
+b_caymont = tribal
+b_syrcaesarea = tribal
+b_arsuf = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

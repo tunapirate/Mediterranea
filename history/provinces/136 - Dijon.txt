@@ -19,7 +19,7 @@ b_autun = temple
 
 # Misc
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 1000.1.1  =  { capital = b_dijon }

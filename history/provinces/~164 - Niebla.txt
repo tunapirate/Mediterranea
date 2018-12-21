@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 164 - Niebla
+
+# County Title
+title = c_niebla
+
+# Settlements
+max_settlements = 4
+
+b_niebla = tribal
+b_huelva = tribal
+b_lepe = tribal
+#b_nerva = tribal
+
+#Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

@@ -17,7 +17,7 @@ b_gallipoli_puglia = city
 
 # Misc
 culture = greek
-religion = orthodox
+religion = catholic
 terrain = plains
 
 # History

@@ -15,7 +15,7 @@ b_nemours = city
 #b_montereau = castle
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

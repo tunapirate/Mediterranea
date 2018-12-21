@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 197 - Toledo
+
+# County Title
+title = c_toledo
+
+# Settlements
+max_settlements = 4
+
+b_toledo = city
+b_orgaz = tribal
+#b_illescas = tribal
+#b_tolemora = tribal
+
+# Misc
+culture = castillan
+religion = hispanic_rite
+
+# History

@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 171 - Valencia
+
+# County Title
+title = c_valencia
+
+# Settlements
+max_settlements = 4
+
+b_valencia = tribal
+b_gandia = tribal
+b_cuartdepoblet = tribal
+#b_alberique = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

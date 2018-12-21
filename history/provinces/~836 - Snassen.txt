@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 836 - Snassen
+
+# County Title
+title = c_snassen
+
+# Settlements
+max_settlements = 7
+
+b_tanas = tribal
+b_sidiakacha = tribal
+b_tendrara = tribal
+b_ahfir = tribal
+
+# Misc
+culture = zanata
+religion = african_rite
+
+# History

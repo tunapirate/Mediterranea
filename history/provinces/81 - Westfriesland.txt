@@ -19,7 +19,7 @@ b_hoorn = city
 
 # Misc
 culture = frisian
-religion = gallic_rite
+religion = germanic_rite
 
 # History
 

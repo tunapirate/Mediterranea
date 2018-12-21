@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1213 - Viseu
+
+# County Title
+title = c_viseu
+
+# Settlements
+max_settlements = 3
+
+b_viseu = tribal
+#b_aveiro = tribal
+#b_lamego = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

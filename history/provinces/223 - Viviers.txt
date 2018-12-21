@@ -19,7 +19,7 @@ b_largentiere = city
 #b_joyeuse = castle
 
 # Misc
-culture = auvergnat
+culture = septiman
 religion = apollonian
 
 # History

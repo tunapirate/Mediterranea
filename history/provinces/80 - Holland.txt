@@ -20,7 +20,7 @@ b_haarlem = temple
 
 # Misc
 culture = frisian 
-religion = gallic_rite
+religion = germanic_rite
 
 # History
 1101.1.1 = { culture = low_frankish } # first count of Holland, his predecessors were know as Frisian Counts.

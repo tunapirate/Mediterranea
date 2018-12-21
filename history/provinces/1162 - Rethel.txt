@@ -15,7 +15,7 @@ b_grandpre = castle
 b_attignyardennes = temple
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

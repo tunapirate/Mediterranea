@@ -19,7 +19,7 @@ b_kolmar = city
 
 # Misc
 culture = rhenish
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 1186.1.1 = { culture = german }

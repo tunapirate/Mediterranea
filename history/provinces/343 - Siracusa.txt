@@ -16,7 +16,7 @@ b_milazzo = temple
 #b_taormina = temple
 # Misc
 culture = greek
-religion = orthodox
+religion = mercurial
 terrain = hills
 
 # History

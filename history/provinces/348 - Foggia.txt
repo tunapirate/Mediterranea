@@ -18,7 +18,7 @@ b_venosa = castle
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = farmlands
 # History
 1000.1.1={ b_foggia = city }

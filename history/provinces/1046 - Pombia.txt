@@ -16,6 +16,6 @@ b_arona = castle
 
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History

@@ -16,7 +16,7 @@ b_cerea = city
 #b_garda = castle
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = catholic
 terrain = plains
 # History
 961.1.1 = { b_isola = castle }

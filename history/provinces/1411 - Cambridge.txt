@@ -18,8 +18,8 @@ b_cambridge = castle
 
 
 # Misc
-culture = brittonic
-religion = hellenic_pagan
+culture = saxon
+religion = gallic_rite
 
 # History
 880.1.1 = { culture = norse } # Danes settle down

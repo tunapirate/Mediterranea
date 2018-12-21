@@ -16,6 +16,6 @@ b_donzenac = temple
 
 # Misc
 culture = auvergnat
-religion = hellenic_pagan
+religion = saturnal
 
 # History

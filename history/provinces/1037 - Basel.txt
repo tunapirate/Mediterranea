@@ -15,7 +15,7 @@ b_basel = temple
 
 # Misc
 culture = arpitan
-religion = hellenic_pagan
+religion = catholic
 
 # History
 1170.1.1 = { culture = german }

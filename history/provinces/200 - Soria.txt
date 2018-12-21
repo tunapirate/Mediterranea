@@ -14,7 +14,7 @@ b_soria = tribal
 
 # Misc
 
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

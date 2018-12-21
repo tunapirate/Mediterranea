@@ -21,7 +21,7 @@ b_tewkesbury = temple
 
 # Misc
 culture = brittonic
-religion = saturnal
+religion = gallic_rite
 
 # History
 1100.11.11 = { culture = english } 

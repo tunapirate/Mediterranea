@@ -14,7 +14,7 @@ b_manzanares = tribal
 #b_santuy= tribal
 
 # Misc
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

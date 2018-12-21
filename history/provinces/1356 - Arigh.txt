@@ -13,7 +13,7 @@ b_tuggurt = tribal
 
 # Misc
 culture = sanhaja
-religion = african_rite
+religion = west_african_pagan
 
 # History
 930.1.1 = { religion = ismaili }

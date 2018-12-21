@@ -16,7 +16,7 @@ b_provins = city
 
 
 culture = gallic
-religion = hellenic_pagan
+religion = saturnal
 
 # History
 

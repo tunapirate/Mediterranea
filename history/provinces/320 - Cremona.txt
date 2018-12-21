@@ -16,7 +16,7 @@ b_soncino = city
 #b_viadana = castle
 # Misc
 culture = italian
-religion = hellenic_pagan
+religion = apollonian
 terrain = farmlands
 
 # History

@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 871 - Busaso
+
+# County Title
+title = c_busaso
+
+# Settlements
+max_settlements = 3
+
+b_mosylon = tribal
+b_lasanod = tribal
+
+# Misc
+culture = somali
+religion = jewish
+
+# History

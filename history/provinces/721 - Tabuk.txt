@@ -12,7 +12,7 @@ b_alawnid = tribal
 #b_muwaylih = tribal
 
 # Misc
-culture = levantine_arabic
+culture = bedouin_arabic
 religion = sunni
 
 # History

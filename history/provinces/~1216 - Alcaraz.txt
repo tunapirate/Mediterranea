@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1216 - Alcaraz
+
+# County Title
+title = c_alcaraz
+
+# Settlements
+max_settlements = 4
+
+b_consabura = tribal
+b_alcaraz = tribal
+b_barrax = tribal
+b_munera = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

@@ -17,6 +17,6 @@ b_brienne = castle
 
 
 culture = gallic
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History

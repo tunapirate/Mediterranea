@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 152 - Navarra
+
+# County Title
+title = c_navarra
+
+# Settlements
+max_settlements = 3
+
+b_pamplona = tribal
+b_tafalla = tribal
+#b_leyre = tribal
+
+# Misc
+culture = basque
+religion = dianic
+
+# History

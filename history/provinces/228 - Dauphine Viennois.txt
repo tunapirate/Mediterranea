@@ -19,7 +19,7 @@ b_chateaudeclermont = castle
 
 # Misc
 culture = gallic
-religion = apollonian
+religion = saturnal
 
 # History
 1250.1.1 = { b_chateaudefallavier = castle }

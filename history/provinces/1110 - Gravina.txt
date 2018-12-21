@@ -19,7 +19,7 @@ b_policastro = castle
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = mountain
 
 # History

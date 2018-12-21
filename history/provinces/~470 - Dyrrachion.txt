@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 470 - Dyrrachion
+
+# County Title
+title = c_dyrrachion
+
+# Settlements
+max_settlements = 4
+
+b_durazzo = tribal
+b_chounavia = tribal
+b_spinarizza = tribal
+b_graditzion = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+terrain = mountain
+
+# History
+

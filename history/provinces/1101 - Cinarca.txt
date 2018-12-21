@@ -15,7 +15,7 @@ b_bonifacio = city
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 
 # History

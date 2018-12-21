@@ -17,7 +17,7 @@ b_lecce = castle
 
 # Misc
 culture = greek
-religion = orthodox
+religion = catholic
 terrain = plains
 
 # History

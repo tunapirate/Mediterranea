@@ -14,6 +14,6 @@ b_batalha = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = neptunal
 
 # History

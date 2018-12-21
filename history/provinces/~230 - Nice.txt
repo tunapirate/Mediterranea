@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 230 - Nice
+
+# County Title
+title = c_nice
+
+# Settlements
+max_settlements = 4
+b_antibes = castle
+b_nizza = city
+#b_lantosque = castle
+#b_contes = castle
+
+# Misc
+culture = ligurian
+religion = hellenic_pagan
+
+
+# History
+
+1066.1.1 = { trade_post = b_spinola }

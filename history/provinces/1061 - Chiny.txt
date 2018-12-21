@@ -12,7 +12,7 @@ b_orval = temple
 
 # Misc
 culture = rhenish
-religion = germanic_rite
+religion = gallic_rite
 
 # History
 

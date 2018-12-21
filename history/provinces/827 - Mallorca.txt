@@ -15,7 +15,7 @@ b_santaponsa = tribal
 
 # Misc
 culture = hispanic
-religion = hellenic_pagan
+religion = mercurial
 terrain = mountain
 
 # History

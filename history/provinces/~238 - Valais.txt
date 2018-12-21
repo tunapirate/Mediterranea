@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 238 - Valais
+
+# County Title
+title = c_valais
+
+# Settlements
+max_settlements = 3
+
+b_sitten = temple
+b_brig = castle
+
+#b_siders = castle
+
+
+# Misc
+culture = arpitan 
+religion = hellenic_pagan
+
+# History
+1200.1.1 = { culture = german }
+

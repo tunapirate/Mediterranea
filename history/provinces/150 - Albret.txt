@@ -18,7 +18,7 @@ b_tartas = city
 
 
 #Misc
-religion = hellenic_pagan
+religion = dianic
 culture = occitan
 
 # History

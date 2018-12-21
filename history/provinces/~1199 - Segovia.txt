@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1199 - Segovia
+
+# County Title
+title = c_segovia
+
+# Settlements
+max_settlements = 4
+
+b_segovia = tribal
+#b_sepulveda = tribal
+#b_sacramenia = tribal
+#b_cuellar = tribal
+
+# Misc
+culture = castillan
+religion = hispanic_rite
+
+# History

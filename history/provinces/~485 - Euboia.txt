@@ -1,0 +1,18 @@
+# -*- ck2.history.provinces -*-
+
+# 485 - Euboia
+
+# County Title
+title = c_euboia
+
+# Settlements
+max_settlements = 2
+
+b_chalkis = tribal
+b_karystos = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

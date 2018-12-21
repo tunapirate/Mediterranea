@@ -13,8 +13,8 @@ b_sepphoria = tribal
 b_nazareth = tribal
 
 # Misc
-culture = aramean
-religion = miaphysite
+culture = ashkenazi
+religion = jewish
 
 # History
 

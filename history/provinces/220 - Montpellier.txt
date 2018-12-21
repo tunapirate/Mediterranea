@@ -20,7 +20,7 @@ b_lodeve = temple
 
 
 #Misc
-religion = hellenic_pagan
+religion = apollonian
 culture = septiman
 
 # History

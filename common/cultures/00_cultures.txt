@@ -1388,7 +1388,7 @@ gaulish = {
 
 	arpitan = {
 		graphical_cultures = { occitangfx }
-		color = { 0.6 0.2 0.3 }
+		color = { 0.13 0.53 0.24 }
 		male_names = {
 			Adhémar_Adémar Aimeric_Aymeric Alberic_Aubrey Alfons_Alphonse Amalric_Amalric Amanieu Anfós_Alphonse
 			Ansèume_Anselm Archambault_Archibald Arnaut_Arnold Artau_Artal Audoïn Aymer_Aymeric Barnard_Bernard
@@ -1519,7 +1519,7 @@ gaulish = {
 	brittonic = {
 		graphical_cultures = { bretongfx celticgfx }
 		
-		color = { 0.24 0.63 0.33 }
+		color = { 0.17 0.56 0.46 }
 
 		male_names = { 
 			Adventus Aelianus Agricola Albinus Alfenus Allectus Alypius Antistius Antius Antonius_Anthony Apellinus Appius Arpagius Aurelius Auspex Avidius Bolanus Bradua 
@@ -1561,7 +1561,7 @@ gaulish = {
 	gallic = {
 		graphical_cultures = { occitangfx frankishgfx }
 		
-		color = { 0.24 0.70 0.44 }
+		color = { 0.24 0.70 0.36 }
 
 		male_names = { 
 			Aetherius Aetius Agricola Amantius Anastasius Anatolianus Andarchius Anianus Animodius Antonius Aquilinus Aravatius Arcadius Aredius Armentarius Ausonius Austrapius 
@@ -1633,7 +1633,7 @@ gaulish = {
 	auvergnat = {
 		graphical_cultures = { occitangfx frankishgfx }
 		
-		color = { 0.24 0.70 0.59 }
+		color = { 0.09 0.54 0.38 }
 
 		male_names = { 
 			Aetherius Aetius Agricola Amantius Anastasius Anatolianus Andarchius Anianus Animodius Antonius Aquilinus Aravatius Arcadius Aredius Armentarius Ausonius Austrapius 
@@ -1704,7 +1704,7 @@ gaulish = {
 	
 	rhenish = {
 		graphical_cultures = { frankishgfx }
-		color = { 0.8 0.6 0.2 }
+		color = { 0.56 0.86 0.37 }
 		male_names = {
 			Édouard_Edward:10 Érrard Étienne_Stephen Adalbert_Albert:104 Adémar_Adémar Adrien_Hadrianus
 			Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse Amaury_Amalric Amédée_Amadeus
@@ -1757,7 +1757,7 @@ gaulish = {
 	rhaetic = {
 		graphical_cultures = { germangfx }
 		
-		color = { 0.24 0.48 0.37 }
+		color = { 0.52 0.27 0.13 }
 		male_names = {
 			Andrin_Henry Aden_Adam Peider_Peter Bardot_Peter Chasprot_Caspar Dumeni_Dominic Jacum_Jacob Guan_John Lissander_Alexander Jarunas Linard_Leonard Maurin Camil 
 			Bandet_Benedict Curdin_Conrad Erco Fadri Filip_Philip Merens Mauro Oral Talin Armon Durich Eduard_Edward Gion_John Jachiam Diderros Luci Steffan Guy_Guy 
@@ -1789,7 +1789,7 @@ iberian = {
 
 	basque = {
 		graphical_cultures = { basquegfx southernfx }
-		color = { 0.55 0.42 0.04 }
+		color = { 0.75 0.75 0.3 }
 		male_names = {
 			Alfontso_Alphonse Alvar_Oliver Antso_Sancho Aurelio_Aurelius Aznar_Aznar Belasko_Vasco
 			Beltran_Bertrand Dato_Theodat Diego_Jacob Egidio_Egidius Eneko_Inigo Erramun_Raymond
@@ -1865,7 +1865,8 @@ iberian = {
 
 	occitan = {
 		graphical_cultures = { occitangfx }
-		color = { 0.75 0.75 0.3 }
+		color = { 0.44 0.70 0.33 }
+		
 		male_names = {
 			Adhémar_Adémar Aimeric_Aymeric Alberic_Aubrey Alfons_Alphonse Amalric_Amalric Amanieu Anfós_Alphonse
 			Ansèume_Anselm Archambault_Archibald Arnaut_Arnold Artau_Artal Audoïn Aymer_Aymeric Barnard_Bernard
@@ -1957,7 +1958,7 @@ iberian = {
 
 	aragonese = {
 		graphical_cultures = { southerngfx occitangfx }
-		color = { 0.4 0.7 0.5 }
+		color = { 0.55 0.43 0.05 }
 		male_names = {
 			Alifonso_Alphonse Álvar_Oliver Álvaro_Oliver Andrés_Andrew Ansur Antonio_Antonius Antonino_Antoninus
 			Arias_Arias Artal_Artal Aurelio_Aurelius Aznar_Aznar Beltrán_Bertrand Benito_Benedict
@@ -2041,7 +2042,7 @@ iberian = {
 
 	galician = {
 		graphical_cultures = { southerngfx occitangfx }
-		color = { 0.4 0.7 0.4 }
+		color = { 0.85 0.89 0.33 }
 		male_names = {
 			Abril Álvaro_Oliver Ângelo_Angel Abel_Abel Afonso_Alphonse Aires_Arias Alexandre_Alexander Alvito
 			António_Antonius Bermudo_Vermudo Bernardo_Bernard Damião_Damian Dinis_Dionysus Diogo_Jacob
@@ -2083,7 +2084,7 @@ iberian = {
 
 	leonese = {
 		graphical_cultures = { southerngfx occitangfx }
-		color = { 0.4 0.7 0.5 }
+		color = { 0.55 0.43 0.05 }
 		male_names = {
 			Alfonso_Alphonse Alonso_Alphonse Álvar_Oliver Álvaro_Oliver Andrés_Andrew Ansur Antonio_Antonius
 			Antonino_Antoninus Arias_Arias Artal_Artal Aurelio_Aurelius Aznar_Aznar Beltrán_Bertrand
@@ -2237,7 +2238,7 @@ latin = {
 
 	sardinian = {
 		graphical_cultures = { italiangfx southerngfx }
-		color = { 0.85 0.75 0.15 }
+		color = { 0.97 0.24 0.13 }
 		male_names = {
 			Antoni_Antonius Aleni Alibrandinu_Aldobrandino Andria_Andrew Antiocu_Antiochos Arresmundu Arzzoccu
 			Athu Augustinu_Augustine Barusone Baldo Basiliu_Basil Beneittu_Benedict Bernardu_Bernard Cercis
@@ -2269,7 +2270,7 @@ latin = {
 
 	sicilian = {
 		graphical_cultures = { siciliangfx italiangfx }
-		color = { 0.8 0.7 0.15 }
+		color = { 0.75 0.29 0.06 }
 		male_names = {
 			Abbondanzio Abbondio_Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelmio_Adelelm
 			Adelmo_Adelelm Adolfo_Adolf Adriano_Hadrianus Agapito Agostino_Augustine Aimone_Haimo Alamanno
@@ -2855,7 +2856,7 @@ latin = {
 
 	ligurian = {
 		graphical_cultures = { occitangfx italiangfx }
-		color = { 0.6 0.9 0.5 }
+		color = { 0.56 0.12 0.24 }
 		male_names = {
 			Abbondio_Abbondio Abelardo_Abelard Abele_Abel Achille Adalberto_Albert Adalgisio_Adalgis Adamo_Adam
 			Adelmio_Adelelm Adelmo_Adelelm Adolfo_Adolf Adone_Adone Adriano_Hadrianus Agostino_Augustine
@@ -3020,7 +3021,7 @@ latin = {
 
 	italian = {
 		graphical_cultures = { italiangfx southerngfx }
-		color = { 0.95 0.95 0.75 }
+		color = { 0.95 0.41 0.44 }
 		male_names = {
 			Abbondio_Abbondio Abelardo_Abelard Abele_Abel Achille Adalberto_Albert Adalgisio_Adalgis Adamo_Adam
 			Adelmio_Adelelm Adelmo_Adelelm Adolfo_Adolf Adone_Adone Adriano_Hadrianus Agostino_Augustine
@@ -3144,7 +3145,7 @@ latin = {
 
 	venetian = {
 		graphical_cultures = { italiangfx southerngfx }
-		color = { 0.2 0.6 1.0 }
+		color = { 0.52 0.13 0.13 }
 		male_names = {
 			Abbondio_Abbondio Abelardo_Abelard Abele_Abel Achille Adalberto_Albert Adalgisio_Adalgis Adamo_Adam
 			Adelmio_Adelelm Adelmo_Adelelm Adolfo_Adolf Adone_Adone Adriano_Hadrianus Agostino_Augustine
@@ -3268,7 +3269,7 @@ latin = {
 
 	dalmatian = {
 		graphical_cultures = { italiangfx southerngfx }
-		color = { 0.75 0.75 0.6 }
+		color = { 0.73 0.13 0.13 }
 		male_names = {
 			Aliau_Aelius Adráno_Adrian Tuone_Antonius Alepsandro_Alexander Alepso_Alexis Andro_Andrew
 			Angelo_Angel Ambroso_Ambrosius Aguastin_Augustine Arelo_Aurelius Babiblo_Baebiblius
@@ -3310,7 +3311,7 @@ latin = {
 
 	roman = {
 		graphical_cultures = { italiangfx southerngfx }
-		color = { 0.7 0.5 0.7 }
+		color = { 0.74 0.21 0.18 }
 		used_for_random = no
 		male_names = {
 			Agricola Agrippa Albinus_Albinus Albus Antadus Anterus Antius Antonius_Antonius Appius Aratus Asina
@@ -3419,7 +3420,7 @@ latin = {
 	septiman = {
 		graphical_cultures = { italiangfx southerngfx }
 		
-		color = { 0.92 0.37 0.40 }
+		color = { 0.78 0.27 0.43 }
 
 		male_names = {
 			Aëtius Agricola Agrippinus Albano Albinus Alboino Alcide Aleramo Alessandro_Alexander Alessio Alvise Ambrosius Amedeo Anastasio Andrea_Andrew Anicius Angelo_Angel Anastasius 
@@ -3465,7 +3466,7 @@ latin = {
 	african = {
 		graphical_cultures = { andalusiangfx southerngfx }
 		
-		color = { 1.00 0.34 0.13 }
+		color = { 0.94 0.41 0.15 }
 
 		male_names = {
 			Faviu_Flavius Fabiu_Fabius Mateu_Matthew Luciu_Lucius Cassér_Caesar Sebassian_Sebastian Alessander_Alexander Paulu_Paul Aossu_Augustus Basseu_Basileus Joan_John 
@@ -3535,7 +3536,7 @@ balkan_group = {
 
 	romanian = {
 		graphical_cultures = { southernslavicgfx westernslavicgfx }
-		color = { 0.25 0.45 0.7 }
+		color = { 0.48 0.24 0.26 }
 		male_names = {
 			Adrian_Hadrianus Alexandru_Alexander Anghel_Angel Aron Basarab Bogdan_Bogdan Carol_Charles
 			Ciprian_Cipriano Claudiu_Claudio Corneliu_Cornelius Costin_Constantine Damjan_Damian Dan_Daniel
@@ -3578,7 +3579,7 @@ balkan_group = {
 	
 	arberian = {
 		graphical_cultures = { southernslavicgfx byzantinegfx }
-		color = { 0.1 0.4 0.4 }
+		color = { 0.45 0.25 0.65 }
 		male_names = {
 			Adnan Afrim Agim Agon Alban_Albano Alek Aleksander Andrea_Andrew Ardian Ardit Arianit Armend Bajram
 			Bashkim Behar Besian Besnik Blerim Bua Burim Dardan Depa Dhimitër Dimitri_Demetrius Dritan Dëfrim
@@ -3628,7 +3629,7 @@ byzantine = {
 
 	greek = {
 		graphical_cultures = { byzantinegfx }
-		color = { 0.8 0.3 0.8 }
+		color = { 0.75 0.33 0.75 }
 		male_names = {
 			Adrianos_Hadrianus Akakios Alexandros_Alexander Alexios_Alexis Anastasios_Anastasios Anatolios
 			Andreas_Andrew Andronikos_Andronicus Anthemios Anthimos Antiochos_Antiochos Antonios_Antonius
@@ -3798,7 +3799,7 @@ byzantine = {
 
 	udi = {
 		graphical_cultures = { georgianngfx byzantinegfx }
-		color = { 0.5 0.8 0.7 }
+		color = { 0.32 0.13 0.70 }
 		male_names = {
 			Abas Abirad Aboughamr Aboulgharib Aleksandr_Alexander Artashes Artashir_Ardeshir Artavazd Arsen
 			Arshak Ashot_Ashot Athom Atrnerseh_Atrnerseh Avag Avedis Bagour_Bagour Bagrat Bedros_Peter
@@ -3921,7 +3922,7 @@ celtic = {
 
 	scottish = {
 		graphical_cultures = { celticgfx }
-		color = { 0.5 0.7 0.6 }
+		color = { 0.50 0.80 0.90 }
 		male_names = {
 			Áed_Hugh Áedán_Hugh Áengus_Angus Aindréas_Andrew Éamonn_Edmund Éicnechán Énna Eanric_Henry Eóin_John
 			Óengus_Angus Ólchobar Ailill Ainmere Alaxandair_Alexander Amlaíb_Olaf Ardgar Art_Arthur Artgal
@@ -4000,7 +4001,7 @@ celtic = {
 
 	cumbric = {
 		graphical_cultures = { bretongfx celticgfx }
-		color = { 0.5 0.7 0.2 }
+		color = { 0.10 0.45 0.55 }
 		male_names = {
 			Aliotus Ardun Artgal Arthuis Asaph Beli Ceredig Cinuit Clinoch Coel Cubricht Cynfarch Deiniol Dunod
 			Dyfnwal Elfin Eochaid Ernwin Eugein Gureit Gwallog Llaennog wMar Masgwid Meirchion Neithon Ohan Owain
@@ -4071,7 +4072,7 @@ celtic = {
 
 	welsh = {
 		graphical_cultures = { bretongfx celticgfx }
-		color = { 0.3 0.8 0.6 }
+		color = { 0.25 0.62 0.78 }
 		male_names = {
 			Adda Aeddan Alan_Alan Alisander_Alexander Alwyn Anarawd Annun Arod Arthfael Arthwr_Arthur Arthws Asa
 			Asaph Awst Bangar Bedwyr Bleddyn Brân Branwaladr Brochfael Brochmael Brwt Brwyn Brychan Cadell Cadfan
@@ -5090,7 +5091,7 @@ aramaic = {
 
 	assyrian = {
 		graphical_cultures = { assyriangfx muslimgfx }
-		color = { 0.45 0.25 0.65 }
+		color = { 0.05 0.50 0.25 }
 		male_names = {
 			Aba_Abba Abahu_Abahu Abaya_Abaya Abaye_Abaya Abayi_Abaya Abba_Abba Abdima Abdisho' Abgar Abimalek
 			Abraham_Abraham Abris Abrisius_Abrisius Acacius Achan Achina Addai_Thaddeus Adlai Aggai Ahai_Ahha
@@ -5132,7 +5133,7 @@ aramaic = {
 	aramean = { 
 		graphical_cultures = { assyriangfx muslimgfx } #arabicgfx 
 		
-		color = { 0.40 0.56 0.53 }
+		color = { 0.59 0.69 0.12 }
 
 		male_names = {
 			Aba_Abba Abahu_Abahu Abaya_Abaya Abaye_Abaya Abayi_Abaya Abba_Abba Abdima 'Abdisho' Abgar Abimalek 
@@ -5195,7 +5196,7 @@ arabic = {
 
 	bedouin_arabic = {
 		graphical_cultures = { arabicgfx muslimgfx }
-		color = { 0.2 0.7 0.2 }
+		color = { 0.20 0.70 0.20 }
 		male_names = {
 			Aban Abbad 'Abd-ar-Rahman 'Abdallah 'Abd-al-Aziz 'Abd-al-Hamid 'Abd-al-Malik 'Abd-az-Zahir 'Abdus Ahmad 'Ali_Ali
 			'Allan 'Alqamah 'Ammar 'Amr Anas 'Aqil 'Arubah 'Asim 'Ata' Ayyub Babak Bakkar Bakr Bashshar Baybars Bilal Bishr
@@ -5231,7 +5232,7 @@ arabic = {
 
 	yemeni = {
 		graphical_cultures = { arabicgfx muslimgfx }
-		color = { 0.8 0.1 0.2 }
+		color = { 0.70 0.80 0.00 }
 		male_names = {
 			Aban Abbad 'Abd-ar-Rahman 'Abdallah 'Abd-al-Aziz 'Abd-al-Hamid 'Abd-al-Malik 'Abd-az-Zahir 'Abdus Ahmad 'Ali_Ali
 			'Allan 'Alqamah 'Ammar 'Amr Anas 'Aqil 'Arubah 'Asim 'Ata' Ayyub Babak Bakkar Bakr Bashshar Baybars Bilal Bishr
@@ -5267,7 +5268,7 @@ arabic = {
 
 	hijazi = {
 		graphical_cultures = { arabicgfx muslimgfx }
-		color = { 0.1 0.7 0.8 }
+		color = { 0.15 0.46 0.04 }
 		male_names = {
 			Aban Abbad 'Abd-ar-Rahman 'Abdallah 'Abd-al-Aziz 'Abd-al-Hamid 'Abd-al-Malik 'Abd-az-Zahir 'Abdus Ahmad 'Ali_Ali
 			'Allan 'Alqamah 'Ammar 'Amr Anas 'Aqil 'Arubah 'Asim 'Ata' Ayyub Babak Bakkar Bakr Bashshar Baybars Bilal Bishr
@@ -5361,7 +5362,7 @@ arabic = {
 
 	levantine_arabic = {
 		graphical_cultures = { levantinegfx arabicgfx muslimgfx }
-		color = { 0.3 0.95 0.3 }
+		color = { 0.32 0.93 0.32 }
 		male_names = {
 			Aban Abbad 'Abd-ar-Rahman 'Abdallah 'Abd-al-Aziz 'Abd-al-Hamid 'Abd-al-Malik 'Abd-az-Zahir 'Abdus Ahmad 'Ali_Ali
 			'Allan 'Alqamah 'Ammar 'Amr Anas 'Aqil 'Arubah 'Asim 'Ata' Ayyub Babak Bakkar Bakr Bashshar Baybars Bilal Bishr
@@ -6017,7 +6018,7 @@ iranian = {
 	pahlavi = {
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.55 0.55 0.1 }
+		color = { 0.18 0.38 0.64 }
 		male_names = {
 			Afshar_Afshar Anushirvan_Anushirvan Aram Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Aurang
 			Ayeshah Babak_Babak Bahman Bahram_Bahram Bakhtiar_Bakhtiar Behrad Behrouz Bozorg Danush_Danush Darab
@@ -6053,7 +6054,7 @@ iranian = {
 	persian = {
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.5 0.5 0.05 }
+		color = { 0.18 0.38 0.64 }
 		male_names = {
 			Abbas Abolhassan Afshar_Afshar Ahmad_Ahmad Akbar_Akbar Ali Allahyar Amin Anushirvan_Anushirvan Aram
 			Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Assad Aurang Ayeshah Babak_Babak Bahman
@@ -6092,7 +6093,7 @@ iranian = {
 	sogdian = {
 		graphical_cultures = { sogdiangfx persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.6 0.45 0.1 }
+		color = { 0.33 0.59 0.60 }
 		male_names = {
 			Abbas Abolhassan Afshar_Afshar Ahmad_Ahmad Akbar_Akbar Ali Allahyar Amin Anushirvan_Anushirvan Aram
 			Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Assad Aurang Ayeshah Babak_Babak Bahman
@@ -6247,7 +6248,7 @@ iranian = {
 	daylamite = {
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.6 0.5 0.15 }
+		color = { 0.36 0.57 0.77 }
 		male_names = {
 			Abbas Abolhassan Afshar_Afshar Ahmad_Ahmad Akbar_Akbar Ali Allahyar Amin Anushirvan_Anushirvan Aram
 			Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Assad Aurang Ayeshah Babak_Babak Bahman
@@ -6286,7 +6287,7 @@ iranian = {
 	adhari = {
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.15 0.4 0.25 }
+		color = { 0.64 0.69 0.95 }
 		male_names = {
 			Abbas Abolhassan Afshar_Afshar Ahmad_Ahmad Akbar_Akbar Ali Allahyar Amin Anushirvan_Anushirvan Aram
 			Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Assad Aurang Ayeshah Babak_Babak Bahman
@@ -6365,7 +6366,7 @@ iranian = {
 	khorasani = {
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.6 0.6 0.05 }
+		color = { 0.39 0.45 0.53 }
 		male_names = {
 			Abbas Abolhassan Afshar_Afshar Ahmad_Ahmad Akbar_Akbar Ali Allahyar Amin Anushirvan_Anushirvan Aram
 			Ardahan_Ardahan Ardavan_Ardavan Ardeshir_Ardeshir Assad Aurang Ayeshah Babak_Babak Bahman
@@ -6404,7 +6405,7 @@ iranian = {
 	kurdish = {
 		graphical_cultures = { kurdishgfx persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.4 0.4 0.1 }
+		color = { 0.16 0.12 0.38 }
 		male_names = {
 			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad
 			Behram_Bahram Behrouz Bextîyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir Cehanšah_Jahanshah
@@ -6459,7 +6460,7 @@ iranian = {
 	afghan = { # a.k.a. Pashtun=
 		graphical_cultures = { afghangfx persiangfx } # arabicgfx
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.6 0.6 0.1 }
+		color = { 0.16 0.23 0.34 }
 		male_names = {
 			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad
 			Behram_Bahram Behrouz Bextîyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir Cehanšah_Jahanshah
@@ -6514,7 +6515,7 @@ iranian = {
 	baloch = {
 		graphical_cultures = { afghangfx persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.45 0.5 0.05 }
+		color = { 0.15 0.17 0.64 }
 		male_names = {
 			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad
 			Behram_Bahram Behrouz Bextîyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir Cehanšah_Jahanshah
@@ -6570,7 +6571,7 @@ iranian = {
 	qufs = {
 		graphical_cultures = { persiangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.45 0.45 0.1 }
+		color = { 0.09 0.11 0.49 }
 		male_names = {
 			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad
 			Behram_Bahram Behrouz Bextîyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir Cehanšah_Jahanshah
@@ -6629,7 +6630,7 @@ east_african = {
 	ethiopian = {
 		graphical_cultures = { africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.65 0.35 0.1 }
+		color = { 0.55 0.14 0.14 }
 		male_names = {
 			Amare Bekele Dahnay Daniachew Dawit Demissie Desta Getachew Geteye Girma Hakim Iskinder Lebna Abai
 			Abebe Afework Aman Assefa Atoberhan Azmera Benaim Berhanu Berhanua Berihun Berta_Berta Bworo Eremias
@@ -6651,7 +6652,7 @@ east_african = {
 
 	falashim = { # Beta-Israel, originally compiled by Frostschaden, many more names added by cybrxkhan, some added and changed by elvain
 		graphical_cultures = { africangfx westafricangfx }
-		color = { 0.7 0.25 0.65 }
+		color = { 0.80 0.60 0.00 }
 		male_names = {
 			Abatte Abba Abreham_Abraham Adam_Adam Adamu_Adam Adgeh Adisu Ammanuel_Manuel Aron_Aaron Baruch_Baruch
 			Beniamin_Benjamin Benyam_Benjamin Bogale Caleb_Kaleb Dan Daniel_Daniel Eldad Gabriel_Gabriel
@@ -6728,7 +6729,7 @@ east_african = {
 	daju = {
 		graphical_cultures = { bejagfx africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.95 0.9 0.65 }
+		color = { 0.52 0.44 0.08 }
 		male_names = {
 			Adam_Adam Ahmed_Ahmad Anqarib Asil Bakhit Ber Bogirg Bokdoru Bolad Born Bug Chang Chaski Dahab Dong
 			Ede Ett Ferne Gaguwe Galan Gelgel Gon Habib Hajar Hassaballah Ibedou Ibrahim_Abraham Ishaq_Isaac Issa
@@ -6746,7 +6747,7 @@ east_african = {
 	beja = {
 		graphical_cultures = { bejagfx africangfx westafricangfx }
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.75 0.9 0.85 }
+		color = { 0.89 0.47 0.22 }
 		male_names = {
 			Abdak Abdul Abdullah_Abdullah Adam_Adam Ahmed Ali-Baba Ali_Ali Ankwaana Ar Aririit Baba Balami Balwia
 			Baraka Barnaba_Barnabas Bishar Danimay Digna Dura Fias Haddan Hashim Hitatih Hukwuma Ishaq_Isaac
@@ -6784,7 +6785,7 @@ east_african = {
 
 	coptic = {
 		graphical_cultures = { copticgfx arabicgfx muslimgfx }
-		color = { 0.8 0.4 0.4 }
+		color = { 0.50 0.20 0.50 }
 		male_names = {
 			Aaron_Aaron Abisalom_Absalom Abonah_Abonah Abouk_Abouk Abraham_abraham Adam_Adam Adelpho_Adelphios Adriane_Adrian Aetios_Aetius Agapetos_Agapetos 
 			Agathonidje_Agathonikos Agathonikos_Agathonikos Agathos_Agathon Aion_Aion Aiouli_Aulius Aitheopos_Aithiopas Akathon_Agathon Akhaias_Achaios Akhillas_Achillas 
@@ -6881,7 +6882,7 @@ east_african = {
 	nubian = {
 		graphical_cultures = { africangfx westafricangfx } # muslimgfx
 		secondary_event_pictures = bedouin_arabic
-		color = { 0.3 0.4 0.4 }
+		color = { 0.64 0.24 0.30 }
 		male_names = {
 			Aaron_Aaron Abdella Abderahman_Abderrahman Abel_Abel Abesemon Abianos_Abijah Abiou_Abijah Abisalom
 			Aboulam Abousaal Aboussoror Abraam_Abraham Agabos Agathon_Agathos Agathonikos Agathos_Agathos
@@ -7214,7 +7215,7 @@ north_african = {
 
 	zanata = {
 		graphical_cultures = { berbergfx arabicgfx muslimgfx }
-		color = { 0.4 0.7 0.2 }
+		color = { 0.70 0.60 0.20 }
 		male_names = {
 			Abakada Abazza Abidin Adal Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer
 			Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ajdir
@@ -7258,7 +7259,7 @@ north_african = {
 
 	tuareg = {
 		graphical_cultures = { southernberbergfx arabicgfx muslimgfx }
-		color = { 0.45 0.6 0.25 }
+		color = { 0.58 0.43 0.18 }
 		male_names = {
 			Abakada Abazza Abidin Adal Aderbal Adergazuz Adherbal Admer Adrir Adum Afaghis Afalawas Afalku Afer
 			Afulay Agafay Agama Agdada Agdun Agellid Aggur Aghali Aghecher Aghilas Agwillul Ahamatu Aheyyad Ajdir
@@ -7939,7 +7940,7 @@ dravidian_group = {
 	brahui = { # Dravidian
 		graphical_cultures = { southindiangfx indiangfx muslimgfx }
 		secondary_event_pictures = bengali
-		color = { 0.8 0.8 0.0 }
+		color = { 0.21 0.59 0.94 }
 		male_names = {
 			Allada Allayavema Amma Ammaraja Anavema Anavota Ayyapayya Baladitya Ballaladeva Beta Bhima
 			Bhandanaditya Chennappa Danamava Devanayaka Durgaraja Ganapathideva Ganapathinayaka Indrabhattaraka

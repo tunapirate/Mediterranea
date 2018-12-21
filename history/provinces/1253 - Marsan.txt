@@ -17,7 +17,7 @@ b_roquefort = city
 
 
 # Misc
-religion = hellenic_pagan
+religion = dianic
 culture = occitan
 # History 
 

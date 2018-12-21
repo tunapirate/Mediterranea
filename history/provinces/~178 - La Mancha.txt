@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 178 - La Mancha
+
+# County Title
+title = c_la_mancha
+
+# Settlements
+max_settlements = 5
+
+b_alarcon = tribal
+b_tarancon = tribal
+b_sanclemente = tribal
+b_ucles = tribal
+#b_laspedroneras = tribal
+
+# Misc
+culture = castillan
+religion = hellenic_pagan
+
+# History
+
+

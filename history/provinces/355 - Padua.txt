@@ -17,7 +17,7 @@ b_montemerlo = castle
 
 # Misc
 culture = venetian
-religion = hellenic_pagan
+religion = catholic
 terrain = farmlands
 # History
 1035.1.1 = { capital = b_onara }

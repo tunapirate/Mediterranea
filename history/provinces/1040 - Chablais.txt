@@ -17,7 +17,7 @@ b_aigle = castle
 
 # Misc
 culture = arpitan
-religion = hellenic_pagan
+religion = catholic
 
 # History
 1187.1.1 = { b_thonon = castle }

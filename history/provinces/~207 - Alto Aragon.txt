@@ -1,0 +1,19 @@
+# -*- ck2.history.provinces -*-
+
+# 207 - Alto Aragón
+
+# County Title
+title = c_alto_aragon
+
+# Settlements
+max_settlements = 3
+
+b_jaca = tribal
+b_borau = tribal
+#b_canfranc = tribal
+
+# Misc
+culture = basque
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 1163 - Perche
+
+# County Title
+title = c_perche
+
+# Settlements
+max_settlements = 4
+b_nogentlerotrou = castle
+b_belleme = castle
+b_authon = city
+#b_senonche = castle
+#b_longnyauperche = castle
+
+
+culture = andegavian
+religion = gallic_rite
+
+# History

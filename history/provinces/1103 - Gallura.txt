@@ -15,7 +15,7 @@ b_galtelli = temple
 
 # Misc
 culture = sardinian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 
 # History

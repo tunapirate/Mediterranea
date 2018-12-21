@@ -18,8 +18,7 @@ b_trapani = city
 
 # Misc
 culture = sicilian
-religion = hellenic_pagan
-
+religion = catholic
 # History
 
 960.1.1={ culture = sicilian_arabic }

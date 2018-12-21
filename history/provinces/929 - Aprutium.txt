@@ -18,7 +18,7 @@ b_teramo = temple
 
 # Misc
 culture = roman
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 # History
 

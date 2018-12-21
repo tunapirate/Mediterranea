@@ -17,7 +17,7 @@ b_lombers = castle
 #b_castres = city
 
 culture = septiman
-religion = hellenic_pagan
+religion = gallic_rite
 
 # History
 

@@ -17,7 +17,7 @@ b_radicofani = castle
 #b_sarteano = castle
 # Misc
 culture = roman
-religion = catholic
+religion = apollonian
 terrain = plains
 
 # History

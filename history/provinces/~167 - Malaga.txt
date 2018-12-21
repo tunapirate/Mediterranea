@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 167 - Malaga
+
+# County Title
+title = c_malaga
+
+# Settlements
+max_settlements = 5
+
+b_malaga = tribal
+b_antequera = tribal
+b_mijas = tribal
+#b_estepona = tribal
+#b_torremolinos = tribal
+
+culture = hispanic
+religion = hellenic_pagan
+
+# History
+

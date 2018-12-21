@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 477 - Methone
+
+# County Title
+title = c_methone
+
+# Settlements
+max_settlements = 2
+
+b_kalamata = tribal
+b_modon = tribal
+
+# Misc
+culture = greek
+religion = athenaic
+terrain = hills
+
+# History
+
+
+

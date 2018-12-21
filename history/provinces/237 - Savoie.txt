@@ -20,7 +20,7 @@ b_ciamberi = city
 
 # Misc
 culture = arpitan
-religion = hellenic_pagan
+religion = saturnal
 
 # History
 

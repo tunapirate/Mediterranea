@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 788 - Thebai
+
+# County Title
+title = c_thebai
+
+# Settlements
+max_settlements = 3
+
+b_thebes = tribal
+b_amfissa = tribal
+#b_levadia = tribal
+
+# Misc
+culture = greek
+religion = athenaic
+
+# History
+

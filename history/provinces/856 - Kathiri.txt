@@ -12,6 +12,6 @@ b_shibam = tribal
 
 # Misc
 culture = bedouin_arabic
-religion = jewish
+religion = sunni
 
 # History

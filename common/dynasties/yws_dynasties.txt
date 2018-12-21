@@ -2348,3 +2348,8 @@
 	culture="occitan"
 	religion="hellenic_pagan"
 }
+59787={
+	name="Meropius"
+	culture="occitan"
+	religion="catholic"
+}

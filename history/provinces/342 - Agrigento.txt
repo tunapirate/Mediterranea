@@ -18,7 +18,7 @@ b_licata = city
 
 # Misc
 culture = sicilian
-religion = hellenic_pagan
+religion = catholic
 terrain = hills
 
 # History

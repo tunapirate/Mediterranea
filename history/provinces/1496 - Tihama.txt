@@ -14,7 +14,7 @@ b_harad = tribal
 
 # Misc
 culture = yemeni
-religion = jewish
+religion = sunni
 
 # History
 

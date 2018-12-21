@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 1349 - Zawiya
+
+# County Title
+title = c_zawiya
+
+# Settlements
+max_settlements = 5
+
+b_zawiya = tribal
+b_sabrata = tribal
+b_zuwara = tribal
+b_surman = tribal
+
+# Misc
+culture = zanata
+religion = african_rite
+
+# History
+
+1171.1.1 = { religion = sunni }

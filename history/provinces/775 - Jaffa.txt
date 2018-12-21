@@ -13,8 +13,8 @@ b_mirabel = tribal
 b_jaffa = tribal
 
 # Misc
-culture = ashkenazi
-religion = jewish
+culture = levantine_arabic
+religion = miaphysite
 
 # History
 

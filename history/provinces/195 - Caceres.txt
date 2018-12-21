@@ -13,7 +13,7 @@ b_talavera = tribal
 #b_oropesa = tribal
 
 # Misc
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

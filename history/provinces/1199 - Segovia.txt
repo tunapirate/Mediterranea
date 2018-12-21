@@ -14,7 +14,7 @@ b_segovia = tribal
 #b_cuellar = tribal
 
 # Misc
-culture = castillan
+culture = hispanic
 religion = hispanic_rite
 
 # History

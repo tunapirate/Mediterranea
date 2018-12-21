@@ -1,0 +1,20 @@
+# -*- ck2.history.provinces -*-
+
+# 196 - Calatrava
+
+# County Title
+title = c_calatrava
+
+# Settlements
+max_settlements = 4
+
+b_calatrava = tribal
+b_caracuel = tribal
+b_tomelloso = tribal
+#b_puertollano = tribal
+
+# Misc
+culture = hispanic
+religion = hellenic_pagan
+
+# History

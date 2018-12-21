@@ -22,7 +22,7 @@ b_honfleur = city
 
 # Misc
 culture = gallic
-religion = gallic_rite
+religion = saturnal
 
 # History
 911.1.1 = { # Viking takeover
