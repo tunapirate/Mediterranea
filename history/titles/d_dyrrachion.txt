@@ -1,5 +1,0 @@
-867.1.1={
-	holder = 543555
-	liege = "k_byzantium"
-	law = succ_primogeniture
-}

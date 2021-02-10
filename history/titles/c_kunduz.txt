@@ -1,4 +1,0 @@
-867.1.1={
-	holder = 524238
-	liege = "d_khitan_band"
-}

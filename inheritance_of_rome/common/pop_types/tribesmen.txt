@@ -1,0 +1,34 @@
+﻿tribesmen = {
+	outout_modifier = {
+		tax_income = 0.015
+		local_manpower = 0.003
+	}
+	count_modifier = {
+		pop_food_consumption = -0.2
+	}
+	
+	
+	tribal = yes
+	can_promote_to = freemen
+	demotes_to = slaves
+	conquest_demote_chance = 0
+	
+	base_happyness = 0.8
+	
+	color = hsv { 0.3 0.7 0.4 }
+	
+	# Activity Speeds
+	growing_pop = 0.0
+	convert = 0.4
+	assimilate = 0.6
+	promote = 1
+	demote = 1
+	migrant = 0.1
+
+
+	
+	modification_display = {
+		0 = value_manpower
+		1 = value_income
+	}
+}

@@ -1,0 +1,9 @@
+﻿l_english:
+ western_barbarian_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ western_barbarian_femalename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ elbe_northsea_barbarian_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ elbe_northsea_barbarian_femalename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ oder_vistula_barbarian_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ oder_vistula_barbarian_femalename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ danube_barbarian_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ danube_barbarian_femalename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"

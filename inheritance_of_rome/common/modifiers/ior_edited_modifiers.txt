@@ -1,0 +1,43 @@
+﻿# Multiplied by the current Tyranny value
+tyranny = {
+	monthly_general_loyalty = -0.005
+	monthly_admiral_loyalty = -0.005
+	monthly_governor_loyalty = -0.005
+	global_slaves_output = 0.01
+	happiness_for_same_culture_modifier = -0.005
+	happiness_for_wrong_culture_modifier = -0.005
+	price_imprison_cost_modifier = -0.01
+	price_execute_cost_modifier = -0.01
+	global_pop_assimilation_speed_modifier = 0.005
+}
+
+civilization_value = {
+	local_citizen_happyness = 0.01
+	local_freemen_happyness = 0.007
+	local_tribesmen_happyness = -0.005
+		
+	barbarian_growth = -0.005
+	local_population_capacity = 0.1
+	supply_limit_modifier = 0.02
+	local_migration_attraction = 0.1
+	
+	local_tribesmen_desired_pop_ratio = 0.006
+	local_slaves_desired_pop_ratio = -0.001
+	local_freemen_desired_pop_ratio = 0.002
+	local_citizen_desired_pop_ratio = 0.002
+}
+
+nation_rank_5 = {
+	diplomatic_relations = 5
+	global_capital_trade_routes = 2
+	diplomatic_range_modifier = 2.25
+	num_of_clan_chiefs = 3
+	change_governor_policy_cost_modifier = -0.3
+	monthly_general_loyalty = -0.02
+	monthly_admiral_loyalty = -0.02
+	monthly_governor_loyalty = -0.02
+	integrate_speed = 0.25
+	monthly_political_influence_modifier = 0.75
+	civil_war_threshold = -0.15
+	rebellion_threshold = -0.05
+}

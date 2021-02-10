@@ -1,0 +1,48 @@
+﻿plains_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.30
+	local_slaves_desired_pop_ratio = 0.10
+	local_freemen_desired_pop_ratio = 0.00
+	local_citizen_desired_pop_ratio = 0.00
+}
+mountain_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.70
+	local_slaves_desired_pop_ratio = 2.40
+	local_freemen_desired_pop_ratio = -0.20
+	local_citizen_desired_pop_ratio = -0.10
+}
+hills_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.30
+	local_slaves_desired_pop_ratio = 0.30
+	local_freemen_desired_pop_ratio = -0.10
+	local_citizen_desired_pop_ratio = -0.05
+}
+desert_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.00
+	local_slaves_desired_pop_ratio = 1.40
+	local_freemen_desired_pop_ratio = -0.20
+	local_citizen_desired_pop_ratio = -0.10
+}
+marsh_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.45
+	local_slaves_desired_pop_ratio = 0.30
+	local_freemen_desired_pop_ratio = -0.10
+	local_citizen_desired_pop_ratio = -0.05
+}
+jungle_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.70
+	local_slaves_desired_pop_ratio = 2.40
+	local_freemen_desired_pop_ratio = -0.20
+	local_citizen_desired_pop_ratio = -0.10
+}
+farmland_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.35
+	local_slaves_desired_pop_ratio = 0.00
+	local_freemen_desired_pop_ratio = -0.10
+	local_citizen_desired_pop_ratio = 0.00
+}
+forest_pop_ratio = {
+	local_tribesmen_desired_pop_ratio = 0.30
+	local_slaves_desired_pop_ratio = 0.30
+	local_freemen_desired_pop_ratio = -0.10
+	local_citizen_desired_pop_ratio = -0.05
+}

@@ -1,0 +1,39 @@
+﻿catholic = {
+	color = rgb { 88 24 69 }
+	global_citizen_happyness = 0.1
+}
+
+arian = {
+	color = rgb { 99 147 68 }
+	global_citizen_happyness = 0.1
+}
+
+monophysite = {
+	color = rgb { 147 68 123 }
+	global_citizen_happyness = 0.1
+}
+
+nestorian = {
+	color = rgb { 76 74 209 }
+	global_citizen_happyness = 0.1
+}
+
+donatist = {
+	color = rgb { 224 191 23 }
+	global_citizen_happyness = 0.1
+}
+
+pelagian = {
+	color = rgb { 72 81 119 }
+	global_citizen_happyness = 0.1
+}
+
+priscillian = {
+	color = rgb { 194 107 3 }
+	global_citizen_happyness = 0.1
+}
+
+samaritan = {
+	color = rgb { 194 107 3 }
+	global_citizen_happyness = 0.1
+}

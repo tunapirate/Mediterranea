@@ -1,5 +1,0 @@
-867.1.1={
-	holder = 543548
-	law = succ_primogeniture
-	law = law_voting_power_1
-}

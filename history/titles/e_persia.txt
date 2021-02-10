@@ -1,9 +1,0 @@
-867.1.1={
-	holder = 524230
-	law = tax_levy_law_feudal_2
-	law = succ_primogeniture
-	law = agnatic_succession
-	law = law_voting_power_1
-	law = war_voting_power_1
-	law = revoke_title_law_0
-}

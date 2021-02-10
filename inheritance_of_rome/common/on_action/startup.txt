@@ -1,0 +1,87 @@
+﻿on_game_initialized = {
+	events = {
+		#IOR Events
+		ior_startup.1
+		ior_startup.2
+	}
+
+	effect = {
+		every_province = {
+			limit = {
+				is_sea = no
+			}
+			if = {
+				limit = {
+					terrain = plains
+				}
+				add_permanent_province_modifier = {
+					name = "plains_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = mountain
+				}
+				add_permanent_province_modifier = {
+					name = "mountain_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = hills
+				}
+				add_permanent_province_modifier = {
+					name = "hills_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = desert
+				}
+				add_permanent_province_modifier = {
+					name = "desert_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = marsh
+				}
+				add_permanent_province_modifier = {
+					name = "marsh_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = jungle
+				}
+				add_permanent_province_modifier = {
+					name = "jungle_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = farmland
+				}
+				add_permanent_province_modifier = {
+					name = "farmland_pop_ratio"
+					duration = -1
+				}
+			}
+			else_if = {
+				limit = {
+					terrain = forest
+				}
+				add_permanent_province_modifier = {
+					name = "forest_pop_ratio"
+					duration = -1
+				}
+			}
+		}
+	}
+}

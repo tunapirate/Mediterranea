@@ -1,4 +1,0 @@
-867.1.1={
-	holder = 543507
-	liege = "d_trebizond"
-}

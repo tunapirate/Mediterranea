@@ -1,5 +1,0 @@
-867.1.1={
-	holder = 504005
-	liege = "k_africa"
-	law = succ_primogenitures
-}

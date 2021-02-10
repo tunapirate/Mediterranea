@@ -1,4 +1,0 @@
-867.1.1={
-	holder = 504209
-	liege = "k_numidia"
-}

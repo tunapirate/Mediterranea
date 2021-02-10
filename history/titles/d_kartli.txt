@@ -1,4 +1,0 @@
-867.1.1={
-	holder = 524114
-	set_tribute_suzerain = { who = e_byzantium percentage = 0.40 }
-}

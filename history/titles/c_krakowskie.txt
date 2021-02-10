@@ -1,4 +1,0 @@
-867.1.1={
-	holder = 564201
-	liege = "d_lesser_poland"
-}

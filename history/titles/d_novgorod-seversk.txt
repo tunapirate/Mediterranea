@@ -1,4 +1,0 @@
-867.1.1={
-	holder = 564001
-	law = succ_seniority
-}

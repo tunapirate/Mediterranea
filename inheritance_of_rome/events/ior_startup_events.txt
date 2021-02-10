@@ -1,0 +1,52 @@
+﻿namespace = ior_startup
+
+ior_startup.1 = { # Rome setup; war w/ Vandals, legitimacy
+	type = country_event
+	title = "ior_startup.1.t"
+	desc = "ior_startup.1.desc"
+	picture = successors
+
+	trigger = {
+		tag = WRE
+	}
+	
+	immediate = {
+		C:VAN = {
+			declare_war_with_wargoal = {
+				war_goal = conquer_wargoal
+				province = 86
+				target = WRE
+			}
+		}
+	}
+	
+	option = {
+		name = ior_startup.1.a
+	}
+}
+
+ior_startup.2 = { # Visigoths setups; truce w/ all subjects
+	type = country_event
+	title = "ior_startup.2.t"
+	desc = "ior_startup.2.desc"
+	picture = successors
+
+	trigger = {
+		tag = VIS
+	}
+	
+	immediate = {
+		C:VIS = {
+			every_subject = {
+				add_truce = {
+					target = VIS
+					duration = 3000
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = ior_startup.2.a
+	}
+}
