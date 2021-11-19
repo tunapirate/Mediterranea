@@ -1,4 +1,15 @@
 ﻿elbe_northsea_barbarian = {
+
+	primary = archers
+	second = chariots
+	flank = light_cavalry
+	
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	levy_template = levy_germanic
+
 	color = rgb { 191 91 27 }
 	male_names = {
 		Acthram Acthrauc Actmund Actobald Actogais Actogast Actoleik Actomar

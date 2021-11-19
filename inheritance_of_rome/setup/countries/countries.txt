@@ -216,3 +216,4 @@ WRE = "setup/countries/italia/western roman empire.txt"
 WRN = "setup/countries/germania/warni.txt"
 WSG = "setup/countries/germania/waissagawi.txt"
 WST = "setup/countries/thule/westergo.txt"
+

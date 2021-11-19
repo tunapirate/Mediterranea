@@ -1,4 +1,15 @@
 ﻿western_barbarian = {
+
+	levy_template = levy_italic
+	
+	primary = archers
+	second = heavy_infantry
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = hexere
+	flank_navy = liburnian
+
 	color = rgb { 74 84 33 }
 	male_names = {
 		Acthram Acthrauc Actmund Actobald Actogais Actogast Actoleik Actomar

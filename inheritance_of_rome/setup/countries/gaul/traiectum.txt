@@ -1,4 +1,4 @@
-color = rgb { 197 60 24 }
+color = rgb { 191 58 19 }
 
 ship_names = {
 	#
